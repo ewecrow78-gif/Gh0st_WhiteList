@@ -12,7 +12,7 @@ TGK_OUTPUT = root_path("configs/tgk/tgk_raw.txt")
 CHANNELS_FILE = root_path("tg_channels.txt")
 
 API_ID = int(os.getenv("TG_API_ID"))
-API_HASH = os.getenv("TG_API_HASH"))
+API_HASH = os.getenv("TG_API_HASH")
 SESSION_STR = os.getenv("TG_SESSION") # Теперь это просто строка сессии
 
 def load_channels():
