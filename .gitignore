@@ -1,0 +1,4 @@
+*.session
+session.txt
+scripts/session/
+scripts/.session/
