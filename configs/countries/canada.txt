@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 24
 
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -19,3 +19,13 @@ vless://073b1e02-85ad-4e11-80e1-414e7c6f9d8a@104.27.202.236:443?path=Telegramjoi
 vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://eace2c79-3d2a-4a45-9b4c-42c037dea807@metrix.anvary.ir:443?encryption=none&security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://f101b640-389e-4067-baa8-f254114f09cd@v2cuvs.ddns.net:2096?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mci-tci-germany.netguardians.xyz&fp=chrome&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@witzendcomputing.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@5.129.255.160:4331?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.digitalcommerce360.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.panel.com:2053?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&fp=randomized&type=ws&host=qyi.fqjd663.ggff.net&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.ftc.net:2053?encryption=none&security=tls&sni=qyi.fqjd663.ggff.net&fp=randomized&type=ws&host=qyi.fqjd663.ggff.net&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.186.244.217:81?fp=random&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng&security=tls&sni=snippet.fgfw.ye.gs&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@85.208.104.34:8080?encryption=none&security=tls&sni=snippet.danfeng.com.cfd&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.com.cfd&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@112.219.110.147:12100?allowInsecure=0&sni=snippet.danfeng.theworkpc.com&type=ws&host=snippet.danfeng.theworkpc.com&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@89.58.34.230:2012?fp=random&headerType=none&host=snippet.danfeng.eu.org&path=/danfeng&security=tls&sni=snippet.danfeng.eu.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.137.64.10:8443?fp=random&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng&security=tls&sni=snippet.fgfw.ye.gs&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
