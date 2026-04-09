@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 20
+# Всего рабочих: 19
 
 vless://04201239-67df-43d7-be39-6e860f3c30a9@96.62.214.87:29745?type=tcp&security=reality&encryption=none&fp=chrome&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://kWXK=BbnXCtAgij8B5zS=IfHictfwQkQQp@198.13.62.29:18641?sni=nrt2.superhubapp.click#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@206.190.235.108:443/?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://a2299480-c2b4-40e4-836a-3693c2ced4c4@217.60.25.66:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=pl01.kubservice.icu#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

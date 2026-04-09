@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 77
+# Всего рабочих: 78
 
 vless://1bc8a2e7-4c5d-4376-a24b-b877997fd997@193.25.216.76:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4&sni=www.google.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.73.22:10965?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af&sni=deepl.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -13,6 +13,7 @@ vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.58:10965?type=tcp&securi
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443?type=tcp&security=tls&encryption=none&sni=secdn12.melodramaonline.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@91.223.169.88:8443?#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://3dfe4106-7491-4f61-874c-fc5ea8dae6bb@91.186.216.80:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=c4a1e83b6f27d590&sni=www.amd.com&path=/api/v2/sync&mode=auto&extra=%7B%22mode%22%3A%22stream-one%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2296-192%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scStreamUpServerSecs%22%3A%2220-40%22%7D#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.75.139:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K0J7MeoQdkINpubvpI7F0sqfx3TYonr35gCj3xlxRnw&sid=c34685e6&sni=tunnel.vk-apps.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.143.154:443?type=ws&security=tls&encryption=none&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@77.110.96.166:8443?#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
