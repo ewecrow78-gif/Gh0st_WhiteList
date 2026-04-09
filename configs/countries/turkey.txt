@@ -5,8 +5,8 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 5
 
-vless://8df8d701-38b4-5175-89ef-7447a1250e67@5.180.45.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&sid=a26c&sni=www.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://66143a11-6e84-466e-9b83-5cfebfd2aea8@82.26.94.193:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Qk4CqeROBNOLujmefdp-SbW9eTfDr6BCN3Bo04IzbDI&sid=a26f9030ae&sni=www.nvidia.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://8df8d701-38b4-5175-89ef-7447a1250e67@5.180.45.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&sid=a26c&sni=www.google.com&spx=/dBBhjNjzUgg6m8w#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://7c93a50f-041f-4a13-93f5-8ea63f85165f@78.135.110.218:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TPrVYD7hd5o-ECTNbYPXur4BwmEYJlIwDPc2hOmLt10&sid=25808bbac83eb65f&sni=tr.pixrate.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://66143a11-6e84-466e-9b83-5cfebfd2aea8@82.26.94.193:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Qk4CqeROBNOLujmefdp-SbW9eTfDr6BCN3Bo04IzbDI&sid=a26f9030ae&sni=www.nvidia.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
