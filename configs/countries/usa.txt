@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 123
+# Всего рабочих: 122
 
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6cf0c895-92b1-478b-9c8b-91dfcabd96d5@mybrojust.lostgumball.com:25187?type=tcp&security=reality&pbk=-ELCnz_QMbyZpu0btESnj7xHvlMofkSBKTro8SWcAzQ&fp=random&sni=vk.com&sid=da55133f66&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -96,7 +96,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?type=ws&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.135.4.222:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://026f3289-2fca-11f1-8c84-dcb6e8e27879@us3.zoomersky.online:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=gJpm68zs-qkhnEyj1DNog0ulAb45nyGGgnoIWxMijCY&sni=yahoo.com&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.106.155.178:802?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@141.148.153.223:36818?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=%2Fshop%2Fnovels%2Fmobile&security=tls&sni=edt2.btxst.eu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c0e78686-c274-49dd-9536-23b10b90ac25@5.161.157.204:7728?security=reality&amp;encryption=none&amp;pbk=1Ae5mLdvRb1GUUmv_L-vL_M5Fz3MPsUC0P4On0lLOxE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=colorlib.com&amp;sid=113195cd7e4808d0#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?encryption=none&amp;security=none&amp;type=ws&amp;host=pizzabama.global.ssl.fastly.net&amp;path=/containers/fi#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://hSA6YXe15O@104.11.86.252:443?security=tls&amp;sni=Telegram������������+@WangCai2&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList

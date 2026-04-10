@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 572
+# Всего рабочих: 573
 
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1xk7re.by-api-yandex.com:10121?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&security=reality&sid=9c2a7d4e5f18b6a3&sni=apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://443fd8ea-3cfd-4286-a4e2-91276e41fe51@45.148.117.94:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=yZh74kxd_k5PvamyrFDIS_rYRLUhy5xpc4v1lU_Gdk0&sni=yandex.ru&sid=f085548164eba3de#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@fi.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kAggPoqebFBG_zaPq4YqPzE8ay36h7Sdj5aoicm3UDk&sid=8477baa38d858a96&sni=finland.cdn.cis-game.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -33,6 +32,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?type=ws&security
 vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@kz.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zfDOQ84L-j8V2IHnce6h6eevbNCYxlbVCiiqlLIqQHg&sid=ce07be015235619e&sni=kazahstan.cdn.cis-game.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://43588bac-2301-461e-8947-6b73ffbd39bf@87.120.165.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=39a1eb3ec417cd66&sni=api-maps.yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@youtube.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gJOk_g6nBZ1SUdQyQpXLMPcrKN74zRJjjbsP_J2BzAI&sid=1b98fd4134c35bec&sni=albania.cdn.cis-game.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://abd7696f-ac58-42fd-823f-05ff29e22547@159.195.69.251:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&sni=fastsync.xyz&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@172.86.94.48:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.147:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -122,8 +122,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.151.40.21:2053?type=ws&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.14:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.14.56:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3dfe4106-7491-4f61-874c-fc5ea8dae6bb@77.110.101.181:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=4JX3sznUkBsL3T4rl3yEFWj9Cw4Sgw5KYbJVxZ9K9hY&sid=bf50060bc13ff507&sni=www.amd.com&path=/api/v2/sync&mode=auto&extra=%7B%22mode%22%3A%22stream-one%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2296-192%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scStreamUpServerSecs%22%3A%2220-40%22%7D#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?allowInsecure=1&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.58.102.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@18.193.18.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@51.102.234.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -377,6 +377,7 @@ vless://84ac6559-30a8-4c3e-bbcb-894edd4de743@traxex.fonixapp.org:39352?security=
 vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?path=JOIN-FILTERK0SH/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=ios-azadnet.pages.dev&amp;type=ws&amp;sni=ios-azadnet.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://85b91d4b-38d2-49e9-b405-e7ca373003e1@185.143.234.122:80?security=none&amp;type=ws&amp;headerType=&amp;path=/&amp;host=ir2de.lowping4.ir#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://85b91d4b-38d2-49e9-b405-e7ca373003e1@snapp.ir:80?security=none&amp;type=ws&amp;headerType=&amp;path=/&amp;host=ir2de.lowping4.ir#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=/5fz4m1ggihzpkyya?ed=2560&amp;security=tls&amp;encryption=none&amp;host=VFIvE-teLeGram.PAGEs.Dev&amp;type=ws&amp;sni=VFIvE-teLeGram.PAGEs.Dev#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://866b2dee-6903-4aee-aaa0-f84462a3599b@arv1.iranman.shop:2044?security=none&amp;encryption=none&amp;host=bwm.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://88c30a4c-bc85-42d5-a5ac-38252612fd0e@broodmother.fonixapp.org:36827?security=reality&amp;encryption=none&amp;pbk=n3DJmBTvXThSytT0NeVD64myEx7cniyCvI1T2yzZ8nc&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=lowes.com&amp;sid=95#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
