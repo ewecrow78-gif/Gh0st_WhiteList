@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 23
+# Всего рабочих: 22
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -24,7 +24,6 @@ ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@188.239.21.47:8443/
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@47.237.71.245:15430/?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80?path=/?ed=2048&security=&encryption=none&host=mute-violet-c674.poviy66273.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@unpkg.com:443?&security=tls&fp=chrome&sni=qt2cte0z61.gfw.hidns.co&type=ws&headerType=none&host=qt2cte0z61.gfw.hidns.co&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://5238a315-4427-4915-a1de-4978e3029a1c@www.speedtest.net:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.153:443?allowInsecure=1&encryption=none&host=do88.cmddo.ggff.net&path=%2F&security=tls&sni=do88.cmddo.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@xinjiapo1.zqjsqapi.com:443?encryption=none&security=tls&sni=xinjiapo1.zqjsqapi.com&type=ws&host=xinjiapo1.zqjsqapi.com&path=%2Fproxy#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
