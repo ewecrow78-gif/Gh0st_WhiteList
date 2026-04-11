@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 20
+# Всего рабочих: 19
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -24,4 +24,3 @@ ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@188.239.21.47:8443/
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@47.237.71.245:15430/?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?allowInsecure=1&encryption=none&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

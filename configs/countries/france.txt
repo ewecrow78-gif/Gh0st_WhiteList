@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 123
+# Всего рабочих: 124
 
 vless://3dfe4106-7491-4f61-874c-fc5ea8dae6bb@205.237.104.21:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=uYlJKmVHsSuCk-T9Y4CpqyR2LIP9etRZkRmDEt8-fUs&sid=6586ca7468d16620&sni=www.amd.com&path=/api/v2/sync&mode=auto&extra=%7B%22mode%22%3A%22stream-one%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2296-192%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scStreamUpServerSecs%22%3A%2220-40%22%7D#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.37.51.238:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -104,6 +104,7 @@ vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&t
 vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@maxa08.azmoonf.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?security=tls&sni=nxginix.pages.dev&type=splithttp&host=nxginix.pages.dev&path=%2Feaglexw&fp=random&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://600eb54d-d31a-4c57-b438-d1e486e8fcd7@146.70.88.7:48736?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.92:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://7451eb8a-9f02-412d-812a-eae123f225c7@81.19.137.214:18717/?type=grpc&encryption=none&serviceName=Boobies&sni=www.bahmanbroker.com&fp=chrome&security=reality&pbk=y6MeJ8DkPH55XwH3LXA72wiG6c6dt2zZmmZ6Qrk232o&sid=5dc6f469#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://7a1e857c-6685-4c53-8497-5f34a2d3b666@57.128.174.124:2003?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&serviceName=cdn-cgi&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.84:443?security=tls&sni=gcore.com&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
