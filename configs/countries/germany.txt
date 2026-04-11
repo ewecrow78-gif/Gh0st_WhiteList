@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 549
+# Всего рабочих: 548
 
 vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&security=reality&sid=9ff26c38f9b488&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://443fd8ea-3cfd-4286-a4e2-91276e41fe51@45.148.117.94:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=yZh74kxd_k5PvamyrFDIS_rYRLUhy5xpc4v1lU_Gdk0&sni=yandex.ru&sid=f085548164eba3de#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.245.108.104:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0bbe589a-620e-47b9-a615-60bda9903f31@109.237.97.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AB6wH4gz73w4F0Fdt8RlJTiNWY9BJKn9NOUwPQPVjg4&sni=www.google.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -91,6 +90,7 @@ trojan://telegram-id-privatevpns@18.193.18.163:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.102.234.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.157.169.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@18.156.124.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@63.183.254.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&amp;security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kkiihh-iran-abc-iran-1993.kinghooman.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e076e2c6-bb55-4830-a514-d89f60f550d8@voip.khakshouri.ir:56734?security=reality&amp;encryption=none&amp;pbk=RO_4G0ajxySXJ2CcWXVZ6vFhYWw7Jt3uF829syN6_X4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;sni=www.pinterest.com&amp;sid=2e#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://5bdb5652-1855-4d5e-8231-c6a0f446f5a9@193.151.137.72:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=discordapp.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -434,7 +434,6 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.250:443?path=/?ed=2048&am
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.77:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=always-online1.lp-airdrop.top&amp;type=ws&amp;sni=always-online1.lp-airdrop.top#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://b75f870d-4538-4412-85bf-aa7010542460@x1.govermentco.space:443?path=%40v2rayng14&security=tls&encryption=none&host=bilip.govermentco.space&type=ws&sni=bilip.govermentco.space#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://b8af9571-a244-4e12-cc6d-57efc432b924@iranbaxvpn.v2rayn.com:2053?encryption=none&amp;security=reality&amp;sni=iranbax.kodular.io&amp;fp=chrome&amp;pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&amp;sid=9ff0c049e20b&amp;spx=/&amp;type=grpc&amp;serviceName=@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn&amp;mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?encryption=none&type=ws&host=misty-tooth-78ca.fobogah414-e7b.workers.dev&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://b8f5ba57-4439-4fe0-b3bd-47f398b3869a@49.12.193.246:443?mode=gun%3Bsecurity%3Dreality%3Bencryption%3Dnone%3Bpbk%3DJkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ%3Bfp%3Dchrome%3Bspx%3D%2F%3Btype%3Dgrpc%3BserviceName%3D%40VPNCUSTOMIZE%3Bsni%3Dwww.iranserver.com%3Bsid%3D9a6deee9#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ba03a8fc-ac5a-4f80-b480-0effdeb6af7c@zeusolympus.fonixapp.org:20558?security=reality&amp;encryption=none&amp;pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=canva.com&amp;sid=03e60665#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://bd26c0c3-5eb9-425e-a4b6-2660df94e613@neo1-3zc.pages.dev:443?encryption=none&type=ws&host=nEO1-3zC.pAGes.DeV&path=%2F&security=tls&sni=nEO1-3zC.pAGes.DeV#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList

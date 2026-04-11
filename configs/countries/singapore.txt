@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 17
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.151.227.203:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.156.181.203:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -19,3 +19,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48802?#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48801?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWQ3MThmY2IyYmIxN2I3@154.26.132.38:27883?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.27:443?allowInsecure=1&encryption=none&host=do88.cmddo.ggff.net&path=%2F&security=tls&sni=do88.cmddo.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?allowInsecure=1&encryption=none&host=do88.cmddo.ggff.net&path=%2F&security=tls&sni=do88.cmddo.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
