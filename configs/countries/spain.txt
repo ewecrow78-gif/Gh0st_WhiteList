@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 10
 
 trojan://trojan@109.234.211.66:2087/?type=tcp&security=tls&sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=/#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -14,3 +14,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?security=tls&sni
 vless://727858db-4c63-258e-dbf8-0135c875533e@bestguy6.online:443?path=/dazkws&amp;security=tls&amp;encryption=none&amp;host=bestguy6.online&amp;type=ws&amp;sni=bestguy6.online#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@176.97.72.18:443?security=tls&sni=ld.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://b7b66581-6a5b-4935-a799-ab0ea327d4ca@sp.torboshop1.top:2053?path=/&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sni=yahoo.com&sid=e08a28#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
