@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 567
+# Всего рабочих: 569
 
 vless://443fd8ea-3cfd-4286-a4e2-91276e41fe51@45.148.117.94:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=yZh74kxd_k5PvamyrFDIS_rYRLUhy5xpc4v1lU_Gdk0&sni=yandex.ru&sid=f085548164eba3de#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -74,6 +74,7 @@ vless://a1afced8-420b-430d-b25a-08db1c3332da@144.31.238.232:443?type=tcp&securit
 vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@kz.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zfDOQ84L-j8V2IHnce6h6eevbNCYxlbVCiiqlLIqQHg&sid=ce07be015235619e&sni=kazahstan.cdn.cis-game.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@81.19.141.96:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@89.169.6.69:443?#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.67:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@78.40.216.169:443?#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -125,7 +126,7 @@ vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@france.node.cis-game.com:443?type=t
 vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@s3.de.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=RwAAc-Gj-fHZS1W0bBZgbCFFpE3sMqAqyxcp0HzlNls&sid=d04bb53cef055294&sni=s3.de.cis-game.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://55fc1ef6-f7f0-4668-8cbe-3ddf51f10308@at.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NwWrhdlsKqX4HiaS9sfGU5hD0rUkC-y4krqhVnJX51Q&sid=048ad67fb20b51c5&sni=austria.cdn.cis-game.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f374a660-2dc5-11f1-9ec5-baabcd4be2cd@104.194.158.108:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@63.180.162.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.76.25.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.58.102.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -234,6 +235,7 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@104.16.80.144:2083?path=/&security=
 vless://3b88b30b-6586-412b-a4a5-a8c2aa53f66f@[2a01:4f8:1c1b:1891::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3c5f1408-32e5-46f4-be92-52f1ad58a490@172.105.70.177:48037?security=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3c95c3eb-522a-46a0-a49a-14e10c03fbf8@172.67.180.15:443?path=/TelegramPROXY_MTM/?ed=2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=PaHLAvi.pAGes.DEV&amp;fp=randomized&amp;type=ws&amp;sni=paHlAvi.pAGEs.DeV#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&encryption=none&security=tls&serviceName=grpc&sni=nice.ducks.tel&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3dc563c6-632c-d07e-cb85-c4fffb510fb5@tunn.vpsino.com:2087?security=none&amp;type=tcp&amp;headerType=none&amp;path=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3e06f94f-c224-480c-962f-1d7d4615c15c@chatgpt.com:2082?mode=auto&amp;path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net?ed=27226&amp;security=none&amp;encryption=none&amp;host=iiu-172525262726262-jsvssgshshs.maxgh5766.ir.&amp;type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/45.76.183.217=49292&amp;security=tls&amp;encryption=none&amp;host=hetz.x-smm.com&amp;type=ws&amp;sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
