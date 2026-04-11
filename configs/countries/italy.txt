@@ -3,9 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 11
 
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.4:7443?&security=tls&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.4%3A7443#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.35:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.35:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.32:7443?&security=tls&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.32%3A7443#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=dash.cloudflare.com&amp;sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
