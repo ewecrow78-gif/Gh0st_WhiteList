@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 20
+# Всего рабочих: 18
 
 trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://kWXK=BbnXCtAgij8B5zS=IfHictfwQkQQp@198.13.62.29:18641?sni=nrt2.superhubapp.click#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -22,6 +22,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@132.145.127.203:2053?type=ws&securi
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.95.94.250:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.132.38:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.104.30:443?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.174.229:443?encryption=none&security=tls&sni=dongjing1.zqjsqapi.com&type=ws&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
