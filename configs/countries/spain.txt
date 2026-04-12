@@ -6,10 +6,10 @@
 # Всего рабочих: 11
 
 vless://fb9d7f81-0520-48e1-b7be-e5678ccf1b92@185.231.204.21:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=S49a5-vW8qiWXvd7uaYkd2Y-dPRIYw91KO3urkfk-U0&sni=api-maps.yandex.ru&sid=fedcba9876543210#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp/1.1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://trojan@109.234.211.66:2087?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=/#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:2087?sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2aa2dba0-e0f7-4ab5-9c92-edadf9ce524c@141.227.128.192:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?security=tls&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=%2F%3Fed%3D2048#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://727858db-4c63-258e-dbf8-0135c875533e@bestguy6.online:443?path=/dazkws&amp;security=tls&amp;encryption=none&amp;host=bestguy6.online&amp;type=ws&amp;sni=bestguy6.online#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
