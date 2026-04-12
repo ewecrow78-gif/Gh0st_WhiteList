@@ -5,19 +5,19 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 16
 
-trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://04201239-67df-43d7-be39-6e860f3c30a9@96.62.214.87:29745?type=tcp&security=reality&encryption=none&fp=chrome&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?type=raw&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@132.145.127.203:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.152.6:2919?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.132.38:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.104.30:443?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://04201239-67df-43d7-be39-6e860f3c30a9@96.62.214.87:29745?type=tcp&security=reality&encryption=none&fp=chrome&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&type=tcp&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.95.94.250:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing2.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing2.zqjsqapi.com&type=ws&host=dongjing2.zqjsqapi.com&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.132.38:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@132.145.127.203:2053?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.152.6:2919?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.174.229:443?encryption=none&security=tls&sni=dongjing1.zqjsqapi.com&type=ws&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
