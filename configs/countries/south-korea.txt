@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&sni=1-aym.pages.dev&host=1-aym.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.123.253.225:4333?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://63c8ce32-f4ba-5929-bd8d-47b92ac9766b@182.219.37.102:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef&sni=www.asus.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
