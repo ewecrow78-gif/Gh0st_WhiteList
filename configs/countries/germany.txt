@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 551
+# Всего рабочих: 550
 
 vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&security=reality&sid=9ff26c38f9b488&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -96,9 +96,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?type=ws&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.67:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.59:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.147:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.121.58.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@63.183.254.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.75.144.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -408,6 +406,7 @@ vless://Telegram-NUFiLTER@www.parsvds.ir:80?path=/telegram-NUFiLTER,telegram-NUF
 vless://V2rayvpn_official@104.25.3.148:80?path=/?ed=80&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.perspolice.ir.mozdfree.buzz.bia2bax.ShoP.&amp;type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://X4Azadi-DE@lol.ps:8880?path=X4azadi?ed=2048&amp;security=none&amp;encryption=none&amp;host=iran.X4Azadi.com&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@y6-3cj.pages.dev:443?encryption=none&type=ws&host=y6-3cj.PAgES.DEV&path=%2F&security=tls&sni=y6-3cj.PAgES.DEV#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://a02f6161-ed4a-4b27-afa8-d2cbf34d69b4@213.165.39.93:44217?encryption=none&type=raw&headerType=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.61.170.78:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@80.158.63.104:443?security=tls&sni=ly.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=zhaket.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
