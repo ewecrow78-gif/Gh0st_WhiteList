@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 75
+# Всего рабочих: 74
 
 vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@89.125.37.118:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.67:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3&sni=apple.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -67,7 +67,6 @@ vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@13.48.31.204:8443?security=reality&
 vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@13.50.111.188:8443?security=reality&encryption=none&pbk=UGHN8rSIsIe7XF-Y9dTjAtokwr6fVYQdlHMH9nhdV1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ddragon.leagueoflegends.com&sid=a0#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@13.51.250.4:8443?security=reality&encryption=none&pbk=t9vRFVXQqSWQpKUdb02SCnAtfnnCzR-aCTFeSF3WfnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ddragon.leagueoflegends.com&sid=a0#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@16.16.241.41:8443?security=reality&encryption=none&pbk=hq68jwQZ4v4Qgbtc_A2rDSgj4g2DoZZzFrhwrMzY_jg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ddragon.leagueoflegends.com&sid=a0#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@us1.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@13.53.117.221:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@13.53.165.65:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@13.53.51.77:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
