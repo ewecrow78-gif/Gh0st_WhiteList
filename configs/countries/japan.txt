@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 33
 
 trojan://mhexlNpBSC@149.28.21.106:443?alpn=http/1.1&host=us1.wxgqlfx.vip&path=/TG%40wxgqlfx&sni=us1.wxgqlfx.vip&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -36,6 +36,5 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@210.156.180.102:16090?type=ws&secur
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?type=ws&security=tls&encryption=none&sni=2-1ng.pages.dev&host=2-1ng.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?type=ws&security=tls&encryption=none&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://mhexlNpBSC@45.77.9.114:443?alpn=http/1.1&host=us1.wxgqlfx.vip&path=/TG%40wxgqlfx&sni=us1.wxgqlfx.vip&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.44.235:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4380?allowInsecure=1&sni=eh.vk.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
