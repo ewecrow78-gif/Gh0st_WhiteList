@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 55
+# Всего рабочих: 56
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@13.192.113.15:443?type=ws&security=tls&encryption=none&sni=3-7bf.pages.dev&host=3-7bf.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -55,6 +55,7 @@ trojan://mhexlNpBSC@138.2.18.82:8880?alpn=http/1.1&host=us1.wxgqlfx.vip&path=/TG
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.245.33.1:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=evt.ilovepdf.com&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.216.13.186:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=cdn77.api.userway.org&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://mhexlNpBSC@45.77.9.114:443?alpn=http/1.1&host=us1.wxgqlfx.vip&path=/TG%40wxgqlfx&sni=us1.wxgqlfx.vip&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@52.194.222.108:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4380?allowInsecure=1&sni=eh.vk.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&security=reality&sid=c906f73d3ba8211f&sni=www.muji.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
