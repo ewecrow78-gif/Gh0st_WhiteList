@@ -66,7 +66,7 @@ def rename_config(config_url, index):
 async def fetch_from_channel(client, channel):
     configs = []
     try:
-        async for msg in client.iter_messages(channel, limit=1200):
+        async for msg in client.iter_messages(channel, limit=3000):
             if not msg or not msg.message:
                 continue
             text = msg.message.strip()
