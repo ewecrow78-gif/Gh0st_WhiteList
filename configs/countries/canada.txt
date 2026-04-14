@@ -3,11 +3,51 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 48
 
+vless://a6804343-1318-41e9-c76d-bb75b61e0347@99.199.73.53:18716?type=tcp&security=none&encryption=none&host=www.speedtest.net&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://741f2cb6-4d5b-4fd7-830a-d731c9e1e859@104.31.16.65:443?type=ws&security=tls&encryption=none&sni=uciranirskiaromadarjendeh.bitokaw551.workers.dev&host=uciranirskiaromadarjendeh.bitokaw551.workers.dev&ed=443&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?type=ws&security=tls&encryption=none&sni=lmn39.sbs&host=lmn39.sbs#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://8001fbf7-4b59-4415-a4bd-8bfded02c9c6@69.28.82.253:443?sni=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?type=ws&security=tls&encryption=none&sni=loolu.tech&host=loolu.tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://660dfa6c-d94a-4df1-8910-c5df386355d1@104.31.16.104:80?type=ws&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://d80aab36-d8da-460b-f826-9929981a57b8@99.199.73.53:20920?type=tcp&security=none&encryption=none&host=www.speedtest.net&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.215.178:22222?type=ws&security=tls&encryption=none&sni=telegram-channel-vlessconfig.sohala.uk&host=telegram-channel-vlessconfig.sohala.uk#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?type=ws&security=tls&encryption=none&sni=ir.akcovufun.ir&host=ir.akcovufun.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.202:2053?type=ws&security=tls&encryption=none&sni=BPb-V.Pages.DEv&host=Bpb-v.pAgeS.DEV&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://65aba5d9-bf3d-4ee3-cdbc-d3854d580263@99.199.73.53:23877?type=tcp&security=none&encryption=none&host=www.speedtest.net&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?type=grpc&security=tls&encryption=none&sni=pqh23v4.hiddendom.shop&alpn=h3%2Ch2%2Chttp/1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@23.227.60.63:8880?type=ws&security=none&encryption=none&host=sg.laoyoutiao.link#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?type=ws&security=tls&encryption=none&fp=chrome&sni=sport-shop-online-02.cyberscaler.com&host=sport-shop-online-02.cyberscaler.com&alpn=h2%2Chttp/1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.31.16.213:8880?type=ws&security=none&encryption=none&host=sinadfa.dugjup.workers.dev&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?type=ws&security=tls&encryption=none&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e6aacb88-39e7-4c11-969a-111d343c3e71@104.31.16.185:8080?type=ws&security=none&encryption=none&host=vwvwvwvwvwvwvwvwv.it.irvwvwvwvwwwvwvwvwvwvwvwvwvwv.vvwvw.ataribaran.ir&ed=8080&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?type=ws&security=none&encryption=none&host=43.%E7%94%B7%E5%AD%90%E8%B6%B3%E5%AD%90%E8%B6%B3%E7%90%833.tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://281a5a7c-6530-4cd6-b0f2-a2666e6c3b36@104.31.16.65:2096?type=tcp&security=none&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@3.96.217.9:22222?sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.250:443?type=ws&security=tls&encryption=none&fp=chrome&sni=always-online1.lp-airdrop.top&host=always-online1.lp-airdrop.top&alpn=h2%2Chttp/1.1&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&security=none&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@92.53.190.247:8880?type=ws&security=none&encryption=none&host=ex.sue.x10.mx#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://p5T9x5WrfZ@99.199.73.53:46780?headerType=http&host=sourceforge.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://8058f619-5305-4c4c-b764-509685f68c91@99.199.73.53:18616?type=tcp&security=none&encryption=none&host=www.speedtest.net&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.77:443?type=ws&security=tls&encryption=none&sni=always-online1.lp-airdrop.top&host=always-online1.lp-airdrop.top&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.31.16.58:443?type=ws&security=tls&encryption=none&sni=w1.sylar8.eu.org&host=w1.sylar8.eu.org&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d&sni=www.yahoo.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@99.79.125.99:22222?alpn=http/1.1&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@15.157.136.231:22222?alpn=http/1.1&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.182.19:22222?type=ws&security=tls&encryption=none&sni=telegram-channel-vlessconfig.sohala.uk&host=telegram-channel-vlessconfig.sohala.uk#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.133:443?type=ws&security=tls&encryption=none&sni=always-online1.lp-airdrop.top&host=always-online1.lp-airdrop.top&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://92473ade-0166-49fc-dfd3-44a65e8346e2@99.199.73.53:6464?type=tcp&security=none&encryption=none&host=www.speedtest.net&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://1VPOgXGwK7@99.199.73.28:2089?headerType=http&host=sourceforge.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e9aa1485-0b34-42de-bbd0-4012f91f77c6@99.199.73.28:23527?type=tcp&security=none&encryption=none&host=www.speedtest.net&headerType=http#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://d6fef375-9809-5556-9687-dc0a4ccd521f@104.31.16.65:2087?type=ws&security=tls&encryption=none&fp=firefox&sni=tm.uploaderrr.cfd&host=tm.uploaderrr.cfd&alpn=h2%2Chttp/1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@23.227.60.247:8880?type=ws&security=none&encryption=none&host=ex.sue.x10.mx#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?&security=tls&fp=chrome&sni=sp18nyrj9.chinav.indevs.in&type=ws&headerType=none&host=sp18nyrj9.chinav.indevs.in&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443?allowInsecure=1&sni=download2hkt.windowsupdate.lol#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.33:443?allowInsecure=1&fp=chrome&path=/%252Fimages&sni=z9mifq7ujufk56im.jptimecsgo.xyz&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://---Telegram-Parsashonam--4-@Speed.Tel-Parsashonam.Website:2087?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=Finland.Parsashonam.Tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://073b1e02-85ad-4e11-80e1-414e7c6f9d8a@104.27.202.236:443?path=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&security=tls&encryption=none&host=kyukygkugyyugygi.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome&type=ws&sni=kyukygkugyyugygi.mic-mokhaderat-shatel-irancel-digikala.shop#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
