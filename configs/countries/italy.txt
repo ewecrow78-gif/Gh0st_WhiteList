@@ -5,14 +5,14 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 14
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.72.40:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.34.63:8880?type=ws&security=none&encryption=none&host=jp.laoyoutiao.link&eh=Sec-WebSocket-Protocol#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.182.34.247:8880?type=ws&security=none&encryption=none&host=ex.sue.x10.mx#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sni=gmail.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.34.63:8880?type=ws&security=none&encryption=none&host=jp.laoyoutiao.link&eh=Sec-WebSocket-Protocol#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.23.72.40:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@95.110.210.161:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=BX0Y46bstmUjnwvT8lPyy4ECQXMDF54LnGd5C7IA9EM&sid=0c1553316a645758&sni=www.booking.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://c05bb475-64d2-447b-92c0-143aa6b71d1c@5.253.43.181:443?allowInsecure=1&type=ws&security=tls&encryption=none&fp=chrome&sni=zula.ir#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sni=gmail.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://88ce0e00-3483-4628-acf2-6137629b9d44@5.253.43.181:443?allowInsecure=1&type=ws&security=tls&encryption=none&fp=chrome&sni=zula.ir#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=dash.cloudflare.com&amp;sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
