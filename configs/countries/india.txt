@@ -3,11 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 9
 
-vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.9:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ayDAwZS07Qm2iqapzhGWxg_mcNUK-FN20bXAVuq27Vc&sid=9755851b&sni=ads.x5.ru#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+trojan://M7v%25w11Se%2A@34.131.228.210:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.9:9443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=ayDAwZS07Qm2iqapzhGWxg_mcNUK-FN20bXAVuq27Vc&sid=9755851b&sni=ads.x5.ru&path=/grpc&mode=stream-up#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.235.105.146:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.9:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ayDAwZS07Qm2iqapzhGWxg_mcNUK-FN20bXAVuq27Vc&sid=9755851b&sni=ads.x5.ru#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls&fp=chrome&sni=pq-India1.09vpn.com#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.195.137.107:22473?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
