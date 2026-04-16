@@ -3,14 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 6
 
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?type=ws&security=tls&encryption=none&fp=chrome&sni=crolindd.dearcarlotta.cloudns.org&host=crolindd.dearcarlotta.cloudns.org&alpn=http/1.1#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?type=ws&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.78.255:80?type=ws&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.79.9:80?type=ws&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?type=ws&security=none&encryption=none&host=jp.laoyoutiao.link#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?type=grpc&security=reality&encryption=none&fp=&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&sid=cf5415b64e15&sni=www.telewebion.ir&mode=multi&serviceName=mci.ir#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?type=ws&security=tls&encryption=none&fp=random&sni=crolindd.dearcarlotta.cloudns.org&host=crolindd.dearcarlotta.cloudns.org&alpn=http/1.1#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.82.245.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.194.53.81:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f0808f54-7668-4f35-a36f-f425b30c6149@br-m247-01.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&fp=chrome&sid=57f5917841a2178f#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@shenbaoluo1.zqjsqapi.com:443?type=ws&encryption=none&host=shenbaoluo1.zqjsqapi.com&path=/proxy&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=shenbaoluo1.zqjsqapi.com#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
