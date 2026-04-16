@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 23
+# Всего рабочих: 22
 
 trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&security=tls&sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://403c7e4e-4905-40c6-b8e6-f352839535d3@velsanto.online:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&sni=rbc.ru#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@138.124.181.148:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=MmqGNxYluP8Eb6dcGxA5khRg-PeU_4ZItn4T0-Ip6TA&sid=586b316c&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp/1.1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
