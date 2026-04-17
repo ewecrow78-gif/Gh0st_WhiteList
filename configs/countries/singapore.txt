@@ -3,21 +3,26 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 23
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.77.114.70:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&sni=www.node-resource.click&fp=chrome&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&encryption=none&sni=3-93f.pages.dev&host=3-93f.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://63c8ce32-f4ba-5929-bd8d-47b92ac9766b@149.28.151.140:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef&sni=www.asus.com#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://42add63b-deda-4e71-aa48-ddd288181858@8.219.69.28:18658?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.151.227.203:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&encryption=none&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@8.219.69.28:18658?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://cf48acbf-b34e-5a6f-b762-33328600f43f@51.79.157.197:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=BxPmS2krTbnfvhxAZy-8bNa9WC75bJTqdyboL-QFrHs&sid=4fc112&sni=miningocean.org&path=/api/v1/updates&host=miningocean.org&extra=%7B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noSSEHeader%22%3A%2Bfalse%2C%2B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxBufferedPosts%22%3A%2B30%2C%2B%22scStreamUpServerSecs%22%3A%2B%2220-80%22%7D#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&encryption=none&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&encryption=none&sni=3-93f.pages.dev&host=3-93f.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?sni=sgp8.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://63c8ce32-f4ba-5929-bd8d-47b92ac9766b@149.28.151.140:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef&sni=www.asus.com#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.77.114.70:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?allowInsecure=1&encryption=none&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443&security=tls&sni=blackshadow.dpdns.org&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=/&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://22620697-6fba-4b71-a348-0cef2f7bec1e@104.18.44.182:443?allowInsecure=1&encryption=none&host=do88.cmddo.ggff.net&path=%2F&security=tls&sni=do88.cmddo.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://29ff2954-dfea-4d20-8089-059cfa861453@104.17.155.101:443?allowInsecure=0&sni=wu.090881.xyz&type=ws&host=wu.090881.xyz&path=/products/proxyip=ProxyIP.SG.CMLiussss.net/proxyip=ProxyIP.SG.CMLiussss.netfp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://03994876-4f0b-4353-ce21-3c0c6d3e0526@blog.cloudflare.com:2086?path=/AsuS.CoM?ed=24946&amp;security=none&amp;encryption=none&amp;host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-837787.lavazemkhoshina.ir.&amp;type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@173.245.58.225:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

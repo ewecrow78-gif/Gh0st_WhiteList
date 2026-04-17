@@ -6,7 +6,7 @@
 # Всего рабочих: 5
 
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.9:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ayDAwZS07Qm2iqapzhGWxg_mcNUK-FN20bXAVuq27Vc&sid=9755851b&sni=ads.x5.ru#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.9:9443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=ayDAwZS07Qm2iqapzhGWxg_mcNUK-FN20bXAVuq27Vc&sid=9755851b&sni=ads.x5.ru&path=/grpc&mode=stream-up#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.235.105.146:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+trojan://M7v%25w11Se%2A@34.131.228.210:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.4:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=ads.x5.ru&path=/xhttp&mode=stream-one#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.235.105.146:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.89.106.9:9443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=ayDAwZS07Qm2iqapzhGWxg_mcNUK-FN20bXAVuq27Vc&sid=9755851b&sni=ads.x5.ru&path=/grpc&mode=stream-up#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
