@@ -3,29 +3,25 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 32
+# Всего рабочих: 28
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?type=ws&security=tls&encryption=none&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@v3.dabache.top:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@v1.dabache.top:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@myanmar.visa.com:8443?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@v1.dabache.top:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?type=ws&security=tls&encryption=none&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com&note=@freeOnlineVPN#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@v3.dabache.top:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.102.163:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.197.183.219:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.18.4.130:8443?path=/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=deold.turboo-server.com.co&amp;type=ws&amp;allowInsecure=0&amp;sni=deold.turboo-server.com.co#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://---Telegram-Parsashonam--4-@Speed.Tel-Parsashonam.Website:2087?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=Finland.Parsashonam.Tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://073b1e02-85ad-4e11-80e1-414e7c6f9d8a@104.27.202.236:443?path=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&security=tls&encryption=none&host=kyukygkugyyugygi.mic-mokhaderat-shatel-irancel-digikala.shop&fp=chrome&type=ws&sni=kyukygkugyyugygi.mic-mokhaderat-shatel-irancel-digikala.shop#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://eace2c79-3d2a-4a45-9b4c-42c037dea807@metrix.anvary.ir:443?encryption=none&security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://f101b640-389e-4067-baa8-f254114f09cd@v2cuvs.ddns.net:2096?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mci-tci-germany.netguardians.xyz&fp=chrome&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e2daaf71-363d-43f7-852b-1a6d1117734e@ng-fi-4.woffic1al.com:443?type=tcp&security=tls&encryption=none&sni=ng-fi-4.woffic1al.com&fp=qq&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@167.253.153.6:443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F167.253.153.6%3A443#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@47.82.155.79:8443?encryption=none&security=tls&sni=i9uw353.proxy-01.danfeng.qzz.io&insecure=0&allowInsecure=0&type=ws&host=i9uw353.proxy-01.danfeng.qzz.io&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@194.127.193.240:50791?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList

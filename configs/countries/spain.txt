@@ -5,14 +5,14 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 15
 
-trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&security=tls&sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@138.124.181.148:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=MmqGNxYluP8Eb6dcGxA5khRg-PeU_4ZItn4T0-Ip6TA&sid=586b316c&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp/1.1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&path=/%3FBIA_TELEGRAM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29%2BTM%2B%28%40AZARBAYJAB1%29#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@146.185.239.69:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=o1IH4G1Mo9zo22Ky18XD0Jt2sdjDRZrKgL10pMwzoCM&sid=abcd1234&sni=id.x5.ru#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@138.124.181.148:9443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=MmqGNxYluP8Eb6dcGxA5khRg-PeU_4ZItn4T0-Ip6TA&sid=586b316c&sni=ads.x5.ru&path=/grpc&mode=stream-up#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@193.238.154.131:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=kou4bOAKkq9IOUc9moMExohG6Hwlvc3GD2e73vD2Q08&sid=83c7ad80&sni=ads.x5.ru&path=/xhttp&mode=stream-one#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://4d2e3031-4f3b-4de3-92e3-57088b4f32a3@146.185.239.69:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=o1IH4G1Mo9zo22Ky18XD0Jt2sdjDRZrKgL10pMwzoCM&sid=abcd1234&sni=id.x5.ru#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@138.124.181.148:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=MmqGNxYluP8Eb6dcGxA5khRg-PeU_4ZItn4T0-Ip6TA&sid=586b316c&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&security=tls&sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2aa2dba0-e0f7-4ab5-9c92-edadf9ce524c@141.227.128.192:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?security=tls&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=%2F%3Fed%3D2048#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
