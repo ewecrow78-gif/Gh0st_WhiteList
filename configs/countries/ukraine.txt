@@ -3,18 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 4
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://7710e50e-4bdd-48e8-bf08-d35ec84793ed@104.17.147.22:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://88aa25ac-da6d-467a-b14f-6e1845fb4be0@test-civfggbw.expreset.click:2053?security=tls&amp;sni=transaction-3af6f365ddd02bfa606e2a7b9f3731d21e8b5544f2003fc6f394fc9a53f6cfea.mitsonic.com&amp;type=ws&amp;path=/?ed=2048&amp;host=ukr-6bf25ce9e2c7cbd34662df8cc7.mitsonic.com&amp;encryption=none#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.30:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@5.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.14:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejZfZ1pRMnh2cnloR01HNlZnMlhTZFlVbTNQZmJ1UQ@138.124.67.26:1080#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.67.229.128:81?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.cc.cd&type=ws&headerType=none&host=snippet.fgfw.cc.cd&path=%2Fdanfeng#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=/&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://aa167bb9-4882-417e-a9d1-676250111f70@md-kiv-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@95.164.36.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=P7XdTB-V3VEV_B5Wenifit6OriVM5YUQ8ir-SSqes0U&security=reality&sid=7a4f4b55a899ae1d&sni=www.booking.com&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@193.238.152.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ICj0tYvWTiCM0Q47ddC3pTQ9APwk9tS9_i2gWC_dZRA&security=reality&sid=a1b2c3d4e5f67890&sni=www.github.com&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList

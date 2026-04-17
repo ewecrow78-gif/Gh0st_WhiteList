@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 26
+# Всего рабочих: 11
 
 trojan://trojan@114.207.99.233:11434?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.96:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -14,20 +14,5 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090?#%F0%9F%87%B0%F0%9
 vless://42add63b-deda-4e71-aa48-ddd288181858@121.170.78.63:30023?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.93.199.28:12020?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@158.180.72.60:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA@srv12.outlinekeys.com:1080#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd&type=tcp&headerType=none&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://trojan@59.20.121.139:29999?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.152.61.147:11371?&security=tls&fp=chrome&sni=snippet.fgfw.de5.net&type=ws&headerType=none&host=snippet.fgfw.de5.net&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.251.70.75:10162?&security=tls&fp=random&alpn=http/1.1&sni=snippet.chinav.eu.cc&type=ws&headerType=none&host=snippet.chinav.eu.cc&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@27.119.233.26:32768?allowInsecure=0&sni=snippet.fgfw.de5.net&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.242.64.238:50000?&security=tls&fp=random&alpn=http%2f1.1&sni=snippet.fgfw.ndjp.net&type=ws&headerType=none&host=snippet.fgfw.ndjp.net&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://be385a85-92af-41cc-cb40-db0deac2e5f8@165.154.230.13:30001?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.11.87:443?security=reality&encryption=none&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.79.126.130:15018?&security=tls&fp=random&alpn=http/1.1&sni=snippet.chinav.eu.cc&type=ws&headerType=none&host=snippet.chinav.eu.cc&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.10.52:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@222.102.51.111:51698?encryption=none&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&security=reality&sid=34&sni=lenovoglobal.com&type=grpc#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@16.162.120.14:44099#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@158.180.72.60:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
