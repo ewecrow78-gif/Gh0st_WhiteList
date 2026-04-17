@@ -3,14 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 10
 
-vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&sid=9954ce6f&sni=node-936dfb.binngo.online#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://1d478755-f281-4bd5-9d19-d1a2221e1be1@185.181.208.248:443?fp=chrome&pbk=Lf9vXVje-0Zs_8hqPHZCjfo7kkP0YJpZ58Y3aEJnimI&security=reality&sid=87&sni=www.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://634912cb-e031-4b2c-8212-06b4ac48ee5f@198.105.123.77:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&sid=d4356669ea880400&sni=store.steampowered.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://1d478755-f281-4bd5-9d19-d1a2221e1be1@185.181.208.248:443?fp=chrome&pbk=Lf9vXVje-0Zs_8hqPHZCjfo7kkP0YJpZ58Y3aEJnimI&security=reality&sid=87&sni=www.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&sid=9954ce6f&sni=node-936dfb.binngo.online#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2c6ab33b-45e8-4945-abdb-d0396d03c584@162.159.241.117:443?security=tls&amp;type=ws&amp;headerType=&amp;path=/&amp;host=trCD135.nexavps.ir&amp;sni=trCD135.nexavps.ir&amp;fp=safari&amp;alpn=h3&amp;allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@ip1.foxline.ir:443?path=/?ed=2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;insecure=1&amp;host=day-light.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=day-light.global.ssl.fastly.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2c6ab33b-45e8-4945-abdb-d0396d03c584@162.159.241.117:443?security=tls&amp;type=ws&amp;headerType=&amp;path=/&amp;host=trCD135.nexavps.ir&amp;sni=trCD135.nexavps.ir&amp;fp=safari&amp;alpn=h3&amp;allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://15c75de9a09149d0bf0393d855a98082@83.217.9.220:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=transfermarkt.com.tr&pbk=88smHXvz17v0my95NX0AfT9PmcMRNKY75ruZ3sRdaBU&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

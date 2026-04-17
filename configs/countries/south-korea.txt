@@ -3,16 +3,17 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 12
 
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.250:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.93.199.28:12020?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://42add63b-deda-4e71-aa48-ddd288181858@121.170.78.63:30023?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.250:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&sni=1-aym.pages.dev&host=1-aym.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://trojan@114.207.99.233:11434?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.93.199.28:12020?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@121.170.78.63:30023?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@221.156.244.231:11904?type=ws&security=tls&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.96:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8b9e2e10-a566-40c0-abae-d365a3925170@bpbtest.neroce7654.workers.dev:80?encryption=none&type=ws&host=BpBTest.NeROCe7654.wOrKERS.dEv&path=%2FBH57O6lzMGGNOxFs&security=none#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@158.180.72.60:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA@srv12.outlinekeys.com:1080#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
