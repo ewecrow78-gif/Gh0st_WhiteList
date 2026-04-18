@@ -3,11 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 50
+# Всего рабочих: 51
 
 vless://8d7688af-e389-490a-9888-3d6785baba42@144.31.101.74:695?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=bEJ_FRtl_fL90waFc_KrH4kRBXClFm32kudB4zbQvnc&sid=&sni=www.amd.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://caf9d5f7-77f2-4033-823e-d55a1996fc4a@185.241.208.70:30047?type=ws&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d3f088a5-58d6-4dc6-adab-54d74e339c62@103.68.110.48:695?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=bEJ_FRtl_fL90waFc_KrH4kRBXClFm32kudB4zbQvnc&sni=www.amd.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://TMG_fb05c718425@45.140.204.33:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=pVqZEt6EV2bFAyeugIZWGUabTI-MWkPokcN3BFbGl0s&sid=2eb085c1de19&sni=www.kinopoisk.ru&path=/JMjFqdkAswkJ&host=www.kinopoisk.ru&mode=auto&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@85.158.57.75:4434?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.68.155.153:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_xzl59bcUYD9QUSKFyboqCC_9eUnaXUUKWA19oQWFHU&sid=8d17b7ebab7b99d7&sni=www.allegro.pl&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList

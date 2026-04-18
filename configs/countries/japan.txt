@@ -3,11 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 47
+# Всего рабочих: 46
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.36.105.226:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.107.25:8443?allowInsecure=0&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://0f2f5807-f819-4aca-8d0b-3b7d032763a6@92.112.53.16:10899?security=reality&sni=www.google.com&fp=random&pbk=aoV1Fd0WDYoiXPuhAxD6UjLhrYKruqiwbPMXzrFQDRs&sid=c8&spx=/&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@138.2.51.20:32839?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@151.245.104.225:4355?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@151.245.104.225:4424?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://f5721b9c-4709-4ddb-bab1-0912f5e28cfb@209.33.172.190:10016?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MIRxSo6IdlSjbouoiOJcaz43hdvesPL63tTV30O3uHM&sid=dd&sni=www.nvidia.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -30,7 +31,6 @@ vless://42add63b-deda-4e71-aa48-ddd288181858@158.101.154.245:47001?type=ws&secur
 vless://42add63b-deda-4e71-aa48-ddd288181858@152.69.201.51:15039?type=ws&security=tls&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@151.245.104.225:4320?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@45.153.245.145:40731?type=ws&security=tls&encryption=none&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://42add63b-deda-4e71-aa48-ddd288181858@138.2.51.20:32839?type=ws&security=tls&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@151.245.104.225:4359?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.101.31:8443?allowInsecure=0&type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -40,7 +40,6 @@ vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?type=raw&securi
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ewgruiehoe.pages.dev&host=ewgruiehoe.pages.dev&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@138.2.18.82:8880?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://9228631b-bf71-4377-bd75-4b25605f68f6@96.62.214.87:29745?type=tcp&security=reality&fp=random&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.106.228.126:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@158.101.89.113:58443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dc5625c7-a2e0-452d-ab14-d4f2f34b6921@cdn.wmsj.eu.org:443?encryption=none&amp;security=tls&amp;sni=cdn.wmsj.eu.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=cdn.wmsj.eu.org&amp;path=/jjp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.45.145:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

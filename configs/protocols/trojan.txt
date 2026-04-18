@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 978
+# Всего рабочих: 980
 
 trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@45.149.92.71:443/?type=tcp&security=tls&sni=waphk.mjt000.com&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://6eea921e-bfe7-4618-ab2c-5576bb984893@94.103.2.233:443?fp=chrome&pbk=AD5oeeDsLYOWS2HbDqHYV_MnhfsUzXKgvYL6Sueavy0&security=reality&sid=6d&sni=www.google.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -42,7 +42,7 @@ trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?security=reality
 trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%252F#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?security=reality&sni=www.google.com&fp=random&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&sid=fd&spx=/&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://a8656928-6a01-4ad0-99ac-73defe032996@5.35.107.3:443?fp=random&pbk=BBWZ4V11VVO-xwzjvD3Y_Q4ivziyM6RwCEx2AWDQNjg&security=reality&sid=c6&sni=www.google.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://trojan@22b.net:2087?path=/%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://0db8f349-ff46-40cc-8b0d-6d6c4a11db85@80.93.60.24:443?security=reality&sni=www.google.com&fp=random&pbk=yZUY7aWzwQkdwaJme_bdd32sSdZu1DpD1Z_itxQHvjw&sid=53&spx=/&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -68,9 +68,11 @@ trojan://n5ix4FcMQYENMQPL%2BYKbvyJ8nZ84%2BbNTsj@82.26.155.237:10369?security=tls
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://wVN6Y89zgluoY+eGD=nIeTeVJuzkbZ_4Tv@81.29.149.184:11424?sni=osl5.table-firewall.click#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://trojan@152.53.45.251:8888?host=jflsjlaf.pages.dev&path=//&sni=jflsjlaf.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://07cb3d6e-fe43-4a7b-a071-897db2f6bc98@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.152.2:443?security=tls&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443&fp=chrome&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://humanity@104.18.6.147:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=/tr%3Fed%3D2560#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://823cbccd-3a71-4248-ac3c-3c460de1552d@104.18.41.190:443?security=tls&sni=snll667.pages.dev&type=ws&host=snll667.pages.dev&path=/%252F&alpn=h3%2Ch2%2Chttp/1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -82,7 +84,6 @@ trojan://sEFZDaHF-DgzUfjBenh2_43Mq-5guG22@144.31.151.101:60800?fp=chrome&host=14
 trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?security=tls&sni=sni.111000.dynv6.net&alpn=http/1.1&type=ws&host=sni.111000.dynv6.net&path=/%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://931d70c1-8644-433a-9e8a-e09e10f5e7f5@ct.090227.xyz:443?fp=chrome&host=v.vivia.cc.cd&security=tls&sni=v.vivia.cc.cd&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&Host=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://humanity@172.64.150.28:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&fp=chrome&alpn=h2%2Chttp/1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://UNWA6USASAb6%3DuAAZeZMFd%2B2uKB4.d5KOm@166.88.197.189:26650?security=tls&fp=chrome&type=tcp&sni=sea8.firewallcontract.click#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -90,8 +91,8 @@ trojan://t_XGlCTUx_ZgoObca7-Y=A2njNFoQigS0Q@81.29.149.7:14281?sni=osl9.api-seria
 trojan://humanity@104.16.147.104:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://trojan@38.60.89.136:50000?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@172.64.147.255:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@208.103.161.110:443?path=/assignment&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -113,7 +114,6 @@ trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?path=/&security=t
 trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443?encryption=none&security=tls&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2%2Chttp/1.1&fp=randomized&type=ws&host=aged-sun-9128.danicng13.workers.dev&path=/trv9lthtdhp1hvnyc0/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.17.223.49:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp/1.1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cmcc.877774.xyz:443?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=/#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1d478755-f281-4bd5-9d19-d1a2221e1be1@185.181.208.248:443?fp=chrome&pbk=Lf9vXVje-0Zs_8hqPHZCjfo7kkP0YJpZ58Y3aEJnimI&security=reality&sid=87&sni=www.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://n5ix4FcMQYENMQPL%2BYKbvyJ8nZ84%2BbNTsj@82.26.155.20:10369?security=tls&sni=fra35.chasem2026sud.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://humanity@172.66.44.211:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -170,35 +170,36 @@ trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=1#
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&allowinsecure=0&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://c33883045c@198.244.252.93:443?security=tls&sni=uk1.connecton.surf#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://02975af0-c36b-11ed-8e27-1239d0255272@163.172.211.74:443?security=tls&sni=yahoo.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://3782591447421952000@patient-ghost.treefrog761.one:443?peer=patient-ghost.treefrog761.one#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://e637b740-efc0-11ed-a3c6-1239d0255272@51.158.146.183:443?security=tls&sni=Ubuntu.&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-v2rayvpnchannel@13.37.187.91:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://5f5cbdd9cc@82.223.108.64:443?security=tls&sni=sp1.connecton.surf#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://eadf99d1-a4ab-4574-8e43-1a1050675bd3@51.38.99.96:443?security=tls&sni=sourceforge.net&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://strong-secret-pass-777@94.131.105.125:4443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://880cc30f-1bd8-40ee-aa1c-edda1c962587@51.38.99.96:443?security=tls&sni=sourceforge.net&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://de5a47b3e2@198.244.252.93:443?security=tls&sni=uk1.connecton.surf&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls&sni=nl-4.tr202507.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls&sni=194.124.216.192#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://strong-secret-pass-777@94.131.105.125:4443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://02975af0-c36b-11ed-8e27-1239d0255272@163.172.211.74:443?security=tls&sni=yahoo.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-v2rayvpnchannel@63.179.16.188:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://3747000103274291200@195.133.93.135:443?peer=epic-weasel.treefrog761.one#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://opentunnel.net-v3nom@nlt-1.optnl.com:443?security=tls&headerType=none&type=tcp&sni=discord.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://5f5cbdd9cc@82.223.108.64:443?security=tls&sni=sp1.connecton.surf#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-v2rayvpnchannel@13.38.210.223:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls&sni=194.124.216.192#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://3782591447421952000@patient-ghost.treefrog761.one:443?peer=patient-ghost.treefrog761.one#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-v2rayvpnchannel@13.37.187.91:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://4bbbb975-f2ff-4c1f-b69e-e3831504f7d3@fr-full.privateip.net:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@167.71.79.61:443?security=tls&sni=nl2-full.privateip.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.3:10369?security=tls&sni=fra34.chasem2026sud.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443?security=tls&sni=ch.mjt001.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.3:10369?security=tls&sni=fra34.chasem2026sud.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://3747000103274291200@better-crappie.treefrog761.one:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://07cb3d6e-fe43-4a7b-a071-897db2f6bc98@jp200m.jiasu.asia:50000?security=tls&sni=jp200m.jiasu.asia&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443?security=tls&sni=ch.mjt001.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://67e200f1-4ff5-42ca-8425-3f16f7986c29@t1.samsung.bforward2.uk:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://b874173c-dfc6-40f4-9542-d973997f9659@103.173.255.21:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -288,6 +289,7 @@ trojan://fab16fff-d149-417c-bdef-4bfcf2333bbe@hkt.iamnotagoodman.com:443#%F0%9F%
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.21.40.34:443?amp%3Bsecurity=tls&amp%3Bhost=speedtest.net&amp%3Btype=ws&amp%3B#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@172.67.180.92:443?allowInsecure=1&host=speedtest.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&insecure=1&type=ws&host=speedtest.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@188.114.98.0:443?security=tls&fp=chrome&type=ws&host=speedtest.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList

@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 101
+# Всего рабочих: 98
 
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.217.75.84:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=sgtm.jetbrains.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.255.123.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -27,6 +27,7 @@ vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.99.8:443?type=tcp&security=re
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.96.116:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=wcs.adobe.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&Telegram🇨🇳@WangCai2=#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.215.37:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=www.autodesk.com&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.208.211:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.180:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.123.111:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=j.6sc.co#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -43,7 +44,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.56.91.89:8443?type=ws&security=tl
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.210.126.83:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=siteintercept.qualtrics.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.199.24:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=cdn-dynmedia-1.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.215.37:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=www.autodesk.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.96.230:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=j.6sc.co#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.167:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@159.138.138.87:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -83,9 +83,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.166.138:2096?type=ws&securi
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.120.18:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.digital-help-prd.autodesk.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.169:443?type=ws&security=tls&encryption=none&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.104.96:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=images-na.ssl-images-amazon.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.106.39:2053?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.11:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.39:2053?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳@WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.107.181.224:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&insecure=1&host=sni.111000.cc.cd&type=ws&allowInsecure=1&sni=sni.111000.cc.cd#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.248.7.25:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
