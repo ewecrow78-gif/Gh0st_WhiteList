@@ -3,6 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 10
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.82.245.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4355?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4356?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4320?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4359?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4434?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4424?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4357?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://82ae5746-137c-4e94-9338-07b63087699a@140.99.164.8:4436?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
