@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 46
+# Всего рабочих: 47
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.36.105.226:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.107.25:8443?allowInsecure=0&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -41,6 +41,7 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?type=ws&security
 vless://42add63b-deda-4e71-aa48-ddd288181858@138.2.18.82:8880?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://9228631b-bf71-4377-bd75-4b25605f68f6@96.62.214.87:29745?type=tcp&security=reality&fp=random&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@158.101.89.113:58443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.44.235:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dc5625c7-a2e0-452d-ab14-d4f2f34b6921@cdn.wmsj.eu.org:443?encryption=none&amp;security=tls&amp;sni=cdn.wmsj.eu.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=cdn.wmsj.eu.org&amp;path=/jjp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.45.145:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.38.194:443/?plugin=v2ray-plugin;obfs=websocket;obfs-hostwoshinidie-et3.pages.dev;tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
