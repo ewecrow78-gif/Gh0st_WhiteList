@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 44
+# Всего рабочих: 30
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -26,11 +26,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.238:2096?type=ws&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@v3.dabache.top:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@92.53.189.41:443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip1.kaixincloud.top:80?type=ws&security=&encryption=none&fp=chrome&host=vip.yaml7.ggff.net&serviceName=&quicSecurity=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.152.234:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.90.75.41:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://---Telegram-Parsashonam--4-@Speed.Tel-Parsashonam.Website:2087?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=Finland.Parsashonam.Tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -38,14 +33,5 @@ vless://073b1e02-85ad-4e11-80e1-414e7c6f9d8a@104.27.202.236:443?path=Telegramjoi
 vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://eace2c79-3d2a-4a45-9b4c-42c037dea807@metrix.anvary.ir:443?encryption=none&security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://f101b640-389e-4067-baa8-f254114f09cd@v2cuvs.ddns.net:2096?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mci-tci-germany.netguardians.xyz&fp=chrome&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=/&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://04a68729-bbc6-454d-869f-a44de1da7c8d@172.66.213.38:80?path=/&amp;security=none&amp;encryption=none&amp;host=store.kellekcollection.com&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.178:443?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.35.211.68:2087?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.51:2083?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.31:2096?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.35.211.98:8443?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.35.211.105:443?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.35.211.230:443?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://52f94104-7a84-4342-8bcd-96969eb46cbe@8.39.125.115:2053?encryption=none&security=tls&sni=tristandeng.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=tristandeng.cc.cd&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.160.251.110:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=/&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
