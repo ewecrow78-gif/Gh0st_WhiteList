@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 23
+# Всего рабочих: 21
 
 vless://82ae5746-137c-4e94-9338-07b63087699a@212.115.103.190:4357?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@212.115.103.190:4434?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
@@ -26,5 +26,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.11.191:2096?allowInsecure=1&
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2c6ab33b-45e8-4945-abdb-d0396d03c584@162.159.241.117:443?security=tls&amp;type=ws&amp;headerType=&amp;path=/&amp;host=trCD135.nexavps.ir&amp;sni=trCD135.nexavps.ir&amp;fp=safari&amp;alpn=h3&amp;allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@ip1.foxline.ir:443?path=/?ed=2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;insecure=1&amp;host=day-light.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=day-light.global.ssl.fastly.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://f85e436354ba409d9cce61a0d2185c0f@62.133.63.154:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=BY4c_1BeR31g3UxzO8GCtvi2yKLatiUII7VjuzXMGC8&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

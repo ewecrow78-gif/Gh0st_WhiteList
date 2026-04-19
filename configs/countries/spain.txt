@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 18
 
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -18,6 +18,7 @@ vless://727858db-4c63-258e-dbf8-0135c875533e@bestguy6.online:443?path=/dazkws&am
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@176.97.72.18:443?security=tls&sni=ld.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://b7b66581-6a5b-4935-a799-ab0ea327d4ca@sp.torboshop1.top:2053?path=/&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.180.215.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.4.130:2082?encryption=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sni=yahoo.com&sid=e08a28#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://40626018-4cad-4f62-a7bf-baaa892fe383@85.239.49.125:7443?path=%2Fapi&security=tls&encryption=none&host=rockdash113.argonaft2.online&allowinsecure=0&type=ws&sni=rockdash113.argonaft2.online#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://40626018-4cad-4f62-a7bf-baaa892fe383@85.239.49.125:8443?mode=auto&path=%2Fapi%2Ftts%2FmakeVoice&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=ax-a8Cqj03X85P8UU0UiVUI_HnHOPuOv_tvqp5DepBI&fp=chrome&allowinsecure=0&type=xhttp&sni=rockweather113.argonaft2.online&sid=a3fe6b9fee5e2db4#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
