@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 53
+# Всего рабочих: 52
 
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net&host=/%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://82ae5746-137c-4e94-9338-07b63087699a@85.158.57.75:4357?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -29,7 +29,6 @@ vless://d3f088a5-58d6-4dc6-adab-54d74e339c62@45.15.128.232:603?type=grpc&securit
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&type=tcp&security=tls&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://05061f46-f3d1-4131-9ecc-e2b5e475a815@212.23.222.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=poland.nosok-top.com&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@138.124.104.152:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=as-pl.agveit.pro&pbk=5bSmX-PMvil-9WoC1i-SmDE0Ry7GEDPeK0E4puygYH8&sid=1f63a9bf1f091fa8#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@138.124.104.154:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=as-pl1.agveit.pro&pbk=FF9zW6DQkvUZGepS6D7l5MDMzIaKNSWVtDBlmVXeEVw&sid=a252d4d2ccc46a1b#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@138.124.104.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=as-pl3.agveit.pro&pbk=ClkY6dl-cl92__8AyZM02Hr_11ad7iqdUXCJsJLDT34&sid=5ab5ada28a6e5075#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
