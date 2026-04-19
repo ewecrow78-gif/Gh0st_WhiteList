@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://83564060-4069-40b4-e657-adccef9c4b62@hk1.zywm.eu.org:443?encryption=none&amp;security=tls&amp;sni=hk1.zywm.eu.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=hk1.zywm.eu.org&amp;path=/hhk#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
