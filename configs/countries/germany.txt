@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 625
+# Всего рабочих: 626
 
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://422602d6-cec0-4236-9ee7-c3ec5f258593@159.195.70.85:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&sni=fastsync.xyz&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://df873113-96d1-49aa-8eac-1cd1b51cff8a@de.speedpilot.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=h-zztELztEIll0RybK-ePCoxmsPvp2fugIvOsiwlg2Y&sid=02b5bd31f3743eb4&sni=de.speedpilot.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@193.233.198.113:8443?type=ws&security=tls&encryption=none&sni=3-abf.pages.dev&host=3-abf.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0844ceed-af3c-46cd-9d29-2295309a1701@501.rushrushnode.org:10501?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk&sid=9153&sni=img14.360buyimg.com&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList

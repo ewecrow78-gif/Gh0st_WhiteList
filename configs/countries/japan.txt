@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 38
+# Всего рабочих: 39
 
 vless://9bc43d33-6d90-420d-869a-6d4f69b28c4c@151.245.104.225:4320?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@43.128.249.230:8443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -42,4 +42,5 @@ vless://9228631b-bf71-4377-bd75-4b25605f68f6@96.62.214.87:29745?type=tcp&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.83.65:9872?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@155.248.177.246:50443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&security=reality&sid=c906f73d3ba8211f&sni=www.muji.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dc5625c7-a2e0-452d-ab14-d4f2f34b6921@cdn.wmsj.eu.org:443?encryption=none&amp;security=tls&amp;sni=cdn.wmsj.eu.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=cdn.wmsj.eu.org&amp;path=/jjp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
