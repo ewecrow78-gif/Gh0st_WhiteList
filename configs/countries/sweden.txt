@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 79
+# Всего рабочих: 78
 
 vless://fb99f4f0-181d-4117-be22-df9856fbbc06@89.22.236.81:4466?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://fb99f4f0-181d-4117-be22-df9856fbbc06@89.22.236.81:4359?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -38,7 +38,6 @@ vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@78.40.117.207:443?type=tcp&security
 vless://e11de4fa-fb2b-4e43-9c8d-23294b05dca4@62.60.251.237:4424?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@77.110.97.225:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e11de4fa-fb2b-4e43-9c8d-23294b05dca4@62.60.251.237:4355?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@90.156.254.74:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&sni=apple.com&alpn=h2&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0df74c37-d622-4fbc-b7c4-45989e62982e@77.91.84.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=q2NB84y7_VEy3g3FG61o_j_SHqgbZ0WI_V11948VACg&security=reality&sid=c4005cff44259467&sni=ftp.debian.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.16.46.12:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=NGINX-H.pages.DEV&amp;fp=randomized&amp;type=ws&amp;sni=NGINX-H.pages.DEV#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
