@@ -7,7 +7,6 @@
 
 vless://1adbefe0-826a-42db-a1a4-16042760f3bd@tech-hi.extravpn.info:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=ZZ4nloU3tA95TiuzL66xCECR_7m17no92eVgDg-bQTk&sid=abcd1234&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://6cf0c895-92b1-478b-9c8b-91dfcabd96d5@mybrojust.lostgumball.com:25187?type=tcp&security=reality&pbk=-ELCnz_QMbyZpu0btESnj7xHvlMofkSBKTro8SWcAzQ&fp=random&sni=vk.com&sid=da55133f66&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://69538dba-278c-4f9b-b26c-7fd0312c88df@are.mycat.lovestoblog.com:36197?security=reality&sni=queuev4.vk.com&fp=random&pbk=5aE84k7WXJFLumX8JKW-J0dY5JkXexbbdj6gXrdBbUA&sid=8eae3c25311814&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@192.159.99.18:30086?type=grpc&security=none&encryption=none&serviceName=gprc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:2096?type=ws&security=tls&encryption=none&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -215,8 +214,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.103:443?type=ws&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.189.51:443?type=ws&security=tls&encryption=none&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@38.107.233.66:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&sni=usa.pink-world.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@newsroom.paypal-corp.com:443?&security=tls&fp=chrome&sni=sp18nyrj9.chinav.indevs.in&type=ws&headerType=none&host=sp18nyrj9.chinav.indevs.in&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://5ff0e116-cc5c-475c-91ef-1df2fc5838db@SinAl.telpermi.ir:6060?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c0e78686-c274-49dd-9536-23b10b90ac25@5.161.157.204:7728?security=reality&amp;encryption=none&amp;pbk=1Ae5mLdvRb1GUUmv_L-vL_M5Fz3MPsUC0P4On0lLOxE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=colorlib.com&amp;sid=113195cd7e4808d0#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?encryption=none&amp;security=none&amp;type=ws&amp;host=pizzabama.global.ssl.fastly.net&amp;path=/containers/fi#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList

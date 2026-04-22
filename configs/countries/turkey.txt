@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 10
 
 vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&sid=9954ce6f&sni=node-936dfb.binngo.online&spx=/&fragment=51-295,7-10,tlshello,100-200#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?type=ws&security=tls&encryption=none&sni=sni.111000.cc.cd&host=sni.111000.cc.cd#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
@@ -11,7 +11,6 @@ trojan://1d478755-f281-4bd5-9d19-d1a2221e1be1@185.181.208.248:443?security=reali
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@45.194.11.41:443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://b44c5ed1-317b-47b3-b595-338a2191a7f2@103.231.75.27:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&sni=dl.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&security=reality&sid=d4356669ea880400&sni=store.steampowered.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.11.191:2096?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@ip1.foxline.ir:443?path=/?ed=2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;insecure=1&amp;host=day-light.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=day-light.global.ssl.fastly.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
