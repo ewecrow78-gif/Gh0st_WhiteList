@@ -3,18 +3,17 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 12
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://trojan@114.207.99.233:11434?host=jflsjlaf.pages.dev&sni=jflsjlaf.pages.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://trojan@114.207.99.233:11434?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-aym.pages.dev&host=1-aym.pages.dev&ech=cloudflare-ech.com%2Bhttps%3A//dns.alidns.com/dns-query#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.250:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://42add63b-deda-4e71-aa48-ddd288181858@152.70.253.84:8443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.83.227:4443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNV95UXNiRzhQajJjYllnWWNBblNSVTI3eUVKeDlrTA==@78.153.150.34:1080?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://bafacd98-136a-4530-838d-4e5c51838dac@168.126.204.135:10035?type=ws&security=tls&fp=firefox&sni=juzi8186.qea.ccwu.cc&host=juzi8186.qea.ccwu.cc#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.96:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.83.227:4443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@221.156.244.231:11904?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.48.77.114:22410?type=ws&security=tls&encryption=none&fp=chrome&sni=3-7gj.pages.dev&host=3-7gj.pages.dev&serviceName=&quicSecurity=none#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://42add63b-deda-4e71-aa48-ddd288181858@221.156.244.231:11904?type=ws&security=tls&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.153:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://bafacd98-136a-4530-838d-4e5c51838dac@168.126.204.135:10035?type=ws&security=tls&fp=firefox&sni=juzi8186.qea.ccwu.cc&host=juzi8186.qea.ccwu.cc#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@152.70.253.84:8443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
