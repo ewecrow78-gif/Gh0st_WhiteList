@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 39
+# Всего рабочих: 38
 
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b44c5ed1-317b-47b3-b595-338a2191a7f2@217.60.25.181:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kUTGAXlw5eEQQ1blZgVLFSUOMZvBa-1HAxVi7uiM9CY&sid=&sni=dl.google.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -14,7 +14,7 @@ trojan://1234567890@144.31.241.145:8443?security=tls&sni=kfm-bn0.pages.dev&type=
 vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?type=grpc&security=none&encryption=none&serviceName=gprc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b44c5ed1-317b-47b3-b595-338a2191a7f2@144.31.4.212:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kUTGAXlw5eEQQ1blZgVLFSUOMZvBa-1HAxVi7uiM9CY&sni=dl.google.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.68.155.153:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_xzl59bcUYD9QUSKFyboqCC_9eUnaXUUKWA19oQWFHU&sid=8d17b7ebab7b99d7&sni=www.allegro.pl&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@pl5.lckdwn.ru:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://05061f46-f3d1-4131-9ecc-e2b5e475a815@212.23.222.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=poland.nosok-top.com&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@138.124.104.152:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=as-pl.agveit.pro&pbk=5bSmX-PMvil-9WoC1i-SmDE0Ry7GEDPeK0E4puygYH8&sid=1f63a9bf1f091fa8#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@138.124.104.154:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=as-pl1.agveit.pro&pbk=FF9zW6DQkvUZGepS6D7l5MDMzIaKNSWVtDBlmVXeEVw&sid=a252d4d2ccc46a1b#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -42,5 +42,4 @@ vless://bf263367-bb63-4663-b4a1-34946107a72e@45.144.49.116:8443?type=tcp&securit
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@144.31.5.132:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@138.124.64.28:443?encryption=none&security=none&serviceName=pol-x1.plugvpn.ru&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f25eb463-e242-4fa9-b174-c305af3ab95e@kinopl20.dramatorg.net:443?allowInsecure=1&encryption=none&security=tls&sni=kinopl20.dramatorg.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://TMG_fb05c718425@45.140.204.33:443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=pVqZEt6EV2bFAyeugIZWGUabTI-MWkPokcN3BFbGl0s&sid=2eb085c1de19&spx=%2F&type=xhttp&host=www.kinopoisk.ru&path=%2FJMjFqdkAswkJ&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://4604876a-0652-4835-88bd-4421ea5c40da@pol01-rblx01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
