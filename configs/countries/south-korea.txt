@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 15
+# Всего рабочих: 16
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-aym.pages.dev&host=1-aym.pages.dev&ech=cloudflare-ech.com%2Bhttps%3A//dns.alidns.com/dns-query#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@14.41.44.168:14430?type=ws&security=tls&encryption=none&sni=s3vz.user-service.chinav.indevs.in&host=s3vz.user-service.chinav.indevs.in#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -20,3 +20,4 @@ vless://bafacd98-136a-4530-838d-4e5c51838dac@168.126.204.135:10035?type=ws&secur
 vless://00000000-0000-4000-8000-000000000000@210.96.92.11:12153?type=ws&security=tls&encryption=none&sni=pw2ty822oipl53mogkzvzbv5ee97.saghv.filegear-sg.me&host=pw2ty822oipl53mogkzvzbv5ee97.saghv.filegear-sg.me#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@152.70.253.84:8443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://42add63b-deda-4e71-aa48-ddd288181858@190.93.245.40:443?encryption=none&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=edtunnel-eiz.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList

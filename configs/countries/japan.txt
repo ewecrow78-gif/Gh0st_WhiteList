@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 21
+# Всего рабочих: 22
 
 vless://42add63b-deda-4e71-aa48-ddd288181858@152.69.201.51:15039?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com&path=&host=&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -25,4 +25,5 @@ vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security
 vless://42add63b-deda-4e71-aa48-ddd288181858@155.248.177.246:50443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://42add63b-deda-4e71-aa48-ddd288181858@140.83.34.214:8443?type=ws&security=tls&encryption=none&sni=edtunnel-eiz.pages.dev&host=edtunnel-eiz.pages.dev&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?type=ws&security=tls&encryption=none&sni=ewgruiehoe.pages.dev&host=ewgruiehoe.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:22802?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&sni=jp2-8sb.6121999.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
