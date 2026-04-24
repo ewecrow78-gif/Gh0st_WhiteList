@@ -3,12 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 21
+# Всего рабочих: 23
 
-vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:2087?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp/1.1&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://humanity@185.18.250.252:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://1a452b02-7302-432c-a20c-1bd9ef18c416@fs.ir-sub.fun:80?path=/ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;security=none&amp;encryption=none&amp;host=zedd4.global.ssl.fastly.net&amp;type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2aa2dba0-e0f7-4ab5-9c92-edadf9ce524c@141.227.128.192:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
