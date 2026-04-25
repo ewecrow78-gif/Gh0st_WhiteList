@@ -5,9 +5,9 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 10
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?type=ws&security=tls&encryption=none&sni=sni.111000.cc.cd&host=sni.111000.cc.cd#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1d478755-f281-4bd5-9d19-d1a2221e1be1@185.181.208.248:443?security=reality&sni=www.google.com&fp=chrome&pbk=Lf9vXVje-0Zs_8hqPHZCjfo7kkP0YJpZ58Y3aEJnimI&sid=87&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?type=ws&security=tls&encryption=none&sni=sni.111000.cc.cd&host=sni.111000.cc.cd#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ee68ff88-9433-4f5e-8193-993bd8c016b7@185.234.66.94:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AmlgZjBVKLpYPHXdfz_ylYnj-pEHI7Gb0El_yYI-mQI&sid=9954ce6f&sni=node-936dfb.binngo.online&spx=/&fragment=51-295,7-10,tlshello,100-200#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.11.191:2096?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
