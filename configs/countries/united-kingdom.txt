@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 230
+# Всего рабочих: 229
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&serviceName=&quicSecurity=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.193.58.134:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -66,7 +66,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.247.142.238:2096?type=ws&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.185.249.75:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.140.167.209:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.210.6.236:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?allowInsecure=1&type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -159,7 +159,6 @@ vless://948478ae-abe5-526c-ae4c-6590ad926f3d@45.150.67.46:443?security=reality&e
 vless://9cab5397-59a5-4eb5-8833-805dd57c6eb8@uk.srv1.darinips.lat:3443?security=reality&amp;encryption=none&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?security=none&type=grpc&serviceName=DarkTeam_VPN#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.pages.dev&type=ws&allowInsecure=0&sni=y6-3cj.pages.dev#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443/?type=ws&encryption=none&path=%2Fmucowsws&security=tls&sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=la.ylks01.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.122.76:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

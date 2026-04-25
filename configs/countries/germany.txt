@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1374
+# Всего рабочих: 1367
 
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@2.27.120.108:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -142,16 +142,8 @@ trojan://1234567890@2.27.35.199:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&
 trojan://1234567890@104.248.249.73:2083?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.208.139.98:8443?type=ws&security=tls&encryption=none&sni=sni.111000.dynv6.net&host=sni.111000.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@164.90.209.253:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.11:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://2b8d9d73-0031-42f9-9914-c8c579e087cb@104.18.12.149:443?allowInsecure=1&encryption=none&host=fire.rezazzz.ir&path=%2Fmovie&security=tls&sni=fire.rezazzz.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.219.205:8443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.102.197:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://1f140a9e-fdce-696c-97f0-1386fd5d3133@nl.folderchat.ir:8443?security=none&type=ws&path=/?ed=2056&host=#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.58.43.93:2006?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.201.34:2087?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?allowInsecure=1&encryption=none&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@159.195.79.8:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@152.53.228.86:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@159.195.5.181:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -248,6 +240,7 @@ vless://08cbbd20-08d1-4bbb-870f-affbf8805f88@www.zula.ir:8880?path=/TELEGRAM_BYA
 vless://08e65da4-808a-44e3-86af-cbf5233ba83f@zula.ir:8080?encryption=none&type=httpupgrade&host=movivoolom.movementvip.ir&path=%2F&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=639002745868715407.golf-amsir.info&amp;type=ws&amp;allowInsecure=1&amp;sni=639002745868715407.golf-amsir.info#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://09847c47-ae74-4597-a838-936801e2deb4@185.146.173.58:2052?path=/Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy?ed=2048&amp;security=none&amp;encryption=none&amp;host=2.ftp.debian.org.www.speedtest.net.免费上网67.Site.&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@104.18.12.149:443?path=/resgdws&security=tls&encryption=none&insecure=1&host=rivvers.info&type=ws&allowInsecure=1&sni=rivvers.info#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@108.162.192.133:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880?type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.1.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0a42b78a-c6d3-4cc1-a047-fff084f9f7fa@64.188.115.181:26968/?type=tcp&amp;encryption=none&amp;security=reality&amp;pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&amp;fp=firefox&amp;sni=stackoverflow.com&amp;sid=04&amp;spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
