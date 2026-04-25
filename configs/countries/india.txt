@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?allowInsecure=0&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6810a725-9f09-4e44-89b1-0db4ad5003d1@38.76.205.24:16196?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JZ-wjnzrf0Kr25tKSyDd8-iX4ciruu2bcdnEY8M7aT8&sid=6ba85179e30d4fc2&sni=www.mysql.com&pqv=#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
