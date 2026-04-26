@@ -3,17 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1347
+# Всего рабочих: 1344
 
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://2fa7e59d-8b69-432e-9d32-ff0676e067de@159.195.70.85:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&sni=fastsync.xyz&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.107.126.20:44406?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@23.88.112.241:2053?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.56.7.90:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.216.33:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.246.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@104.248.132.134:2096?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.154.30.150:443?type=ws&security=tls&fp=chrome&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?type=tcp&security=reality&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&fp=random&sni=www.google.com&sid=fd&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://09a429d9-6ffa-43f3-8b3a-c634dbdda94d@91.238.123.66:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0844ceed-af3c-46cd-9d29-2295309a1701@107.149.184.246:10501?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk&sid=9153&sni=img14.360buyimg.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -106,6 +104,7 @@ trojan://1234567890@134.209.252.112:2053?host=kfm-bn0.pages.dev&path=/%3Fhttps%3
 vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@de.appav.net:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=barclays.co.uk&serviceName=UpdateService#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@113.30.190.244:2053?#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6f528daf-4b4c-419a-9289-4c729397b042@84.21.173.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=8YhxIt59OyCh3hGT8mbByjMi040LIsSbLXGCstIqeXU&sid=aca2849be8b47f1b&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://1becdc51-1b1a-4fb5-bbfb-06433b3f9dec@64.188.91.223:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=A4j57sDAA97uICmt2HhAW7PWMaV39gE6jy_VokhmI1k&sid=7c08356a875ff541&sni=germany3.nbbconnect.ru&mode=gun&serviceName=secure#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@91.107.155.13:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a6e26ac0-644f-45da-8035-e2be0c93ffbb@185.126.67.151:43439?type=grpc&security=reality&encryption=none&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=25130ce3b96356d7&sni=apple.com&serviceName=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@128.140.32.214:8443?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -130,9 +129,6 @@ vless://0844ceed-af3c-46cd-9d29-2295309a1701@501.rushrushnode.org:10501?type=tcp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.142.185:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@134.122.84.25:2053?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243?#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://1f140a9e-fdce-696c-97f0-1386fd5d3133@nl.folderchat.ir:8443?security=none&type=ws&path=/?ed=2056&host=#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@65.21.62.180:443?&security=tls&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@152.53.228.86:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@152.53.236.205:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.75.103.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -360,6 +356,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?encryption=none&se
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://24c701f9-093a-42b2-a085-46f9312fe8bb@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE&sni=VPNCUSTOMIZE.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://252edc4d-a758-4749-a389-4ec15d3feedb@92.223.124.62:443?security=tls&sni=gcore.com&type=ws&host=technoi.ai&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@65.21.62.180:443?&security=tls&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://273bd732-6104-47b2-be9e-7937aa95e720@kamyarservers.ddns.net:443?type=grpc&serviceName=@configMs&security=reality&fp=firefox&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&sni=mihanyas.ir&sid=0960546b&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://276a6072-3b0c-4ddb-bb33-ce14fabc1534@91.99.236.124:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
