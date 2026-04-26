@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 19
 
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?sni=jp2-8sb.6121999.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.36.105.226:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-abf.pages.dev&host=3-abf.pages.dev&ech=cloudflare-ech.com%2Bhttps%3A//dns.alidns.com/dns-query#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -22,4 +22,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.95.94.250:443?type=ws&security=t
 vless://ab27403b-7de0-4fe3-8b57-7ab3cb583c32@147.45.49.52:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&sid=ea9f32c58bd74201&sni=jp.plus-hit.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@23.151.104.39:443?type=ws&security=tls&encryption=none&fp=chrome&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.106.228.126:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.245.62.4:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@162.159.38.147:443?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

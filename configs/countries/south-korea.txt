@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 120
+# Всего рабочих: 121
 
 trojan://1234567890@220.86.228.109:32603?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@36.38.117.86:11965/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -15,6 +15,7 @@ trojan://1234567890@118.45.236.190:16922?security=tls&sni=kfm-bn0.pages.dev&type
 trojan://1234567890@112.187.247.37:20002?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@118.39.2.62:20005?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@203.251.64.95:12999/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@222.96.225.202:20201?type=ws&security=tls&fp=chrome&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@118.45.236.190:10443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@219.255.114.230:10243?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@118.36.233.194:11300/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -65,6 +66,7 @@ trojan://1234567890@222.113.18.214:37215?ed=2560&eh=Sec-WebSocket-Protocol&host=
 trojan://1234567890@220.87.185.18:25448?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@121.173.15.62:30005?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@59.20.251.99:18246/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@183.99.47.189:10101?type=ws&security=tls&encryption=none&fp=chrome&sni=001.trevely.de5.net&host=001.trevely.de5.net&serviceName=&quicSecurity=none#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.85.252.224:19150/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@112.212.201.165:30005/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@211.195.227.57:15891?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -99,6 +101,7 @@ trojan://1234567890@125.137.138.240:25000?security=tls&sni=kfm-bn0.pages.dev&typ
 trojan://1234567890@222.113.18.214:11310?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@222.113.18.213:14265?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.79.203.64:10030/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@114.204.40.185:30001?type=ws&security=tls&fp=random&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@118.36.233.194:18000/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.125.207.242:25565?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.127.68.28:50001?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -113,15 +116,13 @@ trojan://1234567890@222.119.19.248:32770/?type=ws&host=kfm-bn0.pages.dev&path=/%
 trojan://1234567890@175.197.105.20:10035?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@222.106.130.37:20332?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@222.116.29.213:23791?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.156.131:14850?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@124.61.52.107:20024?allowInsecure=1&sni=001.trevely.de5.net&type=ws&host=001.trevely.de5.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@222.96.225.202:20201?type=ws&security=tls&fp=chrome&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@222.97.207.98:12276?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@183.99.47.189:10101?type=ws&security=tls&encryption=none&fp=chrome&sni=001.trevely.de5.net&host=001.trevely.de5.net&serviceName=&quicSecurity=none#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@114.204.40.185:30001?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@121.150.130.214:23023?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@59.21.252.156:37810?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@221.147.196.150:18810?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@124.61.52.107:20024?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@121.150.130.214:23023?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@222.97.207.98:12276?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:80/?type=ws&encryption=none&host=chatgpt.com.afrcloud22.mmv.kr&path=/157.245.215.195=8443#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8fc83032-cb7e-4626-8058-f7051a68eb7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/44.217.235.114=2053#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2275e858-8aff-44fe-b816-d85c2ab372e5@afrcloud4.c01.kr:443?encryption=none&security=tls&sni=afrcloud4.c01.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud4.c01.kr&path=/47.254.255.125=443#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
