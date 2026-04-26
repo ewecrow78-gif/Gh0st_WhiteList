@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 459
+# Всего рабочих: 456
 
 vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&sni=max.ru&sid=9ff26c38f9b488#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://491772a0-12bd-47e2-afe9-5d5be5d47401@45.136.126.32:4443?type=tcp&security=reality&encryption=none&fp=qq&pbk=HYMZ6sGaRCC0PPGCzyWeJgpaNO2vP1IM71gkiJIJ6zQ&sid=e313&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -111,12 +111,8 @@ ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@212.34.138.139:844
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.88.238:2096?type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@37.139.15.204:443?sni=gso9r.gateway-edge.chinav.indevs.in&alpn=http/1.1%0A&type=ws&host=gso9r.gateway-edge.chinav.indevs.in&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.148.122:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@188.226.160.219:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.82.35:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.103.100.127:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://01130dcd-bcda-469b-bd16-fde8a475edab@www.parspack.com:8080?path=/MdVpnSec?ed=2048&amp;security=none&amp;encryption=none&amp;host=MDvpnsec-mdvpnSEC-MDvpnsec.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://01a79e57-5051-4b64-9774-8841c25bcecf@172.66.40.99:8080?type=ws&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -256,6 +252,7 @@ vless://5aecb813-9688-4e01-bded-9b32eec2bc1c@nl-2.ghost-vpn.com:443?security=rea
 vless://5b5227b8-4cbb-434d-9733-905b8002c2b1@209.38.106.109:49768?security=none&type=tcp&host=TABRIZ.NET&headerType=http#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://60e601ac-3f0e-4589-be9a-0a4ac72e4867@nl.stepson.ir:2053?encryption=none&type=xhttp&mode=auto&host=sub.stepson.ir&path=%2Ftest%3Fed%3D%3F2096&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ham.stepson.ir#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&type=raw&headerType=none&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.103.100.127:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.0.6.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6234be9d-4bfd-479e-ab95-b7c009971667@194.87.219.24:25620/?type=tcp&encryption=none&flow=&sni=www.ozon.ru&fp=chrome&security=reality&pbk=xuyz-KWCYYwC9QfIqM0ur1ki0rd7PClzYgp5olAWPnI&sid=c476b6083f325946#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://627a8c42-d978-4ecb-ab17-c4fc927474f8@130.12.242.233:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&security=reality&sid=b4d9a71f22e34ac8&sni=nl.plus-hit.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
