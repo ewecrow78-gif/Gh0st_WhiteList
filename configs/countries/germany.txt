@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1344
+# Всего рабочих: 1345
 
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.107.126.20:44406?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -21,6 +21,7 @@ vless://933fffc8-46cc-434c-b1bf-92973120c2cf@78.17.110.131:443?type=tcp&security
 trojan://1234567890@46.101.246.237:2083?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.247.186.199:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@46.225.96.227:8443?host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://0f37082c-bfe5-4085-bb47-af8f7bab3d91@159.195.69.251:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&sid=65b5280b52e0532c&sni=fastsync.xyz&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@46.225.208.108:2053?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@148.253.210.141:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.239.105.110:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -129,7 +130,8 @@ vless://0844ceed-af3c-46cd-9d29-2295309a1701@501.rushrushnode.org:10501?type=tcp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.142.185:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@134.122.84.25:2053?host=kfm-bn0.pages.dev&path=/%3Fhttps%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN2NqaVZEMG9LTkUybzlzVW5aS1Fn@46.101.196.138:23243?#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://1234567890@152.53.228.86:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://1f140a9e-fdce-696c-97f0-1386fd5d3133@nl.folderchat.ir:8443?security=none&type=ws&path=/?ed=2056&host=#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.29:2053?path=/?Telegram🇨🇳+@WangCai2=&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://1234567890@152.53.236.205:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.75.103.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@63.181.194.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -270,7 +272,6 @@ vless://10a1ffcb-ca7a-499a-d2e2-d166d3e074c7@Def.irimcs.org:2053?type=grpc&amp;s
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@de.pouriau.com:1845?security=reality&type=tcp&headerType=&path=&host=refersion.com&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@devip.aftabix.com:1845?security=reality&type=tcp&headerType=&path=&host=refersion.com&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://11e40c54-6c61-44b3-a44d-43a3be0a8229@vpncustomize.cam:443?encryption=none&fp=firefox&mode=gun&pbk=55xH-tqPd6c0VZpbwlxRxhmfvp9lVUtp45CDJLpcw2I&security=reality&serviceName=%40VPNCUSTOMIZE&sid=6b0541cd&sni=www.iranserver.com&spx=%2F&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?encryption=none&type=ws&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://12345678-1234-1234-1234-123456789123@77.37.33.61:2096?encryption=none&security=tls&sni=vless.hubp.de&type=ws&host=vless.hubp.de&path=%2Fsnippets#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://12345678-1234-1234-1234-123456789123@89.116.46.61:2096?encryption=none&security=tls&sni=vless.hubp.de&type=ws&host=vless.hubp.de&path=%2Fsnippets#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets&amp;security=tls&amp;encryption=none&amp;host=sni.aizrf.com&amp;type=ws&amp;sni=sni.aizrf.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
