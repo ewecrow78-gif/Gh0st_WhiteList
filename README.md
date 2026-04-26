@@ -23,7 +23,7 @@
 ---
 
 ### 🌐 Ссылка на подписку (Subscription)
-`https://githubusercontent.com`
+`(https://ewecrow78-gif.github.io/htmlWhiteList/)`
 
 </div>
 
