@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 232
+# Всего рабочих: 235
 
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.140.167.209:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.26.27.191:2096?type=ws&security=tls&encryption=none&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -65,6 +65,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:2096?type=ws&security
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.36:7443?type=ws&security=tls&encryption=none&fp=chrome&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org&serviceName=&quicSecurity=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy&serviceName=&quicSecurity=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.154.53.220:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=aabbccdd&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.152.227:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?allowInsecure=1&type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

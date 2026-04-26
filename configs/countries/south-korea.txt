@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 114
+# Всего рабочих: 115
 
 trojan://1234567890@121.151.223.104:10003?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.118.233.240:23791/?type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -114,6 +114,7 @@ trojan://1234567890@121.151.223.104:18085?security=tls&sni=kfm-bn0.pages.dev&typ
 trojan://1234567890@218.157.145.120:10912?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@211.195.227.57:15891?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@124.61.52.107:20024?allowInsecure=1&sni=001.trevely.de5.net&type=ws&host=001.trevely.de5.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@114.204.40.185:30001?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@221.147.196.150:18810?allowInsecure=1&type=ws&security=tls&sni=001.trevely.de5.net&host=001.trevely.de5.net#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=/167.179.110.68=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList

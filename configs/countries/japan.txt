@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 20
+# Всего рабочих: 19
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.36.105.226:443?type=ws&security=tls&encryption=none&sni=3-7ny.pages.dev&host=3-7ny.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.106.228.126:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -22,6 +22,5 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?type=ws&security
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@210.156.180.102:16090?type=ws&security=tls&encryption=none&fp=chrome&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ab27403b-7de0-4fe3-8b57-7ab3cb583c32@147.45.49.52:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&sid=ea9f32c58bd74201&sni=jp.plus-hit.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.153:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.238.14.152:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
