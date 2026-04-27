@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 168
+# Всего рабочих: 167
 
 vless://0cb69b34-289a-4ad3-9053-37bb81448057@205.237.107.184:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=yAIZa8Fp4M4KR2WgH4fObtHF-JMTCxDNKNib5yIZVmU&sni=to-do.digital#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.155:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -29,13 +29,12 @@ vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@31.57.109.198:2083?type=grpc&securi
 vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ&sid=6635&sni=yahoo.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@185.193.89.62:443?#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1975def1-e345-486c-b4d4-70eb873d9d0c@50.7.244.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&sid=84638c0e&sni=tunnel.vk-apps.com&spx=/#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.230.8:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.220.210:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=t.me/v2Line#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.48:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.24.59:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.205.161:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.60:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.22:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.230.8:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.48:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.220.210:443?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=t.me/v2Line#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.205.161:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;security=reality&amp;sid=01&amp;sni=fuck.rkn&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.79.211:8443?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:443?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.jpmj.dev&host=sni.jpmj.dev#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList

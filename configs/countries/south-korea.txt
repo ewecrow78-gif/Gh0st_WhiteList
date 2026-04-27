@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 138
+# Всего рабочих: 140
 
 trojan://1234567890@220.95.85.46:24289?host=kfm-bn0.pages.dev&path=/%3Fed%3D2560%26https%3A//t.me/WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@222.113.18.214:11310?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -140,6 +140,8 @@ trojan://162534@85.155.176.129:443?ed=2560&eh=Sec-WebSocket-Protocol&host=cchh2.
 trojan://1234567890@220.85.254.226:10162?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.85.254.226:38241?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@220.122.42.198:18781?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2ğŸ‡¨ğŸ‡³#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@138.2.115.214:587?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@114.110.181.49:443?&security=tls&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&type=ws&headerType=none&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/103.6.207.108=8080#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:80/?type=ws&encryption=none&host=chatgpt.com.afrcloud22.mmv.kr&path=/157.245.215.195=8443#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2275e858-8aff-44fe-b816-d85c2ab372e5@afrcloud4.c01.kr:443?encryption=none&security=tls&sni=afrcloud4.c01.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud4.c01.kr&path=/47.254.255.125=443#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList

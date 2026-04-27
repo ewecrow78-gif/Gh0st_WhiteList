@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 55
+# Всего рабочих: 58
 
 trojan://162534@134.209.103.4:443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2ğŸ‡¨ğŸ‡³#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.178.242.195:56311?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -56,7 +56,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.151.227.203:443?type=ws&security
 trojan://162534@139.59.127.117:443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2ğŸ‡¨ğŸ‡³#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.74.195:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.5:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.47.45:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.203:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.163:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053/?type=tcp&security=tls&sni=#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@www.visa.com.sg:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&path=/&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
