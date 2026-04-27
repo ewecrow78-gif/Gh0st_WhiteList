@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 33
+# Всего рабочих: 29
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.107.25:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.246.91.9:443?type=ws&security=tls&encryption=none&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -13,6 +13,7 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@210.156.180.102:16090?type=ws&secur
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.51.110.12:443?type=ws&security=tls&fp=chrome&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-7gj.pages.dev&host=3-7gj.pages.dev&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?allowInsecure=0&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://162534@43.165.190.11:42841?type=ws&host=cchh2.pages.dev&path=/%3Fed%3D2560&security=tls&sni=cchh2.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.246.91.114:443?type=ws&security=tls&encryption=none&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.134.57:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -22,7 +23,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.29.68.206:443?type=ws&security=
 trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.106.228.126:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.238.14.152:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://162534@43.165.190.11:42841?host=cchh2.pages.dev&path=/%3Fed%3D2560&security=tls&sni=cchh2.pages.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://0f2f5807-f819-4aca-8d0b-3b7d032763a6@92.112.53.16:10899?fp=chrome&pbk=aoV1Fd0WDYoiXPuhAxD6UjLhrYKruqiwbPMXzrFQDRs&security=reality&sid=c8&sni=www.google.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.57.172.187:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.246.92.195:443?type=ws&security=tls&encryption=none&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -33,8 +33,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.245.62.4:8443?type=ws&security=t
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.79.85.210:11307?type=ws&security=tls&fp=chrome&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.19.186.66:443?type=ws&security=tls&encryption=none&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@74.82.199.200:10344?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@162.159.38.147:443?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@47.74.14.140:443?type=ws&encryption=none&host=yvl5fy.data-cache.chinam.indevs.in&path=/danfeng?ed=2560fp=chrome&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=yvl5fy.data-cache.chinam.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
