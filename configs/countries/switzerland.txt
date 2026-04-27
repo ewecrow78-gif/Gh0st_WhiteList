@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 26
+# Всего рабочих: 28
 
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@185.195.69.200:8443?#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.95.232.18:8443?#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -17,6 +17,7 @@ vless://400097aa-b508-4e4c-9b6d-4f91924ec919@45.140.205.215:443?encryption=none&
 vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pBuXpWQ1Owy-fOEJZPUzYd-8xBsJB_1S05sLp_YMwzE&security=reality&sid=4929ddcb86e785f7&sni=www.booking.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://4765c728-47cc-42f2-aac0-b9e392e86664@95.163.212.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bhmXYuOivgD85xqBI7NSernxk-lKYqjLpC3jYsMDQgk&security=reality&sid=063bbc645f77&sni=eh.vk.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@140.238.214.247:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@172.64.149.54:8443?&security=tls&sni=Kingdom.turbooo-server.com&type=ws&headerType=none&host=Kingdom.turbooo-server.com&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&spx=%2F&type=raw&headertype=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?security=none&type=ws&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&path=%2F1Y6MN5DFV8zB82Ai%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -30,4 +31,5 @@ vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?security=reality&encryp
 vless://monacoVPN@172.65.111.43:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://40d320d2-f136-4c17-bed7-1a0f1f16b4cf@ch-3-yapi.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&sid=a1b2c3d4e5f6#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://40d320d2-f136-4c17-bed7-1a0f1f16b4cf@ch-3.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&sid=a1b2c3d4e5f6#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://40d320d2-f136-4c17-bed7-1a0f1f16b4cf@fi-3-yapi.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=&pbk=FJ4KCJmIbZw_lLKrIueo8yUEP959xvvCOVXUEc2Zclo&sid=a1b2c3d4e5f6#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://40d320d2-f136-4c17-bed7-1a0f1f16b4cf@ru-7.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=QlQDX8jxqNJE1qtZmaZCDxE7gZqcLlOKdWd5YKNv0Gg&sid=555b9b33d083d3f1&spx=%2Fcdn-cgi%2Ftrace#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
