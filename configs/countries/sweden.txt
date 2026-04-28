@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 139
+# Всего рабочих: 140
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.25.104:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.96.142:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -60,7 +60,6 @@ vless://--LegenderY_Servers--@legendary.zooboming.com:443?security=reality&amp;e
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0a3db5fe-b108-4e5f-b2db-29eec575b11a@62.182.193.35:443?mode=gun&security=reality&encryption=none&pbk=M0exlrUvM2xpjVjZ9lbohQkMcSjeXEJk2D1ziB1yKVw&fp=chrome&spx=%2F&type=grpc&sni=serr-arnrr-1.blook.network&sid=4032dfbb#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0df74c37-d622-4fbc-b7c4-45989e62982e@77.91.84.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=q2NB84y7_VEy3g3FG61o_j_SHqgbZ0WI_V11948VACg&security=reality&sid=c4005cff44259467&sni=ftp.debian.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@h7-83w.pages.dev:443?encryption=none&type=ws&path=%2F&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@nl2.pouriau.com:5310?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://117a6f94-26ca-5879-8b3d-e45c5f14cee7@41.216.182.162:443?type=ws&host=41.216.182.162&path=/vless&security=tls&fp=chrome&sni=zula.ir&allowInsecure=true#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.16.46.12:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=NGINX-H.pages.DEV&amp;fp=randomized&amp;type=ws&amp;sni=NGINX-H.pages.DEV#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -98,6 +97,7 @@ vless://5dad69ad-8d8e-4418-936a-74a3350ed8a0@141.227.160.163:25534?mode=gun&amp;
 vless://642c8b3122424e2b9c14f252d3f5e49c@79.141.174.148:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=CII8qTx-cNDEjvAqdmLhjJKMHP3QFDLtR5bRhzPvels&sid=aabbccdd&fp=random#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6446d42c-6414-40bb-bc6a-129dcc137435@185.146.173.200:443?security=tls&sni=roooos.boyalone1393.workers.dev&type=ws&host=roooos.boyalone1393.workers.dev&path=%2Ffrh1.ilovenano.ir%2FAM2BtcJfrPCJSiFzAOskw1HtQRpS&fp=chrome&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@185.174.133.23:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vk.cc&pbk=FxFMWbtv7hSomOlCSNOekQsDefHaZW_3048XmETcZzo&sid=ff9c7eb0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://772d810c-4886-4475-81b2-2673b682c778@77.91.84.103:443?security=reality&type=tcp&sni=google.com&fp=chrome&sid=9cb177f23e2edd&pbk=HLFSR9-jdtfNAwTx3Sf5JKR4cuuhZqUcOlzjPzIsvXQ&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=/Telegram-XV2ry2?ed=512&amp;security=tls&amp;encryption=none&amp;host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&amp;type=ws&amp;sni=Pages.dev#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.17:80?path=/Telegram-XV2ry2?ed=512&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.1.2.3.48.5.xn--g28h.dns-dynamic.net.&amp;type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://7ba08646-09b3-4295-ac25-fff7f27b07da@NOADS.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=c7f175a94bd79f8d#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -143,4 +143,5 @@ vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?security=reality
 vless://fe945275-51a2-5c3c-8669-2c112ed35cec@185.146.173.24:80?security=none&type=ws&host=Nl1.vless.site.&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://telegram-id-ArV2ray@188.245.72.49:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=ws&amp;sni=h.ftpdeb.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://telegram-id-ArV2ray@70.34.215.82:443?encryption=none&fp=chrome&mode=gun&pbk=_baaRXG2Xm3W10XAoLK6iR4F3hfqbD3NHbU9uE5TGWc&security=reality&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sid=c8a0a331&sni=ftp.debian.org&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@h7-83w.pages.dev:443?encryption=none&type=ws&path=%2F&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0e94c0ee-364f-4392-a113-bfa976a848ec@se-mirror.api.akenai.click:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=se-mirror.api.akenai.click&sid=b91a73752053b039#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
