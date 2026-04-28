@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 547
+# Всего рабочих: 546
 
 vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&sni=max.ru&sid=9ff26c38f9b488#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@176.222.55.84:443?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@185.133.175.70:443?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://4649d681-7f26-4959-a3f2-02eb8866230f@72.56.34.155:9443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298&sni=yahoo.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.226.166.176:443?type=ws&security=tls&encryption=none&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://1234567890@195.133.94.19:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=/?ed=2560&https://t.me/WangCai2ƒü≈∏‚Ä°¬®ƒü≈∏‚Ä°¬≥#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@109.122.202.74:443?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -205,10 +204,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.149.12.238:2096?type=ws&security
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@185.186.244.184:81?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://93747d1e-1a6b-4239-b33b-4048f883a0fb@144.31.14.229:1443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=FYmoNYB6ooHv4Koi3h12YxUInTXHMuQOuWWntJ00skw&sid=c25ddcdb&sni=github.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://1234567890@64.188.97.153:443?ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.97.88.133:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.144.154:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@188.226.160.219:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&encryption=none&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=faa900664bad#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.148.122:2053?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.103.100.127:2053?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://01130dcd-bcda-469b-bd16-fde8a475edab@www.parspack.com:8080?path=/MdVpnSec?ed=2048&amp;security=none&amp;encryption=none&amp;host=MDvpnsec-mdvpnSEC-MDvpnsec.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
