@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 31
+# Всего рабочих: 29
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-7v4.pages.dev&host=3-7v4.pages.dev&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-7gj.pages.dev&host=3-7gj.pages.dev&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -33,6 +33,4 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@23.151.104.39:443?type=ws&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@74.82.199.200:10344?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.57.172.187:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?type=ws&security=tls&encryption=none&sni=ewgruiehoe.pages.dev&host=ewgruiehoe.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.107.25:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@150.230.214.172:16957?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
