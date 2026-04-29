@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 127
+# Всего рабочих: 128
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.125.240.147:2053?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.148.58.153:8443?type=ws&security=tls&encryption=none&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -41,6 +41,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.200.98:443?type=ws&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.22.231.222:443?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.23.200.38:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&sni=www.icloud.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://3ef38efb-7568-4380-ab55-e72674724f17@2.27.23.148:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=AQhB5LgVFJq87Kbavc9qYWwqYYnGx0Bj0ci4TXcboDw&sid=a1b2c3d4&sni=www.google.com&path=&host=#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.45.246.200:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6edb82b2-425a-11f1-8d2f-dc08fb041e0d@78.40.116.124:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=Drg3RJ1fsmdl-mHJg2XAz8sBri58W_xGSA-3ewWcfBU&sni=www.blocket.se&spx=/recommerce#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.186.219.143:2053?type=ws&security=tls&encryption=none&sni=sni.latonyamadeline.ndjp.net&host=sni.latonyamadeline.ndjp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
