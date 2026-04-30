@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 28
+# Всего рабочих: 29
 
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-abf.pages.dev&host=3-abf.pages.dev&ech=cloudflare-ech.com%2Bhttps%3A//dns.alidns.com/dns-query#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -33,3 +33,4 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679?#%F0%9F%87%B0%F0%9
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.250:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.238.17.157:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.48.77.114:22410?type=ws&security=tls&encryption=none&fp=chrome&sni=3-7gj.pages.dev&host=3-7gj.pages.dev&serviceName=&quicSecurity=none#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@114.110.181.49:443?&security=tls&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&type=ws&headerType=none&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList

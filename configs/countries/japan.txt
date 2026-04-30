@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 35
+# Всего рабочих: 37
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.36.105.226:443?type=ws&security=tls&encryption=none&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://162534@43.165.190.11:42841?type=ws&host=cchh2.pages.dev&path=/%3Fed%3D2560&security=tls&sni=cchh2.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -37,6 +37,8 @@ trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&type=ws&ho
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@210.156.180.102:16090?type=ws&security=tls&encryption=none&fp=chrome&sni=2026.hhhhh.eu.org&host=2026.hhhhh.eu.org&serviceName=&quicSecurity=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.78.247.46:26956?type=ws&security=tls&encryption=none&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.106.228.126:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@162.159.38.147:443?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.29.68.206:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@cfxr.eu.org:2053?security=tls&amp;type=ws&amp;path=/danfeng?ed=2560&amp;host=iip26mmf.cdn-edge-jp.chinav.indevs.in&amp;sni=iip26mmf.cdn-edge-jp.chinav.indevs.in&amp;fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
