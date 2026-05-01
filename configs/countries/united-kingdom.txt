@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 240
+# Всего рабочих: 242
 
 vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sid=aabbccdd&sni=apple.com&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.128.164.237:443?type=ws&security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -83,8 +83,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.171.79:443?type=ws&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@68.168.31.169:443?type=ws&security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.30:8880?type=ws&host=vms.lifetime19.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.86.98:2087?type=ws&security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@161.35.47.237:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@212.135.36.241:443?allowInsecure=0&sni=s3vz.user-service.chinav.indevs.in&type=ws&host=s3vz.user-service.chinav.indevs.in&path=/danfengfp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.23.227:2096?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?ed&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://02db10db44e04d6aae77331b0694ac1b@91.231.186.24:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=nytimes.com&pbk=WhRQP6-muqar8s2OsjHGZZnSiG5LEGsp-CGv6wkhdDs&sid=aabbccdd&fp=random#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

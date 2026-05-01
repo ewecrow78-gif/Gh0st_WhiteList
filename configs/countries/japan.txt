@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 36
+# Всего рабочих: 40
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.78.247.46:26956?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.246.91.9:443?type=ws&security=tls&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -41,3 +41,7 @@ trojan://162534@207.65.189.9:443?host=cchh2.pages.dev&path=/?ed=2560&security=tl
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.104.81.253:443?type=ws&security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.245.62.4:8443?type=ws&security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.19.186.66:443?type=ws&security=tls&sni=sni.111000.dns.army&host=sni.111000.dns.army#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@162.159.38.147:443?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://df230a7c-a9ba-4efc-8f9f-ee03bffc4303@node3.jjjjjj.eu.cc:443?encryption=none&type=ws&host=jp2.jjjjjj.eu.cc&path=%2Fjige&security=tls&fp=safari&sni=jp2.jjjjjj.eu.cc#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

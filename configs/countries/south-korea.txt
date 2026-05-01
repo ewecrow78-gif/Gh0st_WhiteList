@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 27
+# Всего рабочих: 26
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://1234567890@211.184.99.67:12309?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=/?ed=2560&https://t.me/WangCai2ƒü≈∏‚Ä°¬®ƒü≈∏‚Ä°¬≥#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -30,5 +30,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.83.227:4443?type=ws&security
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.96:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46578?#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.156.131:14850?type=ws&security=tls&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@124.61.52.107:20024?allowInsecure=1&sni=001.trevely.de5.net&type=ws&host=001.trevely.de5.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://26524cce-d514-4014-a426-365fb266a14d@221.145.251.131:20201?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@138.2.115.214:587?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
