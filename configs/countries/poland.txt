@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 116
+# Всего рабочих: 114
 
 vless://08a20674-fe78-4eae-bcd8-6f44480a3392@144.31.1.141:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&sid=65a0ac4a6d9ff642&sni=pl.prowebcore.ru&alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -110,14 +110,12 @@ vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?encryption=none&t
 vless://9ca55f43-ef86-432c-9170-75e7457af089@pl.spirako.com:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=website.com&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&sid=#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a15840dc-6888-476f-bd51-b26ce4e00838@54.38.136.254:443/?type=grpc&encryption=none&serviceName=speed.cloudflare.com&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GsxVeXHFXdVX6R6DiRUPUmAXWJ4kNVs22whPsN4_SDg&sid=3df4ed37#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sni=cdn.cdnjst.org&sid=a120#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.246.235:443?security=reality&encryption=none&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&headerType=none&fp=chrome&spx=%2FolfnlVdYHQfVtcZ&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=8e844109efac63#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://cba08f90-6b6e-4f51-8d07-d9dc01624706@51.38.129.192:54217?security=reality&encryption=none&pbk=RviJb4RJy0JTMTcslnAJkgXcZZGNcFDxM_niM_kV61k&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=58ce1e2f7889b6#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?encryption=none&type=ws&host=sinavm.ir&path=/&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?encryption=none&type=ws&host=sinavm.ir&path=/&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.82.255.32:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://f5a3bf49-07ca-4f96-a96b-9606781e3600@185.16.36.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=8c2d9e1f&sni=www.amd.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f7419793-2329-4ac7-bdee-e178ffb27848@146.59.80.70:2087?security=reality&encryption=none&pbk=u3dvb0vUFqZE2TdFjB4WHk99pCHidgq6tYGfppTvNCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=3c#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f94af1ad-fd91-4d6f-a0b0-281c7762debf@144.31.4.13:443?type=grpc&security=reality&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=3edbf8c91124efa9&sni=pl.moktana.app&serviceName=xyz#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
