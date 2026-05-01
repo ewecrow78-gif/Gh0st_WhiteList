@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 117
+# Всего рабочих: 116
 
 vless://08a20674-fe78-4eae-bcd8-6f44480a3392@144.31.1.141:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&sid=65a0ac4a6d9ff642&sni=pl.prowebcore.ru&alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -70,7 +70,6 @@ vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?type=raw&securit
 trojan://8r%3C%5B9%27l6hAO%238ZQi@38.180.227.149:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://08a20674-fe78-4eae-bcd8-6f44480a3392@144.31.0.129:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JoIT56dCrKkeYJWSPA6-rllSqlXYKPg1rC2w7D_xogU&sid=65a0ac4a6d9ff642&sni=pl.prowebcore.ru&alpn=http/1.1#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@82.118.22.141:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://248981d6-8044-40c2-b501-b4547cf153af@mahsa2.afdiran.org:443?hiddify=1&sni=mahsa2.afdiran.org&type=ws&alpn=h2&path=/G4fjFBtvJKagDEz9zGbmOX0O&host=mahsa2.afdiran.org&encryption=none&fp=chrome&headerType=None&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
