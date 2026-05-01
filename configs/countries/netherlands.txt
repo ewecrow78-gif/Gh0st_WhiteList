@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1740
+# Всего рабочих: 1738
 
 vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&sni=max.ru&sid=9ff26c38f9b488#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.229.111:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -117,7 +117,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@142.93.131.113:2087?host=Koma-YT.PAGeS.Dev&pat
 trojan://8r%3C%5B9%27l6hAO%238ZQi@79.137.197.174:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?fp=chrome&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&security=reality&sid=07&sni=www.google.com&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@142.93.225.99:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.180.133.83:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.227.68.55:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.253.25.189:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.163:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -640,7 +639,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@212.34.155.252:2053?host=Koma-YT.PAGeS.Dev&pat
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.70.55.165:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.226.133.127:2087?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.15:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.246.152.159:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.149.78.144:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.18.52.77:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.125.78.74:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -1401,8 +1399,9 @@ ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@194.87.82.149:443?
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.114.63.114:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@147.45.50.2:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@89.46.131.91:443?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.149.232:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&encryption=none&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=faa900664bad#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.103.100.127:2053?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.148.122:2053?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -1744,4 +1743,3 @@ vless://join---telegram---V2ray_Vpn_ir@89.208.106.69:443?security=reality&encryp
 vless://nothing_88147cqsru@188.253.26.39:442?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&sid=6ac998b514#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://v2ray_configs_pools___TELEGRAM@79.137.195.203:8080?path=/TELEGRAM_BYA_CHANEL_v2ray_configs_pools-v2ray_configs_pools-v2ray_configs_pools?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://id1179149083@89.110.82.242:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=qq&pbk=1IuDpztA9hI60fSkFb9WHVu17PvFRohhyjcB4HLKM3M&sid=22ead09027756e&type=tcp&headerType=none&name=0031+|+🏳️+VK+|+🇳🇱+Netherlands+|+VLESS+|+TG:+@YoutubeUnBlockRu#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.110.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
