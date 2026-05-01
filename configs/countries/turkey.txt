@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 28
+# Всего рабочих: 26
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@155.103.71.153:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.98.115.64:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
@@ -27,9 +27,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@93.115.10.237:8443?host=Koma-YT.PAGeS.Dev&path
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.11.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime18.workers.dev#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.210.43.105:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.11.191:2096?allowInsecure=1&type=ws&security=tls&encryption=none&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@turkey.aftabix.com:1307?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@tr2.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sni=tr2.tunnely.ru&sid=2e40144ddc07e8e1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://a9a78ac8-99f0-4a9d-aaf4-1c84e5154f09@cdn2.sensishop.com.tr:2082?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@ip1.foxline.ir:443?path=/?ed=2048&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;insecure=1&amp;host=day-light.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=day-light.global.ssl.fastly.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

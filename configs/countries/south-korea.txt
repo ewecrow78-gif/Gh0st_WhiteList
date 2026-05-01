@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 643
+# Всего рабочих: 641
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@118.43.224.52:29876?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
@@ -645,6 +645,4 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@59.10.34.58:32412?host=Koma-YT.PAGeS.Dev&path=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@118.36.141.27:12345?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@211.199.27.72:10002?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@59.14.250.163:18852?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bec5cd4-b4c5-47d7-b2ce-ce3589764f89@124.61.52.107:20024?allowInsecure=1&sni=001.trevely.de5.net&type=ws&host=001.trevely.de5.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/103.6.207.108=8080#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:80/?type=ws&encryption=none&host=chatgpt.com.afrcloud22.mmv.kr&path=/157.245.215.195=8443#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@220.123.86.198:27015?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
