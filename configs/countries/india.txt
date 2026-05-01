@@ -3,14 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 8
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3@185.67.125.109:11201?#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?type=ws&host=vms.lifetime61.workers.dev#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?allowInsecure=0&type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.149.135.30:8880?type=ws&host=vms.lifetime56.workers.dev#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970?#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://a10040c6-5747-5e17-9667-172a0632cb7b@45.89.106.4:8443?type=xhttp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=ads.x5.ru&path=/xhttp&mode=stream-one#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?type=ws&host=vms.lifetime61.workers.dev#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.149.135.30:8880?type=ws&host=vms.lifetime56.workers.dev#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@103.17.193.224:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=id.fasti.win&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@nhju.ae1autumn.indevs.in:443/?type=ws&path=#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
