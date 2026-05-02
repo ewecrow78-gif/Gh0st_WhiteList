@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 178
+# Всего рабочих: 177
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.236.230:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&sid=98c3d62ba1c26863&sni=www.argos.co.uk&path=/#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443?#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -39,7 +39,6 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?encryption=none
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@91.108.244.59:443?encryption=none&host=sni.111000.de5.net&security=tls&sni=sni.111000.de5.net&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://1d383ffa9ede439c98e7c8664151d840@194.110.246.184:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=Wu4dUD2JOPTF2ICQNtl0RuJ44O--XwDgpyVfD6MVKS8&sid=aabbccdd&fp=random#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://2452c5b1-26b3-4265-a2d8-818f62685f97@25.129.199.122:2087?path=/graphql&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cloudali.sudo-network.xyz#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&type=ws&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F&security=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://281d153a-2fae-4725-84ed-602fb3627ca6@5.181.21.101:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.187:2086?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -85,6 +84,7 @@ vless://6babb657-1524-43bb-b421-11bda27bc9de@185.170.166.51:2087?security=tls&sn
 vless://6d685c3d-153e-4b9a-98a9-134dd814cd54@83.147.18.179:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&sid=5bef46444e87&spx=/&type=tcp&headerType=http&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6faef4dc-cc11-4380-9ee0-551ffdf21d01@141.227.174.26:32417?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://71b0fd5c-e472-4dfb-93c3-b8a907cc9abf@138.68.149.232:18903?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://74e5c125-9e20-4860-b735-9453080f4c28@ip2.nofiltering2.sbs:8880?path=/&security=none&encryption=none&host=v2box.aaaaa1.sbs&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://769c1301-9a0c-5564-a018-0559e6eef91b@190.93.247.119:80?path=/vless&amp;security=none&amp;encryption=none&amp;host=Uk2.vless.site.&amp;type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -108,7 +108,6 @@ vless://948478ae-abe5-526c-ae4c-6590ad926f3d@45.150.67.46:443?security=reality&e
 vless://9cab5397-59a5-4eb5-8833-805dd57c6eb8@uk.srv1.darinips.lat:3443?security=reality&amp;encryption=none&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?security=none&type=grpc&serviceName=DarkTeam_VPN#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.pages.dev&type=ws&allowInsecure=0&sni=y6-3cj.pages.dev#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443/?type=ws&encryption=none&path=%2Fmucowsws&security=tls&sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=la.ylks01.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.122.76:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
