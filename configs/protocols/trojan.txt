@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1009
+# Всего рабочих: 1012
 
 trojan://_dhOY6Vh7R-eKCZxceUhmA@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://KKWeEfu6Ls2nixnyi3uFtA@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -50,31 +50,25 @@ trojan://mSzFVhUczD@104.20.5.134:443?type=ws&security=tls&sni=abest.api-tel.xyz&
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://af4b064a9c39472fb34ad8b113acdc6b@156.244.6.115:443?security=tls&sni=156.244.6.115#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@13.36.135.179:22223?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@15.236.94.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@52.57.232.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@52.47.190.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@15.236.176.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@13.39.116.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@3.120.56.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@51.44.115.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@63.184.147.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@35.158.91.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@52.47.129.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@51.45.39.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@13.38.248.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@51.45.39.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@52.47.129.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@35.158.91.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@63.184.147.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@51.44.115.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@3.120.56.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@13.39.116.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@15.236.176.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@52.47.190.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@52.57.232.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@15.236.94.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://BxceQaOe@43.198.13.210:41973?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://BxceQaOe@54.46.4.240:38780?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.57.120.114:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://BxceQaOe@52.198.36.96:3685?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://BxceQaOe@43.198.82.20:1275?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://BxceQaOe@95.40.19.36:38692?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://162534@161.33.197.118:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://4542de1e-a966-4a31-9630-3afbe560f516@idt3.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://0e0d29a3-6033-4041-b076-cf5ae0fe35b9@ltt1.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://ccBIufLBGd@ge1.v2vml.ga:16548#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@13.49.80.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.180.65.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -85,6 +79,14 @@ trojan://telegram-id-privatevpns@3.75.191.68:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.253.54.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@16.16.66.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.249.216.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://BxceQaOe@52.198.36.96:3685?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://BxceQaOe@43.198.82.20:1275?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://BxceQaOe@95.40.19.36:38692?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@161.33.197.118:443?allowInsecure=1&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://4542de1e-a966-4a31-9630-3afbe560f516@idt3.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://0e0d29a3-6033-4041-b076-cf5ae0fe35b9@ltt1.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://hSA6YXe15O@104.11.86.252:443?security=tls&amp;sni=Telegram������������+@WangCai2&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://162534@85.155.176.129:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@198.13.62.34:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -107,12 +109,12 @@ trojan://162534@138.124.111.115:443?security=tls&sni=cchh2.pages.dev&insecure=1&
 trojan://162534@217.60.248.59:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@46.8.226.108:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?host=free-v7-09.elbrusway.online&path=/trojan-dagestan&security=tls&sni=free-v7-09.elbrusway.online&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://6b86c305-4a31-4a60-b2e2-82ff8a23b456@svip-jp.xiaobaivpn.icu:28803?sni=svip-jp.xiaobaivpn.icu&peer=svip-jp.xiaobaivpn.icu&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?sni=HL-FREEDOM-2.UNDEF.NETWORK&host=hl-freedom-2.undef.network&security=tls&type=ws&path=/f2fc2a1f#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+trojan://6b86c305-4a31-4a60-b2e2-82ff8a23b456@svip-jp.xiaobaivpn.icu:28803?sni=svip-jp.xiaobaivpn.icu&peer=svip-jp.xiaobaivpn.icu&security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.15.140.128:4443?security=tls&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://b258245c-e64d-4a5f-913f-a6761d0ef110@free-v7-09.elbrusway.online:443?host=free-v7-09.elbrusway.online&path=/trojan-osset&security=tls&sni=free-v7-09.elbrusway.online&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://e70415c6-d937-4e67-975a-ffa84f486fda@svip-hg.xiaobaivpn.icu:28807?allowInsecure=1&type=tcp&security=tls&sni=svip-hg.xiaobaivpn.icu#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/@anonymouskeys&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome&allowInsecure=#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://4Jt6CN%2321.rzQjTEUeDHM@217.170.199.80:21363/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.16.147.104:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://2f201f44-c107-45fb-b898-1c0c28e30edd@92.38.145.145:443?security=tls&sni=#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1111@8.35.211.134:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jayag42786.workers.dev&security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -294,6 +296,7 @@ trojan://telegram-id-directvpn@51.44.115.172:22223?security=tls&amp;alpn=http/1.
 trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?security=tls&sni=ads.x5.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://sEFZDaHF-DgzUfjBenh2_43Mq-5guG22@45.12.62.62:60800?fp=chrome&host=144.31.151.101&mode=auto&pbk=mQYffVOT9WjeMOt3OidRFhRHnXpPg5B4Det191XOOw0&security=reality&sid=46de700d6dd1c5c8&sni=web.max.ru&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1234567890@84.200.192.87:2053?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=/?ed=2560&https://t.me/WangCai2ƒü≈∏‚Ä°¬®ƒü≈∏‚Ä°¬≥#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@uk2-full.privateip.net:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1234567890@77.90.63.208:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
