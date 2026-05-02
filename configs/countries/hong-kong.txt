@@ -3,8 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 2
 
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.127.218:443?security=reality&type=tcp&sni=wcs.adobe.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://38114739-05e0-4c58-be61-7a501488569c@207.57.128.27:8081?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=bilDohzULHmvZE7BP9ym6URVT6R1DM06v2LLqNo7lh0&sni=aws.amazon.com&sid=a1b2c3d4#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.166.188:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=www.debian.org#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList

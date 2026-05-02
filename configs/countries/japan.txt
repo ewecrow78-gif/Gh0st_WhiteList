@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 16
+# Всего рабочих: 21
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.165.190.11:42841?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -19,5 +19,10 @@ vless://981fca81-5be1-41f8-ac9b-d138e8109943@64.81.114.61:54321?type=ws&security
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.108.30:8880?type=ws&host=vms.lifetime40.workers.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.133.23.88:8388?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://162534@158.101.132.216:8443?host=cchh2.pages.dev&sni=cchh2.pages.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.153:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://414ba55d-c453-4f42-bae7-c88a89307308@jp-nrt-1.blook.network:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp-nrt-1.blook.network&fp=chrome&pbk=K64BDKK1ZIZis2nnBKhkhT-0Lo7iszkU9An2ydlIXQM&sid=990dd674&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@cfxr.eu.org:2053?security=tls&amp;type=ws&amp;path=/danfeng?ed=2560&amp;host=iip26mmf.cdn-edge-jp.chinav.indevs.in&amp;sni=iip26mmf.cdn-edge-jp.chinav.indevs.in&amp;fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://df230a7c-a9ba-4efc-8f9f-ee03bffc4303@node3.jjjjjj.eu.cc:443?encryption=none&type=ws&host=jp2.jjjjjj.eu.cc&path=%2Fjige&security=tls&fp=safari&sni=jp2.jjjjjj.eu.cc#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 29
+# Всего рабочих: 27
 
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.201:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?type=ws&host=vms.lifetime17.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -15,14 +15,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?type=ws&host=vms.
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.38.30:8880?type=ws&host=vms.lifetime15.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.79.30:8880?type=ws&host=vms.lifetime35.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@23.173.104.207:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2052?encryption=none&host=index.0x14.workers.dev&path=/assets&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.13.31:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sany.tara132.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=sany.tara132.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.227:2053?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.209.62:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.245.62.4:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.128.76.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://---Telegram-Parsashonam--4-@Speed.Tel-Parsashonam.Website:2087?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=Finland.Parsashonam.Tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -32,5 +30,5 @@ vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO
 vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://eace2c79-3d2a-4a45-9b4c-42c037dea807@metrix.anvary.ir:443?encryption=none&security=tls&sni=Rus.Melov2ray.Shop&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@melov2ray&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://f101b640-389e-4067-baa8-f254114f09cd@v2cuvs.ddns.net:2096?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mci-tci-germany.netguardians.xyz&fp=chrome&type=ws&sni=mci-tci-germany.netguardians.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://04a68729-bbc6-454d-869f-a44de1da7c8d@172.66.213.38:80?path=/&amp;security=none&amp;encryption=none&amp;host=store.kellekcollection.com&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?path=/&amp;security=tls&amp;encryption=none&amp;host=FIltEr-1tg.pagEs.DeV&amp;type=ws&amp;sni=filTer-1tg.pAges.DeV#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://04a68729-bbc6-454d-869f-a44de1da7c8d@172.66.213.38:80?path=/&amp;security=none&amp;encryption=none&amp;host=store.kellekcollection.com&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
