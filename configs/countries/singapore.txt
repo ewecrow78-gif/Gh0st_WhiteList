@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 24
 
 trojan://162534@140.245.107.0:8443?ed=2560&eh=Sec-WebSocket-Protocol&host=cchh2.pages.dev&sni=cchh2.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUDZDbzdNc2JKRjl3TXVENDd0TWJR@104.64.223.116:54321?#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -16,10 +16,16 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@172.104.186.18:8443?type=ws&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.53.53.30:8880?type=ws&host=vms.lifetime51.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@172.104.191.150:443?type=ws&security=tls&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@149.104.6.78:8443?type=ws&security=tls&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://a10040c6-5747-5e17-9667-172a0632cb7b@5.34.176.239:8443?type=xhttp&security=reality&fp=chrome&pbk=BuF6JOGZ4v6IAomwXNGNDuaQi11oxWEsfDzDkGyvHzg&sid=565d95e1&sni=ads.x5.ru&path=/xhttp&mode=stream-one#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.234.233.57:35911?type=ws&security=tls&sni=3-7gj.pages.dev&host=3-7gj.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@116.251.216.23:8443?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@47.237.71.245:15430?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.23:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.184:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053/?type=tcp&security=tls&sni=#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://03994876-4f0b-4353-ce21-3c0c6d3e0526@blog.cloudflare.com:2086?path=/AsuS.CoM?ed=24946&amp;security=none&amp;encryption=none&amp;host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-837787.lavazemkhoshina.ir.&amp;type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
