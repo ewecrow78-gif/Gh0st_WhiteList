@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 29
+# Всего рабочих: 31
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.47.111.141:30218?type=ws&security=tls&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.78.247.46:26956?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -29,8 +29,10 @@ vless://ab2f5b91-9cfd-4989-af25-353d4d69372c@jp4.srv.cdnopl.link:8443?type=tcp&s
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@154.36.179.170:21120?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sni=cloudcircus.jp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@47.74.14.140:443?type=ws&encryption=none&host=yvl5fy.data-cache.chinam.indevs.in&path=/danfeng?ed=2560fp=chrome&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=yvl5fy.data-cache.chinam.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@162.159.38.147:443?host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=snippet.fgfw.loc.cc&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://26524cce-d514-4014-a426-365fb266a14d@54.150.83.221:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://33bd10ce-b044-4b7d-8d24-4843d52a8f73@vps-orange-jpn.maze-maker.com:443?encryption=none&fp=chrome&host=www.microsoft.com&mode=auto&path=/&pbk=i2woqyB_equDtt2Vr4QPgehnb4quPd8aD8SsYuqFeyo&security=reality&sid=0123456789abcdef&sni=www.microsoft.com&spx=/&type=xhttp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.134:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-oth-1.edgeflux.ru&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://75807638-6f19-0190-ae08-38492ee85c88@87.228.92.135:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-oth-1.edgeflux.ru&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
