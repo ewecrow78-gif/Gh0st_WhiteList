@@ -5,11 +5,11 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 9
 
-vless://bdc46c88-06c8-4c2d-b1ab-17183486413a@212.68.49.37:443?type=grpc&security=reality&fp=chrome&pbk=nkOo91oXUu2CLGfQpwLsB57Z9KhKrEcqb1xlEjJFnmk&sid=d818146e&sni=trrr-istrr-2.blook.network&serviceName=grpc&spx=/#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&sid=d4356669ea880400&sni=store.steampowered.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119?#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://bdc46c88-06c8-4c2d-b1ab-17183486413a@212.68.49.37:443?type=grpc&security=reality&fp=chrome&pbk=nkOo91oXUu2CLGfQpwLsB57Z9KhKrEcqb1xlEjJFnmk&sid=d818146e&sni=trrr-istrr-2.blook.network&serviceName=grpc&spx=/#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://387f47df-bf04-47a2-9147-dd701dff3fbf@31.210.53.121:443?allowInsecure=1&type=xhttp&security=tls&fp=chrome&sni=tr-ist-11-x.blook.network&path=/VLSpdG9k&mode=auto&extra={"noGRPCHeader":true,"scMaxConcurrentPosts":100,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000"}&alpn=h2#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@turkey.aftabix.com:1307?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
