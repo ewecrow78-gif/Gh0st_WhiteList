@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 987
+# Всего рабочих: 988
 
 trojan://_dhOY6Vh7R-eKCZxceUhmA@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://KKWeEfu6Ls2nixnyi3uFtA@216.105.168.58:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -54,7 +54,6 @@ trojan://telegram-id-directvpn@13.36.135.179:22223?security=tls&alpn=http/1.1&ty
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.159.185.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.158.91.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -67,8 +66,10 @@ trojan://telegram-id-privatevpns@52.47.190.65:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.180.113.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.181.72.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@15.188.112.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@63.184.19.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://BxceQaOe@43.198.13.210:41973?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://BxceQaOe@54.46.4.240:38780?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.57.120.114:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://ccBIufLBGd@ge1.v2vml.ga:16548#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
