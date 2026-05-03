@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 153
+# Всего рабочих: 149
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.159.99.137:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3mzvB6oezGe8hhBCVkXs4HIH1nkiPc3QCMurERaB_Ro&sid=b87063a35aaa942e&sni=www.cdiscount.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&sid=ad3c6641d540b4e1&sni=www.laposte.fr#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -20,10 +20,6 @@ vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?type=tcp&securit
 vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@45.92.218.65:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1235d730-707c-4a11-8ce3-ebb17561564b@45.12.133.207:443?type=raw&security=reality&fp=chrome&pbk=0T96I8dvAUF7BxhbwTp0PfFfy9AHFDsXXpwDnP0i224&sid=4dd1&sni=yahoo.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@35.180.146.148:22223?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@62.60.156.139:8443?type=ws&security=tls&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&allow_insecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://60f08b02-9a8e-4dbb-8ab2-0f631a01232c@103.112.171.178:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=3100b9f4d458f240&sni=franSkvad2.normbot.ru#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.36.135.179:22223?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://02663a90-d01c-46f1-afba-466ed79c30f6@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr123.global.ssl.fastly.net&path=%2F%3Fed%3D2560&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://031884db-e31b-4909-b83c-1dfbb84e7931@62.60.248.14:28485?mode=gun&security=reality&encryption=none&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&fp=chrome&spx=%2F&type=grpc&serviceName=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&sni=tgju.org&sid=dc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -33,7 +29,6 @@ vless://0afa42bd-838e-42ca-a36b-24ca2e5c5a69@filmnet.filimnet.com:80/?type=xhttp
 vless://0ee3d06e-a584-4fd4-bada-1b8fa049df77@fr.snappfr.nikastoring.ir:2020?security=none&type=tcp&headerType=http&path=/&host=goftino.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096?security=reality&sni=dalfak.com&type=http&path=%2F&fp=chrome&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&sid=a56f693ce784b4cc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:100?security=none&type=grpc&headerType=&serviceName=1081vless&authority=&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.11.203.238:2096?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -72,7 +67,6 @@ vless://600eb54d-d31a-4c57-b438-d1e486e8fcd7@146.70.88.7:48736?security=none&typ
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.253.60:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.7-zip.org&pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&sid=d72dc8a0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -147,6 +141,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-a
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.186:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.7:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -158,3 +153,4 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@86.104.74.158:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@fr.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ff3c6dcf-08ae-4165-a2a9-00cb9e7c361e@193.233.133.166:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;allowInsecure=1&amp;fp=chrome&amp;security=reality&amp;pbk=PgDz7FY2A1E-3wc77XVnCd3nOeoJMz-hKi-ZeAjhAxA&amp;sid=980305d865849874#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://50ecc086-79de-4ff8-9782-66ab1f8482d4@5.101.81.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sid=&sni=www.microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
