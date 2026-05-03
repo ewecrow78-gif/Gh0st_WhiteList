@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 16
 
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=tcp&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -12,7 +12,6 @@ vless://10c37b39-4382-4b03-8c9c-b456152151be@193.24.235.214:443?type=tcp&securit
 vless://1a452b02-7302-432c-a20c-1bd9ef18c416@fs.ir-sub.fun:80?path=/ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;security=none&amp;encryption=none&amp;host=zedd4.global.ssl.fastly.net&amp;type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2aa2dba0-e0f7-4ab5-9c92-edadf9ce524c@141.227.128.192:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?security=tls&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=%2F%3Fed%3D2048#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6f5dc8cd-ce94-4438-a139-48766358040b@141.227.128.176:20725?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://72615705-3061-4f03-9389-01369d9c67a4@154.58.204.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://727858db-4c63-258e-dbf8-0135c875533e@bestguy6.online:443?path=/dazkws&amp;security=tls&amp;encryption=none&amp;host=bestguy6.online&amp;type=ws&amp;sni=bestguy6.online#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList

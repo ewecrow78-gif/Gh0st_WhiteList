@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 60
+# Всего рабочих: 61
 
 vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.1.10:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -18,6 +18,7 @@ vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.1.10:753?type=tcp&security=r
 vless://b3551b53-6fd7-4578-b248-6bf4a4744492@82.22.40.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&sid=578dc0c4&sni=pl-waw-1.blook.network&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://248981d6-8044-40c2-b501-b4547cf153af@mahsa2.afdiran.org:443?hiddify=1&sni=mahsa2.afdiran.org&type=ws&alpn=h2&path=/G4fjFBtvJKagDEz9zGbmOX0O&host=mahsa2.afdiran.org&encryption=none&fp=chrome&headerType=None&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
