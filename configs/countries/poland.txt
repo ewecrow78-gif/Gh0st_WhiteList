@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 67
+# Всего рабочих: 68
 
 vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.0.145:753?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@178.17.59.67:2066?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&sid=d18f4e&sni=apple.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -17,6 +17,7 @@ vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?type=ws#%F0%9F%8
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.49:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.49:30086?type=grpc&serviceName=gprc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@150.251.113.108:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.brynbryn.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0bc59ed3-f64f-406c-b04a-3d11f33ab7f1@45.15.128.122:4443?type=tcp&security=reality&fp=qq&pbk=KXrCLOog-54F6MPcbz1eT6QhYrLFlST_2G_DFZd1C20&sid=aa5473&sni=www.icloud.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.1.10:753?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b3551b53-6fd7-4578-b248-6bf4a4744492@82.22.40.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&sid=578dc0c4&sni=pl-waw-1.blook.network&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
