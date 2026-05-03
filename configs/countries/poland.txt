@@ -3,22 +3,20 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 61
+# Всего рабочих: 60
 
-vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.1.10:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://2649abcd-f443-4f0a-b710-db3499caa1fb@45.15.128.129:4443?type=tcp&security=reality&fp=chrome&pbk=7un0zVObk77G0OThCOzawuFhkYMCRGy6irJOWPLzWkI&sid=54&sni=www.intel.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@178.17.59.67:2066?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&sid=d18f4e&sni=apple.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.0.145:753?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://0bc59ed3-f64f-406c-b04a-3d11f33ab7f1@45.15.128.122:4443?type=tcp&security=reality&fp=qq&pbk=KXrCLOog-54F6MPcbz1eT6QhYrLFlST_2G_DFZd1C20&sid=aa5473&sni=www.icloud.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://8a2bae59-e1a3-4f2d-a2bc-6521e6258b18@45.15.128.121:4443?type=tcp&security=reality&fp=chrome&pbk=11RtIrqAxEQvXi2CE38KrAGkM-nm7KSWPnpSr1eiiE4&sid=6abde6a1&sni=www.oracle.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?type=raw&security=reality&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&sni=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@178.17.59.67:2066?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&sid=d18f4e&sni=apple.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.1.10:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://2649abcd-f443-4f0a-b710-db3499caa1fb@45.15.128.129:4443?type=tcp&security=reality&fp=chrome&pbk=7un0zVObk77G0OThCOzawuFhkYMCRGy6irJOWPLzWkI&sid=54&sni=www.intel.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?type=raw&security=reality&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&sni=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8a2bae59-e1a3-4f2d-a2bc-6521e6258b18@45.15.128.121:4443?type=tcp&security=reality&fp=chrome&pbk=11RtIrqAxEQvXi2CE38KrAGkM-nm7KSWPnpSr1eiiE4&sid=6abde6a1&sni=www.oracle.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://0bc59ed3-f64f-406c-b04a-3d11f33ab7f1@45.15.128.122:4443?type=tcp&security=reality&fp=qq&pbk=KXrCLOog-54F6MPcbz1eT6QhYrLFlST_2G_DFZd1C20&sid=aa5473&sni=www.icloud.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://2112303e-6580-40c5-adeb-885b6e7c3517@144.31.1.10:753?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.nvidia.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b3551b53-6fd7-4578-b248-6bf4a4744492@82.22.40.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&sid=578dc0c4&sni=pl-waw-1.blook.network&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://248981d6-8044-40c2-b501-b4547cf153af@mahsa2.afdiran.org:443?hiddify=1&sni=mahsa2.afdiran.org&type=ws&alpn=h2&path=/G4fjFBtvJKagDEz9zGbmOX0O&host=mahsa2.afdiran.org&encryption=none&fp=chrome&headerType=None&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -57,6 +55,7 @@ vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@151.115.123.226:443?type=tcp&encryp
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?encryption=none&type=raw&headerType=none&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9ca55f43-ef86-432c-9170-75e7457af089@pl.spirako.com:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=website.com&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&sid=#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a15840dc-6888-476f-bd51-b26ce4e00838@54.38.136.254:443/?type=grpc&encryption=none&serviceName=speed.cloudflare.com&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GsxVeXHFXdVX6R6DiRUPUmAXWJ4kNVs22whPsN4_SDg&sid=3df4ed37#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.246.235:443?security=reality&encryption=none&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&headerType=none&fp=chrome&spx=%2FolfnlVdYHQfVtcZ&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=8e844109efac63#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
