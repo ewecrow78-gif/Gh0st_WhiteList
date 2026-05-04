@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 143
+# Всего рабочих: 144
 
 trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443?security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=ya.ru&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://f8a6ccdaf2f8474b8287a43757951293@51.250.87.19:9443?security=reality&pbk=AgE09mNrPAe9eidpIgw9gVKLC71TgG4L4ctuB3wttiw&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=5post-gate.x5.ru&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -15,36 +15,37 @@ trojan://0iLjwhuOCB@85.209.134.118:54134?type=tcp&security=reality&pbk=cp6OVdvIc
 trojan://SuPCmvdWOB@83.219.250.21:53127?type=tcp&security=reality&pbk=dbZ9FYncIWm_1V89_r9rr08zoKitv-yF4YZGKyG-2RE&fp=chrome&sni=www.vk.ru&sid=dc&spx=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://cc8da52f7c2b4a2a9bb886ec595fe285@62.113.114.116:9443?fp=random&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&security=reality&sid=aabbccdd&sni=ya.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://strong-secret-pass-777@45.12.146.179:4443?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@63.184.19.242:22222?security=tls&alpn=http/1.1&type=tcp&sni=🔒#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://nodes-e75af875@node-jp-1.v2sv.top:8443?security=tls&sni=node-jp-1.v2sv.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@104.21.40.34:443/?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://M7v%w11Se*@amanm.wsone.icu:443?security=tls&sni=amanm.wsone.icu#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://BxceQaOe@116.80.80.121:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259/?type=tcp&security=tls&sni=ads.x5.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://strong-secret-pass-777@45.12.146.179:4443?security=tls&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?sni=jp2-8sb.6121999.dpdns.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=0&sni=hl-freedom-1.undef.network#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://BxceQaOe@116.80.61.224:443?sni=🔒#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@13.39.30.161:22222?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?type=tcp&fm={"quicParams":{"congestion":"brutal","brutalUp":"500+mbps","brutalDown":"500+mbps","initStreamReceiveWindow":8388608,"maxStreamReceiveWindow":8388608,"initConnectionReceiveWindow":20971520,"maxConnectionReceiveWindow":20971520,"maxIncomingStreams":1024}}&security=tls&fp=qq&alpn=h2,http/1.1&sni=yespaintstudio.rav-kraski.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=ads.x5.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://bpb-trojan@russia.com:443?security=tls&sni=6982410.xyz&alpn=h3&type=ws&host=6982410.xyz&path=/tr#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@13.39.30.161:22223?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@13.39.30.161:22222?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://162534@140.245.107.0:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@63.184.19.242:22222?security=tls&alpn=http/1.1&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+trojan://pvgdMYdDKY@yespaintstudio.rav-kraski.ru:56048?security=none&fp=chrome&type=xhttp&path=/56048/media&host=yespaintstudio.rav-kraski.ru&mode=auto&extra={#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?type=tcp&fm={"quicParams":{"congestion":"brutal","brutalUp":"500+mbps","brutalDown":"500+mbps","initStreamReceiveWindow":8388608,"maxStreamReceiveWindow":8388608,"initConnectionReceiveWindow":20971520,"maxConnectionReceiveWindow":20971520,"maxIncomingStreams":1024}}&security=tls&fp=qq&alpn=h2,http/1.1&sni=yespaintstudio.rav-kraski.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://BxceQaOe@116.80.61.224:443?security=tls&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://162534@139.180.143.248:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=🔒#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://8b45d379-702f-41b3-a6b2-9c87a01dcd5c@23.227.38.178:443?security=tls&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&path=/images#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://BxceQaOe@116.80.80.121:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@63.184.19.242:22223?alpn=http/1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://M7v%w11Se*@dggg.wsone.icu:443?security=tls&sni=dggg.wsone.icu&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://03mpolj39zyewzufal2r@51.75.86.196:55646?security=tls&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?security=tls&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&host=q6clkp794liy3y90.hktimecsgo.xyz&path=/images#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://bpb-trojan@russia.com:443?security=tls&sni=bpb.wdgg1979.nyc.mn&alpn=h3&type=ws&host=bpb.wdgg1979.nyc.mn&path=/tr#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?security=tls&sni=hyfuuf6.wsone.icu&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.39.30.161:22223?security=tls&alpn=http/1.1&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://pvgdMYdDKY@yespaintstudio.rav-kraski.ru:56048?security=none&fp=chrome&type=xhttp&path=/56048/media&host=yespaintstudio.rav-kraski.ru&mode=auto&extra={#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://LF5GhgQ2WKBMU14WBdalJw@92.119.166.167:3554?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://nodes-e75af875@node-jp-1.v2sv.top:8443?security=tls&sni=node-jp-1.v2sv.top&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-trojan://162534@139.180.143.248:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?allowInsecure=0&sni=HL-FREEDOM-1.UNDEF.NETWORK&ws=1&wspath=/f2fc2a1f#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?sni=hyfuuf6.wsone.icu&peer=hyfuuf6.wsone.icu&security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@15.188.230.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@18.192.237.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.47.165.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
