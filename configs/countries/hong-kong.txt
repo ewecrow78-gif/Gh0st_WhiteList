@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 4
 
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://d82595e5-e41f-4f92-a5be-06173d7e8052@5.102.124.89:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lIXzhYg3mhR9wY_qQG4H6O7nffkq4A3gUa8LWO6DkTo&sid=f977afd3&sni=www.apple.com.cn#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://50ecc086-79de-4ff8-9782-66ab1f8482d4@85.11.161.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sid=&sni=www.microsoft.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://6f12d0af-f18b-4a28-b823-de89bfdea286@china.ardor-cloud.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=LuZbQEf8AQv-qzyLY1MTqN5dKcLnQbL5zWpc48X5_V8&security=reality&sid=15bf15f111bf3d33&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
