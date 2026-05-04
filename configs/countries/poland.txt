@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 63
+# Всего рабочих: 64
 
 vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&sni=modily.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?type=raw&security=reality&fp=chrome&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e&sni=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -12,6 +12,7 @@ vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?type=ws#%F0%9F%8
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.141.215.49:30073?type=xhttp&path=/secret&mode=stream-one#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7c71bca8-1f80-435a-bb2d-0ad130d6d4f7@178.17.59.67:2066?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=u4lNvUk5pLZGl0XN-QK4xQgPQBhoJiMkOP2XZoQ99GA&sid=d18f4e&sni=apple.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a4068853-1598-4f7d-b2ac-98994e5b7dfb@144.31.3.136:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=f7gW_x4XOC-Y-p2r__GCsFA2AmaofJyp5afcAfGc2wA&sid=b7c9bcde4b3ef655&sni=files.pythonhosted.org&spx=/download/#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@150.251.113.108:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.brynbryn.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0bc59ed3-f64f-406c-b04a-3d11f33ab7f1@45.15.128.122:4443?type=tcp&security=reality&fp=qq&pbk=KXrCLOog-54F6MPcbz1eT6QhYrLFlST_2G_DFZd1C20&sid=aa5473&sni=www.icloud.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8a2bae59-e1a3-4f2d-a2bc-6521e6258b18@45.15.128.121:4443?type=tcp&security=reality&fp=chrome&pbk=11RtIrqAxEQvXi2CE38KrAGkM-nm7KSWPnpSr1eiiE4&sid=6abde6a1&sni=www.oracle.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
