@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 63
+# Всего рабочих: 69
 
 vless://0bc59ed3-f64f-406c-b04a-3d11f33ab7f1@45.15.128.122:4443?type=tcp&security=reality&fp=qq&pbk=KXrCLOog-54F6MPcbz1eT6QhYrLFlST_2G_DFZd1C20&sid=aa5473&sni=www.icloud.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://320f370f-2302-475d-8bb3-379ee7a9a9b3@85.155.230.76:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&sid=&sni=bunny.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -68,3 +68,9 @@ vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?encryption
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.82.255.32:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f7419793-2329-4ac7-bdee-e178ffb27848@146.59.80.70:2087?security=reality&encryption=none&pbk=u3dvb0vUFqZE2TdFjB4WHk99pCHidgq6tYGfppTvNCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=3c#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.94.18:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.92.141:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.94.24:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.94.26:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.94.11:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@87.228.94.6:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
