@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 190
+# Всего рабочих: 189
 
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?type=raw&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d&sni=yahoo.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sid=aabbccdd&sni=apple.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -25,11 +25,9 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?security=tls&sn
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001?#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag@149.102.132.184:80?#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@107.181.134.16:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://a4068853-1598-4f7d-b2ac-98994e5b7dfb@87.120.219.167:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=pJTTlleR9ShI0KRCRYdvVX8RUak7boh0ZbdsYsnZexc&sid=a4fa4d4345d0319e&sni=pypi.org&spx=/#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443?#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.22:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.176:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3Ftelegram&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://04065d54-10f3-4e11-95d3-f98f8429c3ea@141.227.174.26:32416?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://050c7ac1-c948-446f-a6e6-8f2703a75494@199.232.175.238:443?security=tls&sni=pinimg.com&type=ws&host=open.ai&path=%2Fcontainers%2Fde&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://062b34e8-7156-41f7-a5b7-9387f80ee05b@panel.dayhostpro.com:20392?security=reality&encryption=none&pbk=RX19l5efFYFcVPaYhOnB8jlhfZ1SJNGZzfohQFjWwhE&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.reiss.com&sid=cd00e976#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -120,6 +118,7 @@ vless://948478ae-abe5-526c-ae4c-6590ad926f3d@45.150.67.46:443?security=reality&e
 vless://9cab5397-59a5-4eb5-8833-805dd57c6eb8@uk.srv1.darinips.lat:3443?security=reality&amp;encryption=none&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?security=none&type=grpc&serviceName=DarkTeam_VPN#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.pages.dev&type=ws&allowInsecure=0&sni=y6-3cj.pages.dev#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443/?type=ws&encryption=none&path=%2Fmucowsws&security=tls&sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=la.ylks01.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.122.76:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
