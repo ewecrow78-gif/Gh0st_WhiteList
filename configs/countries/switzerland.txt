@@ -5,9 +5,9 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 30
 
-vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=tcp&security=reality&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&sni=yahoo.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=raw&security=reality&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&sni=yahoo.com&spx=/#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?encryption=none&type=ws&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0d2030a8-15c0-4cca-9c55-fdc0d74f8d38@lobby.hosted-in.p7d.ir:2095?encryption=none&type=httpupgrade&host=1cc3799adc7ebeea.de6.node.chat2.fun&path=%2FphpMyAdmin%3Fq%3D%4E00%4F4D%8655%5973%5728%5B6B%5148%751F%7684%8FB2%5834%5DE5%4F5C%3002&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?encryption=none&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -34,4 +34,4 @@ vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=n
 vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@lol-che-0001.api.neuralrelay.stream:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=f7&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?security=reality&encryption=none&pbk=dI21_SOs4C_YiBhslDZnrt5oJLNDzL_Q0ce1R6o9-HM&headerType=none&fp=chrome&spx=/Telegram---V2ray-vpn-ir&type=tcp&flow=xtls-rprx-vision&sni=kukala.ir&sid=98f0e20f#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://monacoVPN@172.65.111.43:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa.spectrum.vu:443?flow=xtls-rprx-vision&fp=chrome&pbk=XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko&security=reality&sid=2a6f8c4d1e9a&sni=usa.spectrum.vu&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@138.124.32.73:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
