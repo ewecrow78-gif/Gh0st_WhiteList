@@ -3,15 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 33
+# Всего рабочих: 30
 
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=raw&security=reality&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&sni=yahoo.com&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@179.43.143.138:443?type=grpc&security=reality&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&sni=1c.ru#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=tcp&security=reality&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&sni=yahoo.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pBuXpWQ1Owy-fOEJZPUzYd-8xBsJB_1S05sLp_YMwzE&security=reality&sid=4929ddcb86e785f7&sni=www.booking.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?encryption=none&type=ws&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0d2030a8-15c0-4cca-9c55-fdc0d74f8d38@lobby.hosted-in.p7d.ir:2095?encryption=none&type=httpupgrade&host=1cc3799adc7ebeea.de6.node.chat2.fun&path=%2FphpMyAdmin%3Fq%3D%4E00%4F4D%8655%5973%5728%5B6B%5148%751F%7684%8FB2%5834%5DE5%4F5C%3002&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?encryption=none&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -32,6 +28,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.212.95:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.65.201:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@138.124.32.188:30086?encryption=none&security=none&serviceName=gprc&type=grpc#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@138.124.32.189:30047?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@ch2.fastlanehosting.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sni=store.steampowered.com&sid=0c80cc39#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@lol-che-0001.api.neuralrelay.stream:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&security=reality&sid=f7&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList

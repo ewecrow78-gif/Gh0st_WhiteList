@@ -3,7 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 4
 
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.156.229:443?encryption=none&type=ws&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048&security=tls&sni=sss.yaml7.ggff.net#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://330802f5-047d-4954-90f7-2c5b59dc814c@213.171.26.10:3443?fp=firefox&mode=auto&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&security=reality&sid=ab&sni=max.ru&type=xhttp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?security=tls&sni=hkg1.fromblancwithlove.com&allow_insecure=0#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
