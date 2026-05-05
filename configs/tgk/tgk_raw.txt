@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1664
+# Всего рабочих: 1663
 
 vless://22f65fc9-4dee-456c-a213-2a025389af31@109.120.189.213:58652?flow=&fp=chrome&pbk=VZq5atMvE_1AW0nXcn4opuxZdrSu3zy3kP7YTdGj6EQ&security=reality&sid=28&sni=www.apple.com&type=tcp#WhiteList_TGK%20%E2%84%961
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.230.199:8443?flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&security=reality&sid=ad7dab462a323acb&sni=api-maps.yandex.ru&type=tcp#WhiteList_TGK%20%E2%84%962
@@ -1668,4 +1668,3 @@ vless://55a749bf-e94e-4501-acf6-ed960ef94135@109.120.189.154:443?security=realit
 vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@fast.shadownet.pro:8443?security=reality&encryption=none&pbk=lwAdXwnwQs9L0FOGVbTbk373EgGE3J5AqTr2J3rNbh0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=90abcd#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961661
 vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@89.208.229.124:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=lwAdXwnwQs9L0FOGVbTbk373EgGE3J5AqTr2J3rNbh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=def012#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961662
 vless://07e5a1f8-8317-fd7b-b7fb-975a0de32205@217.16.27.96:2092?security=reality&encryption=none&pbk=gOvNjuxZomABcAtt4uxcH948GhYyB74bDf-t62xhWXs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=7ebf#%F0%9F%87%A8%F0%9F%87%A6%20WhiteList_TGK%20%E2%84%961663
-vless://ea2e515ce32648ec961df926b18ae225@51.250.104.20:443?security=reality&encryption=none&alpn=h2&pbk=Isitoq0ZHBxELbxaRNje2eqCFFUyVS8Yx7EE32pfkTs&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=aabbccdd#%F0%9F%87%B8%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961664
