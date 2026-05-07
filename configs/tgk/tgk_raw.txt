@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1482
+# Всего рабочих: 1478
 
 vless://9a21263b-1af0-41ec-9d3a-2afda61606dc@78.17.76.197:47644?security=reality&encryption=none&pbk=ks2xxgXE4JO2nYBdbxliHfvy5OEd6zdjE9UWNXJy4m4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=bec61d2ccb#%F0%9F%87%A6%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@2.27.57.89:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#WhiteList_TGK%20%E2%84%962
@@ -1483,7 +1483,3 @@ vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.136:2083?type=tcp&securit
 vless://74d3057f-5d2b-4d21-8819-3b387d47c0a4@5.188.224.137:2083?encryption=none&type=tcp&security=reality&fp=chrome&sni=ir.ozone.ru&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#WhiteList_TGK%20%E2%84%961476
 vless://fbb2b7d7-e4d1-4266-8b00-d9a7ee86dd09@free-v7-09.elbrusway.online:443?security=reality&encryption=none&echfq=none&pbk=BvSO06HFZ6hdq4dcQV0OXroLr0cX5H7x3M2pDToduwI&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=de2a1f03e27a36b9#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961477
 trojan://fc1e67fa@45.15.128.5:443?security=tls&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=watchapp.store#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961478
-vless://926a6d0f-d241-4efe-ae6a-e8cc530dcf7d@95.85.236.118:443?security=reality&encryption=none&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=3c88b649989ffa95#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961479
-vless://926a6d0f-d241-4efe-ae6a-e8cc530dcf7d@95.85.236.88:443?security=reality&encryption=none&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=3c88b649989ffa95#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961480
-vless://54c357db-e289-4389-b52d-6c3b9779c1c6@95.85.236.118:443?security=reality&encryption=none&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=3c88b649989ffa95#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961481
-vless://ba52eda4-80e7-42ca-a37f-5a0cb5caea8e@serv18.strettenvpn.com:7771?mode=gun&security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&fp=chrome&spx=%2Fo7Aaf6fjwgbitolAe&type=grpc&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961482
