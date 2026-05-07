@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 147
+# Всего рабочих: 144
 
 vless://a4068853-1598-4f7d-b2ac-98994e5b7dfb@37.49.230.102:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=KKVLDnf_mcRIp4dNn_bCbd9gpFCzOCtxAtJ6JQdnQXE&sni=shieldblack.store#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?type=tcp&security=reality&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sid=1aab45&sni=yahoo.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -63,9 +63,6 @@ vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?security=tls&sni=n
 vless://600eb54d-d31a-4c57-b438-d1e486e8fcd7@146.70.88.7:48736?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.24.59:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.36.98.4:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.7-zip.org&pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&sid=d72dc8a0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=digikala.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
