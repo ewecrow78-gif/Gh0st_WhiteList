@@ -3,16 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 24
+# Всего рабочих: 23
 
 vless://34d87d6c-418e-4387-a1e3-2bb477c0b363@45.198.91.52:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sni=rbc.ru&sid=4ffc99daad0f261f#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@95.110.210.161:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BX0Y46bstmUjnwvT8lPyy4ECQXMDF54LnGd5C7IA9EM&sid=0c1553316a645758&sni=www.booking.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=2026.hhhhh.eu.org&amp;type=ws&amp;allowInsecure=1&amp;sni=2026.hhhhh.eu.org#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=dash.cloudflare.com&amp;sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://32b95b66-cbc0-4218-9873-f966bbdb64d1@57.131.19.236:5058?security=reality&encryption=none&pbk=04E0TOQrXL1Z40zAF99p6MR3WC4-iaAcVB4WNcDpuXo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://43488128-319e-f480-64ea-0acdc712e2a8@95.110.210.161:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BX0Y46bstmUjnwvT8lPyy4ECQXMDF54LnGd5C7IA9EM&sid=0c1553316a645758&sni=www.booking.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://476032d6-628d-49ad-886d-4a5c42cca7ae@194.165.59.26:80/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&amp;path=/&amp;security=&amp;encryption=none&amp;host=mmad-jeta.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
