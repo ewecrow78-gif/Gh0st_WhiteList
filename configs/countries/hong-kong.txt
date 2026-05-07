@@ -3,14 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 8
 
 trojan://BxceQaOe@bb.bejkn.cn:11233?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@cloudflare.182682.xyz:80?encryption=none&type=ws&host=aa.beijng.dpdns.org&path=%2F%3Fed%3D2048&security=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@aa.beijng.dpdns.org:80?encryption=none&type=ws&host=aa.beijng.dpdns.org&path=%2F%3Fed&security=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@hk4-r.link-t7.com:10129?security=reality&amp;type=grpc&amp;mode=gun&amp;serviceName=movie&amp;sni=s0.awsstatic.com&amp;fp=chrome&amp;sid=686c0ef0&amp;pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&amp;encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://f2283069-a238-47e7-b837-e2eb63adfc57@ncgdbgp.gdsxrk.com:32322?security=none&amp;type=ws&amp;path=/static/js/main.js&amp;host=azure.microsoft.com&amp;encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=%3A6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=@hkt1.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.007.node-for-bigairport.win:36888#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.156.229:443?encryption=none&type=ws&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048&security=tls&sni=sss.yaml7.ggff.net#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.127.248:443?host=j.6sc.co&path=%2F&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sni=j.6sc.co&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://036b6e6c-038c-4648-9535-e92d473ba580@104.18.45.223:443?encryption=none&type=ws&host=227.bxyewqrbx.top&path=%2Fjd%2Fxg1&security=tls&fp=chrome&sni=227.bxyewqrbx.top#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
