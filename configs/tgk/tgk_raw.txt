@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1487
+# Всего рабочих: 1482
 
 vless://9a21263b-1af0-41ec-9d3a-2afda61606dc@78.17.76.197:47644?security=reality&encryption=none&pbk=ks2xxgXE4JO2nYBdbxliHfvy5OEd6zdjE9UWNXJy4m4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=bec61d2ccb#%F0%9F%87%A6%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@2.27.57.89:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#WhiteList_TGK%20%E2%84%962
@@ -1487,8 +1487,3 @@ vless://926a6d0f-d241-4efe-ae6a-e8cc530dcf7d@95.85.236.118:443?security=reality&
 vless://926a6d0f-d241-4efe-ae6a-e8cc530dcf7d@95.85.236.88:443?security=reality&encryption=none&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=3c88b649989ffa95#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961480
 vless://54c357db-e289-4389-b52d-6c3b9779c1c6@95.85.236.118:443?security=reality&encryption=none&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=3c88b649989ffa95#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961481
 vless://ba52eda4-80e7-42ca-a37f-5a0cb5caea8e@serv18.strettenvpn.com:7771?mode=gun&security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&fp=chrome&spx=%2Fo7Aaf6fjwgbitolAe&type=grpc&serviceName=5post-gate.x5.ru&sni=5post-gate.x5.ru&sid=8248954896#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961482
-vless://1f034338-33a3-40f7-8e82-e4042e8410af@188.114.96.3:443?path=ws&security=tls&encryption=none&insecure=0&host=gardconfig12.bnam38637.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gardconfig12.bnam38637.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WhiteList_TGK%20%E2%84%961483
-vless://0a5ab719-2407-4398-b507-8437ef365023@104.21.31.4:8880?path=%2FFCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=&encryption=none&host=underthegun.cfd.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WhiteList_TGK%20%E2%84%961484
-vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.3:443?security=tls&encryption=none&insecure=0&host=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=restless-dew-894b.amirhost4.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WhiteList_TGK%20%E2%84%961485
-vless://1f034338-33a3-40f7-8e82-e4042e8410af@188.114.97.3:443?path=ws&security=tls&encryption=none&insecure=0&host=gardconfig12.bnam38637.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gardconfig12.bnam38637.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WhiteList_TGK%20%E2%84%961486
-vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=restless-dew-894b.amirhost4.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WhiteList_TGK%20%E2%84%961487
