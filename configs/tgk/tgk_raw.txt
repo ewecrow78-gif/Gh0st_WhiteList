@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1289
+# Всего рабочих: 1288
 
 vless://3b6ed23e-7ddc-4a86-9637-c07001805670@46.182.24.148:6443?encryption=none&fp=chrome&pbk=W6UrEglDqSm0gtVYdLmMItMIQWD_sPt8EIZUq-UgDwc&security=reality&serviceName=grpc&sid=ed2d9f73f8f50300&sni=ads.x5.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961
 vless://e4636999-a437-017c-9b2a-c583c4d35b63@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&security=reality&sni=s3-ru-central-1.rucdn777.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20WhiteList_TGK%20%E2%84%962
@@ -1293,4 +1293,3 @@ vless://84758439-3c6b-44bc-ba8a-17220ba2c2e1@46.8.209.232:443?security=reality&e
 vless://0a6291a2-9354-47b2-be34-a498e373b06e@158.160.106.23:443?security=reality&encryption=none&pbk=-5N6BJPDvTQm7vVOFpNnoJrZDaOsPccu6SeZGPGKEkI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wl-3-1.legendary-vpn.com&sid=3626b118a6e54d7b#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961286
 vless://6d095f96-54fb-4e2f-86be-c548d08b0993@158.160.193.66:443?security=reality&encryption=none&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=x5.ru&sid=f4e2b8971d5c3a9f#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961287
 vless://0a6291a2-9354-47b2-be34-a498e373b06e@158.160.182.134:443?security=reality&encryption=none&pbk=DfXU_bE0heXqtA-9ljbKNK_3m90Z7KzBwMNV_z41ymQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wl-3-5.nodes.ac&sid=275c1d6003e7134f#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961288
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@2.27.57.68:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#%F0%9F%87%AB%F0%9F%87%B7%20WhiteList_TGK%20%E2%84%961289
