@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 27
+# Всего рабочих: 28
 
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:11541?security=tls&sni=🔒#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@116.80.80.121:443?security=tls&sni=🔒#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -30,5 +30,6 @@ vless://1a17b19d-4896-4531-af79-6e91d8ef8228@52.195.225.39:8686?type=tcp&securit
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@38.47.125.152:26048?allowInsecure=0&type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@bb.bejkn.cn:6463?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@jp2-r.link-t7.com:10032?security=reality&amp;type=grpc&amp;mode=gun&amp;serviceName=update&amp;sni=s0.awsstatic.com&amp;fp=chrome&amp;sid=686c0ef0&amp;pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&amp;encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
