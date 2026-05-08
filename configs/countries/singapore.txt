@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 29
+# Всего рабочих: 28
 
 vless://00000000-0000-4000-8000-000000000000@8.219.70.70:47594?type=ws&security=tls&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@83.229.121.223:12466?type=ws&security=tls&fp=chrome&sni=gogo.kmj.qzz.io&host=gogo.kmj.qzz.io#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -25,12 +25,11 @@ vless://06b65903-406d-4a41-8463-6fd5c0ee7798@172.104.191.150:443?type=ws&securit
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@172.104.186.18:8443?type=ws&security=tls&fp=chrome&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://00000000-0000-4000-8000-000000000000@8.219.129.246:7152?type=ws&security=tls&fp=chrome&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@143.42.66.91:443?type=ws&security=tls&fp=chrome&sni=sn1.skylee5.cloudns.ch&host=sn1.skylee5.cloudns.ch#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.4.130:8443?encryption=none&host=sni.111000.v6.navy&path=/&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.124:443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@172.64.229.199:443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.124:443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@sg2-r.link-t7.com:10037?security=reality&amp;type=grpc&amp;mode=gun&amp;serviceName=update&amp;sni=s0.awsstatic.com&amp;fp=chrome&amp;sid=686c0ef0&amp;pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&amp;encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@sg1-r.link-t7.com:10036?security=reality&amp;type=grpc&amp;mode=gun&amp;serviceName=update&amp;sni=s0.awsstatic.com&amp;fp=chrome&amp;sid=686c0ef0&amp;pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&amp;encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://03994876-4f0b-4353-ce21-3c0c6d3e0526@blog.cloudflare.com:2086?path=/AsuS.CoM?ed=24946&amp;security=none&amp;encryption=none&amp;host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-837787.lavazemkhoshina.ir.&amp;type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://704564fb-bd6e-4c9b-88fc-66ceebb85825@ct.090227.xyz:443?security=tls&amp;type=ws&amp;path=/&amp;host=ts-13.pages.dev&amp;sni=ct.090227.xyz&amp;fp=chrome&amp;encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://03994876-4f0b-4353-ce21-3c0c6d3e0526@blog.cloudflare.com:2086?path=/AsuS.CoM?ed=24946&amp;security=none&amp;encryption=none&amp;host=google.com.telewebion.com.bmi.ir.fast.com.asus.com-837787.lavazemkhoshina.ir.&amp;type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
