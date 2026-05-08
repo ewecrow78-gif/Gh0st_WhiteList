@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 28
+# Всего рабочих: 29
 
 trojan://ba62c023f9bce796ae334fecb20ef7cc@18.179.108.192:11541?security=tls&sni=🔒#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@116.80.80.121:443?security=tls&sni=🔒#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -29,6 +29,7 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009?#%F0%9F%87%AF%F0%
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@52.195.225.39:8686?type=tcp&security=reality&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@38.47.125.152:26048?allowInsecure=0&type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?&security=tls&sni=1-aym.pages.dev&type=ws&headerType=none&host=1-aym.pages.dev&path=%2Ffp%3Dchrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@bb.bejkn.cn:6463?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
