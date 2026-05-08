@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 7
 
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@132.145.91.181:8443?type=ws&security=tls&fp=chrome&sni=3-abf.pages.dev&host=3-abf.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://00000000-0000-4000-8000-000000000000@61.111.244.247:46177?type=ws&security=tls&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://00000000-0000-4000-8000-000000000000@165.246.171.218:10891?type=ws&security=tls&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.96:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://00000000-0000-4000-8000-000000000000@49.128.202.132:52771?type=ws&security=tls&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@151.245.106.81:443?type=ws&security=tls&sni=gogo9.kmj.qzz.io&host=gogo9.kmj.qzz.io#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://00000000-0000-4000-8000-000000000000@114.204.40.185:30006?type=ws&security=tls&sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
