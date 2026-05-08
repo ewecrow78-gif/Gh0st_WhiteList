@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 50
+# Всего рабочих: 51
 
 vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?type=tcp&security=reality&fp=chrome&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb&sni=yahoo.com&host=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a6e26ac0-644f-0058-8035-e2be0c93ffbb@185.16.36.164:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2c5d0e9f&sni=www.amd.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -32,6 +32,7 @@ vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@pl.srv.oplcdn.link:6443?security=re
 vless://39198da5-1cd5-4d48-b70a-af5a454a22d2@45.144.50.162:443?security=reality&encryption=none&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=22628a15a948#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://419ccc44-0a46-4461-a73f-2d6f44fecede@5.188.140.201:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6w3jYWbwXnBMGwioAQVI8BClDZSJJytjIJTX70KgZ2c&security=reality&sid=821e339dd3817963&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://419ccc44-0a46-4461-a73f-2d6f44fecede@95.163.208.119:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WtIKtTEP00B4vCCFxKfzXQo0xAh8iLJpOBMMBgde3Gk&security=reality&sid=49ebf5c15a73d430&sni=yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@91.224.75.31:8090?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol.overload.ovh&fp=chrome&security=reality&pbk=NUdsKU2YwT4H__ap8TqR4IjAxtVVQ5lcha7nY28wpC0&sid=b92f4cd882f76e2b#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&amp;encryption=none&amp;pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdnjs.com&amp;sid=4c02bbbfa833b3b6#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
