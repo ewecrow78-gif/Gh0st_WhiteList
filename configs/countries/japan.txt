@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 42
+# Всего рабочих: 43
 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -19,6 +19,7 @@ vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@13.193.213.165:443?type=ws&security
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@116.80.61.224:443?security=tls&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.181.177.244:8686?type=tcp&security=reality&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@206.251.55.197:443?type=ws&security=tls&fp=chrome&sni=gogo10.kmj.qzz.io&host=gogo10.kmj.qzz.io#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@13.231.5.138:443?type=ws&security=tls&sni=gogo5.kmj.qzz.io&host=gogo5.kmj.qzz.io#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@20.18.204.189:443?type=ws&security=tls&sni=gogo7.kmj.qzz.io&host=gogo7.kmj.qzz.io#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -34,6 +35,7 @@ vless://340ce710-8daf-4204-8d0d-74f2edc46386@47.79.87.5:443?type=ws&security=tls
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@35.77.252.187:443?type=ws&security=tls&fp=chrome&sni=gogo4.kmj.qzz.io&host=gogo4.kmj.qzz.io#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg@185.141.219.21:30312?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sni=cloudcircus.jp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@84.247.153.71:443?type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@54.64.133.73:443?type=ws&security=tls&fp=chrome&sni=gogo6.kmj.qzz.io&host=gogo6.kmj.qzz.io&mode=multi#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -42,8 +44,7 @@ vless://340ce710-8daf-4204-8d0d-74f2edc46386@47.79.144.155:443?type=ws&security=
 vless://00000000-0000-4000-8000-000000000000@193.32.151.49:21219?type=ws&security=tls&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://162534@207.65.189.9:443?host=cchh2.pages.dev&path=/?ed=2560&security=tls&sni=cchh2.pages.dev&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://9228631b-bf71-4377-bd75-4b25605f68f6@96.62.214.87:29745?type=tcp&security=reality&fp=random&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&sni=www.google.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sni=www.icloud.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@jp2-r.link-t7.com:10032?security=reality&amp;type=grpc&amp;mode=gun&amp;serviceName=update&amp;sni=s0.awsstatic.com&amp;fp=chrome&amp;sid=686c0ef0&amp;pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&amp;encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
