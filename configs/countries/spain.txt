@@ -5,10 +5,10 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 21
 
-vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=raw&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://cac77d0d-db69-4728-801a-f0ac5ca4e4ca@69.40.207.174:8443?security=reality&fp=chrome&pbk=nuSpmymfzxHeZFnmNOuQl0pCNRbvN88eXA86oGn2Z2Q&sid=a1eb3bc45730ea52&sni=www.microsoft.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=raw&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://5fdb80a1-03f0-40bd-8b5c-952769c79d46@138.124.62.113:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=swdist.apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@151.241.216.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&sid=aabbccdd&sni=www.google.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://842b5f9dd11e458d8613c907c4cc5723@65.20.102.54:443?allowInsecure=1&sni=www.gpt123.one#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
