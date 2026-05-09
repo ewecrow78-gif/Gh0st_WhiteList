@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 101
+# Всего рабочих: 102
 
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.235.75:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=67ccfc02&sni=www.deepl.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -17,6 +17,7 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?type=tcp&security=
 vless://221d6ffa-6f8e-495a-a604-6972b6b93a0c@185.21.11.199:8443?type=tcp&security=reality&fp=chrome&pbk=-c6RbjMXXWbHe7xRZGZrUIDUaKmi3PFRlR66roMufg0&sid=4590f8d60dcb3686&sni=www.microsoft.com&path=&host=#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&sni=www.icloud.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://1460cdac-f1db-40e2-b091-322aa0579cc4@185.189.46.78:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=qR4AuNiWRXOMdzZY-v3KJwpS27LU3T62UhDjxhVqfH0&sid=9c2378562188c3cb&sni=sweden.nosok-top.com&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.28.49.84:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?security=reality&amp;encryption=none&amp;pbk=gOnHJkj2ZhIln_ojkVdeMHW9h6nYruaRrRzLtpDeGxQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers&amp;sni=tgju.org#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://08a20674-fe78-4eae-bcd8-6f44480a3392@144.31.130.40:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=91j4nGhBDQYcZP0AHXJgu1jnrFNRp27DIhN0Verhfhw&sid=5ac24c1ada080cc6&sni=se.prowebcore.ru&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
