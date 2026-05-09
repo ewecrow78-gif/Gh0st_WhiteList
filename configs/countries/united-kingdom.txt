@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 201
+# Всего рабочих: 199
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.191:2096?type=ws&security=tls&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -28,9 +28,6 @@ ss://YWVzLTI1Ni1nY206WlRpTzExS3daRzNTN2FFVA@149.102.132.180:80?#%F0%9F%87%AC%F0%
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80?#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.82.25:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.220.88.180:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.202:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.191:443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=sni.my111000.tech&host=sni.my111000.tech#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://04065d54-10f3-4e11-95d3-f98f8429c3ea@141.227.174.26:32416?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://050c7ac1-c948-446f-a6e6-8f2703a75494@199.232.175.238:443?security=tls&sni=pinimg.com&type=ws&host=open.ai&path=%2Fcontainers%2Fde&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -80,6 +77,7 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.105.189.25:443?security=tls&sni=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.147.231.33:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2F%3Fed%3D2048#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@25.26.27.28:2082?encryption=none&host=fInLaND.ziRakOmaMle.coM&path=%2Fspeedtest.net%2Fzirakomamle.com&security=none&type=httpupgrade#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443?path=/zmiuyqws&security=tls&encryption=none&type=ws&sni=wikiportal.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://4c910b61-5229-4eb7-bdf4-692fcabf0fc1@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&sid=7795775a7afe0581&type=grpc&serviceName=92b9086d26e6417608e7a1f4#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://5e691744-3d66-45a2-9c69-278f25865c0f@llc.v2sub.ir:2087?type=httpupgrade&encryption=none&path=/&host=gozar-fire.rvn-cloud.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=gozar-fire.rvn-cloud.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
