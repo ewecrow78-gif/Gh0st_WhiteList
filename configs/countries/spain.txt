@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 17
 
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=raw&security=reality&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ebf7d712-7690-4028-81f7-616c106cfd5f@79.117.121.85:35766?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=JrsNPt4yDyRcLO2-eL0VkVlPBSM2Cp19iDl-A-enrS8&sid=738b3ed2&sni=apple.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -22,4 +22,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@176.97.72.18:443?security=tls&sni=l
 vless://b7b66581-6a5b-4935-a799-ab0ea327d4ca@sp.torboshop1.top:2053?path=/&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c48d54b2-c560-5f86-904f-b4ecf4a3b4ad@s3.saitsazs.ir:30101?sni=refersion.com&sid=31e7200536a1ad45&mode=gun&security=reality&encryption=none&fp=chrome&authority=mci.ir&type=grpc&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c96ba6e0-b040-41d6-80e8-28741eb12611@bountyhunter.fonixapp.org:2083?security=reality&amp;encryption=none&amp;pbk=qpKME_WcE7B5prDeXkR7ca9BW3bBAn2US-Uu1X1-Gw4&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fonts.gstatic.com&amp;sid=84abe7#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@2.27.26.36:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=RrBMccWJkTEHyG-V4ETU4SLEPYgxMzMyKdNQ1vu_RQc&security=reality&sid=655345236526&sni=www.google.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
