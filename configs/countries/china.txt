@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 196
+# Всего рабочих: 194
 
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.78:40210?#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.243.240.111:443?type=ws&security=tls&fp=chrome&sni=gogo3.kmj.qzz.io&host=gogo3.kmj.qzz.io#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -55,10 +55,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.191:443?type=ws&security=t
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.59.128:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=assets.adobedtm.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.159.12.248:443?type=ws&security=tls&fp=chrome&sni=gogo12.kmj.qzz.io&host=gogo12.kmj.qzz.io#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.112.41:443?type=tcp&security=reality&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=api.company-target.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram🇨🇳+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://9f1d6cb6-b2fb-4813-8351-383b72749e2c@hkcn2.baqi.indevs.in:39001?type=ws&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=/#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:8443?type=ws&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=/ray#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.192.42.157:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.28.49.84:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.216.118.63:443?allowInsecure=0&sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@103.15.90.134:49678?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.168.16.112:443?security=tls&amp;type=ws&amp;path=/?ed=2560&https://t.me/WangCai2🇨🇳&amp;host=sni.111000.dns.army&amp;sni=sni.111000.dns.army&amp;fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.200:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.221:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -69,6 +71,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@44.32.224.195:2053?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@44.32.224.198:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.202:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.22.80.22:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.247.186.199:443?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.198.50:8880?type=ws&host=vms.lifetime15.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.48.140.149:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.229.121.78:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -76,16 +79,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.25.115:52731?sni=sni.111000
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.87.89.41:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.209.62:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.182.84.254:8880?allowInsecure=0&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.185.146.150:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.214:2053?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.78.179:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.147.33.251:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.168.212.162:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.235.102:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.99.166:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@app_bedal#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:8443?type=ws&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.111000.dynv6.net#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.161.238.135:8443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@5.182.84.3:8880?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.66.129.162:25945?path=/?ed=2560&Telegram🇨🇳@WangCai2&amp;security=tls&amp;encryption=none&amp;host=sni.111000.cc.cd&amp;type=ws&amp;sni=sni.111000.cc.cd#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -157,11 +155,11 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@209.46.30.158:2096?encryption=none&
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@168.100.6.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.243:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.123:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@168.100.6.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.118:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.123:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.240:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.243:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@129.159.47.168:2053?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@161.145.150.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@141.193.27.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
