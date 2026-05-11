@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 25
+# Всего рабочих: 26
 
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=tcp&security=reality&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&sni=yahoo.com&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -30,3 +30,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.212.95:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.65.201:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?security=reality&encryption=none&pbk=dI21_SOs4C_YiBhslDZnrt5oJLNDzL_Q0ce1R6o9-HM&headerType=none&fp=chrome&spx=/Telegram---V2ray-vpn-ir&type=tcp&flow=xtls-rprx-vision&sni=kukala.ir&sid=98f0e20f#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://monacoVPN@172.65.111.43:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
