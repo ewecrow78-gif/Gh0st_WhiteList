@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1334
+# Всего рабочих: 1332
 
 vless://5666f9ff-709c-456b-af7d-007faa118344@111.88.159.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LWy8wvFjKJmLguiYLNdCk4Op5j6zGZUmHZFngZ4JDg4&security=reality&sid=&sni=api-maps.yandex.ru&spx=%2FDBIDt2OzvSxJ0a1&type=tcp#WhiteList_TGK%20%E2%84%961
 vless://8a563b6d-d66f-4fb7-a994-aa73f3f43514@95.143.190.234:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Re0KYadNhPaK95RYAR5gC6QcRVrKNIUiM3JwWEFJZjE&security=reality&sid=c26cbd2f901db569&sni=ms11.morro-settings.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%962
@@ -1337,5 +1337,3 @@ trojan://162534@5.223.56.239:8443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWa
 vless://af29105c-9ba8-4c15-a871-2738a2be98d5@panelyacldwl.ignorelist.com:8443?type=tcp&encryption=none&security=reality&pbk=XGnEhD8rdBxUg2r9d-Y8A0NxOVNHxkXe4m-9zPx7Bns&fp=chrome&sni=api-maps.yandex.ru&sid=9c7342bc&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961330
 vless://7a771ef8-960d-408c-b88a-fafbfe815242@yacldwlsecond.crabdance.com:8443?type=tcp&encryption=none&security=reality&pbk=pTbESwhdAb5h4BeLDXK9DOHfh-FOeJhjrkLn179p-Dc&fp=chrome&sni=max.ru&sid=e311d0&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961331
 vless://86393235-4d4a-4fd8-a1de-40b835d71ce4@194.156.101.39:443?mode=gun&security=reality&encryption=none&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&fp=chrome&spx=%2F&type=grpc&serviceName=vless&sni=0w7ymj.spectrum.vu&sid=1a2b3c4d5e6f#%F0%9F%87%AA%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961332
-vless://75807638-6f19-0190-ae08-38492ee85c88@178.72.162.160:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-other-1.firstvideocdn.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961333
-vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.182.39:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cl-de-1.edgeflux.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961334
