@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 15
 
 vless://c1e7c081-42f9-47fe-b3ad-15433505f8db@po.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
@@ -14,6 +14,7 @@ vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type
 vless://f85e436354ba409d9cce61a0d2185c0f@62.133.63.154:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=BY4c_1BeR31g3UxzO8GCtvi2yKLatiUII7VjuzXMGC8&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1454a693-503b-3ec1-5347-120ed30012c9@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://bdfc7b18-c76b-07cf-d570-028d01c404d6@yas.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.203&alpn=&path=%2F&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.130.98:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=grtFOGUrAtlH0xAPpkqkXTAnaCHALmEn7nsohxxx3iE&sid=729c8d42f7bb139a#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://46cc53925b294a97a0f433a9762138b9@185.39.204.161:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=Ksb1EWjBUmOIBrZxMZyC9-jqENAWj_aCncBXb6f_X2Y&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
