@@ -3,17 +3,19 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 12
+# Всего рабочих: 14
 
 vless://c1e7c081-42f9-47fe-b3ad-15433505f8db@po.masterdadeh.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@turkey.aftabix.com:1307?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@tr2.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sni=tr2.tunnely.ru&sid=2e40144ddc07e8e1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://46cc53925b294a97a0f433a9762138b9@185.39.204.161:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=Ksb1EWjBUmOIBrZxMZyC9-jqENAWj_aCncBXb6f_X2Y&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f85e436354ba409d9cce61a0d2185c0f@62.133.63.154:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=BY4c_1BeR31g3UxzO8GCtvi2yKLatiUII7VjuzXMGC8&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://bdfc7b18-c76b-07cf-d570-028d01c404d6@yas.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.203&alpn=&path=%2F&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.130.98:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=grtFOGUrAtlH0xAPpkqkXTAnaCHALmEn7nsohxxx3iE&sid=729c8d42f7bb139a#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://46cc53925b294a97a0f433a9762138b9@185.39.204.161:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=Ksb1EWjBUmOIBrZxMZyC9-jqENAWj_aCncBXb6f_X2Y&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ec9e7b71-72b6-4934-8549-2efb1b21a502@167.160.10.46:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=2c1d5e7f&sni=ads.x5.ru&spx=%2F&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6784aee2-0dfe-474f-8446-480259ff9918@tr.safepass.click:443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sni=www.samsung.com&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
