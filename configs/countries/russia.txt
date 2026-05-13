@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 950
+# Всего рабочих: 949
 
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@fl2cdn.onnstreaming.ru:443?type=tcp&security=reality&pbk=S1bObj8Kt7TDHZjRYDiosJuz9zEzD4kTSMA75HwNaHM&fp=chrome&sni=fl2cdn.onnstreaming.ru&sid=e62974835ef5cad8&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://e104275f-0a20-4e54-af18-820b8f6887ff@5.188.140.245.alexanderoff.ru:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -941,8 +941,7 @@ vmess://eyJhZGQiOiJ5aGouaHVhbmdzaGFuZzIwMjYuaW5kZXZzLmluIiwiYWlkIjoiMCIsImFscG4i
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIEdoMHN0X1doaXRlTGlzdCIsImFkZCI6IjU0Ny5ydHhjb25maWd6LnNob3AiLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0NGU1NzQ4NS1lY2NjLTQ2ZWYtODA4Zi1jZDE3YWM4MTAwMTgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0BNYWxpbmRhNjEwNCIsImhvc3QiOiI1NDcucnR4Y29uZmlnei5zaG9wIiwidGxzIjoiIn0=
 vless://3407c263-0187-49ce-af76-611d5a2a6712@runner-gitlab-ya.ml:443?encryption=none&security=tls&sni=runner-gitlab-ya.ml&type=ws&path=%2f#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&type=ws&host=blog.ruangguru.com.servpn.my.id&path=%2Fkr1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://783164cb-6410-4a96-e432-832489e4848c@ec5.kiava.fun:8443?security=reality&encryption=none&pbk=bX1haHlvshTK8EwCtDuSsgOb_W1KANfYyN8rUfaWFjY&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://19b3d5d3-b1e4-4eb3-aa10-ee63e0ca4a9b@mx1ccfa.matrix-shop8.ir:1022?security=reality&encryption=none&pbk=O4PXR1eZRuubpri7ajbJBfhv3L7ZiJZbgZ80BGzN1X0&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://b5c72809-4287-46f4-b930-309edc783dd9@ihavesome.run.place:443?security=tls&sni=ihavesome.run.place&fp=random&type=ws&path=/socks5tobefree&host=ihavesome.run.place&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@cdn2.pilates.rodeo:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mirror.yandex.ru&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://ca49af91-d953-4856-a597-9f3987d46b46@ni1.myspeedytest.org:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ni1.myspeedytest.org&pbk=3iQcZzGuajRuGh2aR9Px1mRUQ7jQ7PU_5e_gZOaK7kY&sid=9f14e47aa03d5905&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://ca49af91-d953-4856-a597-9f3987d46b46@ni1.myspeedytest.org:443?encryption=none&security=reality&sni=ni1.myspeedytest.org&pbk=3iQcZzGuajRuGh2aR9Px1mRUQ7jQ7PU_5e_gZOaK7kY&sid=9f14e47aa03d5905&serviceName=grpc&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
