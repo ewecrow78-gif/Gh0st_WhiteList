@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
 vless://3fd3a47a-ae18-41c2-a426-d3ca21287aec@212.64.193.3:666?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@turkey.aftabix.com:1307?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&sid=#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@tr2.tunnely.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sni=tr2.tunnely.ru&sid=2e40144ddc07e8e1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b40d5346-d63d-469e-a4ea-c1b18c509f07@turok2.o4ka-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=turok2.o4ka-internet.com&spx=%2F&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

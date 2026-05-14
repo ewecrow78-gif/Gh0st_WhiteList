@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 21
+# Всего рабочих: 20
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=2026.hhhhh.eu.org&amp;type=ws&amp;allowInsecure=1&amp;sni=2026.hhhhh.eu.org#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16747acc-95c8-44ba-9b66-3d8a0c035347@185.247.184.115:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=dash.cloudflare.com&amp;sid=28f58957#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://32b95b66-cbc0-4218-9873-f966bbdb64d1@57.131.19.236:5058?security=reality&encryption=none&pbk=04E0TOQrXL1Z40zAF99p6MR3WC4-iaAcVB4WNcDpuXo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
