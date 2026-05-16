@@ -3,10 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7218
+# Всего рабочих: 7221
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@147.45.197.21:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://162534@195.123.209.189:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@195.123.212.215:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@84.32.49.95:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://Fr6h3t1gZ6JCgdk8o4F667B1vYFBA5Cq@45.12.62.62:60800?fp=&mode=auto&pbk=mQYffVOT9WjeMOt3OidRFhRHnXpPg5B4Det191XOOw0&security=reality&sid=46de700d6dd1c5c8&sni=web.max.ru&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -29,8 +29,9 @@ trojan://BxceQaOe@bb.bejkn.cn:6463?security=tls&sni=t.me/ripaojiedian&type=tcp#%
 trojan://fc1e67fa@45.15.128.5:443?security=tls&sni=watchapp.store&fp=random#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@92.118.126.170:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@92.118.126.170:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@63.183.179.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@15.237.55.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@13.38.241.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@51.44.198.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -50,7 +51,6 @@ trojan://telegram-id-privatevpns@52.47.169.8:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@13.36.109.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@13.38.154.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@3.65.55.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@51.45.38.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.57.120.114:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://ccBIufLBGd@ge1.v2vml.ga:16548#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -73,6 +73,7 @@ trojan://144f85e9-8fa7-4128-b8b1-59b18ba317cc@sgt3.sshocean.net:443?sni=www.micr
 trojan://4542de1e-a966-4a31-9630-3afbe560f516@idt3.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://0e0d29a3-6033-4041-b076-cf5ae0fe35b9@ltt1.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://hSA6YXe15O@104.11.86.252:443?security=tls&amp;sni=Telegram������������+@WangCai2&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://162534@158.101.132.216:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@207.65.189.9:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@64.176.42.143:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -82,6 +83,7 @@ trojan://162534@142.91.108.54:443?security=tls&sni=cchh2.pages.dev&insecure=1&al
 trojan://162534@43.165.178.147:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@140.235.37.69:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@143.14.50.121:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@138.124.86.149:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@130.49.178.104:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@185.82.126.206:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@193.168.172.162:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -103,7 +105,6 @@ trojan://162534@5.223.56.239:8443?security=tls&sni=cchh2.pages.dev&insecure=1&al
 trojan://162534@167.172.68.31:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@116.251.216.23:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@138.124.111.115:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://162534@217.60.248.94:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@46.8.226.108:443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@103.118.42.16:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@45.38.42.156:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -132,23 +133,26 @@ trojan://162534@169.40.4.148:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D
 trojan://162534@169.40.6.227:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@185.22.174.68:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@195.20.208.151:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@46.32.186.176:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@77.73.71.6:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@91.197.3.167:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://hSA6YXe15O@104.11.86.252:443?security=tls&amp;sni=Telegram������������+@WangCai2&amp;insecure=1&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.245.156.126:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.157.251:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.103.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@185.18.250.252:443?allowInsecure=1&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.56.134:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@23.173.104.194:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.114.7.17:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.224.250:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.237.174:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.107.214:2083?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.27.233:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.156.27.65:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.81.97:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@49.13.73.56:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@146.185.170.67:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.238.239.140:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.236.51:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@109.206.236.128:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@167.99.255.159:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.144.51.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@178.62.111.180:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.130.206.37:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@185.65.206.223:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@146.56.138.33:10443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.144.48.57:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.89.66.185:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.224.75.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -162,7 +166,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@194.67.204.158:8443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@176.125.240.152:2053?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@70.34.204.111:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.188.118.92:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.144.51.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.58.48.252:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.111.172.106:2053?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=0&allowInsecure=0&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -389,7 +392,9 @@ trojan://psycho@104.21.80.1:443/?type=tcp&security=tls&sni=PSYchO.SueX12.Ir#%F0%
 trojan://telegram-id-directvpn@35.181.103.56:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@35.181.181.24:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@35.181.103.56:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@51.45.38.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://trojan@ip.sb:8443/?type=tcp&security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@195.123.209.189:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://BxceQaOe@58.152.25.253:443?security=tls&sni=t.me%2Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://T9BpZIVMNv@104.16.250.22:8443?security=tls&sni=sweden.vmaxpanel.com&insecure=0&allowInsecure=0&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?security=tls&sni=mfyousheng.nl.eu.org&insecure=0&allowInsecure=0&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -435,9 +440,11 @@ trojan://988sR-269PKCKlb%263pMrFTEr@104.18.155.119:443?security=tls&sni=LetiRanb
 trojan://988sR-269PKCKlb%263pMrFTEr@104.18.156.119:443?security=tls&sni=LetiRanbrEaTh-7RrkEvFu2HJBIs5UHCXWztz24T5Vp6trF1oka8Dkrw0n.HE3fmQ6z0mfSZSK3Xy2E.wOrkers.deV&type=ws&host=letiranbreath-7rrkevfu2hjbis5uhcxwztz24t5vp6trf1oka8dkrw0n.he3fmq6z0mfszsk3xy2e.workers.dev&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.16.147.104:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.17.150.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@44.32.224.206:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@23.173.104.216:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@23.173.104.194:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@23.173.104.218:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@23.173.104.234:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@44.32.224.208:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -523,6 +530,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.157.251:2087?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.101.121.62:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.101.172.79:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.71.50.110:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.157.251:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.228.154.170:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@23.88.54.72:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.228.153.99:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -662,7 +670,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.204.59:8443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@161.35.73.222:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.86.68.95:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.192.26:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@167.99.255.159:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.197.179:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.123.223:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.101.201.36:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -720,7 +727,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@185.246.191.25:2096?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@209.38.219.101:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@159.89.11.104:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@138.197.181.22:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@49.13.73.56:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@142.93.111.174:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@165.227.162.157:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@68.183.72.92:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1376,6 +1382,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@107.172.88.191:2096?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.182.9:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.178.181:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.182.9:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.245.156.126:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@205.172.57.218:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.234.50.215:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.15.124.172:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1776,7 +1783,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.75.64:2087?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.15.18.58:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@194.135.38.131:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.19.215.25:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.238.239.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.27.250:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.62.231.216:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.42.130.189:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1937,6 +1943,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.17.13:8443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.90.236.107:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.226.134.5:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@152.42.138.46:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.56.134:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.15.17.193:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.156.25.160:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.113.98:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2177,6 +2184,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@94.177.51.175:2053?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@212.34.135.97:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@86.87.246.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@37.139.9.209:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.103.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@164.92.147.213:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.93.253.207:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@209.38.103.169:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2190,7 +2198,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@138.124.89.211:8443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.181.134.24:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.211.124.140:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.227.68.55:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.185.170.67:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@194.87.219.235:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.90.236.107:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@142.93.131.113:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2393,6 +2400,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@146.185.134.241:2083?security=tls&sni=Koma-YT.
 trojan://8r%3C%5B9%27l6hAO%238ZQi@68.183.12.120:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@82.196.8.45:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.71.65.205:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.166.107.214:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.190.30.27:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.227.107.9:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@194.116.216.175:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2560,6 +2568,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.51.244:8443?security=tls&sni=Koma-YT.PAGe
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.137.132:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.92.205:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@65.109.211.47:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.27.233:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.79.138.12:2053?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.232.118:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@38.244.208.148:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2734,11 +2743,11 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.70.217:2053?security=tls&sni=Koma-YT.PAGe
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.167.95.8:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.191.189:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.139.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.237.174:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.143.72:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.41.182:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.164.55.78:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.236.51:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.167.83.117:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.26.223:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.137.6:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2767,7 +2776,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.189.13:8443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@66.151.35.153:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.197.181:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.254.158.250:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.130.206.37:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.141:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.178.96.74:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.191.228:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2845,7 +2853,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.62.145:8443?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.158.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.242:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.125.101.230:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@109.206.236.128:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.139.214:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.144.179.49:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.252.127.38:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2934,6 +2941,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@45.144.234.149:2053?host=Koma-YT.PAGeS.Dev&pat
 trojan://8r%3C%5B9%27l6hAO%238ZQi@164.215.97.12:8443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?security=reality&sni=www.google.com&fp=random&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&sid=3e&spx=/&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@85.193.90.131:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.114.7.17:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.232.143.39:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@82.97.254.184:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.163.240.24:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2979,7 +2987,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@220.122.102.26:30017?security=tls&sni=Koma-YT.
 trojan://8r%3C%5B9%27l6hAO%238ZQi@130.162.131.60:9?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@121.151.76.196:11965?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@183.104.5.134:26214?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.56.138.33:10443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.11.1.118:44004?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@64.176.36.61:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.63.209:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3077,6 +3084,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.188.34:2053?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.186.124:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@173.212.230.34:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.121.155:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.224.250:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@109.199.107.175:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.5.223:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.120.179:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3088,7 +3096,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@88.218.76.250:8443?security=tls&sni=Koma-YT.PA
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.120.59.207:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@95.182.116.151:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.37.28:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.156.27.65:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.226.167.115:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.103.152:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@193.176.153.68:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3220,7 +3227,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@143.110.161.220:2096?security=tls&sni=Koma-YT.
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.71.140.229:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@144.126.226.76:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.172.60.77:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.81.97:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@68.168.31.227:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@165.232.39.212:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.172.70:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3275,7 +3281,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.38.173:2053?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@144.126.226.76:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@167.172.48.224:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.81.97:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@178.62.111.180:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@43.245.227.108:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@151.243.101.40:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@143.110.163.137:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3295,7 +3300,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@57.128.165.222:8443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@165.232.40.20:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@134.209.176.127:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.34.157:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.65.206.223:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.101.81.245:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@134.209.27.216:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@138.68.131.25:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3429,7 +3433,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@62.60.250.48:8443?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.22.234.33:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@193.232.178.149:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@103.45.246.200:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@138.124.86.149:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.22.234.0:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@147.45.73.180:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@147.45.72.36:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3480,7 +3483,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@217.28.49.84:8443?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.218.143.126:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.22.175.125:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.197.1.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.32.186.176:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.253.203:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.2.248:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.197.1.127:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3490,7 +3492,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@45.43.77.109:8443?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.252.148:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.34.213.168:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@103.231.73.184:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@195.123.212.215:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.254.173:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@212.113.106.125:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -3670,7 +3671,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@59.0.95.106:32773?sni=Koma-YT.PAGeS.Dev#%F0%9F
 trojan://BxceQaOe@18.183.7.25:4633?sni=t.me%2Fripaojiedian#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://7ebc402f3383366fe4f554abd8625439@16.163.139.177:6604?sni=www.nintendogames.net#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@47.82.155.79:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1111@108.162.198.151:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1111@108.162.198.164:2096?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.pijoh30899.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -4110,7 +4110,6 @@ trojan://de798060-31d0-11ee-b282-1239d0255272@51.81.82.15:443?security=tls&sni=z
 trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@103.150.8.160:50888?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -4183,6 +4182,7 @@ trojan://162534@138.124.112.238:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed
 trojan://162534@216.173.71.221:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@217.60.2.148:2053/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@217.60.2.148:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://162534@217.60.248.94:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@217.60.38.182:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@43.133.23.88:8388/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://162534@47.245.62.4:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6179,6 +6179,7 @@ trojan://telegram-id-privatevpns@15.236.213.225:22222/?type=tcp&security=tls&sni
 trojan://telegram-id-privatevpns@15.236.29.84:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@15.236.5.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@15.236.73.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@15.237.9.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@18.153.87.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@18.158.145.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6890,14 +6891,18 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@138.2.87.237:443?path=%2FtrTelegram%F0%9F%87%A
 trojan://8r%3C%5B9%27l6hAO%238ZQi@138.68.9.159:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@140.235.36.50:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@157.230.140.153:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.178.181:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@161.35.232.123:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@162.243.249.250:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@206.189.147.60:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&fp=chrome&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@23.27.52.79:443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.59.120.161:2053?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@43.207.197.79:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@43.249.33.117:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.159.48.37:41607?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@62.60.186.78:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8r%3C%5B9%27l6hAO%238ZQi@74.50.11.24:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.6:2096?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.200.242.118:26517?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443/?type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6905,6 +6910,7 @@ trojan://988sR-269PKCKlb%263pMrFTEr@jquery.com:443?security=tls&type=ws&host=let
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@219.103.68.164:20770?allow_insecure=1&allowInsecure=1&host=vpn1.rnmcnm.com&insecure=1&path=%2Ftrj-ws&security=tls&sni=vpn1.rnmcnm.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@68.64.182.39:443?allow_insecure=0&host=vpn1.rnmcnm.com&path=%2Ftrj-ws&security=tls&sni=vpn1.rnmcnm.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://Nova-Proxy@8.39.125.191:2083?security=tls&sni=spring-queen-a95f.cewon19053.workers.dev&fp=random&insecure=1&allowInsecure=1&type=ws&host=spring-queen-a95f.cewon19053.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://acf3f32e-2b46-4535-a068-4bcb6dcb86f8@us200m.jiasu.asia:50000?type=raw&headerType=none&security=tls&sni=us200m.jiasu.asia#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://bpb-trojan@v1.dabache.top:443?type=ws&host=mashdt.pages.dev&path=%2Ftr&security=tls&sni=mashdt.pages.dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6920,6 +6926,7 @@ trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignmen
 trojan://humanity@www.creationlong.org:443?alpn=h2%252Chttp%252F1.1&path=%252Fassignment&security=tls&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@www.host-tracker.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@www.ignitelimit.com:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://zWFjJENcljZm@usa.visa.com:443?type=ws&security=tls&path=%2F&host=vahidqaz-7o61u7.vahidqaz.workers.dev&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://9e308743-bc58-4109-b8a8-c2c686959c65@sdfgtyu.0h0.ccwu.cc:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev:8443?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bgt.1x2.indevs.in:443?allowInsecure=1&sni=bgt.1x2.indevs.in&alpn=http/1.1&type=ws&host=bgt.1x2.indevs.in&path=%2Fy1moM5CyNvYMZlzsYHmsMrnO#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -6978,12 +6985,8 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@2.27.45.100:443?security=tls&sni=Koma-YT.PAGeS
 trojan://8r%3C%5B9%27l6hAO%238ZQi@154.92.9.253:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@192.3.251.89:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@161.248.254.27:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.178.181:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.61.166.121:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@198.46.190.116:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8r%3C%5B9%27l6hAO%238ZQi@4.236.130.132:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@162.243.249.250:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://8r%3C%5B9%27l6hAO%238ZQi@74.50.11.24:443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:18634?security=tls&sni=avas04.xiaohouzi.club#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
