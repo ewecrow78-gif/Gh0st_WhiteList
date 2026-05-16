@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 86
+# Всего рабочих: 87
 
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?security=reality&amp;encryption=none&amp;pbk=gOnHJkj2ZhIln_ojkVdeMHW9h6nYruaRrRzLtpDeGxQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers&amp;sni=tgju.org#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -91,3 +91,4 @@ vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?security=reality
 vless://fe945275-51a2-5c3c-8669-2c112ed35cec@185.146.173.24:80?security=none&type=ws&host=Nl1.vless.site.&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://telegram-id-ArV2ray@188.245.72.49:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=ws&amp;sni=h.ftpdeb.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://telegram-id-ArV2ray@70.34.215.82:443?encryption=none&fp=chrome&mode=gun&pbk=_baaRXG2Xm3W10XAoLK6iR4F3hfqbD3NHbU9uE5TGWc&security=reality&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sid=c8a0a331&sni=ftp.debian.org&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://31216f81-3139-0021-bac4-646680314264@sw.musicperec.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=6a2b5c9d&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList

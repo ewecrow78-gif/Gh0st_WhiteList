@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 344
+# Всего рабочих: 345
 
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&type=raw&headerType=none&security=reality&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sni=www.ozon.ru&sid=ffffffffff#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f53cb93c-9cd2-4952-9660-4b4ff4b74484@144.31.30.45:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=OsyBt6w9NBZdXMBcoZbfGsObubUakouoGhU2coBK_3o&sni=max.ru&sid=83fc923fab83#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&sni=vk.com&sid=67#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.16.38:8443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.176.190.183:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://01130dcd-bcda-469b-bd16-fde8a475edab@www.parspack.com:8080?path=/MdVpnSec?ed=2048&amp;security=none&amp;encryption=none&amp;host=MDvpnsec-mdvpnSEC-MDvpnsec.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -349,3 +348,5 @@ vless://nothing_88147cqsru@188.253.26.39:442?type=tcp&encryption=none&flow=xtls-
 vless://v2ray_configs_pools___TELEGRAM@79.137.195.203:8080?path=/TELEGRAM_BYA_CHANEL_v2ray_configs_pools-v2ray_configs_pools-v2ray_configs_pools?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6ec3c298-1058-43bd-81e3-54b155c4ae21@85.209.153.60:52335?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&pbk=lwhFlU5V70GDf5OKTFeIAPC5uMKfvlGb3Y6nE-MmRmI&sni=www.deepl.com&sid=72&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://bd228ccf-dda2-439b-b840-61c92b9fdb60@212.118.36.25:443?type=xhttp&encryption=none&security=reality&pbk=vMidazodslaF_Jl8Wv3SvhD1KZbSaho7gPuxxlN1hAQ&fp=random&sni=store.steampowered.com&sid=89&spx=%2F&path=%2F&host=&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://5e390465-58da-433c-8758-413b4a6739eb@79.137.197.180:443?fp=chrome&pbk=KjHYwT4RUWjrnWw0QfynXxIshjggjV6Fm8pJ7jN9MEA&security=reality&sid=f6cf&sni=yahoo.com&spx=%2F&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://ba1581d2-d399-41e0-857b-82151ac0e040@nl-as.connect-iskra.cv:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=pJZdgXS61oBi-VKn1QQ59cJTLn3pRNUryhKGWw2q6gM&security=reality&sid=37cc8cff6df6108c&sni=hello.opengate.tech&spx=%2F&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList

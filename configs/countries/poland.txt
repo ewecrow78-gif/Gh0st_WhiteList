@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 52
+# Всего рабочих: 53
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram??+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?encryption=none&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&security=reality&sid=b5&sni=vk.ru&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -57,3 +57,4 @@ vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?encryption
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.82.255.32:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f7419793-2329-4ac7-bdee-e178ffb27848@146.59.80.70:2087?security=reality&encryption=none&pbk=u3dvb0vUFqZE2TdFjB4WHk99pCHidgq6tYGfppTvNCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=3c#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://75807638-6f19-2710-ae08-38492ee85c88@de.corpmail59.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList

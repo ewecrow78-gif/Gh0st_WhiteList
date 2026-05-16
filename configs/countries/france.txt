@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 130
+# Всего рабочих: 133
 
 vless://02663a90-d01c-46f1-afba-466ed79c30f6@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr123.global.ssl.fastly.net&path=%2F%3Fed%3D2560&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -135,3 +135,6 @@ vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@86.104.74.158:4443/?type=tcp&encryp
 vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@fr.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ff3c6dcf-08ae-4165-a2a9-00cb9e7c361e@193.233.133.166:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=st.ozone.ru&amp;allowInsecure=1&amp;fp=chrome&amp;security=reality&amp;pbk=PgDz7FY2A1E-3wc77XVnCd3nOeoJMz-hKi-ZeAjhAxA&amp;sid=980305d865849874#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://SlikVPN_8379341@104.253.79.28:443?type=tcp&security=reality&fp=chrome&pbk=rLrtg1VgKYG2gdUM8mQRML9lEIIEOlSN7O1_ZADKEyg&sni=www.apple.com&sid=ffffffffff&spx=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ba1581d2-d399-41e0-857b-82151ac0e040@37.49.230.91:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cbu6fkQiURQES7hfw916CFcfZYvRXMMgVmxnpK6CgSQ&security=reality&sni=s3.tehno.store&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ba1581d2-d399-41e0-857b-82151ac0e040@37.49.230.95:443?flow=xtls-rprx-vision&fp=chrome&pbk=Cbu6fkQiURQES7hfw916CFcfZYvRXMMgVmxnpK6CgSQ&security=reality&sni=s3.tehno.store&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://31216f81-3139-0021-bac4-646680314264@fr.musicperec.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=4c8d1e0f&sni=www.amd.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
