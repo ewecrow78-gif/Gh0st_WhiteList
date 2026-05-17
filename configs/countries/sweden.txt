@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 103
+# Всего рабочих: 101
 
 vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&sid=7b7c7376cba460cf&sni=www.booking.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.45.77.159:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&ed=2560&eh=Sec-WebSocket-Protocol#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -18,8 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@
 vless://7c9b551d-fa95-465d-b30e-945a048c9725@138.124.110.159:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Ji53Zkce4a-YPiE_B0ejsqe-czSzdw5b6ZvLqI41LiM&sid=b3&sni=www.amd.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://7aXwJPnpAJ@150.241.65.18:50824?sni=yespaintstudio.rav-kraski.ru#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://5555d028-4963-4a4d-8cb8-5f120d28509e@95.85.246.102:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IS8fxs8Tr7PL9Ugx5VgqDHNQ3Ez-D-UjPaBCEtQxShA&sid=7a1473&sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.109.158:443?host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.157.29:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?security=reality&amp;encryption=none&amp;pbk=gOnHJkj2ZhIln_ojkVdeMHW9h6nYruaRrRzLtpDeGxQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers&amp;sni=tgju.org#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
