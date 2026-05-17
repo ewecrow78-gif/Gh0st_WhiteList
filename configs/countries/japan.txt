@@ -3,26 +3,22 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 21
+# Всего рабочих: 17
 
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sni=www.yahoo.co.jp&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?type=raw&security=reality&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0&sni=yahoo.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://BxceQaOe@116.80.61.236:443?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://BxceQaOe@116.80.80.121:443?security=tls&type=tcp&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://BxceQaOe@116.80.61.224:443?security=tls&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://a6b071ef-0d82-4f46-b04b-3310b8d6ca82@3.112.126.206:54055?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OzoYp8homkMDMozggbwqswuBiWRykfmmszFpu2_YM1g&sid=f0b670194e8d2401&sni=www.icloud.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sni=cloudcircus.jp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=&sni=www.yahoo.co.jp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?type=tcp&security=reality&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0&sni=yahoo.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@116.80.61.224:443?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@116.80.80.121:443?security=tls&type=tcp&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@116.80.61.236:443?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://99e50b7b-e551-46b3-b74f-d39806835b10@212.135.211.105:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6bKr3dHLP8VjrlVFBNTAM3Bj0j0iGubvzTDPTmK08FI&sid=ecf07d87f0521a0e&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sni=www.icloud.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?type=tcp&security=tls&sni=jp1.fromblancwithlove.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sni=cloudcircus.jp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://0663e78c-d73b-48bf-a99b-fb318486f601@57.180.23.89:53863?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QCSdJdwySeyGF6QYIIQfmdN9ErY79rJWuuWhSh6LWn8&sid=d31522d103e50a28&sni=www.icloud.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.216.5.125:2096?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.104.113.18:74?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&host=dcsrzh.ccwu.cc&type=ws&sni=dcsrzh.ccwu.cc#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?type=tcp&security=tls&sni=jp1.fromblancwithlove.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sni=www.icloud.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a6b071ef-0d82-4f46-b04b-3310b8d6ca82@3.112.126.206:54055?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OzoYp8homkMDMozggbwqswuBiWRykfmmszFpu2_YM1g&sid=f0b670194e8d2401&sni=www.icloud.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
