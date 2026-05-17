@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 113
+# Всего рабочих: 114
 
 vless://360f1d71-f8dd-4c71-aa4f-347486312dca@47.238.131.120:8080?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=bXstTdAgEyOn8LEMM_K2gIOw7T2iKhr6l-lXcrF4PlM&sni=www.liblib.art#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://a3a8c354-a85c-477b-90f3-dbe08cadf31c@43.161.219.163:22335?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=zPM3iLhD0ppwxYWzwiXFhQd1PwXCjFN9u28DbXdy604&sid=a2346cd0&sni=www.yahoo.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -34,7 +34,6 @@ vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.38.182:8443?type=ws&security
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&sni=www.icloud.com#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@129.226.163.56:8388?#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.73.71.113:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.168.16.112:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram??@WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.180.133.83:443?encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.200:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.173.104.221:2053?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -51,7 +50,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.129.231.66:2096?encryption=none&s
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.149.12.30:8880?allowInsecure=0&type=ws&host=vms.lifetime10.workers.dev&path=/?https://t.me/youtube@ZYFXS🇨🇳fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.48.140.149:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@139.162.83.190:74/?type=ws&encryption=none&flow=&host=dcsrzh.ccwu.cc&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=dcsrzh.ccwu.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.104.113.18:74/?type=ws&encryption=none&flow=&host=dcsrzh.ccwu.cc&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=dcsrzh.ccwu.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.104.122.66:74/?type=ws&encryption=none&flow=&host=dcsrzh.ccwu.cc&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=dcsrzh.ccwu.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.105.194.182:74/?type=ws&encryption=none&flow=&host=dcsrzh.ccwu.cc&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=dcsrzh.ccwu.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.105.197.52:74/?type=ws&encryption=none&flow=&host=dcsrzh.ccwu.cc&path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&sni=dcsrzh.ccwu.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -65,7 +63,11 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.182.84.254:8880?allowInsecure=0&s
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.171.83.147:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.113:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.87.222.145:443?encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.252.85:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.dns.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.8.229.218:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.129.233.22:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/WangCai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.149.222:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.99.166:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@app_bedal#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@5.182.84.3:8880?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.198.213.40:443?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.v6.navy&fp=chrome&type=ws&sni=sni.111000.v6.navy#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -78,7 +80,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.253:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.174.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@92.53.188.186:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.26.27.7:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:8443?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;path=/?Telegram🇨🇳+@WangCai2&amp;security=tls&amp;sni=sni.111000.dynv6.net&amp;type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@193.227.99.148:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.rocks&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.rocks#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.155.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
