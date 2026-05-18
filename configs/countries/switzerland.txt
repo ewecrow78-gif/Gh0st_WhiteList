@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 26
+# Всего рабочих: 25
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@193.151.108.76:8388?#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=tcp&security=reality&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&sni=yahoo.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -21,7 +21,6 @@ vless://22d29719-4510-46f6-a26b-61fbb6963fcc@83.228.210.39:443?security=reality&
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@ch.srv.oplcdn.link:8443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ign.com&amp;sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://4765c728-47cc-42f2-aac0-b9e392e86664@95.163.212.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bhmXYuOivgD85xqBI7NSernxk-lKYqjLpC3jYsMDQgk&security=reality&sid=063bbc645f77&sni=eh.vk.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@140.238.214.247:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://846e2fc1-0910-4459-b364-1859900e0bcc@45.140.205.215:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?security=none&type=ws&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&path=%2F1Y6MN5DFV8zB82Ai%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://9cab5397-59a5-4eb5-8833-805dd57c6eb8@ch.srv1.stargrian.com:3445?security=reality&amp;encryption=none&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=tgju.org#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
