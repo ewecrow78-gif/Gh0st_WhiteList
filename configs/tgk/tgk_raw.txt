@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1562
+# Всего рабочих: 1563
 
 vless://ae308d5d-f212-4a11-bb1b-9ccf6a636664@84.201.137.43:443?flow=xtls-rprx-vision&fp=chrome&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&security=reality&sid=ccf6f64e6bc81cd1&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961
 vless://ae308d5d-f212-4a11-bb1b-9ccf6a636664@84.201.137.43:443?flow=xtls-rprx-vision&fp=chrome&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&security=reality&sid=4c02bbbfa833b3b6&sni=sun6-21.userapi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%962
@@ -1566,4 +1566,5 @@ vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv18.strettenvpn.com:7771?encrypt
 vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv18.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=splitter.wb.ru&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%AB%F0%9F%87%AE%20WhiteList_TGK%20%E2%84%961559
 vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv52.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961560
 vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv52.strettenvpn.com:8443?encryption=none&type=xhttp&path=%2Fxhttp&host=eh.vk.com&mode=auto&security=reality&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=e5f6a7b8&spx=%2Fxhttp#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961561
-vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.14:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961562
+trojan://UBkq1UAa6u@31.59.39.192:443?host=www.amd.com&path=%2Fwsamd&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961562
+vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.14:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961563
