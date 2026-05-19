@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1584
+# Всего рабочих: 1581
 
 vless://d96c0a0a-824a-0001-a839-45d56a2ffd65@80.97.160.57:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=Saqm-pfkT3zPx5mmT7UPg2ieUOU6ja--k3ivXGHG_Ws&sid=0e903b415d812c59&flow=xtls-rprx-vision#WhiteList_TGK%20%E2%84%961
 vless://d96c0a0a-824a-0001-a839-45d56a2ffd65@130.51.23.106:443?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&pbk=Saqm-pfkT3zPx5mmT7UPg2ieUOU6ja--k3ivXGHG_Ws&sid=0e903b415d812c59&flow=xtls-rprx-vision#WhiteList_TGK%20%E2%84%962
@@ -1585,7 +1585,4 @@ vless://91198c78-3bdb-4cdf-b41a-e4854d84788e@greeting.frost-api.com:443?encrypti
 vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@195.133.84.136:64003?encryption=none&security=reality&sni=download.docker.com&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&sid=fbf3edeea8eabbdc&type=grpc&authority=&serviceName=xraygrpc&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961578
 vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@94.156.155.75:64003?encryption=none&security=reality&sni=download.docker.com&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&sid=fbf3edeea8eabbdc&type=grpc&authority=&serviceName=xraygrpc&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961579
 vless://03fdd2c2-7459-41b9-9504-ed2ecc1181b6@84.201.166.160:443?encryption=none&security=reality&sni=max.ru&pbk=gDxzyiv2JKbJVxgFqmurttOCVJgCD1SrRZqiPEZ_9CU&sid=104ddee73f941bc4&type=grpc&authority=&serviceName=xraygrpc&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961580
-vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv18.strettenvpn.com:7771?encryption=none&type=grpc&serviceName=splitter.wb.ru&mode=gun&security=reality&sni=splitter.wb.ru&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%AB%F0%9F%87%AE%20WhiteList_TGK%20%E2%84%961581
-vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv18.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=splitter.wb.ru&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%AB%F0%9F%87%AE%20WhiteList_TGK%20%E2%84%961582
-vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv52.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961583
-vless://5cca5cb6-5e24-4037-ab5c-2ce8da724307@serv52.strettenvpn.com:8443?encryption=none&type=xhttp&path=%2Fxhttp&host=eh.vk.com&mode=auto&security=reality&sni=eh.vk.com&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=e5f6a7b8&spx=%2Fxhttp#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961584
+trojan://eGGZ0snftE@31.59.39.192:443?type=ws&host=www.amd.com&path=/wsamd#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961581
