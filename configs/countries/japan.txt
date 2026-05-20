@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 19
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?type=raw&security=reality&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0&sni=yahoo.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -22,4 +22,5 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?type=tcp&secur
 trojan://BxceQaOe@116.80.80.121:443?sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://a6b071ef-0d82-4f46-b04b-3310b8d6ca82@3.112.126.206:54055?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OzoYp8homkMDMozggbwqswuBiWRykfmmszFpu2_YM1g&sid=f0b670194e8d2401&sni=www.icloud.com&spx=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009?#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.216.5.125:2096?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

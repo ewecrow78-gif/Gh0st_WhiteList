@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 101
+# Всего рабочих: 102
 
 vless://ec13d921-3072-4e16-b2cd-af709f7f7894@150.241.83.60:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=xDFXqfhZ7-IQiFwXpXltNe2Axo5O33k4LAqDfAVtyz4&sid=7b&sni=www.icloud.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@2.27.23.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=0123456789abcdef&sni=www.deepl.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -80,6 +80,7 @@ vless://ItsLegendaryking@legendaryking.zooboming.com:443?security=reality&encryp
 vless://TELEGRAM-CONFiGLiNE-72@85.194.137.227:8443?mode=gun&security=reality&encryption=none&pbk=4yewCbeV7B4AFpYfavhaeairxCYr9sBylltHeoLp8Q0&fp=chrome&spx=/&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=steampowered.com&sid=84#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.151.204.91:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@51.12.217.144:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://a7c617c90de442f19c0af1c2e64d83fe@176.125.240.166:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&fp=random#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://aae091d6-8a83-4e85-8c5b-f7a8bf4e7823@77.91.84.45:22?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNfAwCAO05WP4XmBvXIWWVlT9llZ3bGJ9E9fzph1XkQ&sid=8415834ebe344b23&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?security=none&type=ws&host=NOxdB1.BisTaiR.orG&path=%2FDSDaswd22%2111%2Afdfm55247.COM.#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
