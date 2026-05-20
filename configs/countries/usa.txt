@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 183
+# Всего рабочих: 180
 
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://3275a667-4a67-4d43-b0ba-54da2d1145dd@us.gryaz-vpn.com:19131?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=yxRy8t-W5pCOglMeGNTeen8vQPK1SG0sM49vL6GLpjo&sid=0a8a84dcb5&sni=cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -39,7 +39,6 @@ vless://31b69b9e-79cc-4a30-8d94-90721a6c6a32@151.101.97.137:443?type=xhttp&secur
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sni=www.amazon.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ==@94.72.127.55:80?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -72,7 +71,6 @@ vless://145adeb9-279d-4c1d-a97c-93fe28ca071e@185.184.70.120:443?type=tcp&securit
 ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142/?type=tcp&security=tls&sni=static.rutube.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -80,13 +78,11 @@ trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142/?type=tcp&security=tls&sni=stat
 ss://YWVzLTI1Ni1nY206U003V1l0QXd2Qk9SWEtqSQ==@154.53.63.42:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@142.171.171.35:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVVNicjJlTENYbWJjNjR4T0hoZ0V0@167.172.249.115:41195?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:80?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:80?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://30f5b380-5b9e-4d42-a50c-508a2a8cb2f6@185.68.244.41:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=433065&sni=xapi.ozon.ru&bx=/#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmlBUFVIeXlBM1l4QmIzRG1sb1R1QXJNMElpUGVZMkhDb0gzbQ@92.118.112.203:41348?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07@100.23.55.30:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=ohio1.ap221.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -110,12 +106,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoazFTZHlSV2JZaTNJZ3hlb3c5SmRO@142.93.73.182:
 vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@us.skysafe.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1&sni=us.skysafe.online&spx=/#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:80?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443?#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram??@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@69.164.245.25:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.152.227:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.32.177.101:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@69.164.245.25:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.157.29:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=/?ed=2560&https://t.me/wangcai2🇨🇳#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.60.96:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@193.32.177.101:443?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://BxceQaOe@54.46.53.9:2702?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?encryption=none&amp;security=none&amp;type=ws&amp;host=pizzabama.global.ssl.fastly.net&amp;path=/containers/fi#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
