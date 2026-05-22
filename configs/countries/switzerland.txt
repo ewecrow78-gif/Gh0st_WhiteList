@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 20
+# Всего рабочих: 22
 
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&sni=sw1tzerl4nd.gxcore.net&fp=chrome&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?encryption=none&type=ws&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -25,3 +26,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.65.201:443?security=tls&sni=
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.128:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sni=store.steampowered.com&sid=0c80cc39#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?security=reality&encryption=none&pbk=dI21_SOs4C_YiBhslDZnrt5oJLNDzL_Q0ce1R6o9-HM&headerType=none&fp=chrome&spx=/Telegram---V2ray-vpn-ir&type=tcp&flow=xtls-rprx-vision&sni=kukala.ir&sid=98f0e20f#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://monacoVPN@172.65.111.43:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
