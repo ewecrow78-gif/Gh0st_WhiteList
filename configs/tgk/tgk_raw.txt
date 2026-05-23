@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1814
+# Всего рабочих: 1815
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#WhiteList_TGK%20%E2%84%961
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#WhiteList_TGK%20%E2%84%962
@@ -1819,3 +1819,4 @@ vless://02093a1f-27df-4b74-94fb-ba21e6e26491@193.58.121.113:5000?security=realit
 vless://02093a1f-27df-4b74-94fb-ba21e6e26491@144.31.207.186:5000?security=reality&encryption=mlkem768x25519plus.native.0rtt.AESuZ0uzJOu9-U-b-N0ZNUAfUGkj5tcgCAjTKOfEmR8&echfq=none&pbk=Kq9pHoX1LpxAqHEL5qF2WNR7yPnVC9hP5Da262tokVo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=www.nvidia.com&sid=aec8#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%961812
 vless://3462877f-e054-43ee-b03b-d91d448ac5f0@146.185.211.132:61227?mode=auto&security=reality&encryption=none&pbk=U59CD7HaMgEX67FZS-uaBAFdyjuXb3oqtK7zRGsSuUA&fp=firefox&type=xhttp&sni=cloudcdn-m9-14.cdn.yandex.net&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961813
 vless://3462877f-e054-43ee-b03b-d91d448ac5f0@146.185.211.132:8779?mode=gun&security=reality&encryption=none&pbk=Hc4aTC6Ml7XLIhdKgizmFw6dcHRv2bl2JP3Ng6K2YVM&fp=chrome&type=grpc&serviceName=ozon&sni=ozon.ru&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961814
+vless://96e429ef-7e1d-4239-a4c8-c5a4861bbded@144.31.96.48:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&fm=%7B%22fragment%22%3A%7B%22length%22%3A%2250-100%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961815
