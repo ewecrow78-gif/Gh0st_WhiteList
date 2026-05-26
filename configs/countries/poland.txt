@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 66
+# Всего рабочих: 65
 
 vless://15efeadc-234a-4642-89b1-e34210e51758@45.144.51.138:59999?encryption=none&flow=xtls-rprx-vision&fp=&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=1a2b3c4d&sni=yastatic.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://62541eb9-fa3d-4d3d-880e-ceb517dc52f0@87.239.135.116:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=fySMRTC4X8TFAGNlb7bOZUV2wzWU8VWFO8-tuLl9Mms&sni=vk.com&sid=d52700a8#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -70,4 +70,3 @@ vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@45.82.255.32:4443/?type=tcp&encrypt
 vless://ee1cf1d1-3522-4d4a-95ba-8dd5ceaf38cc@104.16.1.58:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f7419793-2329-4ac7-bdee-e178ffb27848@146.59.80.70:2087?security=reality&encryption=none&pbk=u3dvb0vUFqZE2TdFjB4WHk99pCHidgq6tYGfppTvNCI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=3c#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://35325a3c-411e-42a8-962b-db12e55b071d@144.31.0.220:2027?fp=chrome&mode=auto&path=%2Fpatch&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&security=reality&sid=6ba7b8109dad11d1&sni=pl.skysafe.online&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
