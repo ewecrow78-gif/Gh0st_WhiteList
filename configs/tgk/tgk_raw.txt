@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1780
+# Всего рабочих: 1779
 
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&fp=chrome&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&security=reality&sid=6b26829083&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961
 vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?encryption=none&host=s28315.cdn.ngenix.net&path=%2Fws&security=tls&sni=s28315.cdn.ngenix.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WhiteList_TGK%20%E2%84%962
@@ -1784,4 +1784,3 @@ vless://77330e29-665f-47a0-a564-19c1d68fee9d@84.201.152.16:51192/?type=tcp&encry
 vless://77330e29-665f-47a0-a564-19c1d68fee9d@84.201.174.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#%F0%9F%87%AA%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961777
 vless://77330e29-665f-47a0-a564-19c1d68fee9d@84.201.152.16:51191/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#%F0%9F%87%AA%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961778
 vless://77330e29-665f-47a0-a564-19c1d68fee9d@84.201.152.16:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#%F0%9F%87%AA%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961779
-vless://88926075-7b7b-4c44-aa83-201efd3e0319@50.7.90.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.trahodrom.fun&fp=chrome&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%961780
