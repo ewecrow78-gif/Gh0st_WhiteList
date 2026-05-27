@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 97
+# Всего рабочих: 98
 
 vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@89.127.207.188:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sni=io.ozone.ru&sid=92d0c4089b6c1da3#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@109.120.133.184:8443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://--LegenderY_Servers--@legendary.zooboming.com:443?security=reality&amp;encryption=none&amp;pbk=gOnHJkj2ZhIln_ojkVdeMHW9h6nYruaRrRzLtpDeGxQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers&amp;sni=tgju.org#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
