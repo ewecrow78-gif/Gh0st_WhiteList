@@ -3,16 +3,18 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 13
 
-vless://390474dc-1f81-4674-960e-6314ec147b99@108.162.193.171:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://4d494d69-46b7-4372-8874-8feffa5d9066@141.101.65.241:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://5563fdfc-319b-4764-bedb-a040416b3330@103.31.5.24:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://7585e19d-d6d3-45bf-ba1e-6ac0fcf76da8@197.234.240.152:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://0396382a-620b-47f6-a9f8-e17a88219f0e@108.162.193.182:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://052a919f-e75f-4a5c-9a2b-24206a466abe@188.114.96.92:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://0776a1be-bedc-4974-8464-eec6ebad885d@131.0.73.113:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://2e4d4a77-008c-4785-8bb2-f02bb6342237@172.64.1.182:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://4cb9b3a9-663c-4964-94c5-0bc85e32907c@188.114.97.7:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://61d2353b-ee38-484a-8a0d-a7b3fd4b5bb8@188.114.96.213:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://7710e50e-4bdd-48e8-bf08-d35ec84793ed@104.17.147.22:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://7751bd76-5716-45ff-acd1-85134cb544cc@190.93.241.182:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://77d500d5-7dc4-4a86-a4fe-d0fa3c35ec08@188.114.97.192:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://7fd38dfc-074a-4f98-b7cd-71692503c530@103.21.244.242:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://92b23ea8-7197-477b-b80a-4017900fb4fd@103.22.201.223:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://a6fa764f-50c1-48a4-b61a-7c9ebcb35f38@103.22.201.165:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://f2ca4c08-c470-423f-8d8e-541b92654e47@172.64.0.194:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://7cf438e2-4cf0-4334-8e64-9c3310f49bc7@188.114.97.20:2096?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://83847817-4748-44dd-9f6d-d1e017a423f9@103.22.201.67:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://8e42d544-c9a8-4565-823f-34423dbd2e53@188.114.97.178:443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://ba10ade0-4ee0-4212-9323-e10fcd183286@198.41.129.221:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://d68b6620-553f-4748-8be6-5e68bb14226b@141.101.65.146:2053?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
+vless://fcfd02d9-622d-4cc4-9479-905323ddfc01@131.0.72.39:8443?encryption=none&security=tls&sni=cf.cloudip.ggff.net&type=ws&host=cf.cloudip.ggff.net&path=/ws?ed=2048&fp=randomized#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList

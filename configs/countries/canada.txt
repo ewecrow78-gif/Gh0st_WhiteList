@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 9
 
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://---Telegram-Parsashonam--4-@Speed.Tel-Parsashonam.Website:2087?type=grpc&serviceName=&security=tls&fp=&alpn=&sni=Finland.Parsashonam.Tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
