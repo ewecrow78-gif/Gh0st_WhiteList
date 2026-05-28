@@ -3,11 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 23
+# Всего рабочих: 22
 
+vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:2095?security=none&type=ws&path=%2Fed%3D2560&host=Kingdom.turbooo-server.com&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?encryption=none&type=ws&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://1c9deda0-a2f2-4a4a-8c2e-3aa8cfea6599@karo-vpn.xyz:80?encryption=none&fp=chrome&pbk=s_VX47Z2RTwIxbrK5ljoKIXyr5qS5tV7RNwIaiVhTUw&security=reality&sid=69&sni=www.intel.com&spx=/haIhRJRt0Q85jVk&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://22d29719-4510-46f6-a26b-61fbb6963fcc@83.228.210.39:443?security=reality&encryption=none&pbk=XSIaUifuSpo2bF-eYsY5fgTG3wzo09SY-oGn73zJPF0&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://26524cce-d514-4014-a426-365fb266a14d@194.135.22.181:443?&security=tls&fp=chrome&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=/danfeng#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -27,4 +27,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.65.201:443?security=tls&sni=
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.128:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?security=reality&encryption=none&pbk=dI21_SOs4C_YiBhslDZnrt5oJLNDzL_Q0ce1R6o9-HM&headerType=none&fp=chrome&spx=/Telegram---V2ray-vpn-ir&type=tcp&flow=xtls-rprx-vision&sni=kukala.ir&sid=98f0e20f#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?fp=chrome&headertype=none&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&security=reality&sid=e9a8&sni=yahoo.com&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
