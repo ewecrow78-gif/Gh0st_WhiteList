@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 25
+# Всего рабочих: 26
 
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.18.120.34:8443?path=%2F&security=tls&encryption=none&insecure=0&host=superconducting.turboo-server.space&type=ws&allowInsecure=0&sni=superconducting.turboo-server.space#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443?encryption=none&type=ws&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -29,4 +29,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.212.95:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.65.201:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.128:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://f3bc9ca5-55a3-4f85-94dd-7e959c1e1bf1@karo-vpn.xyz:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NDfgMm7K3dRnWM7prlxQ4T5JuSNa8RkjBi0qcYJYwho&security=reality&sid=89&sni=dl.google.com&spx=%2F2GwEmfrJD81PvvQ&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?security=reality&encryption=none&pbk=dI21_SOs4C_YiBhslDZnrt5oJLNDzL_Q0ce1R6o9-HM&headerType=none&fp=chrome&spx=/Telegram---V2ray-vpn-ir&type=tcp&flow=xtls-rprx-vision&sni=kukala.ir&sid=98f0e20f#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList

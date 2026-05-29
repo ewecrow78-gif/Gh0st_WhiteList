@@ -3,9 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 160
+# Всего рабочих: 159
 
-vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&security=reality&sid=b82d7208fe23&sni=cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://02663a90-d01c-46f1-afba-466ed79c30f6@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://030550a6-5d3a-4a7e-bf67-cd0caa052ddd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr123.global.ssl.fastly.net&path=%2F%3Fed%3D2560&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://031884db-e31b-4909-b83c-1dfbb84e7931@62.60.248.14:28485?mode=gun&security=reality&encryption=none&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&fp=chrome&spx=%2F&type=grpc&serviceName=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&sni=tgju.org&sid=dc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -49,7 +49,6 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?sec
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&amp;security=tls&amp;encryption=none&amp;host=639001966536690941.prius-amsiq.info&amp;type=ws&amp;sni=639001966536690941.prius-amsiq.info#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://58aec3a8-5d65-4acf-9ed3-f34edf157d68@193.168.145.2:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.4cdn.de#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://5c1461aa-334b-40a4-a724-73192a4c701f@95.182.97.249:443?type=ws&encryption=none&path=/&host=&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?security=tls&sni=nxginix.pages.dev&type=splithttp&host=nxginix.pages.dev&path=%2Feaglexw&fp=random&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://600eb54d-d31a-4c57-b438-d1e486e8fcd7@146.70.88.7:48736?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
