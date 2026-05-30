@@ -5,9 +5,9 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 372
 
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@50.85.80.187:4004?security=reality&encryption=none&pbk=D3bNJPmy4YJqhWQ3Xv1Fu3Z1danrTzswShytnkkG9Q4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=876caa38807c88e2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://85a226ce-f082-4886-9173-a1ee7ec3d165@150.241.94.160:47863?encryption=none&type=grpc&security=reality&pbk=0paB9-U-QzEBoSQiOP161BPvc2PhWrfQ_5nbfk2AezM&sni=web.max.ru&sid=a9766c#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:11443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sni=io.ozone.ru&sid=92d0c4089b6c1da3#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://60631e0f-7db6-4050-94f8-bf4127592e74@104.18.32.47:2096?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&serviceName=parstoday.com.alef.ir.iribnews.ir.hamshahrionline.ir.alalamtv.net.kayhan.ir.irannewsdaily.com&sni=iNvigOraTEd-engInelD4f5u35Fw.wiNDLER.co.UK&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://4e93e8e6-8cc1-4a5b-b577-3d5bcae6ada0@104.17.121.37:2096?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irdiplomacy.ir.rajanews.com.parstoday.com.donya-e-eqtesad.com.alalamtv.net.yjc.ir.tehrantimes.com&allowInsecure=0&sni=FAiNT-beliEFst4dReAkTi.WINdler.Co.Uk#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN2.FASTSPEEDS.IR:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL2.xuiprospeed.ir&mode=multi&sni=PPL2.xuiprospeed.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://01130dcd-bcda-469b-bd16-fde8a475edab@www.parspack.com:8080?path=/MdVpnSec?ed=2048&amp;security=none&amp;encryption=none&amp;host=MDvpnsec-mdvpnSEC-MDvpnsec.PlusFood.org.&amp;type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
