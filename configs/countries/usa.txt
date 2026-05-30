@@ -3,17 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 69
+# Всего рабочих: 66
 
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6cf0c895-92b1-478b-9c8b-91dfcabd96d5@mybrojust.lostgumball.com:25187?type=tcp&security=reality&pbk=-ELCnz_QMbyZpu0btESnj7xHvlMofkSBKTro8SWcAzQ&fp=random&sni=vk.com&sid=da55133f66&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://0da6c591-f986-4264-a57a-b967e7029ffe@serv21.strettenvpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&sni=firefoxusercontent.com&spx=/o7Aaf6fjwgbitolAe#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://0652e8a2-5592-4bb1-8255-397dbd8f9d94@us.locklance.lol:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nTu37Hhv11xTUWqNqt7C8w2DKcwAxrHEztyroIE16U8&sid=e00895920c622d69&sni=us.locklance.lol#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?security=reality&encryption=none&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dfgh.falsemirrov.com&sid=fb2a682d44bdc70c#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?allowInsecure=1&encryption=none&security=tls&sni=proxy.wastech.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://BxceQaOe@43.199.229.84:17801?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls&encryption=none&headerType=none&type=tcp&sni=proxy.wastech.org#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.184:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sub.sbrf-cdn342.ru#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://e258977b-e413-4718-a3af-02d75492c349@81.255.155.10:443?path=/&amp;security=tls&amp;encryption=none&amp;host=jp.aniua.qzz.io&amp;type=ws&amp;sni=jp.aniua.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -42,6 +39,7 @@ vless://234ed7ea-00eb-443d-e558-3a603f5a9f1f@VPNCUSTOMIZE2.ddns.net:8443?mode=gu
 vless://29281351-acf2-4b08-9dcc-97de24aed5da@id.artunnel57.host:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=id.artunnel57.host#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.2:443?security=reality&encryption=none&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://43c684d7-2674-45c9-bd55-d6e803fed92b@104.21.75.194:80?path=%2Fvless&security=none&encryption=none&host=uk1-vless.vpnhack.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@link.mebel-moscow.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=38pL0_tGgXWCuBnJ2uSYoxNbBWFyqOoDm4r0JRVf6mg&security=reality&sid=fe87&sni=www.tiktok.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://50c017ff-4271-4e22-8e16-7e4367898af8@de-vpnmizban.gamingbazirani.ir:443?security=reality&encryption=none&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=e54b5ad736ae4c38#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://535235d3-5088-4746-8722-8720e820c043@51-br-ge.ya-is.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y&security=reality&sid=a4fae7ee08c43ade&sni=sun6-22.userapi.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -72,5 +70,4 @@ vless://d9a58f30-9335-436d-baa9-27efa4773491@ardagulerturk.gojustore.site:7033?m
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928347056028780.warsaw-drc-tusabp.info:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@francebuget.gojustore.site:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=www.telewebion.com&amp;sid=16b6cda7ab793526#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?headertype=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://2a14cdc0-0a83-4f13-b3bf-4fb364b749f6@cdnvid.cdn-easy.tech:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&pbk=nTSCXYZKP72ffR1cj-CsLdDwGBxFr4ZJ5C_j4csXtx0&sid=55fb7986f1693c23#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://eceb9426-48bb-4bcb-b8f8-f1dbd824e0a0@nexustech.cvs-a.com:443?security=reality&encryption=none&pbk=cjNBGKxK4oVwHZKhaXP1nF7lBGAgyU88SLk8otOClFc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=panel.cvs-a.com&sid=4c61a231d5b63985#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
