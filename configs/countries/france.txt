@@ -3,13 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 152
+# Всего рабочих: 151
 
-vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://ac195240-6005-412b-9829-1e56e5d5c52a@fran.ummapeople.online:443?security=reality&encryption=none&pbk=-ZGvjjYToghwA3TZfntrabePL-dWYt-i5C_SO8pSRWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fran.ummapeople.online#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ac195240-6005-412b-9829-1e56e5d5c52a@fran.ummapeople.online:443?security=reality&encryption=none&pbk=-ZGvjjYToghwA3TZfntrabePL-dWYt-i5C_SO8pSRWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fran.ummapeople.online#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://017c7d11-2cd0-49bd-bbe8-177790ac1d0f@104.238.189.15:38586?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://017c7d11-2cd0-49bd-bbe8-177790ac1d0f@104.238.189.15:51422?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -62,6 +60,7 @@ vless://58aec3a8-5d65-4acf-9ed3-f34edf157d68@193.168.145.2:443?security=reality&
 vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?security=tls&sni=nxginix.pages.dev&type=splithttp&host=nxginix.pages.dev&path=%2Feaglexw&fp=random&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://600eb54d-d31a-4c57-b438-d1e486e8fcd7@146.70.88.7:48736?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.7-zip.org&pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&sid=d72dc8a0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=digikala.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
