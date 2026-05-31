@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
-vless://IR_NETLIFY@89.22.236.213:54346?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&sid=4a43ca&sni=addons.mozilla.org&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://027ddfdf-59c3-4cce-b75a-d6cec7ace390@89.125.37.77:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mO8C8IMouuBMVJA63JnS4xcdY7knrc7Hg_IclJR_MnE&sid=75&sni=www.nvidia.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=5d&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
