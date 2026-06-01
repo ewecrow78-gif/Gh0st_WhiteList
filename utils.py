@@ -312,9 +312,78 @@ def process_and_rename_configs(raw_lines: List[str]) -> List[str]:
             processed.append(add_repo_to_uri_fragment(line, new_display_name))
             
     return processed
+    
+# ====================== НОВЫЕ ФУНКЦИИ ======================
 
-# Пример использования:
-# ensure_dirs()
-# raw_configs = ["vless://uuid@host:port?type=tcp#OldName", "vmess://eyJhZGQiOiI4LjguOC44IiwicHMiOiJ0ZXN0In0="]
-# final = process_and_rename_configs(raw_configs)
-# write_text_file("configs/tgk/tgk_raw.txt", final)
+import aiohttp
+from typing import Tuple, Optional
+
+@dataclass
+class FullCheckResult:
+    """Результат полной проверки (TCP + HTTP)"""
+    config: VPNConfig
+    tcp_latency: Optional[float] = None
+    http_latency: Optional[float] = None
+    http_status: Optional[int] = None
+    is_alive: bool = False
+
+
+async def http_check(cfg: VPNConfig, timeout: float = 8.0) -> Tuple[Optional[float], Optional[int]]:
+    """
+    Проверка через HTTP (самая важная для реального качества)
+    """
+    try:
+        start = asyncio.get_running_loop().time()
+        
+        # Пробуем через SOCKS5 (работает для многих Shadowsocks)
+        proxy = f"socks5://{cfg.host}:{cfg.port}"
+        
+        async with aiohttp.ClientSession() as session:
+            async with session.get(
+                "https://www.google.com/gen_204",
+                proxy=proxy,
+                timeout=aiohttp.ClientTimeout(total=timeout),
+                ssl=False
+            ) as resp:
+                latency = (asyncio.get_running_loop().time() - start) * 1000
+                return round(latency, 2), resp.status
+                
+    except Exception:
+        # Запасной вариант — прямой запрос (для публичных IP)
+        try:
+            start = asyncio.get_running_loop().time()
+            async with aiohttp.ClientSession() as session:
+                async with session.get(
+                    "https://1.1.1.1",
+                    timeout=aiohttp.ClientTimeout(total=timeout)
+                ) as resp:
+                    latency = (asyncio.get_running_loop().time() - start) * 1000
+                    return round(latency, 2), resp.status
+        except:
+            return None, None
+
+
+async def full_check(cfg: VPNConfig, http_timeout: float = 8.0) -> FullCheckResult:
+    """
+    Полная проверка: TCP Ping + HTTP Check
+    """
+    result = FullCheckResult(config=cfg)
+    
+    # 1. TCP Ping
+    result.tcp_latency = await tcp_ping(cfg.host, cfg.port, timeout=3.0)
+    if result.tcp_latency is None:
+        return result
+    
+    # 2. HTTP Check
+    result.http_latency, result.http_status = await http_check(cfg, http_timeout)
+    
+    # Условие выживания
+    if result.http_status and 200 <= result.http_status < 500:
+        result.is_alive = True
+        # Предпочитаем HTTP latency
+        cfg.latency_ms = result.http_latency or result.tcp_latency
+    else:
+        # Если HTTP не прошёл — считаем мёртвым
+        result.is_alive = False
+    
+    return result
