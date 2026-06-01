@@ -118,3 +118,26 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# ====================== НОВЫЕ ФУНКЦИИ ======================
+
+async def run_full_checks(configs: List[VPNConfig], 
+                         concurrency: int = 120, 
+                         http_timeout: float = 8.0) -> List[VPNConfig]:
+    """
+    Новая улучшенная функция проверки с HTTP-фильтрацией
+    """
+    sem = asyncio.Semaphore(concurrency)
+    alive: List[VPNConfig] = []
+
+    async def worker(cfg: VPNConfig):
+        async with sem:
+            result = await full_check(cfg, http_timeout)
+            if result.is_alive:
+                alive.append(result.config)
+
+    tasks = [asyncio.create_task(worker(cfg)) for cfg in configs]
+    await asyncio.gather(*tasks)
+    
+    logger.info(f"Полная проверка завершена. Живых: {len(alive)} из {len(configs)}")
+    return alive
