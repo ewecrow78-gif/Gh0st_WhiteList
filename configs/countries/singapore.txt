@@ -3,18 +3,21 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 16
 
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F%2B%40ProxyVPN11&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.176.239.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.158.90:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.226:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=node1.nanonet.host#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@dnew.cc:443?encryption=none&fp=chrome&host=1-brc.pages.dev&path=%2F&security=tls&sni=1-brc.pages.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@50.114.55.14:10001?security=reality&encryption=none&echfq=none&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2afe4310#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@192.200.160.253:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.158.90:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.173.103:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://a96937c3-d791-4908-f3ad-31355592ef60@tsp.1000shores.cn:17899?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=jpbgp.netvigor.cc&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://humanity@43.169.18.179:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://a96937c3-d791-4908-f3ad-31355592ef60@tsp.1000shores.cn:17799?encryption=none&sni=tsp.1000shores.cn&security=tls&flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&fp=chrome&udp=1#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://a96937c3-d791-4908-f3ad-31355592ef60@tsp.1000shores.cn:17899?encryption=none&sni=tsp.1000shores.cn&security=tls&flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&fp=chrome&udp=1#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://a96937c3-d791-4908-f3ad-31355592ef60@tsp.1000shores.cn:17699?encryption=none&sni=tsp.1000shores.cn&security=tls&flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&fp=chrome&udp=1#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?type=raw&headerType=none&security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?sni=node1.nanonet.host&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
