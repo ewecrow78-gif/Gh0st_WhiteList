@@ -3,7 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 7
 
-vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?type=tcp&security=reality&fp=chrome&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb&sni=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.70:50401?path=/&encryption=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://5da02d88-a8cb-4bbb-a667-7d543a72f0a4@31.76.122.133:443?security=reality&type=raw&sni=god2.ultimagamest.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://5da02d88-a8cb-4bbb-a667-7d543a72f0a4@31.76.122.134:443?security=reality&type=raw&sni=god2.ultimagamest.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@144.31.4.221:443?security=reality&type=raw&sni=poland-1.bexum.fun&fp=randomized&flow=xtls-rprx-vision&sid=5dd747e98058584b&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList

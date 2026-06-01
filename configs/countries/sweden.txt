@@ -3,9 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 1
 
-vless://ebe186c0-1006-4b07-8a84-45deaf0bda23@150.241.74.150:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&sid=4a43ca&sni=addons.mozilla.org&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://980231fb-4372-5c81-b696-20aa34d33af0@swe-8t.freeonline.pro:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=bdac121c7debdaba&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8046e3a1-83a7-4155-86e4-374153fe66f3@194.238.57.104:443?security=reality&type=tcp&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=5d&pbk=56RJlIcxwncUs5m9QSfd3waHxm6vJFBKso5IkMSsyCA&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
