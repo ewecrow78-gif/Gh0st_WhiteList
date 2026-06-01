@@ -1,8 +1,8 @@
 {
-  "total": 15238,
+  "total": 15247,
   "by_country": {
-    "UN": 14518,
-    "RU": 265,
+    "UN": 14528,
+    "RU": 264,
     "CN": 65,
     "NL": 38,
     "DE": 43,
@@ -23,7 +23,7 @@
     "TR": 1
   },
   "by_protocol": {
-    "vless": 14611,
+    "vless": 14620,
     "ss": 290,
     "trojan": 248,
     "vmess": 89
