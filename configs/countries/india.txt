@@ -3,10 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 1
 
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://ea748643-6a0f-4120-b65a-420be4c074b3@est.netvora.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=est.netvora.space&fp=qq&pbk=KEpkyrOY2wV5h8_bA6doDT1e-lFjYd1jGHKDtDl8hSk&sid=141fb733511e7553#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://157bb36f-035e-405c-b8c6-67fa1a7c0640@162.248.162.249:443?fp=chrome&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&security=reality&sid=abab34c40ed6c10a&sni=github.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://157bb36f-035e-405c-b8c6-67fa1a7c0640@162.248.162.249:6443?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&mode=auto&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&security=reality&sid=abab34c40ed6c10a&sni=github.com&type=xhttp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@45.88.183.64:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=cdn.kwork.com&fp=chrome&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5&type=grpc&serviceName=buysec.ru&mode=gun#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList

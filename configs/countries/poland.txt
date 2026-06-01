@@ -3,9 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 2
 
-vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://ea748643-6a0f-4120-b65a-420be4c074b3@pl.netvora.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl.netvora.space&fp=qq&pbk=ujdvH0wcspPcOsBcsnu-AiBsV5pYei4kdMBuz76U8iU&sid=b3acdce4e71e4088#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?type=tcp&security=reality&fp=chrome&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb&sni=yahoo.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
