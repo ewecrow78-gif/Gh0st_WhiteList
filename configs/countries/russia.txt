@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 260
+# Всего рабочих: 255
 
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=none&encryption=none&host=rbc.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@fl2cdn.onnstreaming.ru:443?type=tcp&security=reality&pbk=S1bObj8Kt7TDHZjRYDiosJuz9zEzD4kTSMA75HwNaHM&fp=chrome&sni=fl2cdn.onnstreaming.ru&sid=e62974835ef5cad8&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -255,13 +255,8 @@ vless://e3479472-3d5d-4142-842a-44a32b501bd7@mid1.cvs-a.com:8893?security=realit
 vless://e3479472-3d5d-4142-842a-44a32b501bd7@mid1.cvs-a.com:8892?security=reality&type=tcp&flow=xtls-rprx-vision&sni=api.cvs-a.com&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?flow=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?flow=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194-58-41-65-mac0uzpr.nike77prime.ru:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&serviceName=GrpcFuckRKN#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://1da576de-7922-41b1-ae47-7945609913ae@84.201.159.233:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://3149000a-3c97-4137-a846-50c901b496ea@158.160.98.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://3149000a-3c97-4137-a846-50c901b496ea@84.252.135.61:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://6d020d79-0f46-4df1-b312-c4376a0a806f@51.250.37.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=I_mMGeQ8r529dq2LjFUzv0nb74zuux2zGWT2RfKuE14&sid=27e53bbcab7593d7&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ru-nl.omuvpn.tech:23346?security=reality&type=raw&sni=zvuk.com&fp=random&flow=xtls-rprx-vision&sid=4294bfc2&pbk=SSVyNwsSA0BFp8HJWvqc-VQjwOtKrVnl6nDFJxpHU18&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKelRFSlFLMnc2VlNwbXVkR05haDlR@62.113.104.40:8388#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://02560884-3137-4554-9753-38733d84e8fb@46.254.17.76:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://3c465bf0-dfb7-48a8-93da-09c62e4a85b4@37.143.15.45:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
