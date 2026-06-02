@@ -5,19 +5,19 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 16
 
-vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?&security=tls&fp=firefox&alpn=http/1.1&sni=35cdnws.frnstatic.info&type=ws&headerType=none&host=35cdnws.frnstatic.info&path=%2F35cdnws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://InternetAzadRobot-AliKiller@151.101.129.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=InternetAzadRobot07gt745.global.ssl.fastly.net&amp;path=/&amp;mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;security=reality&amp;sid=01&amp;sni=fuck.rkn&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@195.154.184.21:443?security=tls&type=ws&path=/proxyip=ProxyIP.CMLiussss.net&host=sni.skylee4.cloudns.ch&sni=sni.skylee4.cloudns.ch&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://2397be53-f62b-42f7-80fe-5d22627c03a9@31.58.76.181:5984?security=reality&type=tcp&sni=surfvpn24.ru&fp=chrome&flow=xtls-rprx-vision&sid=c19de8fa&pbk=eNxDsVVIsWFYlD2-wdwdDNe1jOWCBoLUzctbJJdnFyk&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=302e&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://40bf709c-4353-4552-ba26-406d2bf7821d@fr.gryaz-vpn.com:20567?security=reality&type=raw&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=b82d7208fe23&pbk=1WOtQYIQ-3sJtbrhSA1LW6gAnO-wG0Z5aCnlL_zoiXQ&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@82.25.63.164:443?security=reality&type=grpc&mode=gun&serviceName=vless&sni=down.spectrum.vu&fp=chrome&sid=f2a6d1c1e4b8&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?security=reality&type=tcp&packetEncoding=none&sni=dash.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=b4b3&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.37.65.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?security=reality&type=tcp&packetEncoding=none&sni=France1cxc.chickenkiller.com&fp=chrome&flow=xtls-rprx-vision&sid=6089640857a72237&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:17568?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:21835?security=reality&type=tcp&sni=www.oracle.com&fp=chrome&sid=18da&pbk=qWauuwPMWYJyYjaRzySDyk3fgSjnSK7OSJAJkmnqs1Q&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@13.39.205.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@13.39.4.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@15.188.97.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@35.181.84.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@52.47.172.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.16.110.20:8880?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
