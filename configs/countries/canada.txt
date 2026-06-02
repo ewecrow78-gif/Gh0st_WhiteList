@@ -3,15 +3,24 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 61
+# Всего рабочих: 70
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.191:2096?path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&encryption=none&insecure=0&host=sni.my111000.tech&type=ws&allowInsecure=0&sni=sni.my111000.tech#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.216.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://17b5cddd-1e55-4910-a028-668ce936fcff@cfa.wazhua.org:2052?security=none&type=ws&path=/&host=2112179315.dea.online.video.downloader.456776.xyz&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@108.162.193.217:443?security=tls&type=ws&path=/tixvuws&host=vangoghhh.info&sni=vangoghhh.info&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://13d29042-ab82-4195-9cd4-2bafc518e201@23.227.38.178:443?sni=q6clkp794liy3y90.hktimecsgo.xyz&allowInsecure=1&type=ws&path=/images&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 trojan://Mitivpn@5.10.214.56:443?security=tls&sni=www.hitgram.ir&alpn=http/1.1&allowInsecure=1&type=ws&host=www.hitgram.ir&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@104.16.118.43:443?sni=www.creationlong.org&allowInsecure=1&type=ws&path=/assignment&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@104.18.16.216:443?sni=www.calmloud.com&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@188.114.97.194:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@188.114.97.57:443?sni=www.calmloud.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+trojan://humanity@www.speedtest.net:443?sni=www.creationlong.org&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://937%617366-6dd6-4514-969%61-bbb1%6141d5%650b@104.24.196.20:2086?type=httpupgrade&path=%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m----%40%58pn%54%65%61m%3Fed%3D2048&host=wwW.sp%65%65dt%65s%54.n%65t.%65L%65ct%72ol%55%78%78%76.%69%72.&security=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.18.20.69:443?security=tls&sni=us2s.pqvip.top&type=ws&host=us2s.pqvip.top&path=%2Fpq%2Fus2&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://078cb3f7-6c17-46ff-bedd-1d386e112292@104.17.148.22:8880?security=none&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
