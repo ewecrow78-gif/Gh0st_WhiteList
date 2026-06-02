@@ -3,13 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 10
 
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp1.fromblancwithlove.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.11:443?security=reality&type=tcp&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.23:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.30:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.33:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.34:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?sni=18.181.199.223&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.yahoo.co.jp&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

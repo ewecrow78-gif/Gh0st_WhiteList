@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&sni=travel.yandex.ru&sid=fb711576&spx=%2F#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://f6e49b55-9af4-45b5-bdd4-ff0be50f0947@hostiko.org:443?security=tls&type=ws&path=/Tic45WG9JTXJ2rnA5XB5roAndsTdDwkm7c?ed=2560&host=hostiko.org&alpn=http/1.1&sni=hostiko.org&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&sni=travel.yandex.ru&sid=fb711576#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=193.124.46.134&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

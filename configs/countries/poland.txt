@@ -3,10 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 3
 
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.118:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://d248c9d7-6469-4a17-b269-d64805cfd3ae@31.56.188.25:443?encryption=none&type=xhttp&mode=auto&host=vk.com&path=%2Fapi%2Fv1%2Fbe463283&security=reality&fp=chrome&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&sni=sberbank.ru&sid=7d951e7eba51ed0e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.128:443?security=reality&type=tcp&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&sid=954c99065465428d&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.130:443?security=reality&type=tcp&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&sid=954c99065465428d&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.136:443?security=reality&type=tcp&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&sid=954c99065465428d&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a8f7bfbc-4bb8-4f10-ac8f-93e0ce4cc46a@147.90.14.161:8443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=4adcbc3df6cdd138&pbk=TxeJaR7AeMcpnSi8A45lOSc8xMSFlYu6x7mHjeQMQWU&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
