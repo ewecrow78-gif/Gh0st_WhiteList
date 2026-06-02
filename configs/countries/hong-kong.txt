@@ -3,9 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 6
 
-vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://d5a17f2f-aa94-4b61-8574-ce0b301f9062@156.238.254.5:23100?security=reality&type=tcp&sni=aws.amazon.com&fp=chrome&sid=303a58f57b0d&pbk=H0HQU-snRgdfuIYOe9VkVHVn3mFqrHUD8lle55dilxU#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+trojan://BxceQaOe@18.183.163.141:50712?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+trojan://d84665c37878196ecf983cf6910e3b44@18.163.33.60:3842?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+trojan://d84665c37878196ecf983cf6910e3b44@18.163.33.60:5224?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+trojan://d84665c37878196ecf983cf6910e3b44@18.163.33.60:53018?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList

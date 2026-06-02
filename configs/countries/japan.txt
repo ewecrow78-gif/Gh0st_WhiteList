@@ -3,11 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 10
 
-vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&sni=s646.okgg.top&flow=xtls-rprx-vision-udp443&fp=random&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@158.51.110.12:443?host=pagescm.freen5.cc.cd&path=%2Fshowfp%3Dchrome&security=tls&sni=pagescm.freen5.cc.cd&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@18.183.163.141:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?security=reality&type=tcp&sni=cloudcircus.jp&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp1.fromblancwithlove.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.33:443?security=reality&type=tcp&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t25.qifei.app:1443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:1180?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?sni=www.nintendogames.net&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
