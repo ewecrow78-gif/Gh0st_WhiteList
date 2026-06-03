@@ -3,15 +3,25 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 20
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=nleiyajji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://0ab02f6d-3304-44f1-915b-7ed8fc5751fa@139.162.82.185:443?security=reality&flow=xtls-rprx-vision&pbk=Qj72gbWEZOJshMegmLtOrLUf4bIAQFpJPtCy_pBfcRU&fp=chrome&sni=www.cisco.com&type=tcp&headerType=none&host=www.cisco.com&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://0f160f2c-367b-3be4-870c-495252c6c7b9@46.250.255.45:19885?flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=oFXphxwdjztp0BbyrFlt8wIRGwtHYQ0RcVLm90A5kXA&type=tcp&headerType=none&host=www.apple.com&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@103.53.81.195:36515?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.66.129.162:25945?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://2768e24d-aeff-463e-8171-9e3241b916c7@1.alibaba.eev.dpdns.org:59003?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=safari&pbk=5JIQEtG1n25vjpqPaMSbwOCzgI9WD3wxP6QKr6QNbxU&sid=e67c58ca&type=tcp&headerType=none&host=aws.amazon.com&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.106.228.247:990#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp1.fromblancwithlove.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.11:443?security=reality&type=tcp&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.23:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.30:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.34:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jp.s3-cloud.org&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.yahoo.co.jp&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://tsuchiya@aa.ccmusic.jp:443?security=tls&type=tcp&headerType=none&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
