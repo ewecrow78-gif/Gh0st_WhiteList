@@ -3,10 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 47
+# Всего рабочих: 48
 
-vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@mag3.portal-guard.com:8443?security=reality&type=tcp&sni=mag3.portal-guard.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=fuck.rkn&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;sid=01&amp;type=tcp&amp;headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://fa0ba10d-fa04-4638-9760-79c885db744d@nl-amst-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.6:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -41,14 +41,15 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://5bd36fef-18ac-4d69-8080-25df6c9b369e@104.238.6.225:443?security=reality&type=tcp&sni=www.hollywoodreporter.com&fp=chrome&flow=xtls-rprx-vision&sid=a3a5df265540&pbk=SqNAL7L50tQTHhkvN4dT3O-DqdI1qan5iwg6ai4U_hY&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime54.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@198.244.141.222:443?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@51.77.110.43:443?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://88806cd6-9686-4eea-92c8-7f8baf7d1505@89.116.46.210:80?security=none&type=ws&path=/in-pdr&host=unnes.ac.id.cyylr.eu.cc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://ade831db-e4b3-4524-b495-9533a75d11a4@all16.vxmaxpro.online:2096?security=reality&type=tcp&sni=play.google.com&fp=chrome&flow=xtls-rprx-vision&sid=b7b70c104ad267b8&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?security=tls&type=ws&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 trojan://UFY3z8y3U0@5.10.214.53:443?sni=cdn.ana-company.com&type=ws&path=/c?ed=2048&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.137:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VFlQZ3luTEFRcjJ1SHI0d1VxdzNLWnpIOVV5Yjg5RXh2TlRLdldFbWltbnlnQXpqN0U2RkdmaDhWaWp4Tmg1c2NqVXRWNHMxd1M0QjRpaHZQbnVETENBSGpSVWJqTUM@mx2.drawnrisha.one:55988#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1JsTQ@uk1.ssobfs.site:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.31.156:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880/?type=ws&encryption=none&flow=&host=hk.laoyoutiao.link&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.132:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=myphotograpicpicture.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.165:8880?path=Telegram%40Selinc%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

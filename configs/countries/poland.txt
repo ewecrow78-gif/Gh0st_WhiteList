@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 74
+# Всего рабочих: 76
 
 vless://d248c9d7-6469-4a17-b269-d64805cfd3ae@31.56.188.25:443?encryption=none&type=xhttp&mode=auto&host=vk.com&path=%2Fapi%2Fv1%2Fbe463283&security=reality&fp=chrome&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&sni=sberbank.ru&sid=7d951e7eba51ed0e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?security=reality&amp;encryption=none&amp;pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.vk.com&amp;sid=69f3807321#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.232:1488?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.24.98:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -79,3 +80,4 @@ vless://c4365608-1fc4-46ee-be38-887518e2eb24@89.208.87.173:51102/?type=tcp&encry
 vless://c4365608-1fc4-46ee-be38-887518e2eb24@158.160.189.247:51102?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=1929ef620e9b34f5&sni=m.vk.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c4365608-1fc4-46ee-be38-887518e2eb24@95.163.249.95:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c4365608-1fc4-46ee-be38-887518e2eb24@95.163.249.95:51102?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=1929ef620e9b34f5&sni=m.vk.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://fa4d12f8-4d4f-4fdf-a8a6-7ced1db6cf91@cl-1.perecm.ru:43439?security=reality&type=grpc&mode=gun&serviceName=ws&sni=www.amd.com&fp=chrome&sid=84d5e248cb91dca0&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
