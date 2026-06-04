@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2350
+# Всего рабочих: 2351
 
 vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@46.8.210.16:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=PSSON1yktUjcmg5bELmgoWr32y1VVlVXRyRV-opvhQk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961
 vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@46.8.210.16:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PSSON1yktUjcmg5bELmgoWr32y1VVlVXRyRV-opvhQk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%962
@@ -2355,3 +2355,4 @@ vless://4b9de58d-9546-408c-93cc-4b531bfaca7d@84.201.177.150:33443?flow=xtls-rprx
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@154.9.239.44:443?sni=sni.skylee4.cloudns.ch&type=ws&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#WhiteList_TGK%20%E2%84%962348
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?security=tls&encryption=none&alpn=http/1.1&echfq=none&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%962349
 vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@ru9.aimodelhub.top:443?security=reality&encryption=none&echfq=none&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru9.aimodelhub.top&sid=a73cf719b624#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%962350
+vless://588f2301-9b5e-4cae-840b-6ab2d9550fb7@piprosim.chickenkiller.com:443?extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=piprosim.chickenkiller.com&mode=packet-up&path=%2FlLwFHFOpS5&security=tls&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%962351
