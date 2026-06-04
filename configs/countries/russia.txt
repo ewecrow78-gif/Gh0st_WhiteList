@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 534
+# Всего рабочих: 533
 
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=none&encryption=none&host=rbc.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@fl2cdn.onnstreaming.ru:443?type=tcp&security=reality&pbk=S1bObj8Kt7TDHZjRYDiosJuz9zEzD4kTSMA75HwNaHM&fp=chrome&sni=fl2cdn.onnstreaming.ru&sid=e62974835ef5cad8&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -227,7 +227,6 @@ vless://b73855fb-2ec9-4039-935a-a206dda339f8@fr.darknet.run:443?security=reality
 vless://b274fa41-d8d4-416d-a748-e130af996b1c@frank.nyanban.ru:443/?type=tcp&encryption=none&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=frank.nyanban.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru3.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://9287f532-4150-48ff-a755-64b21e30e9c3@217.26.24.101:23151?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI&sni=cms-res-web.online.sberbank.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://3f88f137-a506-4386-8936-b0b4d7349478@pl.nitroo-tech.ru:48885?security=reality&amp;encryption=none&amp;pbk=V8Sc-r31vGee66vJ2wBt-eW061TNbMuXK1aw0UQXcyI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sun6-21.userapi.com&amp;sid=6d#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList

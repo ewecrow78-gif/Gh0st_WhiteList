@@ -3,9 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 48
+# Всего рабочих: 51
 
+vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.33.40:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?encryption=none&fp=chrome&host=pagescm.freen28.cc.cd&path=/contact/lib/acg&security=tls&sni=pagescm.freen28.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://0b965a09-31d7-4c04-adb2-0737ff0bb284@axe.soyet2j.ir:443?security=tls&type=ws&path=/77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@shops.myshopify.com:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
