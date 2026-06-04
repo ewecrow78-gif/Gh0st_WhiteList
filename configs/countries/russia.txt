@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 533
+# Всего рабочих: 532
 
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=none&encryption=none&host=rbc.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@fl2cdn.onnstreaming.ru:443?type=tcp&security=reality&pbk=S1bObj8Kt7TDHZjRYDiosJuz9zEzD4kTSMA75HwNaHM&fp=chrome&sni=fl2cdn.onnstreaming.ru&sid=e62974835ef5cad8&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -227,8 +227,6 @@ vless://b73855fb-2ec9-4039-935a-a206dda339f8@fr.darknet.run:443?security=reality
 vless://b274fa41-d8d4-416d-a748-e130af996b1c@frank.nyanban.ru:443/?type=tcp&encryption=none&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=frank.nyanban.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@5.183.253.171:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&amp;security=reality&amp;sid=8248954896&amp;sni=eh.vk.com&amp;type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c55a51d9-48bd-11f1-941f-54db13ea7d40@185.139.214.254:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&fp=randomized&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI&security=reality&sni=cloudcdn-m9-15.cdn.yandex.net#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://346af57f-316c-4246-839d-6e363b1dbdf9@v6.cloudconsole.ru:443?encryption=none&type=xhttp&mode=auto&host=vk.com&path=%2F&security=reality&fp=chrome&pbk=SQo6HHEMN-eGaCOdmN0_CX9F3cbCje4gVwuCrKh1MFU&sni=yandex.ru&sid=de&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://806c37e7-1865-47df-bf94-92345f67d83a@srv-2f2951.21freedom.net:443?encryption=none&type=xhttp&mode=auto&host=vk.com&path=%2Fapi%2Fv1%2F35f40c80&security=reality&fp=chrome&pbk=LiPjJnS3V2C-W1lbsslZERqXYn8b104bW7PetDA08XA&sni=yandex.ru&sid=c897d075c4775e4c&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff&sni=www.ozon.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://3f88f137-a506-4386-8936-b0b4d7349478@pl.nitroo-tech.ru:48885?security=reality&amp;encryption=none&amp;pbk=V8Sc-r31vGee66vJ2wBt-eW061TNbMuXK1aw0UQXcyI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sun6-21.userapi.com&amp;sid=6d#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -283,6 +281,7 @@ ss://a7e62a74-0a45-4512-89d8-9845052764c8@ir.evovpn.ru:443?security=reality&amp;
 ss://d25456d9-eaad-4546-96a3-288410d2a09f@ru-0017.vpnvezdehod.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=8453e5fd9af927#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 ss://dba21741-9901-4e3f-b9fe-a52ec3633b67@ahgdjs.digitalcity7.com:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=s14.sg-forum.info&amp;fp=randomized&amp;type=ws&amp;sni=s14.sg-forum.info#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 ss://dba21741-9901-4e3f-b9fe-a52ec3633b67@www.digitalcity5.com:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=s14.sg-forum.info&amp;fp=randomized&amp;type=ws&amp;sni=s14.sg-forum.info#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+ss://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=das12327gsgsyu&amp;sni=yahoo.com&amp;sid=a76e2f1d45#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://059bf5f7-ecc0-42a1-82df-99a6f71400d1@to.crushs.cc:37217?allowInsecure=1&sni=lijp.crushs.cc#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://1bf6a984-7e3b-4dbf-a920-297288b10ca3@ru.iamnotagoodman.com:443?allowInsecure=0&sni=ru.iamnotagoodman.com#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://3747000103274291200@crucial-moccasin.adder289.quest:443#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
