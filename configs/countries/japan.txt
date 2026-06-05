@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 15
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://0ab02f6d-3304-44f1-915b-7ed8fc5751fa@139.162.82.185:443?security=reality&flow=xtls-rprx-vision&pbk=Qj72gbWEZOJshMegmLtOrLUf4bIAQFpJPtCy_pBfcRU&fp=chrome&sni=www.cisco.com&type=tcp&headerType=none&host=www.cisco.com&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
