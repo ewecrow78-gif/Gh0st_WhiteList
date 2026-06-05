@@ -3,10 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 29
+# Всего рабочих: 30
 
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.123:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@178.62.87.183:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto&amp;extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.6:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
