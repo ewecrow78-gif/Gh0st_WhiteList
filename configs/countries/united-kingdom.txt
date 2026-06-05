@@ -3,13 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 37
+# Всего рабочих: 29
 
 vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=aabbccdd&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.s3-cloud.org&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://05e9d254-8ea8-4097-9450-d4aefc44bd7e@31.76.120.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MBkIKCORF_f5gqwnugFO7K4HUR8HAKPUuYVIarrQNU0&sid=bfc5&sni=www.sony.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://17451fec-af94-4715-8c2f-7f6839130d0a@china-node.appbyte.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=53197c66aef53c44#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto&amp;extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.6:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -37,8 +34,3 @@ vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@23.81.33.188:443?encryption=none&fl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@62.100.205.100:990#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.132:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=myphotograpicpicture.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.31.156:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.137:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.165:8880?path=Telegram%40Selinc%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.102:8880?path=%2F&security=none&encryption=none&host=us.laoyoutiao.link&type=ws&sni=sk.laoyoutiao.link#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

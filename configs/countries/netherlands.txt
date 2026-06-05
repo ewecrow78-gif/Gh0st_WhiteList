@@ -3,12 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 44
+# Всего рабочих: 47
 
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@194.127.179.220:443?security=reality&amp;encryption=none&amp;pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=web.max.ru&amp;sid=247fd6dab1a34a48#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&type=raw&headerType=none&security=reality&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sni=www.ozon.ru&sid=ffffffffff#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://703fe724-d2b9-40f9-934f-3089403a109d@79.141.164.40:28167?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=edl7x700EJzY6NIN1pZXo-QiyRAScQCW5UO-0ZQXpA0&sni=ya.ru&sid=aabbccdd#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?security=reality&amp;type=xhttp&amp;path=/&amp;sni=vk.com&amp;fp=chrome&amp;sid=67&amp;pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&amp;encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=fuck.rkn&sid=01&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a114c37e-515c-4d30-b910-c7f019146cc0@89.124.78.248:1310?path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -48,4 +52,3 @@ vless://62744573-ca28-4bae-bf8e-b5915048b7af@91.84.107.88:443?security=reality&e
 vless://TrueVPN_91780028@v547154.hosted-by-vdsina.com:8443?security=reality&encryption=none&pbk=M3NkFmK1l8k2UwnfrhVtt_rljl3RtuCHGf7_9H2xCzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=ffffffffff#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1e9fe9f0-0954-4d17-80c3-fe824b49f689@89.208.229.39:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-ks8zYWTzYCLrXm7a8W5UkjCVfIwKC085xlyhtr8n0I&security=reality&sid=ac3c443782ae53ad&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1e9fe9f0-0954-4d17-80c3-fe824b49f689@84.201.157.100:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BEgBilN7HvIeYQ0Izm3TAhAAab1-XM3Ipp1Rt0aH-XY&security=reality&sid=8c87926485c77224&sni=eh.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://7e458bd8-ed76-6d70-2938-cb33adc09206@185.176.24.24:443?mode=auto&path=%2Fxhttp&security=tls&encryption=none&host=ct.otds.nyc.mn&fp=chrome&type=xhttp&sni=ct.otds.nyc.mn#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList

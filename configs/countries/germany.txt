@@ -3,15 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 79
+# Всего рабочих: 73
 
-vless://809bce92-45a0-4fe3-af1d-79d1c8422606@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8e728393-f8f7-44cc-9e1e-573f37d62fb6@static.noxt.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://a06565e7-b96a-41f0-91af-dea4dab20e54@64.188.91.26:443?security=reality&encryption=none&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&type=tcp&packetEncoding=none&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ddcac8ed&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?flow=xtls-rprx-vision-udp443&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=dash.cloudflare.com&sid=b4b3&fp=chrome&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&spx=/&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@63.185.124.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@52.28.170.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 trojan://telegram-id-privatevpns@63.185.199.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -81,6 +77,4 @@ vless://d99757ac-d44d-4f1c-8680-84d18b07da21@178.154.220.238:443?encryption=none
 vless://d99757ac-d44d-4f1c-8680-84d18b07da21@217.16.24.67:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cpDt7FEIofwkXw2pllxxP-I4QtE2fUANBN_15TDfBFs&security=reality&sid=27e53bbcab7593d7&sni=eh4.vk.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://2f88363e-497d-42fa-836c-ad3497f84913@51-ya-wl.connect-opengate.ru:8443?security=reality&amp;encryption=none&amp;pbk=gKP71Sngd6wzxOmzLdjsU-VW8BGKAS6AZSCrvUCASyk&amp;headerType=none&amp;fp=qq&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=api-maps.yandex.ru&amp;sid=c5ae63ea7da57035#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://99ce2f8d-0119-4e92-b16a-48683f5012ef@5.188.140.156:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=tSiK_xTsdY3_oI4qqCWZwodTbrXmWl8IPTZbpIKiiiY&sni=sun6-22.userapi.com&sid=9d#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://07e0d9f5-6ed1-4bfb-8c19-311a312cba7d@85.192.24.131:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=i3AAHIiAZOk2-3BFfQlPN5eRBfBpLt53M3p0JKuE0Cw&sid=0d680ba281cb229b#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://fa-8488088495-1766613887960461@50.7.157.210:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=d1d42381ba35#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://f9558e6a-0447-48a0-94e9-cd69fc638d73@82.165.133.113:80?host=de2.niekotin.de&path=%2Fvless&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
