@@ -3,10 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 29
+# Всего рабочих: 30
 
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.110:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.16:443?security=reality&type=tcp&packetEncoding=none&sni=it.s3-cloud.xyz&fp=edge&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto&amp;extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.6:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

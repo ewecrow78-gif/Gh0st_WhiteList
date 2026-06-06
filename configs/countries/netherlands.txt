@@ -5,12 +5,12 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 46
 
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&amp;fp=chrome&amp;pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&amp;security=reality&amp;sid=5e841fab&amp;sni=yastatic.net&amp;type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&type=raw&headerType=none&security=reality&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sni=www.ozon.ru&sid=ffffffffff#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://703fe724-d2b9-40f9-934f-3089403a109d@79.141.164.40:28167?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=edl7x700EJzY6NIN1pZXo-QiyRAScQCW5UO-0ZQXpA0&sni=ya.ru&sid=aabbccdd#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f90cc83a-97ce-446d-8f80-30d3eef3351c@144.31.30.69:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=eh.vk.com&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@91.84.117.29:443?security=reality&amp;type=xhttp&amp;path=/&amp;sni=vk.com&amp;fp=chrome&amp;sid=67&amp;pbk=PyV8IrAs0LkE2d_DdjvdCtpWG7MZyUKsYkb52GUmuDM&amp;encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://3e0c34a4-1c38-4d93-88c6-5155e81f8b52@144.31.157.56:443?security=reality&encryption=none&pbk=D-7qX4fqUFKDS2dQWFgGT4fXJnABnpM6IkU8SDHLMC0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=saorg.ir&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
