@@ -3,11 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 15
 
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@158.51.110.12:443?host=pagescm.freen5.cc.cd&path=%2Fshowfp%3Dchrome&security=tls&sni=pagescm.freen5.cc.cd&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@18.183.163.141:50712?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
