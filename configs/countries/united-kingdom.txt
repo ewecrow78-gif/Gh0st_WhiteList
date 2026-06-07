@@ -3,10 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 32
 
-vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.86.159.186:7443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sni=ya.ru&sid=d82fb387#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@206.189.20.90:27774?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto&amp;extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
