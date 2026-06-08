@@ -3,13 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 21
 
-vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chrome&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://f032fd94-715d-4d37-835f-13959a63df14@18.183.94.154:39611?encryption=none&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=bffq0wpw2vUOczXypqTqoXzYEzwXAZQzhOut1fvFyWQ&sid=d7627055cafc62&spx=/&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.104.110.10:14673?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&host=2026060522.yja.de5.net&type=ws&sni=2026060522.yja.de5.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@158.51.110.12:443?host=pagescm.freen5.cc.cd&path=%2Fshowfp%3Dchrome&security=tls&sni=pagescm.freen5.cc.cd&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://aa24026d-9542-4357-8625-3f04653fc4bd@57.181.38.2:59826?encryption=none&type=tcp&security=reality&headerType=none&sni=www.nvidia.com&fp=chrome&allowInsecure=1&pbk=H-Ule2FFFI4MFSowspFPAC5SYb_gW9IE0isIZY8Ix3w&sid=2c35f2ac05bf15a0&spx=/&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=2-ee1.pages.dev&%3Btype=ws&%3BallowInsecure=0&%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@18.183.163.141:50712?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&type=ws&path=%2Fproxy&security=tls&sni=dongjing4.zqjsqapi.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1933?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:4006?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://0ab02f6d-3304-44f1-915b-7ed8fc5751fa@139.162.82.185:443?security=reality&flow=xtls-rprx-vision&pbk=Qj72gbWEZOJshMegmLtOrLUf4bIAQFpJPtCy_pBfcRU&fp=chrome&sni=www.cisco.com&type=tcp&headerType=none&host=www.cisco.com&path=/#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
