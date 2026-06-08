@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
-trojan://Masir_Sefid@195.15.253.123:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=/ChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+trojan://Masir_Sefid@84.234.29.189:2053?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=/DOMz7xuj6tnIDpA&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+trojan://Masir_Sefid@84.234.29.189:2083?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=/hneyujFQP0tu4bn&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d67d2e36#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?encryption=none&type=ws&host=azsv3.ir5ive.ir&path=%2F&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
