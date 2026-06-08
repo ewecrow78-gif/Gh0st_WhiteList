@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 39
+# Всего рабочих: 40
 
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.86.159.186:7443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sni=ya.ru&sid=d82fb387#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@uk.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto&amp;extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=fuck.rkn&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;sid=01&amp;type=tcp&amp;headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -36,8 +35,10 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.209:443?path=%2Fhormoz&a
 vless://c518738c-b5b1-41f2-ad7f-b6ca22677188@165.227.239.219:443?path=%2Fbhcukgws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=www.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://c5674c36-eaba-4b62-99b8-e86e149ecd0a@139.59.184.9:443?path=%2Fsnulvmws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://5f42520a-f408-40e0-9f97-85b4621b0286@209.97.189.8:443?path=%2Fwiwxewws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=m.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443?path=%2Fmucowsws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443?path=%2Fdoxwomws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=%2Fjysxfpws&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@23.81.33.188:2096?fp=chrome&mode=auto&path=/&pbk=vawqZ4ilTU3rLSupYlaQjaYCa6tSKE2I75MYwQ6QcWo&security=reality&sid=e437&sni=pn3web.sigmachemicals.ir&spx=/5JhdHq3rcrn6hnm&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@23.81.33.188:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pn3web.sigmachemicals.ir&fp=chrome&pbk=_R8NVxs54qm4NfrOLP_1uaT_GRzVlQsW1VUssxYgixo&sid=251123bfe74c15b3&spx=/MZLOCi3Mxm0m9iC&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
