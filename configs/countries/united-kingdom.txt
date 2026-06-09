@@ -3,29 +3,26 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 46
+# Всего рабочих: 42
 
 vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.86.159.186:7443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sni=ya.ru&sid=d82fb387#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&type=tcp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=aabbccdd&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp.s3-cloud.org&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.129.164:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv8.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://InternetAzadRobot@151.101.1.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tignaltofansv5.global.ssl.fastly.net&amp;path=/Tignal&amp;mode=auto&amp;extra={"xPaddingBytes":"100-1000"}#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=fuck.rkn&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;sid=01&amp;type=tcp&amp;headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e438ed18-0208-4620-b7f4-56ba7045f397@72.56.14.245:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gb.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.102:8880?path=%2F&security=none&encryption=none&host=us.laoyoutiao.link&type=ws&sni=sk.laoyoutiao.link#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?encryption=none&type=httpupgrade&host=mci.ir&path=%2F&security=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?encryption=none&type=raw&headerType=none&security=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?encryption=none&type=raw&headerType=none&security=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&sni=dipvpn.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://44b3ee72-cffb-4d66-ab7c-3138b9bdeeef@54.36.162.217:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=upTVUrc_t7xF1ULni8pHRDhRES1sT4BDm1r8rugTzyQ&sni=speedtest.net&sid=ff815f58c7e77aa9#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sni=apple.com&sid=aabbccdd#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&sni=www.yahoo.com&sid=d9029b790f10b2e2&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b0d9918c-320d-4e76-ab89-1a12ff5e1fe2@panel.persianghost.sbs:49497?encryption=none&type=ws&host=nodejs.org&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&sni=s1.persianghost.sbs#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.102:8880?path=%2F&security=none&encryption=none&host=us.laoyoutiao.link&type=ws&sni=sk.laoyoutiao.link#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.64:8880/?type=ws&encryption=none&flow=&host=us.laoyoutiao.link&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880/?type=ws&encryption=none&flow=&host=hk.laoyoutiao.link&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.137:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.228.165:8880?path=Telegram%40Selinc%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.31.156:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.6:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.83:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.224:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -41,7 +38,6 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.209:443?path=%2Fhormoz&a
 vless://c518738c-b5b1-41f2-ad7f-b6ca22677188@165.227.239.219:443?path=%2Fbhcukgws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=www.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://c5674c36-eaba-4b62-99b8-e86e149ecd0a@139.59.184.9:443?path=%2Fsnulvmws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://5f42520a-f408-40e0-9f97-85b4621b0286@209.97.189.8:443?path=%2Fwiwxewws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=m.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443?path=%2Fmucowsws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e7425444-41e1-40ca-9390-d10a2429e6df@143.110.170.20:443?path=%2Fdoxwomws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=%2Fjysxfpws&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ozon.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

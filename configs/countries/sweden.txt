@@ -5,8 +5,8 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 5
 
-vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=as.pink-perfect.ru&sid=8ffa160e608bf539#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.8:1488?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbUNLNkZCRnVONVNHZ1gwZ0NsanU5@46.246.97.195:23931#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList

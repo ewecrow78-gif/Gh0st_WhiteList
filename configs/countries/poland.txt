@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 30
 
 vless://d248c9d7-6469-4a17-b269-d64805cfd3ae@31.56.188.25:443?encryption=none&type=xhttp&mode=auto&host=vk.com&path=%2Fapi%2Fv1%2Fbe463283&security=reality&fp=chrome&pbk=HVhOxkUi3RhGJc-nc5gdM82XRymOnG5L_TOJ4eHL7jY&sni=sberbank.ru&sid=7d951e7eba51ed0e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1da3b96e-55af-000e-9147-39e79074aaea@62.152.56.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sfera.x5.ru&fp=firefox&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -12,23 +12,19 @@ vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.232:1488?security=reality
 vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.24.98:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&amp;encryption=none&amp;pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d4d39c5f8688dfe2#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.70:9020#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.70:9024#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.70:9006#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@217.30.10.18:9043#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@217.30.10.18:9046#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw@217.30.10.18:9053#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.18:9097#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.70:9097#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ@217.30.10.18:9032#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.70:9064#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@217.30.10.18:9000#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@217.30.10.18:9098#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@217.30.10.70:9098#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA@217.30.10.70:9073#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.70:9010#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.70:9088#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.70:9056#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.70:9093#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@217.30.10.70:9057#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
