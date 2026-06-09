@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2637
+# Всего рабочих: 2636
 
 vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@158.160.50.142:443?security=reality&encryption=none&pbk=_rt8kQJRlzuCHijtr4Ur7zpHiD9ct3eF7Z_bHNi4kV8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=c60bc58d#%F0%9F%87%AA%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%961
 vless://5a983728-6c76-49ad-b226-9fd5bdc926c5@51.250.24.222:443?security=reality&encryption=none&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&headerType=none&fp=safari&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ec792bfd725be8a#%F0%9F%87%AA%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%962
@@ -2641,4 +2641,3 @@ vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@node6.frost-api.com:443?encryption=
 vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@node6.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4#WhiteList_TGK%20%E2%84%962634
 vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@node5.frost-api.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=01e7#WhiteList_TGK%20%E2%84%962635
 vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443/?type=tcp&encryption=none&flow=&security=tls&sni=qro-mx-01.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%962636
-vless://fa2a85c0-4d93-448e-b18c-4564c734208d@vaganzavpn.top:2053?type=tcp&security=reality&pbk=N6-nhTvf5pdafg34iOa4PXnppMNksqYkr-htE4_DMDE&fp=chrome&sni=www.microsoft.com&sid=9f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20WhiteList_TGK%20%E2%84%962637
