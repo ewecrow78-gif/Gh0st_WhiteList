@@ -3,10 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 66
+# Всего рабочих: 67
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.205.0.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.32.185:2096?encryption=none&fp=chrome&host=pagescm.freen28.cc.cd&path=/contact/lib/acg&security=tls&sni=pagescm.freen28.cc.cd&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.132.244.52:21415?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://50946bd0-3639-48e7-9372-1a6c2d3a3a1e@151.101.1.91:80?mode=auto&path=%2F&security=none&encryption=none&host=turkcell.ir&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://0303312a-ab6f-44a5-85f8-7f38d5b6644b@104.26.15.85:80?security=none&type=ws&host=BENIGn-MEmoRy.onEeAT.cO.&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -15,7 +17,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.59:80/?type=ws&encryptio
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=chrome&type=ws&sni=REDw.pOOriam.Ir#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.129.11:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&sni=www.tesla.com&sid=190d259bbd40d4c3#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&path=%2Fvless%2F&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://078cb3f7-6c17-46ff-bedd-1d386e112292@104.17.148.22:8880?security=none&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://0303312a-ab6f-44a5-85f8-7f38d5b6644b@172.67.73.163:80?security=none&type=ws&host=BENIGn-MEmoRy.onEeAT.cO.&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://19429091-7825-4c39-8cf0-92e6b6402013@172.67.66.177:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
