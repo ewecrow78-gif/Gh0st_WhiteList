@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2781
+# Всего рабочих: 2780
 
 vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?security=tls&sni=s95410.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1&type=ws&host=s95410.cdn.ngenix.net&path=%2Fstorage&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20WhiteList_TGK%20%E2%84%961
 vless://8f98280b-18c0-4ee8-819b-df6ddfaf372c@tg.node.snly.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=O37J7OokXxx6HPK_s73gY3DOe2spW97pBsQaZXPrh0I&security=reality&sid=ff42bc54381b34ad&sni=fcloud.v6.rocks&type=tcp#WhiteList_TGK%20%E2%84%962
@@ -2784,5 +2784,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#W
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbnNITFMyQTNWRXRnNzJaczJSWlVr@216.105.168.19:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%962777
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0V29LRHBYem1HbHpvalFqYXNGdWw1@104.192.227.164:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%962778
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToya01jbmM1WkNGTG5iblVFVEtFZzNP@216.105.168.19:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%962779
-vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@37.220.163.98:443/?type=ws&encryption=none&flow=&host=s95410.cdn.ngenix.net&path=%2Fstorage&security=tls&sni=s95410.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20WhiteList_TGK%20%E2%84%962780
-vmess://eyJhZGQiOiAiOTMuOTMuODguMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsICJpZCI6ICJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgV2hpdGVMaXN0X1RHSyBcdTIxMTYyNzgxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vless://b28b0df6-e69d-4ec8-9dd2-653e099a737f@ru1.sipipro.su:443?encryption=none&security=reality&sni=ya.ru&pbk=eFxwkCmiaZKOMsKlfw_rfz8Id4jI0tFIpdvWVr7SXHg&sid=8e18af49d551a696&fp=qq&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20WhiteList_TGK%20%E2%84%962780
