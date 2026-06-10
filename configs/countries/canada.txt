@@ -3,14 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 68
+# Всего рабочих: 69
 
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.216.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.205.0.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.216.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.215.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.191:2096?host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.205.0.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://50946bd0-3639-48e7-9372-1a6c2d3a3a1e@151.101.1.91:80?mode=auto&path=%2F&security=none&encryption=none&host=turkcell.ir&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://0303312a-ab6f-44a5-85f8-7f38d5b6644b@104.26.15.85:80?security=none&type=ws&host=BENIGn-MEmoRy.onEeAT.cO.&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.16.98.145:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
@@ -52,7 +54,6 @@ vless://43326134-a0c8-4149-8a6d-8128791a16c7@104.17.213.241:443?security=tls&sni
 vless://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?path=%2FBt93qlsreYHzV5Ii9WW&security=tls&alpn=http%2F1.1&encryption=none&host=m3sdf.777259.xyz&fp=chrome&type=ws&sni=M3SDf.777259.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://5177172c-125a-47fa-bccd-3778b459a75e@duke.ns.cloudflare.com:443/?type=ws&encryption=none&host=vless03.trevely.us.kg&path=%2F%3Fed%3D2560security%3Dtls&security=tls&sni=vless03.trevely.us.kg#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://5177172c-125a-47fa-bccd-3778b459a75e@172.64.33.201:443?sni=vless05.trevely.us.kg&type=ws&host=vless05.trevely.us.kg#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:8080?path=%2FXxRU33bZpeTdFLR6%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443?path=%2FTelegram-mtmvpn%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=work-yuu00.pages.dev&fp=randomized&type=ws&sni=Work-YUU00.pageS.dEv#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://d88cb569-d30d-472f-950b-9ff6afd17b16@172.67.69.216:2052?security=none&type=ws&host=wWw.SpeedtesT.net.mAzMaznet.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList

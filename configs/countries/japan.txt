@@ -5,9 +5,9 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 21
 
-vless://9cb72288-da5a-40a4-b856-4557f9849016@3.112.19.64:26902?security=reality&encryption=none&pbk=5CqD0ZEtt5W_xA9adU4CxjH4xAV-BdCwhDuthBBnpFM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=450d60a09ffb65#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?type=ws&path=/a12b0d31#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://BxceQaOe@18.183.163.141:50712?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&type=raw&headerType=none&security=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://45c8d20e-0222-4b16-8d21-37318456b980@47.79.149.248:38388?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=xHaPe5SLprSSqGccSor5d3tCRuwyowBwFeYrVXoSz3w&sni=itunes.apple.com&sid=6ba85179e30d4fc2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://aa24026d-9542-4357-8625-3f04653fc4bd@57.181.38.2:59826?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=H-Ule2FFFI4MFSowspFPAC5SYb_gW9IE0isIZY8Ix3w&sni=www.nvidia.com&sid=2c35f2ac05bf15a0&spx=%2F#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
