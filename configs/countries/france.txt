@@ -3,13 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 19
 
+vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=storage.yandex.net&sid=f34818a561dfd1fe#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://c23e11a6-d8b8-4884-a751-a71d4d1c320c@ya-most-fr.harknmav.fun:7443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=max.ru&amp;fp=chrome&amp;pbk=shFF3ItNnCCFyXKCqkGqz0sUYu_qoE7h1-UbNlQvWQo&amp;sid=fd1c2c12ca44261a&amp;type=tcp&amp;headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2065a8c9-8b3d-4dba-b0ce-90d649aa3da7@greb.loralden.com:443?security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=greb.loralden.com&sid=3620820fe66d6731#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://Du6929ec1f5adbb5db82f3@grok.com:443?type=xhttp&mode=auto&host=vip1.vipdatanetwork.com&path=%2Fdownload&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=vip1.vipdatanetwork.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://5cdf99d3-a51b-570e-8245-f87d674dc652@199.36.158.10:80?encryption=none&type=xhttp&mode=auto&host=InternetAzadRobot31dx253.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%1F1E8%1F1F3&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@216.24.57.6:443?path=/assignment&amp;security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=InternetAzadRobot07gt745.global.ssl.fastly.net&amp;path=/&amp;mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@45.130.125.0:443?security=tls&amp;sni=www.calmloud.com&amp;fp=chrome&amp;alpn=http/1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.calmloud.com&amp;path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -18,24 +19,8 @@ vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&t
 vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?encryption=none&type=ws&path=%2Fws&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://65c705a4-0b2e-468d-bbfe-9428ccb4aa7b@188.95.12.110:8080?encryption=none&type=ws&host=wazd.bot2.ir&path=%2F%3Fed%3D2048&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sni=yahoo.com&sid=c9eb0359fac0c345#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sni=yahoo.com&sid=ead3d6f82a9d#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://9bc4a008-bc91-4ec2-aa3d-589584511965@147.45.42.81:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sni=fr.hatvpn.org&sid=b2ba734eff38baa9#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://c9f0224c-c509-427e-b314-cef6cab20646@52.47.86.31:12453?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=7Bp5RgrAqaiXOsiKaWnu6uliLDG8Eey2gA0coU9oay0&sni=yahoo.com&sid=52f510cea0a0a5ef#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://deb96819-bdaa-4f52-a536-d4751290ce47@13.38.52.64:15469?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Mr1b8zNNR1uPtf8dgfze_kBJbaVimS0NhJL0ff_2qm4&sni=yahoo.com&sid=0f8d9583dd332274#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&sni=www.cloudflare.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://7752f6f7-7052-42bf-b571-34a02658cc71@acha.claudify.org:443?encryption=none&type=ws&host=Cdn8-pro.postshup.ir.&path=%2Fnews&security=tls&alpn=h3%2Ch2&fp=chrome&sni=Cdn8-pro.postshup.ir.#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?encryption=none&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@pn8rackapp.breaknet2.eu:443?fp=chrome&pbk=hW2w0MSQtSA5NOq9WteJo-MVg2XMh8UdSgbZ5xLLnHg&security=reality&sid=86f206ece9dc61c7&sni=pn8rackapp.breaknet2.eu&spx=/whCy5Fni9VG0Y0A&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@fr1.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr1.tunnely.ru&sid=2e40144ddc07e8e1#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@fr.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&host=fr.monkeyisland.xyz&headerType=none&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&sid=0dd15ad462aad7fc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.37.129.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.39.138.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@15.188.124.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@15.188.142.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@13.37.129.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@13.39.138.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@15.188.124.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@15.188.142.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://f6533bb4-8d71-4672-aeac-fffe111c0225@51.250.97.205:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cYY1X_y3sUDG0VtzjOmcxQeXy81O_MG8MkTFawHl3Tw&security=reality&sid=83bf75e3dadffe3f&sni=ads.x5.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?security=tls&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
