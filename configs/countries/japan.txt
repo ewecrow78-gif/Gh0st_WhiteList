@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 11
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@18.183.163.141:50712?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
@@ -15,3 +15,4 @@ vless://aa24026d-9542-4357-8625-3f04653fc4bd@57.181.38.2:59826?encryption=none&f
 vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&sni=www.yahoo.com&sid=67e2075367998314#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://c8a930cb-7a41-403f-922a-0b2148a75e05@57.180.22.236:12524?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=snK07S_XyboGtyPOcmLFn4aNuxaRwHBG8w8JH2K0RS4&sni=www.intel.com&sid=2895e9532d0c#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.12:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@64.176.36.31:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=tls&sni=u727887us1860.csgfw.top#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
