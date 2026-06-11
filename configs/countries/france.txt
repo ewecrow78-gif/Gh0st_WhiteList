@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 23
+# Всего рабочих: 20
 
 vless://7e854867-65ae-416d-9c09-1a2e437e989b@45.196.224.216:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=storage.yandex.net&sid=f34818a561dfd1fe#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@45.196.224.93:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sni=storage.yandex.net&sid=ece180c605b5453c#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -12,14 +12,11 @@ vless://33bd7d64-2b03-4b19-82e5-9610afde3c3d@fr.tgru.in:443?security=reality&enc
 vless://5cdf99d3-a51b-570e-8245-f87d674dc652@199.232.47.99:80?encryption=none&type=xhttp&mode=auto&host=InternetAzadRobot31dx253.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%1F1E8%1F1F3&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;security=reality&amp;sid=01&amp;sni=fuck.rkn&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?encryption=none&path=/ws&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-25.vk-cdnvideo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@13.37.194.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.37.43.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@13.38.194.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-directvpn@52.47.70.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@15.236.71.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://telegram-id-directvpn@15.237.134.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sni=yahoo.com&sid=c9eb0359fac0c345#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sni=yahoo.com&sid=ead3d6f82a9d#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
