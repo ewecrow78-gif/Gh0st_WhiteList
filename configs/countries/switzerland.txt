@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
 vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.72:8443?flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?security=tls&sni=www.toughapp.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l10-1.l-itx.info:7443?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sni=colorlib.com&sid=6ba85179e30d4fc3#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
