@@ -3,17 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 12
+# Всего рабочих: 7
 
+vless://394086c4-d8a4-4298-9b62-f70fa711082d@47.86.55.200:19321?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://Telegram-Parsashonam-12@27.50.48.49:443?mode=auto&path=/p4r34m&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:29642?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sni=www.icloud.com&sid=f7223dab#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://a7e9b227-57bb-44b3-ac47-58367a40adf8@64.49.46.222:51008?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Uky5TgbjFFB6vRNwV2h0MtFnXAeNuF2PnnjNwm0V3mc&sni=www.amd.com&sid=01e2f1822d288f0a&spx=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@45.82.252.161:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sni=hls-svod.itunes.apple.com&sid=175d#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://e6082798-61ab-4167-9653-67883f5f0166@23.141.52.196:51700?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=cJ0oDse0aPBi7c4UCxQgMP1UNoBPZ2NDB8aL_17G0HQ&sni=www.amd.com&sid=d18340#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&sni=www.intel.com&sid=3a81ee2c998d0e&spx=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
