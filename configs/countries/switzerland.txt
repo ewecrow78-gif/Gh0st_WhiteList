@@ -3,12 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 4
 
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sni=storage.yandex.net&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?security=tls&sni=www.toughapp.click&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&sni=varzesh3.com&sid=accd8c&spx=%2FisNXq1mwk6vPGYQ#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8d38a156-3172-4bf4-bf35-c3cb2638f360@node60.tomalgopas.fun:443?encryption=none&type=xhttp&mode=auto&host=www.samsung.com&path=%2F&security=reality&fp=chrome&pbk=TWkgzfWFxZxBf9MkVBXBgDIvT_YshX-m-QVIV0viRiU&sni=samsung.com&spx=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?encryption=none&type=xhttp&mode=auto&host=cdn.nobitex.ir&path=%2F&security=reality&fp=chrome&pbk=KuyvsRNilBVQddf249fQhud8aPESqNMZLRb7UXwVgWI&sni=cdn.nobitex.ir&sid=d6d0&spx=%2FIrRiBT1cDGvjbRw#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://97bf06ad-c9a8-4ea4-afb5-9092cc092214@45.195.137.188:8443?flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?encryption=none&type=xhttp&mode=auto&path=%2F&security=reality&fp=chrome&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&sni=www.yahoo.com&sid=6f3192#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
