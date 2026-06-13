@@ -3,11 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 8
 
+vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://62541eb9-fa3d-4d3d-880e-ceb517dc52f0@87.239.135.116:443?type=tcp&security=reality&sni=vk.com&flow=xtls-rprx-vision&pbk=fySMRTC4X8TFAGNlb7bOZUV2wzWU8VWFO8-tuLl9Mms&sid=d52700a8#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://446b69aa-90b4-408b-b853-f70895343834@bypass.pl-dp-01.online:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sni=storage.yandex.net&sid=d2c6d9f6e6e12bfe#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://humanity@104.17.121.71:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://31ec5e0c-f88d-402c-a363-1d931519ed4f@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5e6cd281-2d03-4e72-9bb2-b38ce2da7cc7@pl.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=pl.moktana.app&sid=51e9fd4ba43f64d7#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?encryption=none&security=none&type=ws&path=/vless#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
