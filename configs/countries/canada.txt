@@ -5,10 +5,10 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 77
 
-vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://1bc0b294-bbc8-471f-9d44-b3d4d270bed2@balancer.spectrum.vu:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=max.ru&fp=&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://73796e63-0000-4000-8000-000000000000@grok.com:2096?path=/MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=floral-fog-1b56.mihanfood11.workers.dev&fp=chrome&type=ws&sni=floral-fog-1b56.mihanfood11.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://277f8f79-15a7-4f75-aeee-a372048659f7@speedtest.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/de?ed=1048&security=tls&encryption=none&host=papetpetshup.com&fp=firefox&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
