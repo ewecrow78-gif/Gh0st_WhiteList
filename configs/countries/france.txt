@@ -3,10 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 26
+# Всего рабочих: 24
 
 vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://ac2d70ef-eceb-4f98-9477-f0f27a18aad0@45.196.224.176:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ece180c605b5453c#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://32e32b00-b8ef-430c-b267-d141bc70e866@168.222.252.42:443?type=xhttp&security=reality&path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&sni=www.ya.ru&fp=chrome&pbk=XIRobh7wGiGvYVfywPRvTEeMbey6h45ZLE6K63laaxo&sid=dcc1#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://c23e11a6-d8b8-4884-a751-a71d4d1c320c@ya-most-fr.harknmav.fun:7443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=max.ru&amp;fp=chrome&amp;pbk=shFF3ItNnCCFyXKCqkGqz0sUYu_qoE7h1-UbNlQvWQo&amp;sid=fd1c2c12ca44261a&amp;type=tcp&amp;headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -21,8 +21,6 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?Telegram=@Gozarg
 trojan://telegram-id-directvpn@15.188.7.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@35.181.194.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://telegram-id-directvpn@35.181.198.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://telegram-id-privatevpns@15.188.7.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.4.130:2052?encryption=none&type=ws&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d036cc79-7142-5376-82b3-14acb32a4d8a@193.243.147.244:8880?encryption=none&type=ws&host=openai.com&path=%2Fvless&security=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&sni=yahoo.com&sid=c9eb0359fac0c345#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sni=yahoo.com&sid=ead3d6f82a9d#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
