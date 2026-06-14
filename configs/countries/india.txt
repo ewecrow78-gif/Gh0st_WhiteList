@@ -3,6 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 3
 
+vless://c782a4b0-60d6-4540-8152-8725753fdad3@in-pq-01.info:8104?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sni=rbc.ru&sid=8ad0b8c7e0e5ff8b#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://d8dabd75-ae26-4c27-993e-75a00ff72185@dual.abhizzz.net:80?encryption=none&type=ws&path=%2Fvless&security=none#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
