@@ -3,26 +3,17 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 57
+# Всего рабочих: 48
 
 vless://977f2eea-9f37-417b-bdc3-5abfba1e54df@ca-dp-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@45.198.105.196:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sni=storage.yandex.net&sid=500aec9e9e5e2212#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://cff49e0c-bdcc-4f56-aecb-4f62df228573@45.198.105.223:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sni=storage.yandex.net&sid=d3ee47fc2f553c44#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://f4779677-98b1-4bea-bc54-5ecfe4813732@45.198.105.191:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sni=storage.yandex.net&sid=d3ee47fc2f553c44#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.149.50:8880?type=ws&host=vms.lifetime39.workers.dev&path=/?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://73796e63-0000-4000-8000-000000000000@grok.com:2096?path=/MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1-MaSTeRSeRVeR1&security=tls&encryption=none&host=floral-fog-1b56.mihanfood11.workers.dev&fp=chrome&type=ws&sni=floral-fog-1b56.mihanfood11.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&security=tls&sni=mjtbknetmkhremge.ordak.qzz.io&type=ws&host=mjtbknetmkhremge.ordak.qzz.io&path=/fl#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://7506fe3e-7e78-497c-bd01-db9d0be4d7e3@104.19.35.49:443?encryption=none&fp=chrome&host=filter.elitesilver002.workers.dev&path=/&security=tls&sni=filter.elitesilver002.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.46:2096?encryption=none&security=tls&sni=07e357aa7e747ca4.hOzHeEn.Ir&type=ws&host=greattehran.hozheen.ir&path=/ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.19.229.21:443?encryption=none&security=tls&sni=octopusss4.com&type=ws&host=octopusss4.com&path=/tsghdws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@104.16.89.120:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@104.18.17.216:443?security=tls&sni=www.calmloud.com&type=ws&host=www.calmloud.com&path=//assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@162.159.193.22:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@188.114.96.4:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://50946bd0-3639-48e7-9372-1a6c2d3a3a1e@151.101.1.91:80?mode=auto&path=%2F&security=none&encryption=none&host=turkcell.ir&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ced307a2-af2c-4113-bebc-fb888c702b7d@172.67.150.57:443/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=m4dfghu.999358.xyz&path=%2Fa2YATZF8eZrBwsbnEcmJLxC&security=tls&sni=m4dfghu.999358.xyz&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
