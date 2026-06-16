@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 4
 
+vless://7b95170c-2c58-461d-b882-d7021bf356b2@45.198.80.5:8443?security=reality&encryption=none&echfq=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://7b95170c-2c58-461d-b882-d7021bf356b2@bypass.velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sni=storage.yandex.net&sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RG9XcUx4RDVDTXVicFQxdHpJeVdY@145.249.109.13:4917#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList

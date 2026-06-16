@@ -3,7 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 4
 
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?encryption=none&fp=chrome&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+trojan://humanity@27.50.48.49:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
