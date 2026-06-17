@@ -3,9 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 10
 
-vless://c466ef48-fb57-40c6-808d-ee48d537844d@185.193.30.94:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=telegram.kakoolnews56.workers.dev&path=/&sni=telegram.kakoolnews56.workers.dev&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?&security=tls&sni=dcsrzh.ccwu.cc&type=ws&headerType=none&host=dcsrzh.ccwu.cc&path=%2Ffp%3Dchromefp%3Dchrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://3d663ca2-98b2-4f2b-8652-c527b12bebfc@45.85.118.1:80?allowInsecure=0&type=ws&host=orange-truth-c6d1.rhyljiti.workers.dev&path=/eyJqdW5rIjoiRVF4cEpmc1Y2SFUzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&allowInsecure=0&encryption=none&type=tcp&sni=cdn7-39.vk-cdnvideo.com&fp=safari&headerType=none&alpn=http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://1de37726-744b-46e1-9101-c926b3402e82@104.17.72.206:80?type=ws&host=v2.v2configlab.workers.dev&path=/#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://c466ef48-fb57-40c6-808d-ee48d537844d@185.193.30.94:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=telegram.kakoolnews56.workers.dev&path=/&sni=telegram.kakoolnews56.workers.dev&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?allowInsecure=1&amp;encryption=none&amp;host=yousef.varzesh.dpdns.org&amp;path=/&amp;security=tls&amp;sni=yousef.varzesh.dpdns.org&amp;type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
