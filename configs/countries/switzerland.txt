@@ -3,6 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 3
 
-vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443?security=reality&amp;encryption=none&amp;pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=40ce08cf20c67003#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@45.197.134.31:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://100d1b8a-de82-42ec-b78e-e91c97e65cf0@45.197.134.25:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d037f6f67cc90016#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://f98ab063-1dfb-41da-b875-fc50f6bdc174@45.197.134.27:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
