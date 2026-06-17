@@ -5,6 +5,6 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 3
 
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://ZoRoVpN@zorovpn.opik.net:50420?security=reality&encryption=none&pbk=WmB10FrLwg_rM6bDUYibXOOWv2fWGzwrz_Ju-8ld9XA&headerType=none&fp=chrome&spx=/YlA4W4Wsr0zAd5L&type=tcp&sni=www.yahoo.com&sid=d6559c964cb79d79#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://pvLSiyVj6wsERnbAOCzhdoSp0zzzEzdrsS@38.54.105.117:443?security=tls&sni=38.54.105.117&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
