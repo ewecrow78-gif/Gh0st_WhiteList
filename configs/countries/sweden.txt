@@ -3,8 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 2
 
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://665c11ef-4723-4396-a8a1-45d013e68e6b@144.31.171.249:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=bootpl1.strangerwhale.fun&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
