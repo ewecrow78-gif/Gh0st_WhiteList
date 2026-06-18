@@ -3,8 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 2
 
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.4:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8f0f92fd-e087-4d5f-bb1b-ca350175d197@176.65.144.22:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.com&fp=firefox&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&sid=40ce08cf20c67003&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://783d226a-2a05-4b38-a93e-616da5990c42@45.195.137.2:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
