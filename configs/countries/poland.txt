@@ -3,11 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 8
 
+vless://618b57fd-6078-4dec-a658-4c031205f8d6@45.194.66.181:62800?mode=gun&security=reality&encryption=none&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&fp=firefox&type=grpc&serviceName=grpc&sni=yandex.ru&sid=63a9b4c563de9906#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://66e314b8-8bc2-4958-974d-c183329faf05@45.194.71.47:8443?flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:53062?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:27000?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:12531?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:53062?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?security=reality&encryption=none&pbk=koRqYFz-aez3u654ePSV-UG1JMUhPGrfyqA5LpMaCCo&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=e014a21095be#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:27000?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://humanity@104.17.121.71:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList

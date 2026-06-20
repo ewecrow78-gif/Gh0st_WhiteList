@@ -3,13 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 5
 
 vless://8ea0665e-dee3-418c-8822-1f70f350f2db@2.26.93.250:443?security=reality&flow=xtls-rprx-vision&sni=yandex.net&type=tcp&fp=chrome&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.9:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.125.240.63:2053?encryption=none&security=tls&sni=sni.latonyamadeline.ndjp.net&insecure=1&allowInsecure=1&type=ws&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443?security=&encryption=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443?security=&encryption=none&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList

@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 263
+# Всего рабочих: 262
 
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@st.xbs54as9c6.ru:7000?path=%2Fstream&security=none&encryption=none&host=market.yandex.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=none&encryption=none&host=rbc.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -256,6 +256,7 @@ vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@as-ee.agveit.pro:443?type=tcp&secur
 vless://b9dd5847-412a-4957-bc79-c097037fd7b9@tt.mambo-jambo.ru:49856?security=none&type=ws&headerType=&path=&host=&flow=#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://b9dd5847-412a-4957-bc79-c097037fd7b9@tt.mambo-jambo.ru:49322?security=none&type=ws&headerType=&path=&host=&flow=#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://8daaaaf1-c69c-4b62-a3a1-58efa038cc27@rwebstore.dmtr.ru:56538?type=tcp&security=reality&pbk=ApAR2-HfdtmgIgSTAlAxA0-1hjtccyoLJkxJD8K5kmc&sid=2603&fp=chrome&sni=rwebstore.dmtr.ru&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://e3479472-3d5d-4142-842a-44a32b501bd7@ru1.cvs-a.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ru1.cvs-a.com&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://1f0a8364-ae34-07d0-b999-34a723111ebd@filter.anti-vpn.ru:52006?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=max.ru&allowinsecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://e3479472-3d5d-4142-842a-44a32b501bd7@mid1.cvs-a.com:8889?security=reality&type=tcp&flow=xtls-rprx-vision&sni=api.cvs-a.com&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@anti-vpn.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -266,5 +267,3 @@ vless://e3479472-3d5d-4142-842a-44a32b501bd7@mid1.cvs-a.com:8893?security=realit
 vless://e3479472-3d5d-4142-842a-44a32b501bd7@mid1.cvs-a.com:8892?security=reality&type=tcp&flow=xtls-rprx-vision&sni=api.cvs-a.com&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?flow=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?flow=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://4802a2de-a201-4ddc-890c-1c281d054356@ctl-3.harknmav.fun:443?type=tcp&security=reality&encryption=none&pbk=6J_AxEvmrukAO9g_m5FsmLfyekhWly3K14T4V6dz7jc&fp=chrome&sni=eh.vk.com&sid=2a752b0d4d15e0f7&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
