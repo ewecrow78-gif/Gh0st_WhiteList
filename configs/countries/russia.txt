@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 262
+# Всего рабочих: 266
 
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@st.xbs54as9c6.ru:7000?path=%2Fstream&security=none&encryption=none&host=market.yandex.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8443?path=%2Fstream&security=none&encryption=none&host=rbc.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -267,3 +267,7 @@ vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@217.179.220.69:443?flow=xtls-rprx-v
 vless://967064b5-3272-431e-8dce-9519acfb94be@91.224.87.168:8084?fp=firefox&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&security=reality&serviceName=events&sid=823257b7b9ab9d02&sni=myzh.pro&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@83.168.91.242:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@83.168.91.233:443?flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://c6ddf2a7-5c95-46ce-afcf-f7f5ff05f464@83.168.91.240:8443?type=grpc&security=reality&fp=firefox&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&sni=avatars.mds.yandex.net&mode=gun&serviceName=grpc-yandex#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://4802a2de-a201-4ddc-890c-1c281d054356@ctl-8.harknmav.fun:443?type=tcp&security=reality&encryption=none&pbk=6J_AxEvmrukAO9g_m5FsmLfyekhWly3K14T4V6dz7jc&fp=chrome&sni=eh.vk.com&sid=2a752b0d4d15e0f7&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://4802a2de-a201-4ddc-890c-1c281d054356@ctl-7.harknmav.fun:443?type=tcp&security=reality&encryption=none&pbk=6J_AxEvmrukAO9g_m5FsmLfyekhWly3K14T4V6dz7jc&fp=chrome&sni=max.ru&sid=2a752b0d4d15e0f7&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://4802a2de-a201-4ddc-890c-1c281d054356@ctl-9.harknmav.fun:443?type=tcp&security=reality&encryption=none&pbk=6J_AxEvmrukAO9g_m5FsmLfyekhWly3K14T4V6dz7jc&fp=chrome&sni=rutube.ru&sid=2a752b0d4d15e0f7&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
