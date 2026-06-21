@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 6
 
-vless://bf748e5b-dbd7-4012-b111-f0a73d7e5732@31.56.188.161:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;sni=dev.max.ru&amp;fp=safari&amp;pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&amp;sid=d0a1665d1b96515e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@pl1.vitok.cc:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=prdfZ4GRS4MHS9eNXPD4FAeSkQ7drFQ9s8F7VhDPaGQ&sni=ozon.ru&sid=5e841fab#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8ab8e712-9879-413f-ac02-6695665e6155@212.192.22.50:443?security=reality&encryption=none&pbk=BkiGRk0EO-Hnqf9LF26IfvjXTrjqawq_Lgne9WZDY2w&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.github.com&sid=32534f75#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.43.21:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=pl1.fromblancwithlove.com&insecure=0&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://humanity@104.17.121.71:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9a2573c5-936f-4f93-8409-e43164793176@95.85.229.155:443?flow=xtls-rprx-vision&fp=firefox&pbk=TAuNlz-dk89N90idGXqPxKCDYVhufl_jCg-W1BjMEiQ&security=reality&sid=b0d8f964b7ac8ac9&sni=cdn7-83.cdn-vkvideo.com&spx=%2Fs%2Fv1%2Fig1&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9a2573c5-936f-4f93-8409-e43164793176@cdn7-83.cdn-vkvideo.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=TAuNlz-dk89N90idGXqPxKCDYVhufl_jCg-W1BjMEiQ&security=reality&sid=b0d8f964b7ac8ac9&sni=cdn7-83.cdn-vkvideo.com&spx=%2Fs%2Fv1%2Fig1&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
