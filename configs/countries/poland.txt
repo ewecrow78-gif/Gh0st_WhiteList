@@ -3,15 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 7
 
 vless://bf748e5b-dbd7-4012-b111-f0a73d7e5732@31.56.188.161:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;sni=dev.max.ru&amp;fp=safari&amp;pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&amp;sid=d0a1665d1b96515e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@pl1.vitok.cc:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=prdfZ4GRS4MHS9eNXPD4FAeSkQ7drFQ9s8F7VhDPaGQ&sni=ozon.ru&sid=5e841fab#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.43.21:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=pl1.fromblancwithlove.com&insecure=0&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:53062?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?security=&encryption=none&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:27000?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%228%22%2C%22length%22%3A%225%22%2C%22maxSplit%22%3A%22140%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://aa3415b8-f471-47c4-8159-7681d645c8ca@70.34.244.250:12531?security=tls&type=ws&host=b6n3d22n.qcwdcq.workers.dev&fp=chrome&sni=b6n3d22n.qcwdcq.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 trojan://humanity@104.17.121.71:443?security=tls&amp;sni=www.creationlong.org&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=www.creationlong.org&amp;path=/assignment#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9a2573c5-936f-4f93-8409-e43164793176@95.85.229.155:443?flow=xtls-rprx-vision&fp=firefox&pbk=TAuNlz-dk89N90idGXqPxKCDYVhufl_jCg-W1BjMEiQ&security=reality&sid=b0d8f964b7ac8ac9&sni=cdn7-83.cdn-vkvideo.com&spx=%2Fs%2Fv1%2Fig1&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9a2573c5-936f-4f93-8409-e43164793176@cdn7-83.cdn-vkvideo.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=TAuNlz-dk89N90idGXqPxKCDYVhufl_jCg-W1BjMEiQ&security=reality&sid=b0d8f964b7ac8ac9&sni=cdn7-83.cdn-vkvideo.com&spx=%2Fs%2Fv1%2Fig1&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
