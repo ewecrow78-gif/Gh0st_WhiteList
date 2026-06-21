@@ -3,10 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 12
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&type=tcp&headerType=none&path=/#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.239.246.82:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cdn.userway.org#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
@@ -18,4 +16,4 @@ vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443?security=reality&en
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.217.36.203:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=j.6sc.co&sid=6ba85179e30d4fc2#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw@194.246.114.101:443#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.48:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@85.11.161.74:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://d0ff06ab-3def-4e8e-a8c7-99cecd468541@47.79.23.148:42552?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=vFsbqnTb9T2RGwoZrLYbqXqjTTC4QRj9bNgnKjTVelA&security=reality&sid=6ba85179e30d4fc2&sni=one-piece.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
