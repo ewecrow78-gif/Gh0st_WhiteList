@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 4
 
-vless://7796f5bf-7433-4e00-a9fd-6233ccb91df7@83.228.225.64:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=r44-29dhInxzD-1JIMYuQMrbhieWsLm00BEHXn-6ggg&amp;fp=chrome&amp;type=grpc&amp;serviceName=t.me/entryNET&amp;sni=play.google.com&amp;sid=6ba85179e30d4fc2#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://c6357cb6-c7cb-4598-9b0b-6a70a2a6d1b3@176.65.144.106:443?flow=xtls-rprx-vision&fp=firefox&pbk=pvCvs6AN_l-sCVbfc1-DEk1IcK2sZUiZN_g_ZZ27Qys&security=reality&sid=00000000&sni=store.steampowered.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://f465fe94-87f4-448b-abc3-4855d2351a3a@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://59c9e22a-143b-424c-866d-c6b3568c137c@gt-ch-02.live:8443?flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://880b4b22-4fba-48b0-9afb-5b5e58e47a13@free06.tunnely.ru:8080?path=%2Fws%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
