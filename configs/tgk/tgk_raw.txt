@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2353
+# Всего рабочих: 2351
 
 vless://3c533416-8852-4f1a-befa-23289b2f32d1@37.220.163.248:443/?type=ws&encryption=none&flow=&path=%2Fv1%2Fdata%2Fsync%2F&security=tls&sni=s86255.cdn.ngenix.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WhiteList_TGK%20%E2%84%961
 vless://36936c4f-289b-4088-a060-7504ece29ca1@95.213.184.15:443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ule1.portal-guard.com&fp=chrome&security=reality&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd#WhiteList_TGK%20%E2%84%962
@@ -2356,5 +2356,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8
 vless://c931f737-cafe-4e4f-998a-a65517941256@85.208.139.98:8444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hp6K5hsiPY4_zATgAtef9YTxNGpSkhAHTTo9MUO7fik&security=reality&sid=77e934f68f02ab4c&sni=cdnjs.com&type=tcp#WhiteList_TGK%20%E2%84%962349
 vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@130.12.242.102:7443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=www.microsoft.com&type=tcp#WhiteList_TGK%20%E2%84%962350
 trojan://ppmk@104.18.32.47:8443?alpn=http%2F1.1&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#WhiteList_TGK%20%E2%84%962351
-vless://c35474ed-d6a8-4213-8edb-5c333e5b5f7c@us.wireguardvpnbotik.com:443?mode=stream-up&path=%2Fmaps_common%2Fv1%2Fdata%2Fsubscriptions%2Fweb&security=reality&encryption=none&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&fp=chrome&type=xhttp&sni=cloud-api.yandex.ru&sid=d435a0d34ef3b60e#%F0%9F%87%BA%F0%9F%87%B2%20WhiteList_TGK%20%E2%84%962352
-vless://0d287747-b7be-4ba7-9b98-5bbd9dfa385c@s95410.cdn.ngenix.net:443?security=tls&sni=s95410.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1&type=ws&host=s95410.cdn.ngenix.net&path=%2Fstorage&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20WhiteList_TGK%20%E2%84%962353
