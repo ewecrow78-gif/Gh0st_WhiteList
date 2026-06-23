@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 5
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RG9XcUx4RDVDTXVicFQxdHpJeVdY@145.249.109.13:4917#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@es1.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=es1.tunnely.ru&sid=2e40144ddc07e8e1#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@es2.tunnely.ru:443?encryption=none&security=tls&sni=es2.tunnely.ru&alpn=h2,http/1.1&fp=chrome&type=xhttp&path=/xhttp/&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&packetEncoding=xudp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://dac9a640-0098-45b1-b79f-dc14efb99237@145.249.109.184:24971?security=reality&encryption=none&pbk=rKYnrR2gfzRaRoR2OjvtKu82hoj3q8hLQr1cBbFE9ww&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=c293a1a091544f6c#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@91.202.3.130:443?fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=web.pomedor.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
