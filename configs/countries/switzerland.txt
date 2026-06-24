@@ -3,12 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 4
 
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&security=reality&sid=804f5d&sni=www.intel.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru13.aimodelhub.top:443?fp=edge&mode=packet-up&path=%2F&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&security=reality&sid=51b784e13468&sni=ru13.aimodelhub.top&type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru17.aimodelhub.top:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&security=reality&sid=a73cf719b624&sni=ru17.aimodelhub.top&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?flow=xtls-rprx-vision&fp=firefox&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&security=reality&sid=4e590fdc&sni=www.yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@104.249.43.169:443?fp=firefox&fragment=100-200,10-20,tlshello&mux=true&muxConcurrency=8&pbk=pgPg0nR_TipYr_exLqa3gLOBLm6u_LCZLv9w6RC6iQ0&security=reality&sid=eb4b5cf9&sni=microsoft.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
