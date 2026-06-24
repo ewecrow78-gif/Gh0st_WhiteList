@@ -3,9 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 12
 
-vless://8224aa92-4a38-4756-a7d9-a9e7cde12a31@103.166.127.195:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=nE2H52_rX3dHXENKxpHFDfZPKP40AjGoHyJv9olrr20&sid=124107a81dcd5199&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@58.176.95.46:443?&amp;security=tls&amp;fp=random&amp;alpn=h3&amp;sni=bab1c79b.soos.bbroot.com&amp;type=ws&amp;headerType=none&amp;host=bab1c79b.soos.bbroot.com&amp;path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.239.246.82:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cdn.userway.org#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 trojan://BxceQaOe@58.152.25.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
@@ -17,5 +17,3 @@ vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443?security=reality&en
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.217.36.203:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=j.6sc.co&sid=6ba85179e30d4fc2#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw@194.246.114.101:443#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.48:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@186.246.10.101:443?flow=xtls-rprx-vision&fp=firefox&freeinternet=kizyak_vpn178228719799&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://7f2625de-f685-3914-86b2-0c0b535da18a@23.149.108.143:8443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=HiQ-0-vS435IHPh8dIiubeNekcRTtfCmqbtntKPL5hE&security=reality&sid=71cc5fc3e80902b4&sni=updates.cdn-apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
