@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 5
 
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&security=reality&sid=804f5d&sni=www.intel.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru13.aimodelhub.top:443?fp=edge&mode=packet-up&path=%2F&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&security=reality&sid=51b784e13468&sni=ru13.aimodelhub.top&type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@switzerland.cloudpath.live:443?fp=chrome&fragment=100-200%2C10-20%2Ctlshello&mux=true&muxconcurrency=8&pbk=pgPg0nR_TipYr_exLqa3gLOBLm6u_LCZLv9w6RC6iQ0&security=reality&sid=eb4b5cf9&sni=microsoft.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
