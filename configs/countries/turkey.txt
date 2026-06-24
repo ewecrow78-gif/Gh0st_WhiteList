@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 12
 
-vless://b2a290df-fafc-4f69-a529-3900fe479ac1@217.60.23.144:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;sni=dev.max.ru&amp;fp=safari&amp;pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&amp;sid=d0a1665d1b96515e#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://282ad8f5-c83c-4078-8876-d691c8a6279f@188.132.141.49:8443?security=reality&encryption=none&pbk=hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=docker.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
