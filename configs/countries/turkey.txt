@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 12
+# Всего рабочих: 13
 
+vless://b2a290df-fafc-4f69-a529-3900fe479ac1@217.60.23.144:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;sni=dev.max.ru&amp;fp=safari&amp;pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&amp;sid=d0a1665d1b96515e#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://282ad8f5-c83c-4078-8876-d691c8a6279f@188.132.141.49:8443?security=reality&encryption=none&pbk=hG9KBeeA2zzWVIZq4EnigRVx8VUCvQeokU5_PnBK2Ds&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=docker.com#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
@@ -16,4 +17,4 @@ trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BND
 vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@151.241.226.194:2039?type=ws&encryption=none&path=/&security=tls&sni=de9.mediakit-ozon.ru#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://46cc53925b294a97a0f433a9762138b9@185.39.204.161:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=Ksb1EWjBUmOIBrZxMZyC9-jqENAWj_aCncBXb6f_X2Y&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.26.94.213:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2bc46788-af1d-4f63-9612-cdd60ba1e7f6@hm.khoycityman.ir:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=cAprase508p_Y7olUKMa-aqER9NcBqaCZ8xyvll4Xgk&security=reality&sid=8792&sni=www.yahoo.com&spx=%2FVQANa71LVVeClee&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@77.83.203.212:8443?fp=firefox&pbk=OEHoHvaXXeJm6cPlP4k1QOK783bjWvxMBzle3PB0dnw&security=reality&sid=a5c9ff6ce1aebf81&sni=www.icloud.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
