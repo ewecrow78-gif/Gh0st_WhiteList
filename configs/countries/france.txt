@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 32
+# Всего рабочих: 34
 
-vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=%2F%3Fu%3D73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=0&sni=fry2.brocollisuper.click&type=grpc&serviceName=grpc-api&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@216.24.57.6:443?path=/assignment&amp;security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -29,11 +28,14 @@ trojan://telegram-id-privatevpns@15.188.124.7:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@15.188.142.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f6533bb4-8d71-4672-aeac-fffe111c0225@51.250.97.205:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cYY1X_y3sUDG0VtzjOmcxQeXy81O_MG8MkTFawHl3Tw&security=reality&sid=83bf75e3dadffe3f&sni=ads.x5.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?security=tls&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@95.163.211.22:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@95.163.211.219:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@201.51.9.225:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@109.236.57.100:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?flow=xtls-rprx-vision&fp=firefox&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&spx=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@france.cloudpath.live:443?fp=chrome&fragment=100-200%2C10-20%2Ctlshello&mux=true&muxconcurrency=8&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&security=reality&sid=b00e098b&sni=microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://2c212fbb-08f9-4be0-a128-b10892111d6d@45.67.139.162:80?fp=chrome&pbk=mjkj2VuAfc9eoRfIVNaHgUV7fZR40XgnjeE31hVVR24&security=reality&sid=c1&sni=www.sony.com&spx=%2FIqRlL3ysYi8AGOM&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.22:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.16.110.20:8880?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList

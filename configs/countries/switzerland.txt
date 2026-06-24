@@ -3,10 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 8
 
+vless://d78c12c4-6927-40b8-8550-ed9be00334da@193.151.108.143:443?security=reality&%3Bencryption=none&%3Bpbk=wPBLToF6GA4jIb7C7yu0UMlCXlxTV9UlEh1R-EdCzRU&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bflow=xtls-rprx-vision&%3Bsni=shveccxc1.twilightparadox.com&%3Bsid=2e5b7512fc1d69be#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@switzerland.cloudpath.live:443?fp=chrome&fragment=100-200%2C10-20%2Ctlshello&freeinternet=kizyak_vpn1782251031163&mux=true&muxconcurrency=8&pbk=pgPg0nR_TipYr_exLqa3gLOBLm6u_LCZLv9w6RC6iQ0&security=reality&sid=eb4b5cf9&sni=microsoft.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@ru13.aimodelhub.top:443?fp=edge&mode=packet-up&path=%2F&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&security=reality&sid=51b784e13468&sni=ru13.aimodelhub.top&type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://7b3b6e39-dd78-0001-af6e-6d00da419aa0@ru16.aimodelhub.top:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&security=reality&sid=a73cf719b624&sni=ru16.aimodelhub.top&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@104.249.43.169:443?fp=firefox&fragment=100-200,10-20,tlshello&mux=true&muxConcurrency=8&pbk=pgPg0nR_TipYr_exLqa3gLOBLm6u_LCZLv9w6RC6iQ0&security=reality&sid=eb4b5cf9&sni=microsoft.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
