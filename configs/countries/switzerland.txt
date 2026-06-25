@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://f465fe94-87f4-448b-abc3-4855d2351a3a@194.147.214.197:443?__rand=38a140ac&flow=xtls-rprx-vision&fp=firefox&freeinternet=kizyak_vpn1782251035685&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@194.147.214.197:443?echfq=none&flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&security=reality&sid=4e590fdc&sni=www.yahoo.com&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
