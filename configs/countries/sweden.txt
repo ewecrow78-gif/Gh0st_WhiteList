@@ -3,14 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 3
 
-vless://ed3e860f-c97d-45be-a56b-47b77da11059@sw-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://9b2558ad-f869-1bc9-283e-978ba192712d@homa.letsconnectu.com:1000?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.8:1488?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://402cf4cd-287c-4774-954e-c84a6a233fa5@70.34.214.175:10995?mode=auto&path=/&security=reality&encryption=none&pbk=2ztwuXmy5ttCN-IqWid22abpZFRqcj9aUalL6B8Kxlw&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=43d9#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbUNLNkZCRnVONVNHZ1gwZ0NsanU5@46.246.97.195:23931#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.246.21:443?fp=firefox&headertype=none&host=wikihow.com&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
