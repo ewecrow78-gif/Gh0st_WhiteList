@@ -3,6 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 3
 
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://45c8d20e-0222-4b16-8d21-37318456b980@47.79.149.248:38388?encryption=none&type=tcp&security=reality&headerType=none&sni=itunes.apple.com&fp=chrome&insecure=1&allowInsecure=1&pbk=xHaPe5SLprSSqGccSor5d3tCRuwyowBwFeYrVXoSz3w&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://BxceQaOe@18.183.163.141:50712?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 13
 
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=storage.yandex.net&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://5982d32f-f2e4-4267-a8ad-48492e65344c@46.33.8.18:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=f3c5f072749dcc9c#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1&host=splash.ariyuz.org&sni=splash.ariyuz.org&insecure=0&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@2.26.2.173:443?pbk=aG121VHPQfsuK_DYqAxQkh6moKXKqYQT2JFxNDjFBjo&nonce=RtQ77Dxf&nonce=y3qU9niz&fp=firefox&sid=44cac987d1070b5b&flow=xtls-rprx-vision&security=reality&type=tcp&sni=nl01.port-server.online&descriptions=СвободуИнтернету933&nonce=AYqUqADb&burmalda=e598bbc7#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://7e0ac0af-282a-42c4-9b16-a7144f9769a8@46.101.82.35:443/?type=ws&encryption=none&path=%2Fsbaakhws&security=tls&sni=io.ozone.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.137:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
