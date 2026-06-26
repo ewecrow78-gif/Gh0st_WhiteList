@@ -3,12 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 12
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?path=%2Fvless&security=none&encryption=none&host=education.panelvps.eu.org&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.166:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?allowInsecure=1&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.118.238:80?type=ws&host=billowing-cloud-d339.sospanel.workers.dev&path=/eyJqdW5rIjoiOFRwTjlPWHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp%3Drandom&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.71:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

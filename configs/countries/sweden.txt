@@ -3,12 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 4
 
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?type=tcp&headerType=none&security=reality&encryption=none&sni=stockholmresilience.org&fp=firefox&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&sid=b378&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8c05e68a-2fe0-4c0d-9be5-b7d2df9bb2a3@62.182.196.65:443?flow=xtls-rprx-vision&fp=firefox&pbk=ZRCX7erz1tF9vtITiwcR5yA0Vl65X1Kf066Qdpgm90c&security=reality&sid=fd4f56d0fd822539&sni=sw.truetunnel.xyz&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://ddcf56cf-d20d-4aa4-9a68-608209c26d2f@206.168.215.253:443?flow=xtls-rprx-vision&fp=firefox&pbk=SUTv6bVuL6TnWcPGf03-1QFmJ8Q_ISoA1WIajvct32M&security=reality&sni=sw-new.boxypn.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8c05e68a-2fe0-4c0d-9be5-b7d2df9bb2a3@95.163.211.186:8447?flow=xtls-rprx-vision&fp=firefox&pbk=oG1R4LQTGFFsawTkUc2fvmqnSJssnFTEsqofNLdAdCw&security=reality&sid=64fca1a085371003&sni=msk.truetunnel.xyz&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://ddcf56cf-d20d-4aa4-9a68-608209c26d2f@206.168.215.253:443?flow=xtls-rprx-vision&fp=firefox&pbk=SUTv6bVuL6TnWcPGf03-1QFmJ8Q_ISoA1WIajvct32M&security=reality&sni=sw-new.boxypn.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
