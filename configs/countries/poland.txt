@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 3
 
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&sni=yourcloud.ldtp.com&sid=7d6203949764f921&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@104.16.73.248:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=polobash.appleseraj.ir&mode=auto&path=%3Fed%3D2560&security=tls&sni=polobash.appleseraj.ir&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://5fdf2809-9b94-4c77-bd50-81027af9cef4@144.31.1.171:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=xudp&pbk=IqSYZfDRznPle70hqYygjyhhykRYfi-2T7SsKgwQghk&security=reality&sid=ede884bb9efca654&sni=poland04.anotherboring.top#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://0ceffd8e-f934-44e1-9da9-4de93802da24@2.59.163.171:2053?security=reality&encryption=none&pbk=koRqYFz-aez3u654ePSV-UG1JMUhPGrfyqA5LpMaCCo&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=e014a21095be#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://4cc2379d-9a8c-4270-9723-39ff75b8f564@144.31.131.38:8443?fp=firefox&pbk=ivSYLLXu-f4slJOLrlZxhnq0nAAaCW-ct6ptzVUJxUs&security=reality&sid=db04ce8bdb8900f1&sni=prod.pl-node-02.security-sbrf.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://af44d9e4-4bfe-405c-ac88-c36c4a50e90a@144.31.112.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=WZNe-wWzs86z1lGhv5fRb5oyfDyPkHgAaLsSsKe1AHg&security=reality&sni=pl.boxypn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
