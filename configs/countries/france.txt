@@ -3,11 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 12
 
-vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&security=reality&sid=ad3c6641d540b4e1&sni=www.laposte.fr&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&encryption=none&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraph.co.uk&sid=deee73#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@185.18.250.252:443?path=/assignment&amp;security=tls&amp;insecure=1&amp;host=www.gossipglove.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@216.24.57.6:443?path=/assignment&amp;security=tls&amp;alpn=http/1.1&amp;insecure=1&amp;host=www.calmloud.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;security=reality&amp;sid=01&amp;sni=fuck.rkn&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
