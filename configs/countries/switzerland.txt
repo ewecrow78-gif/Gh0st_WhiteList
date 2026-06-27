@@ -3,7 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 8
 
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.100:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.10:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.28:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.89:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.70:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.190:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.99:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.127:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.30:8880?host=vms.lifetime47.workers.dev&security=none&path=/&type=ws&freeinternet=kizyak_vpn1782538972793#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
