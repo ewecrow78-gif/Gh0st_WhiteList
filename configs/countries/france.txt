@@ -3,13 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 10
 
 vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?flow=xtls-rprx-vision&fp=firefox&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&security=reality&sid=5701e710c025b4b8&sni=amazon.fr&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?__rand=62c00a43&flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&spx=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?fp=firefox&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&security=reality&sid=05fdaa8a05be46a9&sni=www.samsung.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?burmalda=9c0dc870&flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&spx=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?fp=firefox&headertype=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&security=reality&sid=05fdaa8a05be46a9&sni=www.samsung.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d890b403-d536-4c32-945c-b46e250492a6@20.199.24.140:443?flow=xtls-rprx-vision&fp=firefox&pbk=Lk_uZjr6a6DyLsgh1VasuUCN9G2YdO32u9nFZPgHxSw&security=reality&sid=0f5af4a2&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://050fb692-dba7-4b69-b1fd-182c8e1c53eb@fr-6.flowersyellow.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&security=reality&sni=www.samsung.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.22:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
