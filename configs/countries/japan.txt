@@ -3,12 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 3
 
-vless://39d1c043-7bc5-4876-9d07-58574c023850@172.207.210.238:443?flow=xtls-rprx-vision&fp=firefox&pbk=Oua7ls5NZ2sxxFSyccAHZCMrCjW34WPEsHbaIpWmxX8&security=reality&sid=ac78f53d&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&type=ws&sni=hhcm.hhxaf.cc.cd&path=/&host=hhcm.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.79.85.185:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?flow=xtls-rprx-vision&fp=firefox&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&security=reality&sid=67e2075367998314&sni=www.yahoo.com&type=raw#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://ee7381ee-db2b-404c-b7fc-87f5369a7643@8.209.242.121:443?flow=xtls-rprx-vision&fp=firefox&pbk=4-rbY6ItUutAV13q9VdEcWtCc2H2C382F4Y7IwfCwQw&security=reality&sid=ffff&sni=developer.mozilla.org&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
