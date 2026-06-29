@@ -5,8 +5,8 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 5
 
-vless://60300afa-3366-4ae3-959a-7b50438acebb@151.240.13.61:443?flow=xtls-rprx-vision&fp=firefox&pbk=7pD1hCAsY7SBk7XkhzhnkcpkQMisvjlUiIcDS_xsCT8&security=reality&sid=b81ee2c8&sni=hk.wequ.host&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://575324da-63f6-448e-963f-4d67e9ea4cb4@42.2.130.199:443?flow=xtls-rprx-vision&fp=firefox&pbk=NpO9NRIfYTch16Z2yUyroHUaQanV1w0OKM_vEV-6p0I&security=reality&sid=5e4a9abd&sni=www.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://575324da-63f6-448e-963f-4d67e9ea4cb4@58.153.50.124:443?flow=xtls-rprx-vision&fp=firefox&pbk=DOGHciMvy3CcShNwgR16D6KpLf4oejTQPFMrD6234DY&security=reality&sid=76de7fea&sni=www.yahoo.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14001?flow=xtls-rprx-vision&fp=safari&pbk=Iy9qptuQLY7JphySdvf09hOBj6Ym76Sxj1rIwS4Qmnk&security=reality&sid=16&sni=apple.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14009?flow=xtls-rprx-vision&fp=safari&headertype=none&pbk=CAFHM6x5kO2ofkpEDelcOJlZ4i6Kw4ZlDNIfdV6ptUw&security=reality&sid=6a1a47&sni=apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14010?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=PT1gw9B5majPBH2_qST-vymli9f6RlTmvGS2gPtdhF8&security=reality&sid=1ebaa8ea57a71ffc&sni=apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://60300afa-3366-4ae3-959a-7b50438acebb@hk.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hk.wequ.host&fp=edge&pbk=7pD1hCAsY7SBk7XkhzhnkcpkQMisvjlUiIcDS_xsCT8&sid=b81ee2c8&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.160.204.30:8880?host=vms.lifetime37.workers.dev&path=%2F&type=ws&security=none&descriptions=СвободуИнтернету470#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
