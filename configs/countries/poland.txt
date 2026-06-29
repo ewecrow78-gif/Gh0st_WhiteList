@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 6
 
-vless://4cc2379d-9a8c-4270-9723-39ff75b8f564@144.31.131.38:8443?_t=d73597d8&fp=firefox&freeinternet=kizyak_vpn1782503637741&pbk=ivSYLLXu-f4slJOLrlZxhnq0nAAaCW-ct6ptzVUJxUs&security=reality&sid=db04ce8bdb8900f1&sni=prod.pl-node-02.security-sbrf.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://baeb9020-8fcd-0018-b95d-f76507816e6d@144.31.3.23:443?flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@31.56.188.190:443?flow=xtls-rprx-vision&fp=firefox&pbk=XIMED1ib7Z8XaLIcw7T6lxKDFmRHy0Z6MLMyxAnDRSE&security=reality&sid=9e5a335de26d1f5a&sni=cinema-city.pl&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://9db96046-932d-4057-d913-92ae31c9ab34@82.40.62.24:443?fp=firefox&pbk=VagPkeIoY_-QYA15bvFADD96fw8rSF9vXxDdCVj9mAc&security=reality&sni=cdn.jsdelivr.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://ce73dfa1-71f9-11f1-a740-525400b0a67a@77.239.114.255:443?flow=xtls-rprx-vision&fp=firefox&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&security=reality&sni=www.wp.pl&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://5daac0ff-2a31-47da-90c3-7c7259992e63@150.251.113.8:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=firefox&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://4cc2379d-9a8c-4270-9723-39ff75b8f564@144.31.131.38:8443?fp=firefox&headertype=none&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&pbk=ivSYLLXu-f4slJOLrlZxhnq0nAAaCW-ct6ptzVUJxUs&security=reality&sid=db04ce8bdb8900f1&sni=prod.pl-node-02.security-sbrf.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://d6f8c086-a558-49f9-8f51-bca6e56185ab@5d74fed1.apruxdomain.lol:80?type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=firefox&headertype=none&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?fp=chrome&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://d11b940b-0951-40ca-bad7-2a06c1e94de5@185.16.36.163:43439?fp=firefox&mode=gun&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&serviceName=ws&sid=25130ce3b96356d7&sni=www.amd.com&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8f26ef51-9ddb-4c3e-9d16-db622390206c@78.135.73.35:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=uHWsFJQWk89gw9zj4a-u13w7tIi9ZRpTgsW2_GmbXz8&sid=7effd44c96a5bc89#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
