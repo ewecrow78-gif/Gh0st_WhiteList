@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 4
 
+vless://296b3a95-2815-4594-a470-ea8fa78ec071@45.192.196.149:443?flow=xtls-rprx-vision&pbk=inWWi-iPaVPN5DqkH8zXKTwSjkwBo8ucXr6JqiombRs&security=reality&sid=7e&sni=apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.79.85.185:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.79.85.185:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
