@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 68
+# Всего рабочих: 72
 
 vless://123b2710-da1a-48a6-b39b-c050ae5ca386@bez3.stream-room.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=bez3.stream-room.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://5225956c-59ce-00aa-bc63-b89e5967ff00@bg-ru-01.mintrocket.org:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=zxjWzyEWy0J-l9ApidV5buZT0LJFXs8fhkCXLziBWCE&security=reality&sid=b57cb1311c9550c9&sni=bg-ru-01.mintrocket.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -14,6 +14,8 @@ vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.197.97:443?fp=firefox&pbk=7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://43488128-319e-f480-64ea-0acdc712e2a8@108.62.60.24:443?flow=xtls-rprx-vision&fp=firefox&pbk=yK54RqOvWlWIXOyrvqs9OhT4LQvBU3u9Fh_CPvGCT2I&security=reality&sid=2d41a02da93feb08&sni=www.amd.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-1.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-3.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-us-6.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -21,6 +23,7 @@ trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.co
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-hk-8.mielink-dns2.com:443?security=tls&sni=paydiu.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=ws&sni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://OwLimbow@31.56.117.234:80?type=ws&security=none&path=/ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -70,6 +73,7 @@ vless://b4a7532a-777d-4fc4-839f-37a34e3f4970@theatlantic.com:80?path=%2Ftelegram
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.96:443?sni=vb.ylks0033.dpdns.org&type=ws&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.209:443?path=%2Fss.vs2024.us.kg&security=tls&encryption=none&host=vb.bgm2024.dpdns.org&type=ws&sni=vb.bgm2024.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.158:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.26.4.60:443?encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://67e631dd-9566-457f-82f1-9a06cafa6dc8@104.18.41.190:8880?encryption=none&host=snip.062797.xyz&eh=Sec-WebSocket-Protocol&ed=2560&path=%2F%3FTelegram%2540freecodes%3D&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.191:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40ShadowProxy66#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?path=%2F&security=tls&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&type=ws&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
