@@ -3,13 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 7
 
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=zed-212.riseservice.me&pbk=ZbMacvmhcaVLcLqZYQ6RbrUlKhzSN6j5ZF9vR1owAmM&sid=45b3ffafc07c6b79#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://9cbba64f-ab30-4808-b25c-08c6d211e00c@155.212.129.164:8449?fp=ios&mode=gun&pbk=nnzIUEhP-YZ1UkDkSRnEr0mD5Wnf65U2yK_Sv0WKhic&security=reality&sni=google.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://8ccf89d2-1168-45f6-82d5-5927738e8ebe@95.182.110.127:40443?flow=xtls-rprx-vision&fp=firefox&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://f836cebe-2dcc-4c54-b7bd-08ba1006798a@31.22.91.203:443?flow=xtls-rprx-vision&fp=firefox&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&security=reality&sid=f74c6a18133e2e72&sni=vega.relead.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
