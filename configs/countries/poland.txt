@@ -3,9 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 8
 
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.144.48.3:443?fp=firefox&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&security=reality&sid=c0&sni=www.intel.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6429d1d5-de69-4758-9046-e72861a40cb9@plnoded.kaguya.sbs:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=wzKl9RRmFtLji_OwFMvcvMoNwrJEW-fn9Y4eJuXo5Vs&security=reality&sni=plnoded.kaguya.sbs&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://0c9c3b1b-a40d-453b-bed5-67f2c1d09aee@92.38.139.69:58888?flow=xtls-rprx-vision&fp=firefox&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://baeb9020-8fcd-0018-b95d-f76507816e6d@144.31.3.23:443?flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@51.250.87.30:443?flow=xtls-rprx-vision&fp=firefox&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&security=reality&sid=33ebf55b473ae1dd&sni=ads.x5.ru&spx=%2F&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://baeb9020-8fcd-0018-b95d-f76507816e6d@pl-root.sworkingvpn.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://fb839fff-fd6f-485b-962f-d1f7fbb3510e@144.31.1.136:443?flow=xtls-rprx-vision&fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&security=reality&sid=d38eea587f1a4f68&sni=fastb.phantom.direct&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://fb839fff-fd6f-485b-962f-d1f7fbb3510e@144.31.1.136:7443?fp=firefox&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&security=reality&serviceName=grpc&sid=ca84edfd111d4ec8&sni=fastb.phantom.direct&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6429d1d5-de69-4758-9046-e72861a40cb9@81.90.17.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=wzKl9RRmFtLji_OwFMvcvMoNwrJEW-fn9Y4eJuXo5Vs&security=reality&sni=plnoded.kaguya.sbs&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8f26ef51-9ddb-4c3e-9d16-db622390206c@78.135.73.35:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=uHWsFJQWk89gw9zj4a-u13w7tIi9ZRpTgsW2_GmbXz8&sid=7effd44c96a5bc89#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
