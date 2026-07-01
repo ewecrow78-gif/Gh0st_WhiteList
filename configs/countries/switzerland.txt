@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@nl-root.sworkingvpn.com:443?_t=1b9a62e2&echfq=none&flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://baeb9020-8fcd-444c-b95d-f76507816e6d@nl-root.sworkingvpn.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://baeb9020-8fcd-444c-b95d-f76507816e6d@138.124.67.165:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8f70cc64-9b18-4667-81cc-79e638b7b7f8@103.227.84.112:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&security=reality&sid=40ce08cf20c67003&sni=vk.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.119:2083?flow=xtls-rprx-vision&fp=firefox&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&security=reality&sid=4e590fdc&sni=www.yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.42:8443?flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=cf9d145ad8f1ea55&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://baeb9020-8fcd-444c-b95d-f76507816e6d@138.124.67.161:443?flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://881ab194-227c-4b82-b24b-b56402a4417b@103.227.84.112:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&security=reality&sid=40ce08cf20c67003&sni=vk.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList

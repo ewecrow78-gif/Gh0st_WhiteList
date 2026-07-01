@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 4
 
-vless://a8d37bf8-ff5b-4de8-8796-2de9c4072b41@jpyh1.nekohub.xyz:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=&path=&pbk=LOqLQYYIwSrxpoyivvajBd5GZ4ULD1ZhGhGbKUl5SF8&quicsecurity=none&security=reality&servicename=&sid=f01abc70&sni=v1-dy.ixigua.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a8d37bf8-ff5b-4de8-8796-2de9c4072b41@160.16.208.254:443?flow=xtls-rprx-vision&fp=chrome&pbk=LOqLQYYIwSrxpoyivvajBd5GZ4ULD1ZhGhGbKUl5SF8&security=reality&sid=f01abc70&sni=v1-dy.ixigua.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://a8d37bf8-ff5b-4de8-8796-2de9c4072b41@jp2.nekohub.xyz:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=&path=&pbk=WQYF7MvnwLNs5YP8mEspVFCrCdtvsbDJKI18-2feIG4&quicsecurity=none&security=reality&servicename=&sid=0decaa06&sni=v1-dy.ixigua.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@pq.aws54.yydjc.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&pbk=asLJREsp9L0JbURQPIhFxc6bZIgpunEOjOJeHv3YcEs&sid=b0fbe0f0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
