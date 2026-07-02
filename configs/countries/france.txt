@@ -3,10 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 7
 
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&fp=firefox&sni=www.samsung.com&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&spx=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.22:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.16.110.20:8880?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
