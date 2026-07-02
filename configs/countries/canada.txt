@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 87
 
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?path=%2Fbr-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@108.162.198.124:443?encryption=none&type=ws&security=tls&path=%2F&host=node-6796348943-048136.amingtav1341.workers.dev&sni=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://0a022137-d5d7-48f9-96cf-11b57210d12d@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D8080&host=98.irCFZ.www.invoest.net#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://53249200-30ff-436f-a032-0bb00605f8f9@104.21.35.247:443?path=%2FMgovppNO6WZwOCU5JqXZxjQ5ILc&security=tls&alpn=http%2F1.1&encryption=none&host=3edcvb.huangshang2030.dpdns.org&fp=chrome&type=ws&sni=3edcvb.huangshang2030.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://55520747-311e-4015-83ce-be46e2060ce3@198.41.209.70:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
