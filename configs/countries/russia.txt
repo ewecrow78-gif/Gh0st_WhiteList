@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 88
+# Всего рабочих: 87
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -55,8 +55,7 @@ vless://9863ec51-b51b-4895-bab0-30040731729d@147.45.220.175.alexanderoff.ru:450?
 vless://9863ec51-b51b-4895-bab0-30040731729d@147.45.220.175.alexanderoff.ru:449?path=%2Fapi&security=&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv5.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=E56UL8pvnV6FNSPmv_Q9AZnSgHZpjOm-jrLyOEKwO0Q&security=reality&sid=399a4569c48e12e6&sni=rezerv5.yunus.guru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv6.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&security=reality&sid=34256b39b4ebb864&sni=rezerv6.yunus.guru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://8b04b31b-6435-472e-a598-90705c575afc@91.186.197.39:443?flow=xtls-rprx-vision&fp=firefox&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&security=reality&sid=7755e972daf8eec8&sni=video.intfreed.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://8b04b31b-6435-472e-a598-90705c575afc@91.220.109.185:443?flow=xtls-rprx-vision&fp=firefox&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&security=reality&sid=7755e972daf8eec8&sni=video.intfreed.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@2.26.8.55:443?flow=xtls-rprx-vision&fp=firefox&pbk=Loc9rXCMgSkksa4TGr203UCppZh9epDs8tdTVCjiCRw&security=reality&sid=c39843c687af3383&sni=lk-tra.riseads.in&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://437c9e5b-e0c5-47b9-930a-12824ffc53ed@134.255.252.76:9999?type=tcp&security=reality&sni=varzesh3.com&fp=chrome&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&sid=80335f00af#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://06976c45-70bc-43eb-8c8d-8b956e887201@novashopfree3.c6t.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.yahoo.com&fp=qq&echfq=none&pbk=pdAm9T4jptE3j0cO_FquUabbIoDOJvxtRI7PIdZSeRY&sid=ecf1508c79109d&spx=%2Fa7RmfsZM54uYekv&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.grizzlyvpn.work&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&sid=1644d7de8a2d71bd&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -91,5 +90,5 @@ vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@russ.minerscrafters.ru:443/?type=tc
 vless://a597b708-0325-4e95-9a46-068d27bd5ff6@lt08.tcpdoor.net:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=www.vk.com&fp=firefox&security=reality&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&sid=8db0feb9#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://7c08d043-2185-4fdb-afa1-b57375576e0d@vleapp-nl01.freenets.store:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0D3rAHAy4Cozz_M05RS9d1_JNgSsiCbrULeqONyQRR4&sni=vleapp-nl01.freenets.store#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.0:443/?type=ws&encryption=none&host=cb.dong2025.cfd&path=%2F%3Fed%3D2560&security=tls&sni=cb.dong2025.cfd#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
