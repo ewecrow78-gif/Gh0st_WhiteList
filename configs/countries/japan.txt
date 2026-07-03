@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@31.76.91.139:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.ok.ru&fp=firefox&pbk=acCL8V-6UTGRuUs7CVk33xV26ZUY6wRjStNy273DmUY&sid=aefe467c7b22f190#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?flow=xtls-rprx-vision&fp=firefox&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&security=reality&sid=38c7778a&sni=apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&security=reality&sni=www.nazhumi.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t25.qifei.app:1443?flow=xtls-rprx-vision&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?flow=xtls-rprx-vision&fp=firefox&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&security=reality&sid=67e2075367998314&sni=www.yahoo.com&type=raw#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
