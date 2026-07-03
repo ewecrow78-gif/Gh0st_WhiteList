@@ -3,6 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 2
 
-vless://8b04b31b-6435-472e-a598-90705c575afc@88.216.193.154:443?flow=xtls-rprx-vision&fp=firefox&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&security=reality&sid=7755e972daf8eec8&sni=video.intfreed.ru&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://36477315-2e11-4478-b85c-549133624eef@178.253.245.144:21562?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=saEF9IjGEOga3eZG962AMJRTM93cnsVVziketYU6s1M&security=reality&sni=www.nazhumi.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t25.qifei.app:1443?flow=xtls-rprx-vision&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

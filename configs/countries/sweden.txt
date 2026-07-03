@@ -3,14 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 2
 
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=zed-212.riseservice.me&pbk=ZbMacvmhcaVLcLqZYQ6RbrUlKhzSN6j5ZF9vR1owAmM&sid=45b3ffafc07c6b79#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8b04b31b-6435-472e-a598-90705c575afc@185.189.46.46:443?flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=sw3.greenzone12.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8b04b31b-6435-472e-a598-90705c575afc@185.117.88.22:443?flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=sw3.greenzone12.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8b04b31b-6435-472e-a598-90705c575afc@sw-n1.gsupport.support:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=sw3.greenzone12.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?fp=firefox&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&security=reality&sid=cf2d&sni=api.ok.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://%50%61%72%73%61%73%68%6F%6E%61%6D-205@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087/?type=ws&encryption=none&host=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006QvT2l.GoLaBkAsHaNiZ.iNfO&alpn=h2http%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?security=tls&sni=Be9AqSoYcF.mYsPdMmEtI.cOm&type=ws&host=Be9AqSoYcF.mYsPdMmEtI.cOm&path=/&alpn=h3h2#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://cf30deec-917f-4b1a-bb01-c48527cbc83a@77.221.143.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=GmtqiNIkjg_TAy3_kOHSt2XbPV4w85ckf5l9kcIoI2A&security=reality&sid=44&sni=swe.fast-cone.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
