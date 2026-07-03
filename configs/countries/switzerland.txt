@@ -3,8 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 6
 
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@138.124.67.158:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://baeb9020-8fcd-444c-b95d-f76507816e6d@138.124.67.161:443?flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8742a92e-6826-4746-b7c3-d42d83e5d83c@45.141.119.16:443?flow=xtls-rprx-vision&fp=firefox&pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&security=reality&sid=f7ef1b05&sni=ch-zrh-1.blook.network&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://5a4dfcbb-2d15-4880-90b0-e661d4880107@158.160.192.93:443?flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://5a4dfcbb-2d15-4880-90b0-e661d4880107@158.160.128.13:443?flow=xtls-rprx-vision&fp=safari&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://5a4dfcbb-2d15-4880-90b0-e661d4880107@158.160.199.174:443?flow=xtls-rprx-vision&fp=safari&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.231.132:2083?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&security=reality&sid=4e590fdc&sni=www.yahoo.com&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://baeb9020-8fcd-444c-b95d-f76507816e6d@nl-root.sworkingvpn.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://8b04b31b-6435-472e-a598-90705c575afc@31.7.63.34:443?flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=si3.magazinnarubeva.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList

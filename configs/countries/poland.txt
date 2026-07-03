@@ -3,8 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 6
 
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@51.250.87.30:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&security=reality&sid=33ebf55b473ae1dd&sni=ads.x5.ru&spx=%2F&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://baeb9020-8fcd-0018-b95d-f76507816e6d@144.31.3.23:443?flow=xtls-rprx-vision&fp=&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@153.76.122.94:443?fp=firefox&pbk=agZZLk3GNH8CME1dobmtO1UwIrXYL-WrEuLREy_EqnA&security=reality&sid=aefe467c7b22f190&sni=cdn.shopify.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-pl-hn.ray-balance.space:4443?fp=firefox&security=none&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.144.50.249:443?fp=firefox&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&security=reality&sid=c0&sni=www.intel.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8b04b31b-6435-472e-a598-90705c575afc@176.124.33.240:443?flow=xtls-rprx-vision&fp=firefox&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&security=reality&sid=8718c58d3d51db59&sni=pl1.findreplayfoals.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8f26ef51-9ddb-4c3e-9d16-db622390206c@78.135.73.35:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=uHWsFJQWk89gw9zj4a-u13w7tIi9ZRpTgsW2_GmbXz8&sid=7effd44c96a5bc89#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
