@@ -3,14 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 47
+# Всего рабочих: 46
 
 vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@nl.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=nl.monkeyisland.xyz&sid=49f9a88c8305734f&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@de.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=de.monkeyisland.xyz&sid=19e741a804f420a7&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://b6412118-883e-405a-ab0f-5b93e41c93d9@194.76.18.214:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.10:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.25:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://b6412118-883e-405a-ab0f-5b93e41c93d9@194.76.18.214:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.71.253:8880?encryption=none&host=joss.jak.biz.id&https://t.me/WangCai2🇨🇳=&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
