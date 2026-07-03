@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 70
+# Всего рабочих: 68
 
 vless://123b2710-da1a-48a6-b39b-c050ae5ca386@bez3.stream-room.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=bez3.stream-room.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://34d0e726-b740-4ce5-8faa-e4aa2c498ace@95.181.173.239:443?fp=firefox&pbk=vCy4GoFZo4J55DYiNgkYWXSSkz2_v1tU-duQcnNt4zs&security=reality&sid=a9a250&sni=www.amd.com&spx=%2FP5jojaOizC4cMjz&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -16,8 +16,6 @@ vless://6b5a9259-c7de-45f0-b4de-e89db7850d0c@us002.459292.xyz:8443?flow=xtls-rpr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU1VpTjRuRW9MN0lWNzExV3JtbXNB@130.51.22.8:2096#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.20.39.109:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome&type=ws&path=/au-do#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://ea9b76e2-3b93-4f6f-9fd5-441082de0a1c@98.93.21.112:2053?security=reality&encryption=none&pbk=dV6O_qJsz93umq7BzAqvlnM8rEwaCFBrPlYSSkmCwQk&headerType=&fp=chrome&spx=/wkx6WqRrqjardPB&type=tcp&sni=www.intel.com&sid=2bfc17da341dcf#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://OwLimbow@31.56.117.234:80?type=ws&security=none&path=/ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -31,7 +29,6 @@ vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@211.230.86.254:12323?encryption=non
 vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:8080?security=reality&encryption=none&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&headerType=none&fp=chrome&spx=%2FIgzJdy92KfjOwhj&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=8b2538d8ebcd#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://3fa92976-551b-4805-b59e-e4f09db85e71@u-s.lorqina.ir:12347?path=%2Fed%3D250&security=none&encryption=none&host=u-s.lorqina.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2bf268a6-c1a0-4136-b499-6878962e8dd5@blog.th3team.ir:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KsDU7aguMcYK_ccI2NtKKTRTNbjmXXo_ueFuRnIo0wA&security=reality&sid=1278b5e1&sni=blog.th3team.ir&spx=%2FY3sW0GxSnRvGobE&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://bf9fbf85-1ec9-43ae-9b10-1ae6a57c34c4@e5y.foot8all.ir:2027?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all46.allenshop100.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all48.allenshop2025.ir:443?type=tcp&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&fp=firefox&sni=play.google.com&sid=98fa0b00d09419f7&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -40,6 +37,7 @@ vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all40.allenshop2025.ir:443?security
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all03.allenshop2025.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all33.allenshop2025.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-usa-0001.api.neuralrelay.stream:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=0f7e&sni=hls-svod.itunes.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@most-usa.harknmav.fun:443?flow=xtls-rprx-vision&sni=eh.vk.com&security=reality&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@161.35.47.237:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=/?https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3=&security=tls&sni=sni.111000.v6.rocks&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://5cd6cb40-5c73-43db-a30b-d75104523afc@join.vmessorg.fastly80-3.hosting-ip.com:80?security=&type=ws&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&host=JoinBedee--vmessorg--vmessorg.ir&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://Join_TELEGRAM_JoKerRVpn@JOKERRVPN.fast.hosting-ip.com:80?path=%2F@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=JOKERRVPN.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
