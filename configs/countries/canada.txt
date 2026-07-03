@@ -3,9 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 2
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.172:2083?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@86.107.168.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=pakeMwqKbfmqo9jOwgIJTCMIn2MYGKk95TpcYLDyEEI&security=reality&sid=05f6a5418c2a6865&sni=mn1.hirbilon.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@86.107.168.124:443?flow=xtls-rprx-vision&fp=firefox&pbk=tXQHIQhIqCHpqpniHNVdiqb7jixaZzq08-KHEAGWB3M&security=reality&sid=05f6a5418c2a6865&sni=mn2.hirbilon.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList

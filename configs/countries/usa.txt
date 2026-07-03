@@ -3,14 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 27
+# Всего рабочих: 24
 
-vless://1917fc5b-f461-4dcd-97e6-b2b1e88052c4@8.221.112.154:8433?security=reality&encryption=none&pbk=Ong0MfnCO7eWpuNUW2ZK2gZQyaiJiD70Vl7J_LoCWnE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=eb86f55d8a679d17#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://1917fc5b-f461-4dcd-97e6-b2b1e88052c4@8.221.112.154:8433?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Ong0MfnCO7eWpuNUW2ZK2gZQyaiJiD70Vl7J_LoCWnE&security=reality&sid=eb86f55d8a679d17&sni=www.speedtest.net&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://123b2710-da1a-48a6-b39b-c050ae5ca386@bez3.stream-room.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=bez3.stream-room.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU1VpTjRuRW9MN0lWNzExV3JtbXNB@130.51.22.8:2096#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://952c6b34-9451-0064-9f05-75b5f32b9892@199.127.61.190:443?flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=www.nvidia.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://OwLimbow@31.56.117.234:80?type=ws&security=none&path=/ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -23,12 +21,11 @@ vless://daefbf10-095e-400c-9145-c9770097e145@5.61.27.36:21208?encryption=none&se
 vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@211.230.86.254:12323?encryption=none&security=tls&sni=lh1.fum.ccwu.cc&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=lh1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2bf268a6-c1a0-4136-b499-6878962e8dd5@blog.th3team.ir:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KsDU7aguMcYK_ccI2NtKKTRTNbjmXXo_ueFuRnIo0wA&security=reality&sid=1278b5e1&sni=blog.th3team.ir&spx=%2FY3sW0GxSnRvGobE&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://bf9fbf85-1ec9-43ae-9b10-1ae6a57c34c4@e5y.foot8all.ir:2027?encryption=none&headerType=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all46.allenshop100.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all32.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all48.allenshop2025.ir:443?type=tcp&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&fp=firefox&sni=play.google.com&sid=98fa0b00d09419f7&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all19.allenshop2025.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all40.allenshop2025.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all03.allenshop2025.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=chrome&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all33.allenshop2025.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://296a5736-bc8c-45dd-9971-8bf44b28ed4e@all46.allenshop100.ir:443?security=reality&type=tcp&headerType=none&path=&host=&sni=play.google.com&fp=firefox&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://cead26ce-f4e0-4820-aa2c-96cf3e61fb4c@lol-usa-0001.api.neuralrelay.stream:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&sid=0f7e&sni=hls-svod.itunes.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@most-usa.harknmav.fun:443?flow=xtls-rprx-vision&sni=eh.vk.com&security=reality&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
