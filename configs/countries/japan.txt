@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 3
 
-vless://42907bf2-93c1-47ea-859c-f321bf396a84@31.76.91.10:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?type=tcp&headerType=none&security=reality&encryption=none&sni=apple.com&fp=firefox&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&sid=38c7778a&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://563ba90a-e58a-4a12-adb1-c8467180ed78@jp.volnalink.uk:2083?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=www.booking.com&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@jp3-r.vortexio.cc:8443?flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&security=reality&sid=b2c3d4e5&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?flow=xtls-rprx-vision&fp=firefox&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&security=reality&sid=67e2075367998314&sni=www.yahoo.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
