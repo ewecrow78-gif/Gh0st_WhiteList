@@ -3,16 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 10
 
-vless://b6b24ed5-7060-11f1-a5bc-54db13ea7d40@77.239.114.254:443?flow=xtls-rprx-vision&fp=firefox&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&security=reality&sni=www.wp.pl&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d45fba72-a95f-488e-87f6-7c27294cdf50@45.194.66.12:8765?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=DqduujPv7ge6G1lAufu6TUDrASQf8buGK3ICg0um5yo&type=tcp&headerType=none&sid=6a728c322332#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.144.50.249:443?type=tcp&security=reality&pbk=hgQ3Wa09f9ectEos7QyC1LQ8bBq8lEAcAtGIDFTKin0&fp=firefox&sni=www.intel.com&sid=c0#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@2.26.5.235:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@2.26.5.235:443?flow=xtls-rprx-vision&fp=firefox&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&security=reality&sid=fe8950f135674cfc&sni=plkrep.tgflow.me&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://e0e61ac1-26c5-4473-a78f-cc4641bdbeca@217.16.23.174:8443?flow=xtls-rprx-vision&fp=firefox&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&security=reality&sid=a0f2b4232e34f664&sni=yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.130.147.227:443?fp=firefox&pbk=HHTugdBbPIsLatDJJIqLBA2xYiLzv5pGijXREUABvQU&security=reality&sid=0a000000&sni=www.ya.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@51.250.87.30:443?flow=xtls-rprx-vision&fp=edge&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&security=reality&sid=33ebf55b473ae1dd&sni=ads.x5.ru&spx=%2F&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?headertype=none&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=firefox&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?fp=chrome&headertype=none&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
