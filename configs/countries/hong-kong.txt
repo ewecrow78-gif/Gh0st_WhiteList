@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://bf142126-5bc4-46fa-986e-ffc4517655dd@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it-one.quiet-rogue.site&fp=edge&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://563ba90a-e58a-4a12-adb1-c8467180ed78@hk.volnalink.uk:2083?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=www.booking.com&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://bf142126-5bc4-46fa-986e-ffc4517655dd@31.77.154.51:443?flow=xtls-rprx-vision&fp=firefox&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@hk2-r.vortexio.cc:8443?flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&security=reality&sid=b2c3d4e5&sni=www.cloudflare.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@hk2-r.vortexio.cc:443?flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&security=reality&sid=b2c3d4e5&sni=www.cloudflare.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://bf142126-5bc4-46fa-986e-ffc4517655dd@31.77.154.51:443?flow=xtls-rprx-vision&fp=firefox&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&security=reality&sni=it-one.quiet-rogue.site&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
