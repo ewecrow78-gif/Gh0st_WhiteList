@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 103
+# Всего рабочих: 105
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -107,4 +107,6 @@ ss://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type
 vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&sni=www.ozon.ru&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@ru.moktana.app:443?type=grpc&security=reality&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=9e2a6f4c3b7d1e8a&sni=ru.moktana.app&mode=gun&serviceName=moktana.net.v1.StreamService#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 ss://696915f2-5ad4-452b-987c-d83d29d0503a@ru.moktana.app:443?type=grpc&security=reality&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=9e2a6f4c3b7d1e8a&sni=ru.moktana.app&mode=gun&serviceName=moktana.net.v1.StreamService#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://db62e9f2-49a3-4e9d-a59b-0bf77f102420@ru3.sipipro.su:443?security=reality&encryption=none&pbk=NsPdlzraIawCLwtIUGk5demmtYJcBedeR_3qA2kvMF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ya.ru&sid=eacc9f154bc36612#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+ss://db62e9f2-49a3-4e9d-a59b-0bf77f102420@ru3.sipipro.su:443?security=reality&encryption=none&pbk=NsPdlzraIawCLwtIUGk5demmtYJcBedeR_3qA2kvMF0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=ya.ru&sid=eacc9f154bc36612#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://7c08d043-2185-4fdb-afa1-b57375576e0d@vleapp-nl01.freenets.store:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0D3rAHAy4Cozz_M05RS9d1_JNgSsiCbrULeqONyQRR4&sni=vleapp-nl01.freenets.store#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
