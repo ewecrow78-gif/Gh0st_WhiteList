@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 8
 
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@45.13.119.246:7000?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@fr1.waspnest.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr1.waspnest.space&fp=qq&pbk=TeIrR5shMsMAwIU0UgcnvokkgE97_38kJrNNVXGmEDg&sid=341ad73bbc77993c&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -11,4 +11,5 @@ vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&header
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&spx=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://332b3cc2-21dc-4ffa-9ab7-7d46a665b5fe@193.42.61.231:47664?flow=&fp=&host=&path=%2F&pbk=&security=none&servicename=&sid=&sni=fr.navid.my&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f3131de4-3488-4434-afe9-8348b100324e@192.144.13.35:18054?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList

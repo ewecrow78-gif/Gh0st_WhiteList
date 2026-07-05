@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 45
+# Всего рабочих: 48
 
 vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.247:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&sni=storage.yandex.net&descriptions=люби_себя6fe1a8#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -50,3 +50,6 @@ vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.147:443?encryption=none&f
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&security=reality&sid=15052edc8120b63d&sni=www.googletagmanager.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@206.251.49.44:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fc57ef1&fp=chrome&pbk=rqtY-HQaeREXyphzsfaFjavFmn-IA66s01KZxDLdwiE&security=reality&sid=a097e0&sni=www.intel.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://b1a31ff7-4a4c-45ed-b4db-1c46a78f961c@87.236.22.165:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=c-37qP52qpEWzt4Na3_MB8IeqrzuF2dbYGIyXPSgcSI&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://d44fc964-652c-4790-bfdc-be9ae1e281f3@45.198.80.187:8443?flow=xtls-rprx-vision&fp=firefox&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://d44fc964-652c-4790-bfdc-be9ae1e281f3@45.198.80.78:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
