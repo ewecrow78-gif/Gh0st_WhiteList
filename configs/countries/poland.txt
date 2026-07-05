@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 7
 
 vless://f17a6493-07c9-452e-aa5d-5e823cb5d5fe@pl.monkeyvillage.pro:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&security=reality&sid=bc0c778f819a3a1e&sni=pl.monkeyvillage.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f17a6493-07c9-452e-aa5d-5e823cb5d5fe@185.138.90.58:443?flow=xtls-rprx-vision&fp=firefox&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&security=reality&sid=bc0c778f819a3a1e&sni=pl.monkeyvillage.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -11,5 +11,4 @@ vless://83c7f81b-4f26-405d-9a55-4e164249cbdd@45.144.49.231:443?flow=xtls-rprx-vi
 vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.130.147.227:443?fp=firefox&packetencoding=xudp&pbk=HHTugdBbPIsLatDJJIqLBA2xYiLzv5pGijXREUABvQU&security=reality&sid=0a&sni=www.ya.ru#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b6b24ed5-7060-11f1-a5bc-54db13ea7d40@77.239.114.254:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&security=reality&sni=www.wp.pl&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8f26ef51-9ddb-4c3e-9d16-db622390206c@78.135.73.35:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=uHWsFJQWk89gw9zj4a-u13w7tIi9ZRpTgsW2_GmbXz8&sid=7effd44c96a5bc89#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
