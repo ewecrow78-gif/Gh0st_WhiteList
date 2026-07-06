@@ -3,16 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 9
 
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&fp=firefox&sni=www.samsung.com&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://c9430e8b-0416-4037-b29a-39c42ea1b38e@84.201.177.246:3001?fp=safari&mode=auto&path=%2Fapi%2Fv2%2Fconfig%2Fsync&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&security=reality&sid=83ae6b6bb4899039&sni=cdnv-img.perekrestok.ru&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://c9430e8b-0416-4037-b29a-39c42ea1b38e@84.201.177.246:3000?fp=safari&mode=auto&path=%2Fapi%2Fv2%2Fconfig%2Fsync&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&security=reality&sid=83ae6b6bb4899039&sni=eda.yandex.ru&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&spx=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://c9430e8b-0416-4037-b29a-39c42ea1b38e@84.201.177.246:3002?fp=safari&mode=auto&path=%2Fapi%2Fv2%2Fconfig%2Fsync&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&security=reality&sid=83ae6b6bb4899039&sni=cloud.mail.ru&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://332b3cc2-21dc-4ffa-9ab7-7d46a665b5fe@193.42.61.231:47664?type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@45.13.119.246:7000?fp=qq&headertype=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&security=reality&sni=yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.89:443?flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.174:443?__rand=197f8b20&flow=xtls-rprx-vision&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.60:443?flow=xtls-rprx-vision&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ==@e3.cover20.ir:56985#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U2plQWpYY0Ryb3ZFNDVTME55Q0dnUWZJUUxTRlYwNEp5TWhNdG1aaUdRPQ@213.176.6.232:51570#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://cc9e8792-f315-4cff-9523-7fb044b9153c@82.25.63.88:443?flow=xtls-rprx-vision&fp=firefox&pbk=7-Xxc5Qp1vcrbc95tUy0V6lo2J4aHayDMHLhYIlhpU4&security=reality&sid=59dfbe64d97a2d93&sni=fr1.s812331.shop&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.79:8443?flow=xtls-rprx-vision&fp=firefox&host=Telegram-NetFlowTools&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@31.57.108.121:443?flow=xtls-rprx-vision&fp=firefox&pbk=TeIrR5shMsMAwIU0UgcnvokkgE97_38kJrNNVXGmEDg&security=reality&sid=341ad73bbc77993c&sni=fr1.waspnest.space&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
