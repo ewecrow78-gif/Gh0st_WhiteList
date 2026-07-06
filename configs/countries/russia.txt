@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 88
+# Всего рабочих: 85
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -89,7 +89,4 @@ vless://6cabb434-f480-478a-9586-a5667167eeb1@cdn-ru-cf.barryvpn.com:8443/?type=t
 vless://8153a965-34bf-1770-99a6-99a9390fd38a@ing.anti-vpn.ru:52006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@russ.minerscrafters.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a597b708-0325-4e95-9a46-068d27bd5ff6@lt08.tcpdoor.net:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=www.vk.com&fp=firefox&security=reality&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&sid=8db0feb9#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-ss://01bda09b-f79a-4e47-b903-acaae59ebfee@hentai-cdn.apruxdomain.xyz:80?&security=false&fp=chrome&type=ws&headerType=none&host=hentai-cdn.apruxdomain.xyz&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://05012964-6d5e-4d6b-b1f0-d8ad91f293b8@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://5b7426f1-4d6f-4114-9322-56861036220e@novashopunlimited.c6t.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=tv.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=hLXvfh2eKV2aRlFGbWIc6pqlrhgX1uOaStQJTYfNDg0&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://7c08d043-2185-4fdb-afa1-b57375576e0d@vleapp-nl01.freenets.store:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0D3rAHAy4Cozz_M05RS9d1_JNgSsiCbrULeqONyQRR4&sni=vleapp-nl01.freenets.store#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
