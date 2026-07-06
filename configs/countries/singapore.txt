@@ -3,8 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 6
 
-vless://eb295947-24de-4fe3-9b8f-85431e5fe493@5.223.67.129:8443?flow=xtls-rprx-vision&fp=firefox&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&security=reality&sni=apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://eb295947-24de-4fe3-9b8f-85431e5fe493@vpn-sg.spend.tg:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apple.com&fp=qq&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://eb295947-24de-4fe3-9b8f-85431e5fe493@vpn-sg.spend.tg:8443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&security=reality&sni=apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.20.214:443?path=%2F&security=tls&encryption=none&insecure=0&host=refighehosein.salamdadash123.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=refighehosein.salamdadash123.workers.dev#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@50.114.55.14:10001?security=reality&encryption=none&echfq=none&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2afe4310#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

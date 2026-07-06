@@ -3,7 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 5
 
-vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@77.83.245.253:59492?security=reality&encryption=none&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&headerType=none&fp=chrome&spx=/MQkVkUG8SYXH6IZ&type=tcp&sni=www.google.com:443&sid=0b1eccc239d0#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@188.132.234.156:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&security=reality&sid=03e223bc474c6f1d&sni=api.samsungcloud.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@77.83.245.253:59492?fp=firefox&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&security=reality&sid=0b1eccc239d0&sni=www.google.com%3A443&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?fp=chrome&mode=auto&path=%2F&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&security=reality&sid=81053c0bc6adc9&sni=www.yahoo.com&spx=%2F5wwvktaO1OBnNWh&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://497631c4-a1a4-00a8-a86a-f42873473bb6@203.202.232.153:8443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
