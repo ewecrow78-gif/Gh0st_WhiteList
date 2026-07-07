@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 36
+# Всего рабочих: 34
 
 vless://cd8c8f5c-f102-0064-8ade-238b874fcf65@premium-us.geodema.network:443?type=tcp&headerType=none&security=reality&encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2bc9e1a6-5d94-4fe1-a5c6-f957015053e9@155.103.69.142:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=bcJ0JDb5rnmW0GjPE2SK2Kc2hs-triKCAk6mkILxbSo&sid=a2&spx=%2FPKRyzJJLYzhCZqV&path=%2Fapiv2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -15,8 +15,6 @@ vless://123b2710-da1a-48a6-b39b-c050ae5ca386@bez3.stream-room.com:8443?flow=xtls
 vless://2dbbc5af-aadb-48fa-8730-52d4d9247184@92.53.74.129:443?flow=xtls-rprx-vision&fp=firefox&pbk=WjuwZbmCjN8TmT4wZL6zTevQr3mnOATafLpQi1ofzCs&security=reality&sid=de7c7bd7&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://a19133c6-8e5d-4bbf-acdc-d88a628ab9c1@38.244.21.105:443?flow=xtls-rprx-vision&fp=chrome&pbk=toVw4zhkNKNX-ky2Ps7qz7dMMmwmfVUHNN611-M8qA8&security=reality&sid=76140dbf02d4b52a&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://5272cd9f-a028-4452-ad8a-9bc21f87bb19@38.244.20.214:443?flow=xtls-rprx-vision&fp=safari&pbk=0dIyov95G3A1ySANsJzdYY9DGLvaIFU8ofJf3Jtv1Ds&security=reality&sid=befa80d97af98b74&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fsea&host=deicl.redstone-vex.sbs&sni=deicl.redstone-vex.sbs&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vmess://eyJhZGQiOiJoazIubHJ6ZHgudWsiLCJhaWQiOjAsImhvc3QiOiJoazIubHJ6ZHgudWsiLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yZWdpc3RlciIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggR2gwc3RfV2hpdGVMaXN0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
