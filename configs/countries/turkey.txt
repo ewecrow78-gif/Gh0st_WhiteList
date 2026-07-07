@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@46.151.28.216:8090?path=%2Fws&security=&encryption=none&host=rukr.speedload.ru&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ad46e579-4148-424f-9855-423137599b67@dp-tr-01.live:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@77.83.245.253:59492?fp=firefox&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&security=reality&sid=0b1eccc239d0&sni=www.google.com%3A443&spx=%2FMQkVkUG8SYXH6IZ&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://c343b084-4821-4523-a049-0210961a6bfb@tr.mahsan.cfd:443?fp=chrome&headertype=none&pbk=PMcGQYx3feXSMuGy8C7L4qdL-mLdBP6I4sYeVaeAFgg&security=reality&sid=edc050a1e8ee37&sni=yahoo.com&spx=%2F&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
