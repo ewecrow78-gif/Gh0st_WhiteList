@@ -3,6 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 2
 
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://60300afa-3366-4ae3-959a-7b50438acebb@kr2.wequ.host:5443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=kK96AfsPzw1EX9-PhKVUxoLWL3EZlshTdQKkSGiguC4&security=reality&sid=5c1b787c&sni=kr2.wequ.host&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://60300afa-3366-4ae3-959a-7b50438acebb@168.93.224.117:5443?flow=xtls-rprx-vision&fp=firefox&pbk=kK96AfsPzw1EX9-PhKVUxoLWL3EZlshTdQKkSGiguC4&security=reality&sid=5c1b787c&sni=kr2.wequ.host&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
