@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
 vless://60300afa-3366-4ae3-959a-7b50438acebb@kr2.wequ.host:5443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=kK96AfsPzw1EX9-PhKVUxoLWL3EZlshTdQKkSGiguC4&security=reality&sid=5c1b787c&sni=kr2.wequ.host&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://60300afa-3366-4ae3-959a-7b50438acebb@168.93.224.117:5443?flow=xtls-rprx-vision&fp=firefox&pbk=kK96AfsPzw1EX9-PhKVUxoLWL3EZlshTdQKkSGiguC4&security=reality&sid=5c1b787c&sni=kr2.wequ.host&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
