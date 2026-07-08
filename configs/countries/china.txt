@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 56
+# Всего рабочих: 57
 
 vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@nl.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=nl.monkeyisland.xyz&sid=49f9a88c8305734f&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@de.monkeyisland.xyz:443?type=tcp&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&fp=firefox&sni=de.monkeyisland.xyz&sid=19e741a804f420a7&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -50,14 +50,15 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.253:8880?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.74.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?Telegram🇨🇳@WangCai2=#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?telegram🇨🇳+@wangcai2=#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@APPXA#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.108.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.10:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://b6412118-883e-405a-ab0f-5b93e41c93d9@91.193.58.25:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://b6412118-883e-405a-ab0f-5b93e41c93d9@194.76.18.214:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime06.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
