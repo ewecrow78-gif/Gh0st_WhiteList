@@ -3,12 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 9
 
 vless://fee5bf09-5d07-45e8-9a47-859b06694971@64.188.81.95:8443?encryption=none&type=xhttp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=0bAK-ST9OWtrKgtAaYi5E5nVJBYl-Awen_FFP-C6lDc&fp=qq&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://cec5e508-defc-44d5-b4bb-797665378013@144.31.240.202:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sciencedirect.com&fp=firefox&pbk=DVdaREsxnfqVa8gE6OI7hfX86bwrmwAbxwjVoX8QYnw&sid=a1b2c4d4a1b2c3d5&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@2.26.7.206:48350?security=reality&encryption=none&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.me&fp=ios&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&sid=3e0527d94cc8d1&spx=%2FIa6gcabUFli8vbT&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=zed-212.riseservice.me&pbk=ZbMacvmhcaVLcLqZYQ6RbrUlKhzSN6j5ZF9vR1owAmM&sid=45b3ffafc07c6b79#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://ad2c4a66-2b1b-472a-922a-9f88b0b48390@82.29.43.26:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://cec5e508-defc-44d5-b4bb-797665378013@130.17.1.107:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=DVdaREsxnfqVa8gE6OI7hfX86bwrmwAbxwjVoX8QYnw&security=reality&sid=a1b2c4d4a1b2c3d5&sni=www.sciencedirect.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://60576147-90e7-4afc-9cf9-c7361a8c7fd8@148.253.211.10:443?flow=xtls-rprx-vision&fp=firefox&pbk=B3MWDjEWGQsObyH-9npa_PlkaoQDBqzwlwURFK1zlE8&security=reality&sid=3e0527d94cc8d1&sni=vk.me&spx=%2FIa6gcabUFli8vbT&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://c31fdb83-a4ff-48ab-a3a8-33b0f9c3bc1d@176.109.85.83:13443?fp=firefox&mode=gun&pbk=Nf7ubmIjmmOjQKlTgiG8e8wbYbz_x9q1GjEeHFLMPSc&security=reality&sni=ads.x5.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://cec5e508-defc-44d5-b4bb-797665378013@89.127.204.163:443?flow=xtls-rprx-vision&fp=firefox&pbk=DVdaREsxnfqVa8gE6OI7hfX86bwrmwAbxwjVoX8QYnw&security=reality&sid=a1b2c4d4a1b2c3d5&sni=www.sciencedirect.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
