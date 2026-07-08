@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 8
 
 vless://fee5bf09-5d07-45e8-9a47-859b06694971@64.188.81.95:8443?encryption=none&type=xhttp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=0bAK-ST9OWtrKgtAaYi5E5nVJBYl-Awen_FFP-C6lDc&fp=qq&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://cec5e508-defc-44d5-b4bb-797665378013@144.31.240.202:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sciencedirect.com&fp=firefox&pbk=DVdaREsxnfqVa8gE6OI7hfX86bwrmwAbxwjVoX8QYnw&sid=a1b2c4d4a1b2c3d5&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -11,4 +11,5 @@ vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@2.26.7.206:48350?security=reality&e
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=zed-212.riseservice.me&pbk=ZbMacvmhcaVLcLqZYQ6RbrUlKhzSN6j5ZF9vR1owAmM&sid=45b3ffafc07c6b79#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://cec5e508-defc-44d5-b4bb-797665378013@130.17.1.107:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=DVdaREsxnfqVa8gE6OI7hfX86bwrmwAbxwjVoX8QYnw&security=reality&sid=a1b2c4d4a1b2c3d5&sni=www.sciencedirect.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ac99ca69-45df-40d8-9916-dc31000a1433@azx.foot8all.ir:56625?fp=chrome&mode=gun&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&security=reality&sid=db418071da7fcb7b&sni=icloud.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.139:8443?#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
