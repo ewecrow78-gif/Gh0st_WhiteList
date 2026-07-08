@@ -3,14 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 36
 
 vless://cd8c8f5c-f102-0064-8ade-238b874fcf65@premium-us.geodema.network:443?type=tcp&headerType=none&security=reality&encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2bc9e1a6-5d94-4fe1-a5c6-f957015053e9@155.103.69.142:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=bcJ0JDb5rnmW0GjPE2SK2Kc2hs-triKCAk6mkILxbSo&sid=a2&spx=%2FPKRyzJJLYzhCZqV&path=%2Fapiv2#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://118cc524-caf1-4861-8b90-440d42abdfca@151.245.163.59:443?security=reality&encryption=none&pbk=ocwp09GLUv95EQ7JHD71zYsD0g0zFM-cufSFLGoTZyc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=1c5e8b2d#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://96da2787-2e81-4b32-bc52-f3aa210a981b@ru-msk-fvds-69.sssrvpn.pro:8447?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://96da2787-2e81-4b32-bc52-f3aa210a981b@ru-msk-fvds-68.sssrvpn.pro:8447?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@31.77.173.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=p3Mg0hDnw7oY5QJ_FHg8fRFDBKcc473_JbcaDLdd7iw&security=reality&sid=dc2bd4a33fdc3f8f&sni=rus.unlimitedteam.space&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://cec5e508-defc-44d5-b4bb-797665378013@194.154.27.32:443?flow=xtls-rprx-vision&fp=firefox&pbk=DVdaREsxnfqVa8gE6OI7hfX86bwrmwAbxwjVoX8QYnw&security=reality&sid=a1b2c4d4a1b2c3d5&sni=www.sciencedirect.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://4889ee33-74e5-4819-86d8-b2a1a5bc8f46@34.213.172.16:22189?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=firefox&pbk=5tUZskKOCKpjz3j7hmuYaQHNfE1QRtZI9P62qvSs1GY&sid=47b6d14ff477fe59&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://123b2710-da1a-48a6-b39b-c050ae5ca386@bez3.stream-room.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=bez3.stream-room.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2dbbc5af-aadb-48fa-8730-52d4d9247184@92.53.74.129:443?flow=xtls-rprx-vision&fp=firefox&pbk=WjuwZbmCjN8TmT4wZL6zTevQr3mnOATafLpQi1ofzCs&security=reality&sid=de7c7bd7&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://a19133c6-8e5d-4bbf-acdc-d88a628ab9c1@38.244.21.105:443?flow=xtls-rprx-vision&fp=chrome&pbk=toVw4zhkNKNX-ky2Ps7qz7dMMmwmfVUHNN611-M8qA8&security=reality&sid=76140dbf02d4b52a&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -27,6 +28,7 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?flow=xtls-rprx-
 vless://daefbf10-095e-400c-9145-c9770097e145@5.61.27.36:21208?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@211.230.86.254:12323?encryption=none&security=tls&sni=lh1.fum.ccwu.cc&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=lh1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://Bega_arvan@geri.alis1.ir:2098?mode=multi&security=reality&encryption=mlkem768x25519plus.native.0rtt.xxwO1AZ1UXK0hN3JH-g_o3BL8N79GLTjfl1ziuAqKmc&pbk=tmijSRaz8qkLLJZIOLoCAAOtr_KHB9eoYieTM3_VNkk&fp=chrome&spx=/4y3lg5Q4pz1tjL2&type=grpc&serviceName=grpc-speed-tunnel&sni=android.com&sid=6278#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+trojan://yp82ebxb01vlzo1b@207.180.29.179.cdn-one.org:443?authority=207.180.29.179.cdn-one.org&security=tls&serviceName=%2F12699%2FgYDyLb9UzS&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://e4f31bba-9634-46ca-b693-e71b2d4a498f@www.snapp.ir.avaxamstaram.site:2087?path=/xray&security=tls&encryption=mlkem768x25519plus.native.0rtt.iYTXLJGxEz0mZIchFnOL5xPmWZqHNtf7FLYCHmeu71s&insecure=0&host=info.avaxamstaram.site&fp=chrome&type=ws&allowInsecure=0&sni=info.avaxamstaram.site#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.43:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList

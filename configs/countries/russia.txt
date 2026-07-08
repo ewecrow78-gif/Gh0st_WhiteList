@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 179
+# Всего рабочих: 178
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -183,4 +183,3 @@ vless://e3479472-3d5d-4142-842a-44a32b501bd7@mid1.cvs-a.com:8892?security=realit
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?flow=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?flow=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://7c08d043-2185-4fdb-afa1-b57375576e0d@vleapp-nl01.freenets.store:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0D3rAHAy4Cozz_M05RS9d1_JNgSsiCbrULeqONyQRR4&sni=vleapp-nl01.freenets.store#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@t2xmzpec98.nl.cdnfludelivery.com:447?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&sid=d7abeb515312dc2f#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
