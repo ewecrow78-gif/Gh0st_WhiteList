@@ -3,15 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 23
+# Всего рабочих: 22
 
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?type=tcp&headerType=none&security=reality&encryption=none&sni=parisjetaime.com&fp=firefox&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&sid=5be8210215&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=firefox&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@fr.cloudgamings.org:8443?encryption=none&security=tls&sni=fr.cloudgamings.org&alpn=h2%2C%20http%2F1.1&fp=qq&allowinsecure=0&type=ws&host=fr.cloudgamings.org&path=%2Fws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://6351da4a-1074-46b2-bcb0-72f4a500afe3@95.179.223.98:8880?fp=chrome&pbk=VBYRgBBlAKMThd9Jw4VQJmFH4xM02wydyoAb55X72QI&security=reality&sid=976f6aad7724&sni=www.m.amazon.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://cde6db10-61db-418f-9ea1-52f7c13404a9@185.156.72.163:8443?fp=firefox&host=fr-2.alpha-ai-studio.com&mode=packet-up&path=%2Fxhttp%3F%40AmyraxVPN&pbk=mkrHaywJJYB4wuvs5Sj2kuKFM3kbi8w3jd2CEC-AkBc&security=reality&sid=1aa760b0&sni=fr-2.alpha-ai-studio.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsea&host=deicl.redstone-vex.sbs&sni=deicl.redstone-vex.sbs#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.239:443?security=reality&amp;encryption=none&amp;pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdn6-49.yahoo.com&amp;sid=3c9c5d01c6f824dd#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -22,7 +22,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0UHgtR2NfUjdGaVhVZjRUeTNqTWR3SVFabzQ5RE1Zbw@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0UHgtR2NfUjdGaVhVZjRUeTNqTWR3SVFabzQ5RE1Zbw@pasarguard.losthonor.ir:3061#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@163.172.110.153:809#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.85.90.181:804#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@15.236.226.166:1010#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.87.247:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.139.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.74.249:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
