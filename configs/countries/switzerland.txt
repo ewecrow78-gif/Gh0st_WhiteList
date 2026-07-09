@@ -3,14 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 10
 
-vless://b9a83acf-44ff-44a5-b8bc-417c9f82ae11@45.196.193.116:8443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://a3e03930-7645-4bf0-ad4d-40d44341fa88@179.237.65.239:8443?flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff53849b81e6&sni=kookas.fi&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://a3e03930-7645-4bf0-ad4d-40d44341fa88@179.237.66.168:8443?flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff53849b81e6&sni=kookas.fi&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://------BanV2ray-----@37.156.44.233:50148?fp=firefox&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&security=reality&sid=58f70a76&sni=chi.yahoo.com&spx=/OO6oK8lpuuL6BQU&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8cc4e5fa-943c-4bd7-93f1-02309c0a6b96@151.101.35.82:443?encryption=none&type=ws&security=tls&path=%2F&host=bazaryabab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://56fde86d-7985-4385-bc75-276b29a70e44@178.83.121.85:443?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://118cc524-caf1-4861-8b90-440d42abdfca@103.227.84.112:8443?security=reality&encryption=none&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=40ce08cf20c67003#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://------BanV2ray-----@37.156.44.233:50148?fp=firefox&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&security=reality&sid=58f70a76&sni=chi.yahoo.com&spx=/OO6oK8lpuuL6BQU&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2611ea33-e8be-4283-89c5-3bd8a22a649f@158.160.192.93:443?flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2611ea33-e8be-4283-89c5-3bd8a22a649f@158.160.199.174:443?flow=xtls-rprx-vision&fp=safari&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2611ea33-e8be-4283-89c5-3bd8a22a649f@212.233.121.186:443?flow=xtls-rprx-vision&fp=firefox&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://56fde86d-7985-4385-bc75-276b29a70e44@179.237.75.21:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=/#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://56fde86d-7985-4385-bc75-276b29a70e44@178.83.121.85:443?encryption=none&type=grpc&serviceName=xyz&security=reality&fp=chrome&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
