@@ -3,9 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 2
 
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?flow=xtls-rprx-vision&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=ece180c605b5453c&sni=yandex.net&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://7843a94e-3c2f-4551-8333-c3418bf5ad08@vpn2.cc.node2.top:22001?type=tcp&headerType=none&security=reality&encryption=none&sni=itunes.apple.com&fp=firefox&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://bf976bd6-6a6b-4f16-a93f-63520d09a70c@31.77.152.52:443?flow=xtls-rprx-vision&fp=firefox&pbk=F5iLVcnDlp4Uj00hu8aRLdReOFa5Nh-678AGyDBmlAA&security=reality&sid=e713f2f6405b0159&sni=dgm.maxg.ch&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.214:20123#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&sni=yandex.net#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMzQ4YTgzOC05MTA1LTRmM2UtYmQwNC02OTlhOWJlMTA0ODA@sgp01.network-cdn-gw-yd.net:45506#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
