@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 7
 
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&seq=you_are_beautiful6881#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://30bc91bf-229a-4c1e-a711-392eb86d0f76@hk3.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&security=reality&servername=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4&sni=hk4e-launcher-static.hoyoverse.com&spx=%2F&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://30bc91bf-229a-4c1e-a711-392eb86d0f76@hk5.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&pbk=HbjpGbCmp7lBysnS-twEYgGoriXACHZQObIpU9zJWVc&security=reality&servername=www.hsbc.com.hk&sid=a273e9ee6ac0a466&sni=www.hsbc.com.hk&spx=%2F&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://30bc91bf-229a-4c1e-a711-392eb86d0f76@hk4.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&pbk=KhRbgahSFqlPKB6QNp9QYb4oXMy2SIgi440tm6iFZHA&security=reality&servername=hk4e-launcher-static.hoyoverse.com&sid=ea6b43&sni=hk4e-launcher-static.hoyoverse.com&spx=%2F&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
