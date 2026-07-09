@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 5
 
-vless://118cc524-caf1-4861-8b90-440d42abdfca@103.227.84.112:8443?security=reality&encryption=none&pbk=ReFC6hXXcJyyZGIhqjvjdYHv6xTBG-6uNM-wf63dykI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=40ce08cf20c67003#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://------BanV2ray-----@37.156.44.233:50148?fp=firefox&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&security=reality&sid=58f70a76&sni=chi.yahoo.com&spx=/OO6oK8lpuuL6BQU&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://56fde86d-7985-4385-bc75-276b29a70e44@179.237.75.21:443?encryption=none&type=grpc&security=reality&serviceName=xyz&authority=yahoo.com&mode=gun&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=MhOa-Fkr656VVRcxXd27gam263cdXF_uyGiHZZEISUA&sid=ce741cbe468babc7&spx=/#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://0926b50d-3a90-18dd-7c8e-0cf100000000@104.21.117.9:443?encryption=none&type=ws&host=netlivpn4024.bgfjhd.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&fp=chrome&sni=netlivpn4024.bgfjhd.workers.dev#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://7074b9d7-2183-8919-fc11-ca5e00000000@104.21.200.243:2053?encryption=none&type=ws&host=netlivpn2584.vjvdgbc.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&fp=chrome&sni=netlivpn2584.vjvdgbc.workers.dev#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList

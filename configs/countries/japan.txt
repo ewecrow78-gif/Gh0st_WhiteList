@@ -3,10 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 3
 
 vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?flow=xtls-rprx-vision&fp=firefox&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&security=reality&sid=67e2075367998314&sni=www.yahoo.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://7bcb31de-f8f1-4e93-a792-0144c05c6cfa@116.206.92.49:443?security=reality&encryption=none&pbk=gRKqowCAdlhBh9gKYv1S3kQERkqtpWmCFS-NqLBKw3s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9fc3dfda8bca19c2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://0798ff05-dd1d-40a3-a767-8a55b076667f@chuixuevl2.blowingsnowclouds.cc:45875?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&insecure=0&sni=updates.cdn-apple.com&pbk=XKNiiKGcjlO5JmFjfXAyWj3utWzrVJRRmoiCF_pVPDQ&sid=471edb92#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
