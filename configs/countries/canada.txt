@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 35
 
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.212.80:443?security=tls&type=ws&sni=hhcm.hhxaf.cc.cd&path=/&host=hhcm.hhxaf.cc.cd#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.27.66.214:443?path=/download.php&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sertraline.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sertraline.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?path=/GoorBah&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=baguette.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=baguette.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.15:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
