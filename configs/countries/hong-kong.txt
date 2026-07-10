@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 7
 
+vless://f87f2732-64ca-47c6-9e82-91df694c5a64@82.158.88.65:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=LbY9-srBsfb8ApHl3ChuuYZafE3ONC7mI0_umWiJ6yE&sid=c9d9052e5188f4c6&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://30bc91bf-229a-4c1e-a711-392eb86d0f76@hk3.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&pbk=zV4Sja0iajpdzkR1iBMbI7RRWL2nlpgwGOtirQSG-zc&security=reality&servername=hk4e-launcher-static.hoyoverse.com&sid=b81edf7fdee4&sni=hk4e-launcher-static.hoyoverse.com&spx=%2F&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://30bc91bf-229a-4c1e-a711-392eb86d0f76@hk5.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&pbk=HbjpGbCmp7lBysnS-twEYgGoriXACHZQObIpU9zJWVc&security=reality&servername=www.hsbc.com.hk&sid=a273e9ee6ac0a466&sni=www.hsbc.com.hk&spx=%2F&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://30bc91bf-229a-4c1e-a711-392eb86d0f76@hk4.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&mode=multi&pbk=KhRbgahSFqlPKB6QNp9QYb4oXMy2SIgi440tm6iFZHA&security=reality&servername=hk4e-launcher-static.hoyoverse.com&sid=ea6b43&sni=hk4e-launcher-static.hoyoverse.com&spx=%2F&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList

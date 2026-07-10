@@ -3,7 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 4
 
+vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=zed-212.riseservice.me&pbk=ZbMacvmhcaVLcLqZYQ6RbrUlKhzSN6j5ZF9vR1owAmM&sid=45b3ffafc07c6b79#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@62.60.159.137:50443?flow=xtls-rprx-vision&fp=firefox&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
