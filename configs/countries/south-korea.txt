@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
-vless://4442c33c-9889-4e0f-bff7-14f1f626dd6c@kr2.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&security=reality&sid=c8af1462debbc1&sni=www.coway.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://4442c33c-9889-4e0f-bff7-14f1f626dd6c@kr2.miyazono-kaori.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.coway.com&fp=chrome&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&sid=c8af1462debbc1&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://bc13dd2d-cd06-4a88-bc30-eb7be1a4daf5@141.164.40.134:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=qxy4zCquvCNLDB-XrmPMuzyj7zEQheolHvF5_lokd3o&security=reality&sid=f24a61d246&sni=www.intel.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://4442c33c-9889-4e0f-bff7-14f1f626dd6c@43.203.135.25:443?flow=xtls-rprx-vision&fp=firefox&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&security=reality&sid=c8af1462debbc1&sni=www.coway.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
