@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?sni=152.69.195.67#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6c8a1ad4-0c04-460d-87e2-507a952ba902@116.206.92.167:443?flow=xtls-rprx-vision&fp=safari&pbk=LP_JNPrfHbQnMK5dYoKr4D6Q8I8yKHK5ygHffJb1hzw&security=reality&sid=dfde4e821472fb98&sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a7638f72-7bef-4eac-9e7c-b5f525b83240@116.206.93.79:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=safari&pbk=Jm01tR0iF7im4V0z6-yUeqI889JLC5YF7bXV6el_miY&sni=www.apple.com&sid=f91003034ebfad8d#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://e03d4b91-3525-444c-b60c-2cc5f6457ab6@162.159.25.160:443?encryption=none&type=ws&host=jpnew.jjz126ab.top&path=%2Fvless-jp1&security=tls&sni=jpnew.jjz126ab.top#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
