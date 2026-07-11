@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?headertype=none&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?flow=xtls-rprx-vision&fp=firefox&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&security=reality&sid=38c7778a&sni=apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a7638f72-7bef-4eac-9e7c-b5f525b83240@116.206.93.79:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=safari&pbk=Jm01tR0iF7im4V0z6-yUeqI889JLC5YF7bXV6el_miY&sni=www.apple.com&sid=f91003034ebfad8d#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://3723ce5d-bccf-4973-8015-047b0c1a3a4f@87.120.92.151:6543?encryption=none&type=ws&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://4227f293-eb63-4b2a-892f-eec72f718cd0@23.27.20.142:48537?encryption=none&type=ws&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
