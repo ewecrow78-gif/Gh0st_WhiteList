@@ -3,21 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 26
+# Всего рабочих: 17
 
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&fp=firefox&sni=www.samsung.com&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@149.248.77.106:40443?flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&mode=gun&serviceName=grpc-api&security=tls&sni=gbos2.osvp.online&fp=chrome&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&path=%2F&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&security=reality&sid=60debb3ab744d8ce&sni=uk.bvps.cloud&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://eee26f4a-97d8-460a-a748-a4ca50eb61d6@185.22.235.219:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=web.max.ru&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&security=reality&sid=08&sni=vindobona.org&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://eee26f4a-97d8-460a-a748-a4ca50eb61d6@158.160.59.97:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=sso.passport.yandex.ru&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://d8b42cd5-a149-4356-9e61-111111111111@110.34.38.2:1445?headertype=&security=&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://7fad0f26-ac31-4daf-9883-ec979b874894@62.152.59.10:443?flow=xtls-rprx-vision&fp=qq&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&security=reality&sid=a9c4f17e3b62d8&sni=m.vk.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://eee26f4a-97d8-460a-a748-a4ca50eb61d6@51.250.82.20:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://eee26f4a-97d8-460a-a748-a4ca50eb61d6@84.201.156.242:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=smartcaptcha.yandexcloud.net&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://d8b42cd5-a149-4356-9e61-000000000000@110.34.38.174:2552?headertype=&security=&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osit1.ghast.sbs:443?sni=osit1.ghast.sbs&type=grpc&serviceName=grpc-api&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://e5c76e2a-cf15-4bc9-9f70-e9079b55f284@2.26.128.72:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=wombat.mycdn-me.ru&pbk=w88Ys8dVF9DuslGwUD05J9-FHNoAT9qmPysCvHiEmmg&sid=1b40e7c2a1d8f635&spx=/#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.44:8443?flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -26,7 +17,7 @@ vless://be5abe11-1c65-4289-b581-a5121a8719a1@151.243.28.97:1443?flow=xtls-rprx-v
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@45.86.159.164:443?sni=gbos2.osvp.online&type=grpc&serviceName=grpc-api&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@104.18.12.149:443?encryption=none&type=xhttp&mode=auto&host=GERMAN.sarzamiiinahang.ir&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&fp=chrome&sni=GERMAN.sarzamiiinahang.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://afcc2147-1350-4155-9ec0-95c4ba4be847@104.18.12.149:443?encryption=none&type=xhttp&mode=auto&host=fran.sarzamiiinahang.ir&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&fp=chrome&sni=fran.sarzamiiinahang.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@nl3.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=60blDEOXOBX2kU-O4wPqOYIiVaaNakrc1g08XryXRFI&fp=chrome&sni=nl3.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@uk2.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=zEW9h3UBbxYC1uz_K7UYtaoYbm9xXSc_GsjTYaOciiU&fp=chrome&sni=uk2.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
