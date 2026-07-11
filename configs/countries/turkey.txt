@@ -3,10 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 11
 
-vless://e735c2ec-40db-4346-8916-a96f92856b7f@info.novaano.ir:443?security=reality&encryption=none&pbk=SM-QW50AOC6AF8JYmaEI1mRLxk6n4DZymNKD1UAQoik&headerType=none&fp=chrome&spx=%2FEbRsnP4OBDeX3bT&type=tcp&sni=cloudflare.com&sid=28efcfc27d#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://24d6df03-9954-81ad-c4e3-4de311d8ea9d@204.10.192.244:5054?fp=firefox&headertype=none&mode=packet-up&path=&pbk=vmlmn1BcyEMh7vnmqjaxlvJy_bS-4ZWPN4EZAmnMFmY&security=reality&sid=8afe1688&sni=icloud.com&spx=%2F&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e735c2ec-40db-4346-8916-a96f92856b7f@212.87.198.78:443?fp=firefox&pbk=SM-QW50AOC6AF8JYmaEI1mRLxk6n4DZymNKD1UAQoik&security=reality&sid=28efcfc27d&sni=cloudflare.com&spx=/EbRsnP4OBDeX3bT&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://09bb1018-47b1-4968-964c-d9bf96bb052b@my.filpower.shop:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=m7WfiFH6HcPxlTgzNjq035kpMnkGaNG3UBo4OyS2kGA&sid=f2c5768a&spx=/0O5wckC4yVGdvL0&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
