@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 11
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=zed-212.riseservice.me&pbk=ZbMacvmhcaVLcLqZYQ6RbrUlKhzSN6j5ZF9vR1owAmM&sid=45b3ffafc07c6b79#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -11,5 +11,8 @@ vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?flow=xtls-rprx-vis
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?fp=chrome&mode=gun&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&security=reality&sid=abbb6e5e07cdf34b&sni=icloud.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@104.105.106.147:56625?fp=chrome&mode=gun&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&security=reality&sid=abbb6e5e07cdf34b&sni=icloud.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://02418721-edeb-4aa8-9440-53ccc2cc4a98@8fc32bdfd221beed.sorcepack.ir:56625?fp=ios&mode=gun&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&security=reality&sid=2716d84d89b5eadc&sni=icloud.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@159.194.222.96:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=XWdj2xnutv_AqYv45spCT9upjROUpE2iLDbQC-HyGic#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@159.194.239.37:443?security=reality&encryption=none&pbk=1L89euUftEWspViGKdG7Ivwj-k1ySPROZEfZWaL5Hhw&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://0f3ab1b4-3cd2-4e5e-ac12-25efbe4a36ea@157.180.19.140:443?security=reality&encryption=none&pbk=2760Jz3dYgybn1MDTT2dsr5WAKPPTPnTnmsjWjJbFzU&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0c4832ee-278b-4ef1-9ed0-dab05e0b8781@sw1.vpn404.ru:6443?security=reality&encryption=none&pbk=ixrfJqTGj_4_m7vnwzJU0U7dkFII-eFltsW54vMptm4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vkvideo.ru&sid=06#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList

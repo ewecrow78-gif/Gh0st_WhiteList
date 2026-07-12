@@ -3,8 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 8
 
+vless://ec2cb378-b18e-4d2e-83f0-57c8a51c6ed0@95.128.157.251:443?security=reality&encryption=none&pbk=QEan1qWizcGCZAWf4k1j8MA4Y3fkxw5UE09aqnDEqwk&sni=vk.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://1068d6c4-cdf3-4b68-8159-99d367af5f64@95.128.157.251:8443?security=reality&encryption=none&pbk=veN8fJwX2h34-BCW1cRBVkVyZ1Fw4Kbj91KTwJ3XMQM&sni=vk.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://968e508c-d52b-43a9-8890-7133cb4f72da@212.34.145.199:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sni=www.wildberries.ru&sid=00e7#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.132.157:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=reality&encryption=none&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sni=web.max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&fp=chrome&sni=sp.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp3.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=qgQqMQBzEYgBDefp5waJr2V-xjieFMjJ9r-O4J1qUk0&fp=chrome&sni=sp3.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
