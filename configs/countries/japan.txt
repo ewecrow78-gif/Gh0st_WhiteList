@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 4
 
-vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sony.com&fp=chrome&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&sid=a32e8c4a#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sony.com&fp=firefox&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&sid=a32e8c4a#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?headertype=none&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206aFBZQUd3b0VWYVNN@89.125.244.147:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
