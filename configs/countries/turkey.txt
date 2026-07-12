@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 18
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@31.210.52.70:443?fp=firefox&mode=packet-up&path=%2F3fcca34e1d7fdbbf436f61e3&pbk=dEflMgBjcNkrJchbmwo6Lbr3SgfFrZWW3Ww9dzzcMDk&security=reality&sid=a8257fcbe7f6ff70&sni=twitch.tv&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
@@ -11,14 +11,15 @@ vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@ci.temas-fars.ir:2446?fp=chrome&hea
 vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@77.245.155.56:443?fp=firefox&mode=packet-up&path=%2F3fcca34e1d7fdbbf436f61e3&pbk=dEflMgBjcNkrJchbmwo6Lbr3SgfFrZWW3Ww9dzzcMDk&security=reality&sid=a8257fcbe7f6ff70&sni=twitch.tv&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://29b9bf0e3af441a68458168c674429e8@80.253.249.245:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=m.vk.com&pbk=PzaMCcpZValJjFV9FRu_NlXs2XVzM0_CD6CMS6zvohY&sid=aabbccdd&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://41e72698-f09a-4617-8f1b-33359c2473cc@185.100.157.171:443?flow=xtls-rprx-vision&fp=qq&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&security=reality&sid=a0f2b4232e34f664&sni=max.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@185.100.157.171:443?type=tcp&security=reality&sni=max.ru&fp=qq&flow=xtls-rprx-vision&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://df96530e-56f9-4876-9c84-54faaae14c5e@185.141.216.106:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sni=rzd.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@139.28.241.213:8443?security=reality&encryption=none&pbk=fXsQV_dib6rKGAl6EncN6Pm-fTb6TqOa3uTCQWe86Dg&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://09bb1018-47b1-4968-964c-d9bf96bb052b@my.filpower.shop:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=m7WfiFH6HcPxlTgzNjq035kpMnkGaNG3UBo4OyS2kGA&sid=f2c5768a&spx=/0O5wckC4yVGdvL0&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:3044?encryption=none&security=reality&sni=play.google.com&fp=ios&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://575c4798-ad7f-4780-b19b-97d716f6e219@tun.mamadhpbot.ir:2097?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=HBj5Id8AD9xpZpCQAI_Qe3EcRgDabNUi-m3G6VENdT0&sid=0020b2c2d7f87920&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.17.113.234:812#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://024e3a74-bb03-43a9-8b86-260ae888adcb@amin.sylixteam.ir:8443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%222000-2300%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%2216%22%7D%7D&fp=chrome&host=amin.sylixteam.ir&mode=auto&path=%2Fccc&pbk=v6EuCPV1jYoSkTYuZ3G98xQE_DECYRvaBKZslRWgLCI&security=reality&sid=e3f1&sni=www.samsung.com&spx=%2FDVhsMA3QWc4PPfE&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://02c5fca9-cca0-4a81-a5e3-5fc734cc560c@uc.callofdeuti.ir:80?security=reality&encryption=mlkem768x25519plus.native.0rtt.bHRJoW9nvDfcJd3ZRLXLDwT4i216yH90Uz42CXEoVUc&pbk=uOXWzNhsJ6sMuaZV8zPNZLu0kHNoUmDTRv6P1mlnsXk&headerType=none&fp=random&type=tcp&sni=www.yahoo.com&sid=7e22b650c8262519#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://07960816-6a66-40f2-b7ca-d074bd708828@myip.check.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://449b7dd6-6ad2-4ce6-b4aa-6c7060e143fb@87.120.106.52:8081?type=tcp&encryption=none&path=%2FELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray--ELiV2Ray&host=Chess.com&headerType=http&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

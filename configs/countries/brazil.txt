@@ -6,7 +6,7 @@
 # Всего рабочих: 5
 
 vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@185.112.59.159:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&security=reality&pbk=IzCxPP6AbT5ncuSfj17EsHCyjnirVQ_LN62uIiQeQVA&sid=111111#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.41.10:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&sid=9e354fd8#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
 vless://7a9afda4-5e6f-11f1-bd95-ee5f4ed81fa1@201.51.8.114:2053?type=grpc&security=reality&fp=chrome&pbk=rNUwP0R2G7cBaach3vA1SnQKjQ0op8F5_H4YkkqWLyA&sid=2922502119a30f6f&sni=dzen.ru&mode=gun&serviceName=grpc-direct#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://732a3a5c-5dee-42c7-a898-139e35b78c5d@152.233.31.72:16923?type=grpc&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
 vless://30f5b380-5b9e-4d42-a50c-508a2a8cb2f6@185.68.244.41:443?type=tcp&security=reality&sni=xapi.ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=433065#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.41.10:443?security=reality&encryption=none&pbk=NhHXYBmjIoSy6Kvj2k06550KGJY3GUFSzcssjFakh3U&sni=yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b6eaf50a-0b56-45c4-a993-4cc4d3dd1ede@186.246.23.136:8443?security=reality&encryption=none&pbk=sKy_duclM4EkN5Swe0pv2sihnRiog2wxdrVe087RUQ4&sni=yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
