@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 36
+# Всего рабочих: 35
 
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?type=tcp&headerType=none&security=reality&fp=firefox&sni=www.samsung.com&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -32,10 +32,9 @@ vless://ba008c01-a1af-45da-9428-2342046f5f97@51.250.91.220:443?security=reality&
 vless://03ef0b55-b03b-4beb-bc58-b87f18d652d8@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=/#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443?type=ws&security=tls&path=%2Fsbqbfows&sni=api.avito.ru#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://009fcc2b-0e61-4c95-97bf-e1ce704ea551@51.250.4.238:443?type=tcp&security=reality&sni=yandex.ru&fp=random&flow=xtls-rprx-vision&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://199436d3-2fa2-4e34-a1de-844419de5a4f@82.40.62.48:20000?security=reality&encryption=none&pbk=FWkH7C_t9obV_NI48ir9DHJed6OVBQTh-Hi8fVnUlDM&sni=market.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?encryption=none&type=tcp&headerType=http&host=snapp.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://afcc2147-1350-4155-9ec0-95c4ba4be847@104.18.12.149:443?encryption=none&type=xhttp&mode=auto&host=fran.sarzamiiinahang.ir&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&fp=chrome&sni=fran.sarzamiiinahang.ir#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@nl3.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=60blDEOXOBX2kU-O4wPqOYIiVaaNakrc1g08XryXRFI&fp=chrome&sni=nl3.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
