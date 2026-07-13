@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://ab73218d-9f81-47f7-a3cc-a56b8a1acadf@43.161.220.242:443?encryption=none&fp=firefox&pbk=EyizAEdItn0J0TDYHu7IyeiPY4rOPxG16W7MLUE8UCQ&security=reality&sid=48&sni=www.nvidia.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://ab73218d-9f81-47f7-a3cc-a56b8a1acadf@43.161.220.242:443?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=EyizAEdItn0J0TDYHu7IyeiPY4rOPxG16W7MLUE8UCQ&sid=48&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.138:20123#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
