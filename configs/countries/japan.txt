@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 6
 
-vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&sid=a32e8c4a&sni=www.sony.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?encryption=none&fp=firefox&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&security=reality&sid=a32e8c4a&sni=www.sony.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?packetencoding=xudp&security=none&sni=152.69.195.67&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.220.197:1443?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&sni=m.vk.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
