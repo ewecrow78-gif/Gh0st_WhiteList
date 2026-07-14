@@ -3,15 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 16
+# Всего рабочих: 15
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?flow=&host=de.vpnbase.net&path=%2Fhttp&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@89.208.113.54:50443?flow=xtls-rprx-vision&fp=firefox&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&type=ws&security=tls&path=%2Fsg-amz&host=support.zoom.us.yxls.eu.cc&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@france2.nicqy.com:43264?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&fp=chrome&spx=%2FBb72M8dxE7yQVmm&type=xhttp&sni=samsung.com&sid=eb#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
