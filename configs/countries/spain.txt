@@ -3,14 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 9
 
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://42455ebe-1c84-479a-9bac-6433c30f8d19@plaza.grwm-syncra.online:48932?encryption=none&security=reality&sni=cdn4-35.yahoo.com&fp=firefox&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&allowinsecure=0&type=xhttp&mode=auto&path=%2F&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22333-1777%22%2C%22scMaxBufferedPosts%22%3A30.0%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://42455ebe-1c84-479a-9bac-6433c30f8d19@plaza.grwm-syncra.online:48933?encryption=none&security=reality&sni=cdn2-15.yahoo.com&fp=firefox&pbk=uugDdrD7u6_dXpH4SCUwUvP4eaG-InWUZk-VKpyxiHc&allowinsecure=0&type=xhttp&mode=packet-up&path=%2F&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22333-1777%22%2C%22scMaxBufferedPosts%22%3A30.0%2C%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMinPostsIntervalMs%22%3A30.0%7D#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://968e508c-d52b-43a9-8890-7133cb4f72da@212.34.145.199:443?security=reality&encryption=none&pbk=7JkpzRPbu2zJcPNrwVsE72C_OIduEDy_e2G4Uh0g4ms&sni=vk.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@80.91.86.179:277?security=reality&encryption=none&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://968e508c-d52b-43a9-8890-7133cb4f72da@212.34.145.199:443?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sni=ozon.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.132.157:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@sp.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=WdIX2dBCU2C9IgHXeIpJqckDAKBx1D9E4Sa4oL3uYA4&fp=chrome&sni=sp.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
