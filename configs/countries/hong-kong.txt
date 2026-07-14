@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
-vless://4d56ded0-6429-4af5-bca7-38c89d009891@31.77.147.132:8443?fp=firefox&pbk=kih8H3hu1AEEBqS_njldp7pyWsoNmHGi3-ESiPGr0B8&security=reality&sid=5331&sni=img.perekrestok.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://834232b0-74e0-4b67-853d-feae196c09d7@hk.t1n2.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hk.t1n2.com&fp=firefox&pbk=vcZOu1J6AEi3lcibFPD31Ppo6N27PNIMYEB43ej43hE&sid=3dd7a7db6c7c37c6&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@119.246.1.143:443?security=reality&encryption=none&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
