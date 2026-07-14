@@ -3,13 +3,19 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 16
+# Всего рабочих: 22
 
-vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:8443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.193:443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:443?security=reality&encryption=none&pbk=V8HOgb3CP-HEC-Kim__H1SqjQzv67Z4T9SnD-ziQgSs&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.239:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.237:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.193.202:443?security=reality&encryption=none&pbk=4v6sJF9cYFv6h9k1CpiCoTdMUGJzPIZgSCWrZZErOQA&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://64bac080-e220-4ad2-eb97-56d5cf18b8c3@64.226.107.71:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.6.140:443?security=reality&encryption=none&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://246fa697-9bc6-4124-babe-b35b8b9c54c7@51.79.30.198:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@149.248.52.96:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@159.89.120.125:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://b9271851-6e70-40d5-b9b7-728c135d64d2@51.79.161.232:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@64.226.121.240:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&amp;security=tls&amp;alpn=h2,http/1.1,h3&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?path=/GoorBah&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=baguette.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=baguette.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZWx3dlU5bVVSMG9yRUZTNUQ2dTdB@217.138.213.38:1080#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
