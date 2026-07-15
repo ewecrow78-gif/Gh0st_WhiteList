@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:10443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://131bb705-8747-4576-b25d-31d47c66c283@45.148.119.228:2053?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=e0zdq7dlQbw00kxTeSe_CZRFn-h--CTqb9yNK_wuLG4#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://0c7c9ea2-7e1e-0029-b5a5-fdd2ef7618db@se01.goodmaximum.com:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=demo.sablefrost.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
-vless://0d27f12d-1632-5662-bdbf-5ac93eed5171@93.77.163.232:443?type=tcp&security=reality&sni=eh.vk.com&fp=firefox&flow=xtls-rprx-vision&pbk=kcsero7fsHn37IUNxLH0-RbpAd9tJx7hAhpwJboPFRI&sid=a1104699aa13#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@pl5.alexanderoff.ru:4443?type=tcp&security=reality&encryption=none&pbk=_u-WNsUzOCB-54zOAh2prbQZqXGJgJfzl6lAZDx4Bw4&fp=chrome&sni=pl5.frostmotiveseed.net&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%A6%20Gh0st_WhiteList

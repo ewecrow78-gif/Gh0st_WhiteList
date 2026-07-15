@@ -3,8 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 2
 
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://7fa7fa33-8425-4150-8920-fbe6623bf611@154.222.9.222:8443?security=reality&encryption=none&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&sni=travel.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.116:8443?security=reality&encryption=none&pbk=OnvxYKheQYpnGbyaF5S392QFQwYvFPOTuAnSJEweCG0&sni=avito.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.116:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.115:8443?type=raw&security=reality&sni=rbc.ru&fp=chrome&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
