@@ -7,7 +7,7 @@
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@it.monkora.org:443?encryption=none&type=tcp&security=reality&sni=it.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&security=reality&sni=ag-03.rita-cloud.com&fp=firefox&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://522e84a6-2f0b-4109-901d-dbf05b60ce59@pro-it.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://522e84a6-2f0b-4109-901d-dbf05b60ce59@pro-it.emrata.top:443?fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-it.emrata.top&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://a3a34b58-14b4-000c-a555-8752f7694916@194.55.239.137:8443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.252.15:443?encryption=none&fp=firefox&security=tls&sni=sca12.afterdomain.shop&type=grpc#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
