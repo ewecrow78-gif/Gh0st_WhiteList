@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
 vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?security=reality&encryption=none&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sni=music.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?type=tcp&security=reality&encryption=none&sni=www.amd.com&fp=chrome&alpn=http%2F1.1&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://1008a30d-4e23-485a-8981-fd1f103b7d11@104.171.135.184:42672?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
