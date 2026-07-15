@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?fp=firefox&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&security=reality&sid=87478274a30fcaea&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?encryption=none&fp=firefox&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
