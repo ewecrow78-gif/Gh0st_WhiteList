@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 3
 
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&sid=47de54e71fee3451&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://62a81018-a911-4c31-8e25-adedc999ef9d@vpn2.cc.node2.top:22001?type=tcp&headerType=none&security=reality&encryption=none&sni=itunes.apple.com&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://78b4c08b-b191-4550-9406-15ab3ff87bd9@31.77.147.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JfPS2DUo4zsn-fn1lI8om8uCXEUyyUDutxfpLryUIx0&security=reality&sid=03ff6d202621bc78&sni=dl.google.com&spx=/&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@212.192.15.191:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&security=tls&sni=vpn3.rnmcnm.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
