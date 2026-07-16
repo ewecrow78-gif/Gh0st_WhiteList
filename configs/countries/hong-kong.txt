@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://25095ffa-377a-45b7-9e27-cc87662b6ee9@hk5.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=&path=&pbk=HbjpGbCmp7lBysnS-twEYgGoriXACHZQObIpU9zJWVc&quicsecurity=none&security=reality&servicename=&sid=a273e9ee6ac0a466&sni=www.hsbc.com.hk&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&sid=47de54e71fee3451&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
