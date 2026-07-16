@@ -3,15 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 5
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://b913b40b-8c56-41ed-b39f-453af5297134@158.160.192.93:443?flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://b913b40b-8c56-41ed-b39f-453af5297134@84.201.157.147:443?flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://b913b40b-8c56-41ed-b39f-453af5297134@5.178.85.132:443?flow=xtls-rprx-vision&fp=firefox&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://b913b40b-8c56-41ed-b39f-453af5297134@84.201.172.121:443?flow=xtls-rprx-vision&fp=safari&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://b913b40b-8c56-41ed-b39f-453af5297134@89.208.210.165:443?flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://8516c47e-a7a1-42f7-9c14-ae9b14873cc8@ch-5.lemonbow.ru:443?security=reality&encryption=none&pbk=W8hnq0oVIPpRGyM8UUQuaAF2KKxl6C10yBgO911iFwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://fef61355-77d1-4523-9550-1e7b7cbcc47c@37.156.44.241:19551?headertype=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://------BanV2ray-----@37.156.44.233:11782?security=reality&encryption=none&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&headerType=none&fp=chrome&spx=%2F56ga3gBhCIEtWgB&type=tcp&sni=chi.yahoo.com&sid=d9956cbe27#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://------BanV2ray-----@37.156.44.233:42803?security=reality&encryption=none&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&headerType=none&fp=chrome&spx=%2FwY3CzSid43ok1ZO&type=tcp&sni=chi.yahoo.com&sid=e2c2c722e826#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://------BanV2ray-----@37.156.44.233:50148?security=reality&encryption=none&pbk=HLYPbzsOMGFz118_7LkL4tled8aYwma2rR06EuSk3Ag&headerType=none&fp=chrome&spx=%2FOO6oK8lpuuL6BQU&type=tcp&sni=chi.yahoo.com&sid=58f70a76#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
