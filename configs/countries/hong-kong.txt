@@ -3,9 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 8
 
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&security=reality&sid=47de54e71fee3451&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://4d56ded0-6429-4af5-bca7-38c89d009891@31.77.147.132:8443?fp=firefox&pbk=kih8H3hu1AEEBqS_njldp7pyWsoNmHGi3-ESiPGr0B8&security=reality&sid=5331&sni=img.perekrestok.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://4d56ded0-6429-4af5-bca7-38c89d009891@31.77.147.132:443?fp=firefox&pbk=GinOJvCMn3Iw630YCSLm1meFbcJ0YAb2Ie1YwMVKNAM&security=reality&sid=61&sni=img.perekrestok.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.115:8443?type=raw&security=reality&sni=rbc.ru&fp=chrome&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.116:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://e9af08f4-7d76-11f1-abcf-9a604da08cb8@45.195.137.26:8443?security=reality&encryption=none&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sni=hh.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.26:8443?security=reality&encryption=none&pbk=sKy_duclM4EkN5Swe0pv2sihnRiog2wxdrVe087RUQ4&sni=yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&security=tls&sni=vpn3.rnmcnm.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
