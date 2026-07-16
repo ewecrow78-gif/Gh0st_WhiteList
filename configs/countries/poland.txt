@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 14
 
 vless://c0496281-b45a-48b7-88c8-e281f7935903@pla.allonetworks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=dev.max.ru&pbk=sM0zI55WTZvcPhpGauMG84bVXeKcdWlavg16JEdAQn8&sid=f69ec2803b8d#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -14,6 +14,7 @@ vless://58aeca19-0425-4b55-bdef-01ded23f5acc@2.26.5.168:445?flow=xtls-rprx-visio
 vless://58aeca19-0425-4b55-bdef-01ded23f5acc@2.26.5.168:8443?fp=firefox&mode=stream-one&path=%2Fa7f9d2c8&pbk=8pUN-PAnf8heTQepzV7AslEWwwePXGH4TV2tD44Xgy4&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c0d40301-6308-4841-808e-3bd63f05f224@2.26.5.151:445?flow=xtls-rprx-vision&fp=firefox&pbk=kqCqlxubsl4d8UCWI2kRRmO1qKX_NodCFwuYhEGKBi0&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c0d40301-6308-4841-808e-3bd63f05f224@2.26.5.151:8443?fp=firefox&mode=stream-one&path=%2Fa7f9d2c8&pbk=kqCqlxubsl4d8UCWI2kRRmO1qKX_NodCFwuYhEGKBi0&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://97d6ec9c-9702-43ff-8ac8-5a8b4423d3ce@138.16.184.72:446?flow=xtls-rprx-vision&fp=firefox&pbk=DZQE8nDxD9hcmMSNEIaFC1_VIB1_SslMgEB-3jyIZHs&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8f26ef51-9ddb-4c3e-9d16-db622390206c@78.135.73.35:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=uHWsFJQWk89gw9zj4a-u13w7tIi9ZRpTgsW2_GmbXz8&sid=7effd44c96a5bc89#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9f366a3e-348c-492c-be54-4a0a6db94cc7@45.144.51.164:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
