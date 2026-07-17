@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&sid=47de54e71fee3451&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&security=tls&sni=vpn3.rnmcnm.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
