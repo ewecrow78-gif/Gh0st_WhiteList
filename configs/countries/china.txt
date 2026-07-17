@@ -3,10 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 63
+# Всего рабочих: 65
 
 vless://4a504914-9695-41f9-8a60-c06d986e0300@de10.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=de10.s812331.shop&pbk=2XTPvkK41t8x8qQfYxETMWtFVf5w4jW3-RbXb997x3k&sid=5b591e78b15610f7#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://4a504914-9695-41f9-8a60-c06d986e0300@pl2.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=pl2.s812331.shop&pbk=clISdI1XP4jQrqKfeFVmCn_X3Z8RM-INBoXy4CE1K28&sid=880a75ddc6acdd48#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf4.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime06.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.71.253:8880?encryption=none&host=joss.jak.biz.id&https://t.me/WangCai2🇨🇳=&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -52,9 +53,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.253:8880?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.141.181.229:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXRTNOelJtTXkwM1l6VTNMVFEwTnpZdE9XRTJPQzAwWVRRd05UVTNPRFUwWVRV@free.2apzhfa.xyz:31115#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXRTNOelJtTXkwM1l6VTNMVFEwTnpZdE9XRTJPQzAwWVRRd05UVTNPRFUwWVRV@free.2apzhfa.xyz:31219#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXRTNOelJtTXkwM1l6VTNMVFEwTnpZdE9XRTJPQzAwWVRRd05UVTNPRFUwWVRV@free.2apzhfa.xyz:31313#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMU1EYzRORE16WVMxaE1EaGtMVFF4TldVdE9HVm1OQzFqTlRsak5tTTFOamsxTVRJ@free.2weradf.xyz:36511#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMU1qZzBZekU0Tnkxa01XSXpMVFF4WlRrdE9ERTRZaTB5WldZM09UbGhNREptWW1N@free.2weradf.xyz:36111#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMk1UQmxZVFV4T0MwMk56TTRMVFF3WlRjdFlUUTVOUzAwTlRWa1ltUTBOelJrWmpB@free.2weradf.xyz:36243#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMk1UQmxZVFV4T0MwMk56TTRMVFF3WlRjdFlUUTVOUzAwTlRWa1ltUTBOelJrWmpB@free.2weradf.xyz:36271#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd1pqWTJOV1E1WWkwNVpXUTNMVFJqWkRBdFlUWm1NUzFsTmpBME5EYzVNelkxTVRn@free.2apzhfa.xyz:31145#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU9XSTJObU5qWlMwME1tUTVMVFE0TkdJdFltRXlPUzB3WXpkbE5qRXlabVZoWkRF@free.2apzhfa.xyz:31211#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU9XSTJObU5qWlMwME1tUTVMVFE0TkdJdFltRXlPUzB3WXpkbE5qRXlabVZoWkRF@free.2apzhfa.xyz:31243#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -67,4 +70,3 @@ ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1XVXlNV1U0TmkwME5qSXhMVFE
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1XVXlNV1U0TmkwME5qSXhMVFEwTW1JdE9UZGlNaTB6TkdabU1UWTVZekF6WWpF@free.2weradf.xyz:36741#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwa05ESTVPRGxtTnkwNE1HSTFMVFJoT1RndFltUTBZaTAxTXpVNVlXTmxaak13WkdR@free.2weradf.xyz:36671#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbE9USTRZemN5TWkxalpqZ3pMVFEwWm1JdE9USTVOeTAzWXprd01ERXpOR0prWkdV@free.2apzhfa.xyz:31215#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
