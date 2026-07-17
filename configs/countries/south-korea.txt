@@ -3,9 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 1
 
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.35.209.119:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@132.145.91.181:8443?encryption=none&fp=firefox&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://62efcb50-0d86-49a6-bde9-f61ad0f215ca@211.222.128.50:10731?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sni=rbc.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
