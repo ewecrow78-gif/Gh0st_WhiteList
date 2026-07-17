@@ -3,6 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 2
 
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@104.18.12.149:443?encryption=none&type=xhttp&mode=auto&host=GERMAN.sarzamiiinahang.ir&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&fp=chrome&sni=GERMAN.sarzamiiinahang.ir#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://30f5b380-5b9e-4d42-a50c-508a2a8cb2f6@185.68.244.41:443?type=tcp&security=reality&sni=xapi.ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=433065#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://7a9afda4-5e6f-11f1-bd95-ee5f4ed81fa1@201.51.8.114:2053?type=grpc&security=reality&sni=dzen.ru&fp=chrome&pbk=rNUwP0R2G7cBaach3vA1SnQKjQ0op8F5_H4YkkqWLyA&sid=2922502119a30f6f#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
