@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
+vless://1b6de5d8-3285-422c-b6fe-2989918f528b@z-hkl.h.w.466688.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=CdNLdccy_ALnjDvwZa14eP31CoJ_BLqJAS2OLCNwogg&sid=d19dcb524604e214&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://6ff24708-1b2a-47dc-bc2b-d498ea00e3e1@43.245.198.157:21719?headertype=none&security=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://7ec8bf5e-f30c-4c29-9197-6d96661cd36f@156.248.10.58:443?flow=xtls-rprx-vision&fp=safari&pbk=EXIEsAJq-s30mA0r997iwrR8ijvGLZ7DOTkr_R39QCE&security=reality&sid=54fc3827c8&sni=nono.hhhkkhktt.xyz&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://78b4c08b-b191-4550-9406-15ab3ff87bd9@31.77.147.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JfPS2DUo4zsn-fn1lI8om8uCXEUyyUDutxfpLryUIx0&security=reality&sid=03ff6d202621bc78&sni=dl.google.com&spx=/&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@45.195.137.9:8443?security=reality&encryption=none&pbk=IzCxPP6AbT5ncuSfj17EsHCyjnirVQ_LN62uIiQeQVA&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&security=tls&sni=vpn3.rnmcnm.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList

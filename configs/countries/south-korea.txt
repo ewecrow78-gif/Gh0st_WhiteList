@@ -3,9 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 6
 
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ako.pagate.top&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://62efcb50-0d86-49a6-bde9-f61ad0f215ca@211.222.128.50:10731?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sni=rbc.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://5e413db9-fe28-4aa0-aab2-ee994bb43c7c@104.16.74.133:443?encryption=none&type=xhttp&mode=auto&host=falhos.dpdns.org&path=%2Fws&security=tls&alpn=h2%2C%20http%2F1.1&fp=chrome&sni=falhos.dpdns.org#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
