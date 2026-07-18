@@ -3,14 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 7
 
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?security=reality&encryption=none&pbk=&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.182:809#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://726263e7-3176-4efb-a519-fe9f4ea87f7d@37.120.222.70:8082?encryption=none&type=ws&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://a79ecb50-00cb-428a-8448-3ccc3d045b01@149.5.53.213:56234?encryption=none&type=ws&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.20:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?path=%2F&security=tls&encryption=none&&host=josni.hoyes.cloudns.ch&type=ws&&sni=josni.hoyes.cloudns.ch#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
