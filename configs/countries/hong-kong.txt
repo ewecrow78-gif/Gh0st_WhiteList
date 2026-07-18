@@ -5,6 +5,6 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 3
 
-vless://dbb84eca-ee83-4ea7-9db0-064803d4b469@hudrososov.blog:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=&fp=chrome&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&sid=d1c2b3a4&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://31be1b6b-a2e4-44f5-9998-80569545a717@34.150.54.97:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lqdXPtmlK9emOPzmvYD6XoWrT6laiRRXglFz0VMVCFc&sni=www.icloud.com&spx=/#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://dbb84eca-ee83-4ea7-9db0-064803d4b469@hudrososov.blog:443?security=reality&encryption=none&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hudrososov.blog&sid=d1c2b3a4#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@119.246.1.143:443?security=reality&encryption=none&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sni=api.ok.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
 vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&security=tls&sni=vpn3.rnmcnm.com#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
