@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 45
+# Всего рабочих: 43
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.192:443?encryption=none&security=reality&sni=iris-02.rita-cloud.com&fp=firefox&pbk=yleGRApfmnT3benISto7vAkERo4_RM31GITYIMqL7GI&sid=e20b98054206e6e8&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.195:443?encryption=none&security=reality&sni=iris-04.rita-cloud.com&fp=firefox&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&sid=26c501a781437581&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -21,8 +21,6 @@ vless://f422e914-ba20-4855-9441-c044d3f2f6e1@nl.air-vpn.lol:443?flow=xtls-rprx-v
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@89.105.220.228:443?encryption=none&fp=firefox&pbk=Lij6_wEY1WQ8p9wjOyErAAmY8ce4oZmEO4QtYXH-WiU&security=reality&serviceName=node.v1.MetricsService&sid=b9707fe704eb1415&sni=get.oneokgames.com&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=firefox&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&security=reality&sid=7b1a&sni=play.google.com&spx=/y1gWdaecnKIKUd2&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@45.112.192.72:603?mode=gun&security=reality&encryption=none&pbk=EVCTStQtIcHLJC4M-we-zB319grqHubJD9NvGSwS0AY&fp=chrome&type=grpc&sni=www.amd.com&sid=e3b1c7a9d4f06285#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=%2F&security=&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b1b99b6a-74ef-4a08-8eca-41dbb73b0353@188.253.24.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=prodazhaluchwihkovannihizdeliy.online&fp=firefox&pbk=Bn6wlYbNleAW_itGgaK1bRYjmaRMfvQ4azEC4A6hnls&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -45,8 +43,8 @@ vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@89.105.208.118:443?security=reality
 vless://497631c4-a1a4-45ff-a86a-f42873473bb6@89.105.205.116:443?security=reality&encryption=none&pbk=iVXjg_bUPNovcw-goWQyAFfoNg4zYojkbP2h2urOY1o&sni=ozon.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6e467e70-6ef2-4e8c-a322-4e4f83a10e07@5.255.121.220:443?security=reality&encryption=none&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@62.212.79.44:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@85.17.67.59:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@85.17.67.60:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@85.17.67.59:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@85.17.67.21:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcDRkWW1XVHVnZjhGVkZTNTJNZXRz@51.158.252.130:443#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
