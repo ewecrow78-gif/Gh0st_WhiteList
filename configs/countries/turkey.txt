@@ -3,10 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 8
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f055899d-026b-000f-88ed-0227795082da@45.9.25.35:7443?flow=xtls-rprx-vision&fp=firefox&pbk=ojgGt87b9Mhk8pl1hK7Ga_o9UvL5WjYDBuNegpLwuSM&security=reality&sid=128d3e824947a4cb&sni=meltdown.mycdn-me.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ec0503bb-a55e-455d-be57-409e1d7260a6@pro-tr.emrata.top:443?flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&security=reality&sni=pro-tr.emrata.top&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d768d4ba-0b73-4509-87ea-afb074d2f766@194.26.229.162:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=tr.sellflow.org&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d5b25051-c06c-4af5-9cd6-b6000310177c@game.arshia-nova.ir:443?fp=chrome&headertype=none&pbk=-FkwzDH8lJExoLie681Fqrfrnm-Wj72TQdPyshWkO1c&security=reality&sid=ce310cc046141015&sni=blog.api.www.cloudflare.com&spx=%2F87f7163630d2f4c&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://d5b25051-c06c-4af5-9cd6-b6000310177c@213.142.150.73:443?fp=chrome&pbk=-FkwzDH8lJExoLie681Fqrfrnm-Wj72TQdPyshWkO1c&security=reality&sid=ce310cc046141015&sni=blog.api.www.cloudflare.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@138.124.107.132:443?flow=xtls-rprx-vision&fp=firefox&pbk=1JlspB1qSmCPGjz7c_pnZnmlDYDVY-7i5LJy_iIxuDk&security=reality&sid=9da962&sni=www.trendyol.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@185.226.92.129:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
