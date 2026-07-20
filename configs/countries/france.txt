@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 11
 
-vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.49.230.102:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fastsync.xyz&fp=random&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?host=de.vpnbase.net&path=%2Fhttp&security=none&seq=you_are_beautiful9099&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://ecad47b0-249e-0010-adff-e3c8f02b1897@185.40.28.212:8443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -13,9 +12,7 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?__rand=f2e0cfe4&ho
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=none&seq=you_are_beautiful0159&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?fp=firefox&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?security=none&seq=you_are_beautiful0205&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@37.49.230.102:443?flow=xtls-rprx-vision&fp=random&pbk=ppvT23Dpmf4G9dZLVQJq3Ev9ckq4REa1jJ9gkXqp1zQ&security=reality&sni=fastsync.xyz#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@fr03.tunnely.ru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=fr03.tunnely.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?sni=eventloophub.org&type=grpc&serviceName=grpc&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4eafd87-bbaf-4e3e-a666-358cdff00236@201.51.3.69:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Gwt0Le432NfwKjaL4FaSit4kxsd1bpio6i6zE4B5uQg&security=reality&sid=bf031ef8&sni=iu.mediastreamer.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://8bba3194-4856-46d1-8319-075817d87eb1@62.133.62.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-cfh-rBjSYKhBeAgGzYLrcDiEfZc9xRqCvMB0kpOokQ&security=reality&sid=253105aeda9e37a7&sni=fr3.cyphervpn.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://9479884e-bc34-4cfb-84e7-f84b9063d723@137.74.119.18:8443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
