@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 6
 
 vless://01317367-cd78-4cb8-831f-d520d6131451@146.185.211.107:8467?flow=xtls-rprx-vision&fp=firefox&pbk=Re4bwcu3tj9zJQlIQDm_kJ1MPvGH5WxUGroE2ZvxeDI&security=reality&sid=abc14889&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-013.limaklhc6.info&type=ws&headerType=none&host=ad-013.limaklhc6.info&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:443?security=reality&encryption=none&pbk=V8HOgb3CP-HEC-Kim__H1SqjQzv67Z4T9SnD-ziQgSs&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.237:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.239:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:8443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.193:443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.239:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.237:8443?security=reality&encryption=none&pbk=J7xFpe1Eru8jEqpGVz0zF8h5Ail5nZcWQS4PKepORDw&sni=passport.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
