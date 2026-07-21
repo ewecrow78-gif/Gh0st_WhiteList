@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@ch10.tunnely.ru:443?type=tcp&encryption=none&sid=2e40144ddc07e8e1&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&fp=firefox&flow=xtls-rprx-vision&security=reality&headerType=none&sni=ch10.tunnely.ru&burmalda=70892bcb#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@83.228.210.39:443?flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=ch03.tunnely.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://31649657-6c78-4c2c-b25b-5cd574b082b5@es02.tunnely.ru:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=es02.tunnely.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://01317367-cd78-4cb8-831f-d520d6131451@146.185.211.107:8454?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GZu51dZ4OkeoQLHRo1T8VM1YZOTfH4PwYPIbjVT_oTI&security=reality&sid=5c8e1a9f4d2b7e06&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList

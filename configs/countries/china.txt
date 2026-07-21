@@ -3,13 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 52
+# Всего рабочих: 55
 
 vless://4a504914-9695-41f9-8a60-c06d986e0300@de10.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=de10.s812331.shop&pbk=2XTPvkK41t8x8qQfYxETMWtFVf5w4jW3-RbXb997x3k&sid=5b591e78b15610f7#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://4a504914-9695-41f9-8a60-c06d986e0300@pl2.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=pl2.s812331.shop&pbk=clISdI1XP4jQrqKfeFVmCn_X3Z8RM-INBoXy4CE1K28&sid=880a75ddc6acdd48#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://8bba3194-4856-46d1-8319-075817d87eb1@hk1.cyphervpn.pro:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hk1.cyphervpn.pro&fp=chrome&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://e382b6dd-2dac-49c5-b16f-1cd0a6b73bf2@50.62.90.4:80?type=ws&host=raspy-feather-12ec.137-257.workers.dev&path=/pyip=Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime36.workers.dev#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@45.40.155.4:80?encryption=none&security=none&type=ws&host=proud-cloud-5c50.113-8dc.workers.dev&path=/pyip=Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@154.31.113.22:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@172.237.12.208:18836?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
@@ -57,3 +55,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.253:8880?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.74.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@57.183.15.152:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@52.69.48.25:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.215.226.240:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.215.227.70:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList

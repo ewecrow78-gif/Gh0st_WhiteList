@@ -11,5 +11,5 @@ vless://31649657-6c78-4c2c-b25b-5cd574b082b5@es01.tunnely.ru:443?type=tcp&header
 vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@spa.sempai.site:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=-CKku6lK0Q3xY8AeusATnAvXcW8ZJlquRTGn1MLHYSA&security=reality&sni=spa.sempai.site&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://968e508c-d52b-43a9-8890-7133cb4f72da@212.34.145.199:443?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sni=ozon.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://968e508c-d52b-43a9-8890-7133cb4f72da@212.34.145.199:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sni=www.wildberries.ru&sid=00e7#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://4401809f-4d60-4df7-ab14-da48955c2cb3@193.148.19.210:52794?security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
