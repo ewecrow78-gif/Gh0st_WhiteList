@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 10
 
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@isp05.myxasecure.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=isp05.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -11,7 +11,6 @@ vless://31649657-6c78-4c2c-b25b-5cd574b082b5@es01.tunnely.ru:443?security=realit
 vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@spa.sempai.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spa.sempai.site&fp=firefox&pbk=-CKku6lK0Q3xY8AeusATnAvXcW8ZJlquRTGn1MLHYSA&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://dd2730a1-3b53-43d4-b2c4-04e3e79da0f1@65.20.103.115:443?fp=chrome&host=&mode=auto&path=%2F&pbk=Vk5ODIlHwWaD7nnf_GIgt9xxiJRkLk-lWPCMlFCkYmw&security=reality&sid=b3a2f580&sni=www.sony.com&spx=%2FfTQqBu82ExE5ylX&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://2ee2a715-d541-416a-8713-d66567448c2e@212.34.145.199:443?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://9c63bf8b-1c25-4b7e-9393-71aa99cad29d@88.218.120.60:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1A4AgKQiz38mT1r1H0su7aAXBB7KnKOFzsQ3AdACVDs&security=reality&sid=612d8fa72c&sni=login.mts.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ebdf87e8-4f75-4b84-94e0-65ce4894993a@150.241.74.150:443?security=reality&encryption=none&pbk=vB4lhwE3aZhB3vzphogmjJv1VYNedlCTgd5c1Bka_F0&sni=st.avito.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList

@@ -6,9 +6,9 @@
 # Всего рабочих: 7
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.48:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://777bcc23-6bc8-5819-a40d-7f2a743419a1@138.124.107.132:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.trendyol.com&fp=firefox&pbk=1JlspB1qSmCPGjz7c_pnZnmlDYDVY-7i5LJy_iIxuDk&sid=9da962&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d768d4ba-0b73-4509-87ea-afb074d2f766@194.26.229.162:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=tr.sellflow.org&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.217:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@87.120.106.85:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zhYJvbKw_08npKE2fGda4WKXuUPRoWFCI3FEAbUzu2g&security=reality&sni=www.google.com&spx=/download/&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.243:8443?security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@185.226.92.129:443?security=reality&encryption=none&pbk=&sni=gosuslugi.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
