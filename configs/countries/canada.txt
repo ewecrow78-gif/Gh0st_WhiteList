@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 19
 
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-013.limaklhc6.info&type=ws&headerType=none&host=ad-013.limaklhc6.info&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://60631b26-691b-40dc-9255-436a9b612754@188.166.81.124:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&path=%2F&security=tls&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&security=reality&sid=0e&sni=google.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:8443?security=reality&encryption=none&pbk=UsMQ62DKgEE3xRGxHB8IBpC0n8qSIFcZOG78KbPIG2Y&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.237:8443?security=reality&encryption=none&pbk=EDeWEPBq0QDOPp73PNVlaV2EWaEBWhgBcNy3MROgZ00&sni=wildberries.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
