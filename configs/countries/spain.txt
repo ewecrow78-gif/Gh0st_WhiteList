@@ -3,10 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 6
 
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@spa.sempai.site:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=-CKku6lK0Q3xY8AeusATnAvXcW8ZJlquRTGn1MLHYSA&security=reality&sni=spa.sempai.site&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://17228651-b902-0006-bdd6-ccf31d78542b@185.40.28.220:8443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=cloud.quattro-tech.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@spa.sempai.site:443?flow=xtls-rprx-vision&fp=firefox&pbk=-CKku6lK0Q3xY8AeusATnAvXcW8ZJlquRTGn1MLHYSA&security=reality&sni=spa.sempai.site&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://968e508c-d52b-43a9-8890-7133cb4f72da@212.34.145.199:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sni=www.wildberries.ru&sid=00e7#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
