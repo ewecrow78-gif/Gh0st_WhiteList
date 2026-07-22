@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://c1d62d53-2fcd-4951-ab96-c81486f59775@jp-vlss.w-mebel.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=L7uycVxXYfpb7hNqiRlVlWYDhsevQNGs5eLi2idL6wc&fp=firefox&sni=w-mebel.pro&sid=7e67f3f5a007bdc2#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?sni=152.69.195.67#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

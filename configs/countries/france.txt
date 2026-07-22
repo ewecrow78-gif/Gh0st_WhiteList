@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 15
 
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -16,9 +16,7 @@ vless://b79ada82-b394-4afd-828f-7eefecae3a97@fr15.myxasecure.space:443?flow=xtls
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22224?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22222?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.118.222:22223?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@eventloophub.org:8443?sni=eventloophub.org&type=grpc&serviceName=grpc&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.109:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=/odiyfws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-018.cloud25075.info&type=ws&headerType=none&host=ad-018.cloud25075.info&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@77.221.152.151:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.lefigaro.fr&fp=firefox&pbk=Uwj82vGl-jAhU3VflWnTy7rISYi03slggjS32Zx8pkk&sid=6ba85179e30d4fc2&serviceName=wlgrpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://8bba3194-4856-46d1-8319-075817d87eb1@62.133.62.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-cfh-rBjSYKhBeAgGzYLrcDiEfZc9xRqCvMB0kpOokQ&security=reality&sid=253105aeda9e37a7&sni=fr3.cyphervpn.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@46.253.132.135:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6RL8C_2Hi2awKka98Kkx62STPrDXSb25C5u66GIhXRI&security=reality&sid=b703abc44e905632&sni=fr-1.converter.darkpn.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://5e7f68ff-9485-4f0b-ac87-19862b6aef72@84.201.139.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xTbDrYAkMcpqZ_KHMlhlIHTw_n_1U4Z1_BdoFwmPRDI&security=reality&sid=02ac7b706d805755&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
