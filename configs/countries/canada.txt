@@ -3,11 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 7
 
 vless://d204b8c2-7bad-60af-c5f3-e55072c16c78@ca.sannest.ir:8443?security=reality&encryption=none&pbk=oWh0oee2k_PnDXSz87YjCoguptwPF1Z47_4O3wZgLT0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=b73cff#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&security=reality&sid=3d3c1e645f763ee3&sni=www.speedtest.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:443?security=reality&encryption=none&pbk=V8HOgb3CP-HEC-Kim__H1SqjQzv67Z4T9SnD-ziQgSs&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.193:443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.237:8443?security=reality&encryption=none&pbk=Cr5wj7rAiTAjxuRTjgbsyxHeKzCVbs1VZB3V1_PGeS0&sni=eh.vk.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.239:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://70983c95-9c61-49f6-90b0-bc6da73520eb@167.17.40.237:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sni=api-maps.yandex.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.193:443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
 vless://3a2e03e2-90be-4037-9705-1abdc0d5424a@167.17.40.251:8443?security=reality&encryption=none&pbk=2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34&sni=max.ru&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
