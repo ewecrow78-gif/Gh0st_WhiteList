@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 12
+# Всего рабочих: 14
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?flow=&host=de.vpnbase.net&path=%2Fhttp&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -14,6 +14,8 @@ vless://b79ada82-b394-4afd-828f-7eefecae3a97@fr15.myxasecure.space:443?flow=xtls
 vless://a69d6c97-9598-46d2-9c6f-448e95b8a90e@82.25.63.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&security=reality&sid=3315575389f6cd9f&sni=dropbox.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?headertype=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22224?headertype=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-018.cloud25075.info&type=ws&headerType=none&host=ad-018.cloud25075.info&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?&security=tls&fp=firefox&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&spx=/&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-020.limaklhc6.info&type=ws&headerType=none&host=ad-020.limaklhc6.info&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
