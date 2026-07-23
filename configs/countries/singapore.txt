@@ -3,7 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 4
 
-vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&security=reality&sid=b68b884d89e9a242&sni=onic.pk&spx=/&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&sid=b68b884d89e9a242&sni=onic.pk#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?flow=xtls-rprx-vision&fp=chrome&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&security=reality&sid=5895914d&sni=www.lamer.com.sg&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://b8f3a337-ad39-4064-95f1-33a725a65877@152.42.217.27:4321?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iFKNWOLqlwrSmvR8wkxap1u85leVrr6YqEBy3Vn8WX0&security=reality&sid=950e9d42106bedae&sni=www.yahoo.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
