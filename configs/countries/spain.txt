@@ -6,6 +6,6 @@
 # Всего рабочих: 4
 
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://13b841df-d35f-4125-835c-4ce59e5a648f@138.124.62.223:49000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=o-cquF-hoAQ2W4bYrsYrW3qefOm6mxXfBvGQS2lyKyE&security=reality&sni=duckduckgo.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://2785ec98-581e-43c1-a8b6-0fe3671f34ef@62.76.89.189:3478?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=payment-widget.plus.kinopoisk.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://84ab386f-9d86-4a71-bdf3-e26170c2c8f6@196.196.150.22:8443?security=tls&flow=xtls-rprx-vision&sni=api-6a607319.noooo.win&type=tcp&fp=firefox&alpn=h2#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://84ab386f-9d86-4a71-bdf3-e26170c2c8f6@es.noooo.win:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a607319.noooo.win&alpn=h2&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
