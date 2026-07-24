@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://8bba3194-4856-46d1-8319-075817d87eb1@141.98.234.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=hk1.cyphervpn.pro&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444?encryption=none&fp=firefox&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&security=reality&serviceName=web.max.ru&sid=8622176789abcdef&sni=web.max.ru&type=grpc#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
