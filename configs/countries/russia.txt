@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 108
+# Всего рабочих: 107
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -71,7 +71,6 @@ vless://9f5f55bd-e59e-4c32-a29d-85639919f01f@tw02.kinomir.fun:40443?security=rea
 vmess://eyJhZGQiOiJzdC0xLmRuc3Byby5pY3UiLCJhaWQiOjAsImhvc3QiOiJzdC0xLmRuc3Byby5pY3UiLCJpZCI6IjEzZWY1ZjJjLWQwMDItMzZhMi05ZTk2LWExM2Q1ZTNhZTAzYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pc28iLCJwb3J0Ijo5MTExLCJwcyI6Ilx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBHaDBzdF9XaGl0ZUxpc3QiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiJzdC0yLmRuc3Byby5pY3UiLCJhaWQiOjAsImhvc3QiOiJzdC0yLmRuc3Byby5pY3UiLCJpZCI6IjEzZWY1ZjJjLWQwMDItMzZhMi05ZTk2LWExM2Q1ZTNhZTAzYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pc28iLCJwb3J0Ijo1MTAwLCJwcyI6Ilx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBHaDBzdF9XaGl0ZUxpc3QiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiJzaC1jbi0xLmRuc3Byby5pY3UiLCJhaWQiOjAsImhvc3QiOiJzaC1jbi0xLmRuc3Byby5pY3UiLCJpZCI6IjEzZWY1ZjJjLWQwMDItMzZhMi05ZTk2LWExM2Q1ZTNhZTAzYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pc28iLCJwb3J0IjoyMDAyNSwicHMiOiJcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgR2gwc3RfV2hpdGVMaXN0IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://YWVzLTI1Ni1nY206QUdPYjJERmVWSA@r001.baipiaoxd.com:13167#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://437c9e5b-e0c5-47b9-930a-12824ffc53ed@134.255.252.76:9999?type=tcp&security=reality&sni=varzesh3.com&fp=chrome&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&sid=80335f00af#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://74184983-dacb-4954-b9ce-80e225618da3@play.vcmta.ir:2087?authority=&encryption=none&fp=chrome&pbk=ZMOxrvt_CJD6rUk2ygsorwQJ4ThDIPPjePTGThRafkg&security=reality&serviceName=&sid=70f8&sni=yahoo.com&spx=/gnxFS7BjQ2lbxXc&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://NQ26071394@amusing-grub.rooster465.autos:443?security=tls&sni=amusing-grub.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
