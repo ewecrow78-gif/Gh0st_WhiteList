@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 12
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?flow=&host=de.vpnbase.net&path=%2Fhttp&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -14,7 +14,6 @@ vless://b79ada82-b394-4afd-828f-7eefecae3a97@fr15.myxasecure.space:443?flow=xtls
 vless://a69d6c97-9598-46d2-9c6f-448e95b8a90e@82.25.63.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=ChkUiebRIBARnTszXt44wp3v2t0S2IW2qSQDt9mV3Xc&security=reality&sid=3315575389f6cd9f&sni=dropbox.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22222?headertype=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.211.23:22224?headertype=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://8bba3194-4856-46d1-8319-075817d87eb1@45.95.233.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=fr1.cyphervpn.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?encryption=none&fp=chrome&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://8bba3194-4856-46d1-8319-075817d87eb1@45.95.233.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=fr1.cyphervpn.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
