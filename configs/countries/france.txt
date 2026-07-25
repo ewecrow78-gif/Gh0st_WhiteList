@@ -19,5 +19,5 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22222?headertype=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22224?headertype=none&path=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1bf44cb7-f947-441c-abb5-242c47e78292@82.202.136.184:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gb.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22223?headertype=none&path=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-020.limaklhc6.info&type=ws&headerType=none&host=ad-020.limaklhc6.info&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
