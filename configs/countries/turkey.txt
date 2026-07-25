@@ -3,9 +3,20 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 20
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.54:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net&seq=you_are_beautiful4950#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.109:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.136:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.86:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net&_t=22e78a91#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.82:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.90:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net&_t=4a334063#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.191:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.41:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d5b25051-c06c-4af5-9cd6-b6000310177c@213.142.150.73:443?fp=chrome&pbk=-FkwzDH8lJExoLie681Fqrfrnm-Wj72TQdPyshWkO1c&security=reality&sid=ce310cc046141015&sni=blog.api.www.cloudflare.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@ger05.myxasecure.space:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=ger05.myxasecure.space&path=%2F&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=ger05.myxasecure.space&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://405da561-d348-4cb1-afdb-822d68c09467@turkbot1.namirasly.com:8888?fp=chrome&pbk=T0-BN7ZnwSXT4_ahW1XyO9Z9KpZN9drS86n1s3_rUk4&security=reality&sid=b11138e86cd6&sni=yahoo.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

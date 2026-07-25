@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 4
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://0108c657-a9bd-4c99-9179-74050cf78889@91.224.86.166:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@hipfin.ietotozheproidet.site:8443?fp=safari&headertype=none&path=%2F&pbk=Kkmh_Pj-uL3j602QnDv68La6V2BtaX08GFm449joNTs&security=reality&sni=dowload.max.ru&type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
