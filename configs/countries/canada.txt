@@ -3,9 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 1
 
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=firefox&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://df96530e-56f9-4876-9c84-54faaae14c5e@185.141.216.106:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&security=reality&sid=9216137dce84d23b&sni=ca.snowfall.top&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://41618f24-d61d-4a8a-9f9c-6967ccb55d72@caw-1.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=UREQcI9I7MVmX8vkFdXjKsco_rfjVZJ-lpzfSmBdi0Q&sid=2e552a0d2d15e0f9&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?flow=xtls-rprx-vision&fp=firefox&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&security=reality&sid=3d3c1e645f763ee3&sni=www.speedtest.net&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?flow=xtls-rprx-vision&fp=&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&security=reality&sid=3d3c1e645f763ee3&sni=www.speedtest.net&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
