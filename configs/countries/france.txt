@@ -3,19 +3,18 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 13
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=v2rayNplus--v2rayNplus--v2rayNplus&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&security=reality&sid=d13ddfca12760d03&sni=speedtest.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?host=de.vpnbase.net&packetencoding=xudp&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b79ada82-b394-4afd-828f-7eefecae3a97@fr15.myxasecure.space:443?flow=xtls-rprx-vision&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=fr15.myxasecure.space&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?host=de.vpnbase.net&packetencoding=xudp&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b79ada82-b394-4afd-828f-7eefecae3a97@fr15.myxasecure.space:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=fr15.myxasecure.space&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fr16.myxasecure.space:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=fr16.myxasecure.space&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node14.mxvpn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node14.mxvpn.dev&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22223?headertype=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@fr2-azad.0xoddity.ir:5666?security=reality&encryption=none&pbk=0qp2ibLJZMNQfIQYAbYmZzhyeeKRgVjm2AGxgbNDWhg&headerType=none&fp=chrome&spx=/c35feea118504ea&type=tcp&sni=s.yimg.com&sid=2539f132f20e7271#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22224?headertype=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-020.limaklhc6.info&type=ws&headerType=none&host=ad-020.limaklhc6.info&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@31.56.146.50:443?encryption=none&fp=firefox&pbk=dSKIQmSXKkmpXGcB9RCt320PmpuE92omqsVqdH351G8&security=reality&sni=yahoo.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
