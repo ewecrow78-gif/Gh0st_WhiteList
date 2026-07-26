@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 32
+# Всего рабочих: 36
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=12539ecb8667f60a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -19,7 +19,11 @@ vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@5.75.196.139:5039?descriptions=%D0%
 vless://4b20a32d-d2ff-4425-93e0-ed1b121e8130@155.212.147.82:443?flow=xtls-rprx-vision&fp=firefox&pbk=8UuggclWEj6kmrWsZ02rhYSc_psqpgxh6p51nT_OYQY&security=reality&sid=2fa5af8517aba419&sni=browser.yandex.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e4f851c2-69d6-4a8f-83c9-c1a9f78c0f98@91.107.135.249:47677?headertype=&security=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.114:448?security=reality&encryption=none&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=e1bdc95c1554c8eb#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@push.sukario.ir:2087?path=/&security=tls&encryption=none&insecure=0&host=tot1.erooo12345.xyz&fp=chrome&type=ws&allowInsecure=0&sni=tot1.erooo12345.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&encryption=none&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=479826bdfc3eb86e#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@179.61.138.177:443?encryption=none&type=xhttp&headerType=&fp=random&host=s71.okgfwbackxyz.xyz&path=ssp-xhttp&flow=&security=tls&sni=u711540us71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=e0d3c131423a84da.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1.l-itx.info:7443?type=grpc&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=colorlib.com&mode=gun&serviceName=xyz&authority=colorlib.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
