@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 16
+# Всего рабочих: 17
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?host=de.vpnbase.net&path=%2Fhttp&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://1bf44cb7-f947-441c-abb5-242c47e78292@91.224.87.130:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=se.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -21,3 +21,4 @@ vless://1bf44cb7-f947-441c-abb5-242c47e78292@82.202.136.184:443?flow=xtls-rprx-v
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.44.226:22223?headertype=none&path=%2F&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
