@@ -3,16 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 9
 
-vless://3c5e6124-decf-425d-8c1e-fe05cb4dd298@159.65.7.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iNTKMWUbyqCAOQ4VeJaNiHWK3T4w2T7R4zKPioC8qT8&sid=b68b884d89e9a242&sni=onic.pk&spx=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://IQ68037294@meet-doe.rooster465.autos:443?security=tls&sni=meet-doe.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://cdd37253-5f9b-4dcb-8b01-ad60a29384b8@sgp3xui.jzy88.top:54324?fp=chrome&security=tls&serviceName=grpc&sni=sgp3xui.jzy88.top&type=grpc#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://IQ68037294@giving-bird.rooster465.autos:443?security=tls&sni=giving-bird.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://IQ68037294@open-eel.rooster465.autos:443?security=tls&sni=open-eel.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://FC60532879@actual-chicken.rooster465.autos:443?security=tls&sni=actual-chicken.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://cdd37253-5f9b-4dcb-8b01-ad60a29384b8@sgp3xui.jzy88.top:54324?fp=chrome&security=tls&serviceName=grpc&sni=sgp3xui.jzy88.top&type=grpc#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
