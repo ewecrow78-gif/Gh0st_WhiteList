@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 9
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl18.myxasecure.space:443?flow=xtls-rprx-vision&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=fl18.myxasecure.space&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
@@ -13,3 +13,4 @@ vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@138.124.5.59:443?flow=xtls-rprx-vis
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@animall-zooke.fardaty.ir:12001?headertype=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@animall-zooke.fardaty.ir:8080?fp=chrome&mode=packet-up&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&security=reality&sid=4da5c8a61cc588e8&sni=www.yahoo.com&type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://73952463-3fa8-4349-a4ca-c240a9a92b5a@185.130.115.132:443?flow=xtls-rprx-vision&fp=chrome&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
