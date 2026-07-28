@@ -6,7 +6,7 @@
 # Всего рабочих: 6
 
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@76.164.203.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=godtech.musicboss.eu&fp=firefox&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://817c009c-bfaa-47b4-b5b8-2930f83568ca@76.164.203.183:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&sni=godtech.musicboss.eu#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=%2Fxray&security=none&type=ws#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://806b803b-7dad-4f13-b525-f3b1ab50e44e@sp.skysafe.online:2027?fp=chrome&path=%2Fpatch&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&security=reality&sid=6ba7b8109dad11d1&sni=sp.skysafe.online&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
