@@ -6,4 +6,4 @@
 # Всего рабочих: 2
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://f9922bed-4524-4a6a-8709-9c2e26dedee9@ch.snowfalls.top:1443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=rvOPhBAT3c5Uok7UDuxVfML3j4mib3Y9MU_Cd9M822c&security=reality&sid=0441f3e34348cb45&sni=ch.snowfalls.top&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://f9922bed-4524-4a6a-8709-9c2e26dedee9@ch.snowfalls.top:1443?type=tcp&headerType=none&security=reality&encryption=none&sni=ch.snowfalls.top&fp=edge&pbk=rvOPhBAT3c5Uok7UDuxVfML3j4mib3Y9MU_Cd9M822c&sid=0441f3e34348cb45&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
