@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://9c9f29d5-cf0d-49be-97fd-643e866752da@194.61.31.126:2053?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F2e2e0e&fp=chrome&pbk=f5Z_ywk2z0Yuj7ksyjawYC36qgxQngD8yGXEIPFNVGM&security=reality&sid=30ed89c317118330&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://9c9f29d5-cf0d-49be-97fd-643e866752da@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=chrome&pbk=f5Z_ywk2z0Yuj7ksyjawYC36qgxQngD8yGXEIPFNVGM&sid=30ed89c317118330&sni=www.apple.com#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@perecbass.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&sni=www.amd.com&spx=/#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
