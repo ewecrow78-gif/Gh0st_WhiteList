@@ -3,17 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 12
+# Всего рабочих: 11
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7c61a2a5-c7e4-4d52-baf7-a9406ad89b4c@199.232.238.181:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=ovd8.global.ssl.fastly.net&path=%2F&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fragment=3%2C1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%221%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@my.neoncloak.space:443?type=tcp&security=reality&sni=my.neoncloak.space&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl10.myxasecure.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl10.myxasecure.space&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?flow=xtls-rprx-vision&fp=firefox&pbk=8wD0IhR27ftD5LyJDq9CaFzi6DgA4vFtB-UP6QIdWVc&security=reality&sid=e8ca5079a5e91481&sni=_custom_&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@my.neoncloak.space:443?flow=xtls-rprx-vision&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=my.neoncloak.space&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl10.myxasecure.space:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=pl10.myxasecure.space&path=%2F&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&security=reality&sid=d67ec5a8fc40ebea&sni=pl10.myxasecure.space&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7f967c17-c037-4a61-b73d-404468e5add8@rude.go-bull.pro:2089?flow=xtls-rprx-vision&fp=qq&headertype=&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&security=reality&sid=45d6167db76a82c1&sni=proshkola.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7f967c17-c037-4a61-b73d-404468e5add8@89.208.230.67:2089?flow=xtls-rprx-vision&fp=firefox&pbk=I1v1juarLekOXUXIO1eh3-gUntqQQgnKYAbax8OKVU0&security=reality&sid=45d6167db76a82c1&sni=proshkola.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://0d7d959f-5498-457e-aee7-fd16b1f3e77d@158.160.223.233:29445?flow=xtls-rprx-vision&fp=edge&pbk=3cCVMGigEU7wpQm3SkT7EeBuR7QT9_xgAyiC5trENFY&security=reality&sid=1297b6f0f6dc88d0&sni=www.twitch.tv&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-trojan://humanity@188.114.96.3:443?Telegram=@armindone,@armindone,@armindone,@armindone&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8f26ef51-9ddb-4c3e-9d16-db622390206c@78.135.73.35:448?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=uHWsFJQWk89gw9zj4a-u13w7tIi9ZRpTgsW2_GmbXz8&sid=7effd44c96a5bc89#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
