@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 33
+# Всего рабочих: 31
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=12539ecb8667f60a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -16,10 +16,8 @@ vless://df489ab2-2242-4952-a774-1074a3a31f41@45.145.42.59:8443?flow=xtls-rprx-vi
 vless://bf5b2c28-b4cc-4ae4-bc5c-8e1e0a44cf2e@91.185.83.64:9443?flow=xtls-rprx-vision&fp=firefox&pbk=5M0khPdwiXYhayuP4i76J1am-q85Sno7vGnqEnZ1ngI&security=reality&sid=ccaaaa&sni=muzgrape.space&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://63f96e98-f83f-48d0-9cd0-f31e8071f67f@norwselfst.5gvpn.pw:443?flow=xtls-rprx-vision&fp=safari&headertype=none&host=norwselfst.5gvpn.pw&path=%2F&pbk=vqx7me-oxAZmYOQbuxy5qRsGyAD0Vdmsn3gEMYFIjHQ&security=reality&sni=norwselfst.5gvpn.pw&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.148:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://326f45c1-0a69-4150-a3b9-42f282a3c34c@185.204.170.235:2053?security=reality&encryption=none&pbk=N2H6Y5aEVwq2yUY1GL5fL6HKaiYUvve-tgImQAIAT0U&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=npav.havray2025.ir&sid=0d77f881#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@push.sukario.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&host=tot1.erooo12345.xyz&fp=chrome&type=ws&allowInsecure=0&sni=tot1.erooo12345.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@push.sukario.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&host=tot1.erooo12345.xyz&fp=chrome&type=ws&allowInsecure=0&sni=tot1.erooo12345.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@179.61.138.177:443?encryption=none&type=xhttp&headerType=&fp=random&host=s71.okgfwbackxyz.xyz&path=ssp-xhttp&flow=&security=tls&sni=u711540us71.okgfwbackxyz.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ca428a2e-7f82-4030-851b-cab731a5645a@l1-2.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=e0d3c131423a84da.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
