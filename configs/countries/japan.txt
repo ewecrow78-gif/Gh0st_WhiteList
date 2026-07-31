@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 4
 
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://6b72de55-bdb8-481c-85ca-dd35b20e7148@46.250.250.149:2053?security=reality&encryption=none&pbk=2xIIVJFUkWNokdhdRt54_V151nNYFBly749FH40pTDA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=196dcfa06d5e65e1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6b72de55-bdb8-481c-85ca-dd35b20e7148@46.250.250.149:2053?security=reality&encryption=none&pbk=2xIIVJFUkWNokdhdRt54_V151nNYFBly749FH40pTDA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=196dcfa06d5e65e1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://0659abf6-b784-4421-be09-1eea5b703510@191.223.220.115:10585?flow=xtls-rprx-vision&fp=chrome&pbk=lhoXl9e1t-WDwli-STyOSMXJv8ZSNVwU6uVqt1TbhAY&security=reality&sid=6ba85179e30d4fc2&sni=vuejs-jp.org#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
