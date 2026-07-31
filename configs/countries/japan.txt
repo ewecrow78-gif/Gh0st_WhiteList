@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 3
 
-vless://6f93f3eb-8ff2-4da4-837b-8a333c281ff3@31.76.91.139:443?type=tcp&security=reality&encryption=none&pbk=acCL8V-6UTGRuUs7CVk33xV26ZUY6wRjStNy273DmUY&sid=aefe467c7b22f190&sni=api.ok.ru&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://6f93f3eb-8ff2-4da4-837b-8a333c281ff3@31.76.91.139:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=acCL8V-6UTGRuUs7CVk33xV26ZUY6wRjStNy273DmUY&sid=aefe467c7b22f190&sni=api.ok.ru#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://6b72de55-bdb8-481c-85ca-dd35b20e7148@46.250.250.149:2053?security=reality&encryption=none&pbk=2xIIVJFUkWNokdhdRt54_V151nNYFBly749FH40pTDA&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=196dcfa06d5e65e1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
