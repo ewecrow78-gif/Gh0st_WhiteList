@@ -3,7 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 8
 
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://b6449404-7d69-4446-9590-e212023ceec3@194.233.90.135:2053?fp=chrome&headertype=none&host=www.apple.com&nonce=_Lph7oE_&path=%2F&pbk=h158YhbqAZ8mPeaIPiSAeDewASBy9vx-rOIuy_vOdWo&security=reality&sid=302c4e8cdc613e24&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXOFQ0NE5TTHVjemNuY0dJZjkybTZR@178.128.101.77:1080#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

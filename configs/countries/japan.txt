@@ -3,6 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 2
 
-vless://8586ba96-1d58-42d8-9e66-68714425fcd8@pro-jp.emrata.top:443?fp=firefox&headertype=none&host=pro-jp.emrata.top&path=%2F&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-jp.emrata.top&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://0659abf6-b784-4421-be09-1eea5b703510@191.223.220.115:10585?flow=xtls-rprx-vision&fp=chrome&pbk=lhoXl9e1t-WDwli-STyOSMXJv8ZSNVwU6uVqt1TbhAY&security=reality&sid=6ba85179e30d4fc2&sni=vuejs-jp.org#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://3dc3b4ef-c3f6-4ef3-9e03-e0a8fd82b7be@43.165.186.226:443?security=reality&encryption=none&pbk=aW52dpxW-umVvMOHPRCDsnHnJjuM8_S1FScLJQrVrG8&headerType=none&fp=chrome&type=tcp&sni=www.sony.com&sid=a32e8c4a#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
