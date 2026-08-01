@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://6a381743-a31f-4ed5-99f2-f1313d78df60@fv2026.node2.top:21001?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://c434dc61-4b2b-4c2b-8f2a-6e4aed8a3f50@fv2026.node2.top:21001?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&sid=dfa28122&sni=itunes.apple.com&servername=itunes.apple.com&spx=%2F&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
