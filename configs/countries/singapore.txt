@@ -3,11 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 2
 
-vless://d95e62f8-b961-4362-bb07-e1e421b02274@138.2.94.44:8899?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=-kGaCYGM_MImDMVkOsFp4yvv4dLy3FXe9gqAtf4eYF8&sid=905ae32a&sni=www.lovelive-anime.jp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.165.59:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&sni=www.lovelive-anime.jp&spx=/&nonce=ci0d6yZ5#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Zm52bzgycDl5NEFLeWtaWHlJRnRub2RGeTZmUW1XblZsSTJTdkdsZU9CMD0@167.150.100.115:27755#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

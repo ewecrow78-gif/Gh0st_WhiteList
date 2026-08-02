@@ -3,9 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 2
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://cab0dd62-10ac-4b3d-86a1-873166e3dfd6@ru.pool-b.netcenter-cdn.com:44002?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pool-b.pools.netcenter-cdn.com&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&sid=e1233ae7e56111a7&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@ch.tunnelx.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch.tunnelx.space&fp=firefox&pbk=q_lfutznS1iTS7bGphTIGMYVeht-8clcf_IfzIf4mBQ&sid=10a5c8e2f4b7d936&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@199.68.196.79:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q_lfutznS1iTS7bGphTIGMYVeht-8clcf_IfzIf4mBQ&sid=10a5c8e2f4b7d936&sni=ch.tunnelx.space#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
