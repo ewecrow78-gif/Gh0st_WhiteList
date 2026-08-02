@@ -3,9 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 10
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@87.120.106.126:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zvbLa6BrfAeAKIg4TZ2AASiEZ9ntYCSEFhgkbqWwkQg&sid=4e9b5c2d1a3f5728&sni=tr.tunnelx.space#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@tr.tunnelx.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zvbLa6BrfAeAKIg4TZ2AASiEZ9ntYCSEFhgkbqWwkQg&sid=4e9b5c2d1a3f5728&sni=tr.tunnelx.space#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f801f99d-57f8-41c7-8e97-95ed0f080a5d@89.251.8.222:5432?fp=firefox&mode=auto&path=%2Fapi&pbk=_QQbh268O1EpZXPabgA33NhR77dM3Lw-VrX-GFpSiHs&security=reality&sid=c884ecceb63910d9&sni=www.chess.com&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@201.50.115.23:443?burmalda=902d6324&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83206&flow=xtls-rprx-vision&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://f801f99d-57f8-41c7-8e97-95ed0f080a5d@tr.mygoldiran.com:5432?fp=chrome&mode=auto&path=%2Fapi&pbk=_QQbh268O1EpZXPabgA33NhR77dM3Lw-VrX-GFpSiHs&security=reality&sid=c884ecceb63910d9&sni=www.chess.com&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
