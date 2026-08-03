@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 9
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -12,4 +12,5 @@ vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?flow=xtls-rprx-vi
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:8443?burmalda=6832c4ce&fp=firefox&mode=auto&path=%2Fapi%2F&pbk=12u_8hm_ltmHs2FmEkzCe0sEC7PCp15HjKs1euwApx0&security=reality&sid=825d392c67e4&sni=sa.ch-moltisanti.ru&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:443?flow=xtls-rprx-vision&fp=firefox&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&security=reality&sid=825d392c67e4&sni=sa.ch-moltisanti.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.90.21.225:443?flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=swe03.skorostnet.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=&fp=chrome&spx=/&type=tcp&sni=www.oracle.com&sid=7548bc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://7fc0fd86-79a9-48dd-87e8-669758e9ffa8@185.48.251.195:448?type=tcp&security=reality&pbk=ncuqENP8uAV8w18kOQJlfWCC7dWjnUY1UY_5Iwtf21o&fp=chrome&sni=www.samsung.com&sid=181c8972132cca60#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
