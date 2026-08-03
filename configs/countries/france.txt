@@ -3,20 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 15
+# Всего рабочих: 7
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.207:80?alpn=http%2F1.1&fp=chrome&headertype=none&host=de.vpnbase.net&path=%2Fhttp&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?host=cnd.france2.gg.newwaycdn.com&packetencoding=xudp&path=%2Fcdn%2Fassets%2Fstream&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=none&seq=you_are_beautiful1684&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://1e3c6e25-0c65-4927-91cb-79982fd6dafc@35.181.171.182:40133?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=yahoo.com&path=%2F&pbk=FDnQBm11AA6TUNmcyQAo0wJnl2mt1oozbOG-FSVi6DU&security=reality&sid=87806cfd2dcfcd&sni=yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.110:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?fp=firefox&path=%2FG3EEoH63&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&security=reality&sid=f57d8f26&sni=www.amazon.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://d1e816db-0dc6-4b44-8037-c59700028214@147.45.68.7:443?flow=xtls-rprx-vision&fp=firefox&pbk=p75u2ya5aYdDimDoKybVDDAOA8vBThGDNGNv8yZuMmU&security=reality&sid=29d96e0b2e782b7b&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@87.242.85.201:35412?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22223?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?headertype=&security=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22224?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&encryption=none&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=9a4c7d2f8e1b6a3c#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?flow=xtls-rprx-vision&fp=chrome&host=telegram%3F&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&security=reality&sid=d13ddfca12760d03&sni=speedtest.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=node12.mxvpn.dev&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&path=/#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-020.limaklhc6.info&type=ws&headerType=none&host=ad-020.limaklhc6.info&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
