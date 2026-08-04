@@ -3,6 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 3
 
-vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650?security=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji2.hj3hk.top:52317?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.ibm.com&path=%2F&pbk=RLdadndvFi3-cNcbIoGg_MPiUHPohEY9Fh02ZaBofxw&security=reality&sid=fb4583c1&sni=www.ibm.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://17db72e0-63cd-43c9-81f0-06e1221cca99@jingji.hj444hk.top:52315?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.ibm.com&path=%2F&pbk=rVMSja4fpsftJaCyNrqHW0Bl5-WhGzjkNq16AOWdo3M&security=reality&sid=aad492b8&sni=www.ibm.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://e08c0f4a-9f14-4ab8-bcf4-f79538d65ebc@141.11.149.225:8443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.cloudflare.com&path=%2F&pbk=4AWfQEAhvvoPh0PqRnPMMedp7cS7IDHyaL9fRJzV1xs&security=reality&sid=1437af2d9ceab15c&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList

@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 5
 
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.20:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr03.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fr05.skorostnet.space&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@54.37.77.217:4563?flow=xtls-rprx-vision&fp=chrome&pbk=GR4Vf2qGFrq56Q1Z1YyxmvUrcpbBtw02fkDKv43KbUo&security=reality&sid=37&sni=www.yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.219:22223?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?flow=xtls-rprx-vision&fp=firefox&freeinternet=kizyak_vpn1785802403148&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fr05.skorostnet.space&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
