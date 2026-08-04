@@ -3,7 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 4
 
-vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?sni=www.cloudflare.com&seq=you_are_beautiful5673&fp=chrome&type=tcp&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&encryption=none&security=reality&burmalda=caaf751a#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&sni=www.lovelive-anime.jp&spx=/&nonce=ci0d6yZ5#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@141.193.213.20:8443?security=tls&type=ws&path=/dula&host=speed.dulacloud.store&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
