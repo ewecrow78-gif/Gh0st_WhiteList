@@ -3,9 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 3
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@it.monkora.org:443?encryption=none&type=tcp&security=reality&sni=it.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&security=reality&sni=ag-03.rita-cloud.com&fp=firefox&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://5f08a5b9-774a-4587-86d1-d08880d48cb1@pro-it.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://36347721-d014-4e21-8acd-c3b798f417a8@master-node.dylariz.ru:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=4cG01BPepPVFkwZcHzXzVXEHhA72Seko8oFLcPIVEzM&security=reality&sid=154ebd513e2751&sni=master-node.dylariz.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
