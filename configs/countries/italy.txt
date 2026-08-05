@@ -7,4 +7,4 @@
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@it.monkora.org:443?encryption=none&type=tcp&security=reality&sni=it.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&security=reality&sni=ag-03.rita-cloud.com&fp=firefox&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://2e4101cd-40b4-4d1a-8df6-cc949c136e5a@pro-it.emrata.top:443?fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-it.emrata.top&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://e2526432-35f8-4619-af54-476bf14d85c1@pro-it.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=chrome&sni=pro-it.emrata.top#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
