@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&sid=17d824dd68e24aaf#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?fp=chrome&headertype=none&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
