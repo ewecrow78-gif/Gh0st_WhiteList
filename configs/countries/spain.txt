@@ -3,9 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 7
 
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.180.106:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=isp04.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.180.110:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=isp05.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://f37d92db-1d1c-485f-9067-0b3790e63fa7@212.227.235.66:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=Iqz87vd5pe7jDoPRfTzLBeLvMTY5IfgchYqNp0nV0RU&sid=050b818eb6aea362&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@isp05.skorostnet.space:443?flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=isp05.skorostnet.space&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10047?flow=xtls-rprx-vision&fp=qq&headertype=none&host=www.adobe.com&path=%2F&pbk=xnLREvR2BJGCu7teEqJej7qshkveyHNFwn1qKGgrAjA&security=reality&sid=c5f8d3e8d4&sni=www.adobe.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@158.160.54.243:45991?fp=ios&mode=packet-up&pbk=CitoF4i22lIFBlL6kcWy1tyD_qe07EYORb08-FrjlFE&security=reality&sni=passport.yandex.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
