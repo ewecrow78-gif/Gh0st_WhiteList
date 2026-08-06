@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 12
+# Всего рабочих: 17
 
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.15:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.250:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -16,4 +16,9 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.231:2096?encryption=none&
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.99:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.218:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.37:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&sni=www.cloudflare.com#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6fd27561-4daa-48bd-bd38-a80c27eb0f14@5.223.41.52:12459?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=2lcwk0zTV81vetC8_GaVlYqxLYy7pvplR4DcDchAal4&sid=d1&spiderX=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&sni=www.lovelive-anime.jp&spx=/&nonce=ci0d6yZ5#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://e7d317bd-9124-4eb0-ae76-4d3b8dc54e92@13.212.34.198:47597?flow=xtls-rprx-vision&fp=chrome&pbk=HTjzjjAQbnOEgjkKUTP1tWMCNDX5wCOEcVsgPgFg5GA&security=reality&sid=d236cee1&sni=zh-hk.vuejs.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://5e107642-469d-4904-b00d-4f899526e964@freenet.sahanwickramasinghevip.shop:443?encryption=none&security=tls&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
