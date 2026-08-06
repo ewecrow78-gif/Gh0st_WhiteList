@@ -6,6 +6,6 @@
 # Всего рабочих: 4
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://02ae7872-1c03-4214-8b95-14c126da831e@2.26.94.9:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sni=pro-tr.emrata.top#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-tr.emrata.top:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=pro-tr.emrata.top&path=%2F&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&security=reality&sni=pro-tr.emrata.top&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://02ae7872-1c03-4214-8b95-14c126da831e@pro-tr.emrata.top:443?type=tcp&security=reality&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&fp=firefox&sni=pro-tr.emrata.top&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://02ae7872-1c03-4214-8b95-14c126da831e@2.26.94.9:443?flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&security=reality&sni=pro-tr.emrata.top&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@tur03.skorostnet.space:13868?flow=xtls-rprx-vision&fp=firefox&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&security=reality&sid=e852dc&sni=amd.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList

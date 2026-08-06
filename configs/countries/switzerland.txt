@@ -6,7 +6,7 @@
 # Всего рабочих: 5
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://2224085c-ab5e-48ac-bcdb-c67a983f70e2@45.59.119.36:8464?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TGyAcC_Doy-9s59Fra8U5M-9bQCrULrJWNxfMR9mZjE&sid=bfd331f9&sni=www.apple.com#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://2224085c-ab5e-48ac-bcdb-c67a983f70e2@edges.api-gateway-dev.top:8464?security=reality&encryption=none&pbk=TGyAcC_Doy-9s59Fra8U5M-9bQCrULrJWNxfMR9mZjE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bfd331f9#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2224085c-ab5e-48ac-bcdb-c67a983f70e2@edges.api-gateway-dev.top:8464?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=TGyAcC_Doy-9s59Fra8U5M-9bQCrULrJWNxfMR9mZjE&security=reality&sid=bfd331f9&sni=www.apple.com&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://454c8edb-9ed5-433c-8df0-feaadb29c307@158.160.139.156:443?flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://454c8edb-9ed5-433c-8df0-feaadb29c307@212.233.121.186:443?flow=xtls-rprx-vision&fp=firefox&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://2224085c-ab5e-48ac-bcdb-c67a983f70e2@45.59.119.36:8464?flow=xtls-rprx-vision&fp=firefox&pbk=TGyAcC_Doy-9s59Fra8U5M-9bQCrULrJWNxfMR9mZjE&security=reality&sid=bfd331f9&sni=www.apple.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
