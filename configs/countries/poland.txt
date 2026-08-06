@@ -3,8 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 5
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://b94da146-a56e-49d7-af4c-a68c9065cbfd@50.7.248.74:8180?encryption=none&fp=firefox&security=tls&serviceName=media.playback.v1.SessionGateway&sni=vpnforppl.top&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.191:2087?encryption=none&fp=firefox&security=tls&sni=vlso5.1d.mom&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://75baa52e-0655-4c6b-8685-e8058b0adb7a@2.26.224.100:443?fp=firefox&path=%2Fxh&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&sid=635a76c25a4b1820&sni=www.amd.com&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
