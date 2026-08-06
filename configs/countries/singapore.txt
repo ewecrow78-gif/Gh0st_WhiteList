@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 15
+# Всего рабочих: 12
 
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.15:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.250:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
@@ -16,7 +16,4 @@ vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.231:2096?encryption=none&
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.99:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.218:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.37:2096?encryption=none&fp=firefox&host=free-server.techsonic.dev&path=/free-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://7f7031b3-cd5c-4ba6-9627-91a9cc702941@34.126.158.226:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=ZTo_XhHaaXEJnDZFZ7S8-BYBS_fbk2F2IADoHdmU7W8&sid=3cf84632f6dd14c7&sni=www.cloudflare.com#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6fd27561-4daa-48bd-bd38-a80c27eb0f14@5.223.41.52:12459?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=2lcwk0zTV81vetC8_GaVlYqxLYy7pvplR4DcDchAal4&sid=d1&spiderX=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?&security=tls&fp=chrome&sni=support.zoom.us.yxls.eu.cc&type=ws&headerType=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
