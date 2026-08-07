@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 7
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -11,3 +11,4 @@ vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@31.76.32.158:443?flow=xtls-rprx-vis
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.99.238:443?fp=firefox&mode=auto&path=%2Fapi%2Fv1%2Fdata&pbk=UtbgFz4_cQT5v3SkjxgQ4QfOu7SLHkXXeO1pcxxTrT8&security=reality&sni=recaptcha.net.cn&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe03.skorostnet.space:443?flow=xtls-rprx-vision&fp=qq&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=swe03.skorostnet.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d63fb2c0-5645-43d5-9ea2-efb4fcbe4cef@37.252.17.192:8451?flow=xtls-rprx-vision&fp=firefox&pbk=ob0P4YslMWVnPxNFehia13AWqHTQNuRUYTXhuiNZCTk&security=reality&sid=f5614cd78e939cd3&sni=www.rumedia-cdn.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=&fp=chrome&spx=/&type=tcp&sni=www.oracle.com&sid=7548bc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
