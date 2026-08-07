@@ -3,11 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 8
 
 vless://4a504914-9695-41f9-8a60-c06d986e0300@de10.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=de10.s812331.shop&pbk=2XTPvkK41t8x8qQfYxETMWtFVf5w4jW3-RbXb997x3k&sid=5b591e78b15610f7#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://4a504914-9695-41f9-8a60-c06d986e0300@pl2.s812331.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=pl2.s812331.shop&pbk=clISdI1XP4jQrqKfeFVmCn_X3Z8RM-INBoXy4CE1K28&sid=880a75ddc6acdd48#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@hk.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&fp=chrome&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef&serviceName=web.max.ru&mode=gun#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@4.216.102.153:38765?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2🇨🇳&security=tls&sni=notls.lukongtou.eu.org&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.131.7.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2🇨🇳&security=tls&sni=notls.lukongtou.eu.org&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+vless://26beb784-a664-4c3e-becf-0f0c12568b62@91.193.58.74:80?allowInsecure=0&encryption=none&security=none&type=ws&path=/pyip=Telegram-WangCai2🇨🇳&host=twilight-poetry-2bfe.218-699.workers.dev&seq=you_are_beautiful5564&nonce=u5NcnefO#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@45.40.155.4:80?security=none&type=ws&path=/pyip=Telegram🇨🇳+@WangCai2&host=proud-cloud-5c50.113-8dc.workers.dev&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.209.7:2053?security=tls&fp=chrome&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳&source_name=argh_v2rayauto_vless&provider_id=argh_v2rayauto_vless#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime06.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
