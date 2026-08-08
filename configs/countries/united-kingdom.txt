@@ -3,15 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 8
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&mode=gun&serviceName=grpc-api&security=tls&sni=gbos2.osvp.online&fp=chrome&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.117:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=xudp&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=vl07.skorostnet.space&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.114:443?flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&seq=you_are_beautiful5091&sid=fdda9806fe5d8584&sni=vl04.skorostnet.space&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.113:443?flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=vl03.skorostnet.space&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?headertype=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://cd93df0f-ae80-49f8-8a29-acbe15f9892d@84.201.174.157:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=api-maps.yandex.ru&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://cd93df0f-ae80-49f8-8a29-acbe15f9892d@194.55.239.114:443?flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://cab38fce-e08d-4a3d-9828-dcb96b18d132@smm-01.smmmdesign.com:443?encryption=none&type=ws&host=smm-01.smmmdesign.com&path=%2Fvless&security=tls&sni=smm-01.smmmdesign.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdn.pinecloud.net&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
