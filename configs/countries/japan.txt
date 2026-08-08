@@ -3,13 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 4
 
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?sni=www.cloudflare.com&sid=61abecf0a82c31f5&fp=chrome&descriptions=СвободуИнтернету910&type=tcp&security=reality&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&encryption=none&__rand=031523b1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&type=tcp&sni=bgcpartners.com&fp=chrome&sid=e6ac18b63f23&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://44ebd5d8-c8a3-408c-8195-1cb1e97c5c21@64.176.61.124:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=products.amd.com&path=%2F&pbk=kOzjn-aqsOrs5AXRAYKOsU-xY-NdK3Q8ZH0XdwitFRI&security=reality&sid=069fba81c72d1e&sni=products.amd.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://23eaa47c-e54a-4ea9-b75a-92835863a0a3@64.176.43.163:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=3_EcaGWGxJluoPja5IIZeCf2bBwur7cuEGR74itgHyU&security=reality&sid=f641d171&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://9194bade-099b-4723-9f19-606edb5aeab8@64.176.55.120:443?flow=xtls-rprx-vision&fp=firefox&pbk=-Xqm17XFjFPUHutSnpMNOlrqlT1pJfKuHT003dU3aks&security=reality&sid=06&sni=shop-us-en.amd.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?packetencoding=xudp&security=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
