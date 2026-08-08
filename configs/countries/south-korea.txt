@@ -5,6 +5,6 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 3
 
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ako.pagate.top&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ako.pagate.top&fp=firefox&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://a7b7ea05-1711-413b-afbe-3c2a1a78e3f2@kr2.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.coway.com&path=%2F&pbk=6pZxjabeHoyJlsc2cP3Q5YK7G0bIOQwzWFyiarbUQXc&security=reality&sid=c8af1462debbc1&sni=www.coway.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
