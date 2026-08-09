@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 14
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&mode=gun&serviceName=grpc-api&security=tls&sni=gbos2.osvp.online&fp=chrome&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -18,8 +18,4 @@ vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@82.40.23.174:443?flow=xtls-rprx-vis
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@138.124.181.52:13868?burmalda=3a6e9d58&flow=xtls-rprx-vision&fp=firefox&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&security=reality&sid=e852dc&sni=www.ea.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://f9959a44-4836-4d29-8029-c539a26e77c5@hk.s3-cloud.org:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=hk.s3-cloud.org&path=%2F&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=hk.s3-cloud.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@134.65.57.231:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@134.65.56.165:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.81.122:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://5c53b9e9-fbe8-4c50-a623-73cdafa3886b@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=cevjPz2GmTrXDFXQbGizdN6t4c6m11kclJEf5nOHOTE&sid=52dfc493bb6b6c16&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://60ba3369-9a78-40fe-98c3-233a6f107043@uk1.denverpresents.top:443?path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=uk1.denverpresents.top&fp=qq&type=xhttp&allowInsecure=0&sni=uk1.denverpresents.top#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
