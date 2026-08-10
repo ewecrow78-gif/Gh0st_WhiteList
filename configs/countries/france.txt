@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 34
+# Всего рабочих: 31
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@fr.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=fr.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=32815466595bd63b&fp=firefox&path=/media/content/v2&host=fr.monkeyisland.space&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"128-256","maxConcurrency":"8-16","hKeepAlivePeriod":15,"hMaxRequestTimes":"1000-2000","hMaxReusableSecs":"1800-3600"},"headers":{"Accept":"*/*","Origin":"https://fr.monkeyisland.space","Referer":"https://fr.monkeyisland.space/","User-Agent":"Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:151.0)+Gecko/20100101+Firefox/151.0","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"},"xPaddingKey":"request_id","xPaddingBytes":"100-300","xPaddingHeader":"X-Request-Id","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":512,"scMaxEachPostBytes":524288,"scMaxConcurrentPosts":2,"scMinPostsIntervalMs":"50-150"}#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?_t=1acbe48e&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -36,6 +36,3 @@ vless://50e636af-b554-4526-94ad-d0f4b34adecc@45.131.212.29:443?flow=xtls-rprx-vi
 vless://b90d6e73-ade0-41e7-8c48-bc29401a2174@135.125.72.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fr.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.174.108:8443?flow=xtls-rprx-vision&fp=firefox&packet-encoding=xudp&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@147.45.47.41:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=fi.sellflow.org&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
