@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 8
 
 vless://f692629b-3557-488a-9c9b-60775331e423@de11.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@138.124.10.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&sid=a3f8d2c1e5b60794&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -11,6 +11,5 @@ vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://20717e25-8cea-4634-b9ab-9c9bc9ca0620@191.44.108.152:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vs39cITZN6jMHKslRMmvkwXupHXUbyKNX1MQsWRWKlg&sid=3f40efc7&sni=www.nvidia.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://10ea33f2-1a66-4dec-99f2-8068a6b56a45@user321-21.riseservice.me:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=user321-21.riseservice.me&pbk=lu91XgKjcTukX31kiSavOsTyhrkWsTp7a_VGnfTYy1g&sid=dd1f20d0be614703#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.222.124:22224?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@147.45.48.143:443?encryption=none&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.65.145.222:22224?path=%2F&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=/vless/&host=ov-germany1.09vpn.com👉🆔freenettir📡🇩🇪®️Germany©️Limburg#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
