@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@31.77.56.235:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=pl.rexten.cc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8033102198@95.85.246.138:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl9.fast-connect-service.site&alpn=http%2F1.1&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@144.31.3.136:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=proud-dynamo.cdn.cachefleet.com&path=%2F&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&security=reality&sni=proud-dynamo.cdn.cachefleet.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl04.skorostnet.space:13868?flow=xtls-rprx-vision&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&security=reality&sid=e852dc&sni=wp.pl&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
