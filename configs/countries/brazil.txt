@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@201.34.141.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=Oo6WRP0tgvO-WVZSjCf5PDrPVJ-IoYwiilK9g3__8C4&sid=cba0dcfd9c4f36&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@201.34.141.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Oo6WRP0tgvO-WVZSjCf5PDrPVJ-IoYwiilK9g3__8C4&sid=cba0dcfd9c4f36&sni=ya.ru#%F0%9F%87%A7%F0%9F%87%B7%20Gh0st_WhiteList

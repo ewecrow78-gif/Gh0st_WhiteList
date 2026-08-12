@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://97672a88-ec39-4234-a102-1df6f9236f36@47.86.249.58:41528?encryption=none&type=tcp&security=reality&pbk=vSXM6NtiXtPcwqZpXCTpKLBOPewzcEfr9-p18aiywio&sid=b4&sni=www.apple.com&fp=chrome&alpn=http%2F1.1#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.124.166.13:20243?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=www.spotify.com&path=%2F&pbk=fB0gzruxHdrID18WQclmC5QGVCrHTqOwnqFosxh2TnY&security=reality&sid=214dd1031b8a&sni=www.spotify.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList

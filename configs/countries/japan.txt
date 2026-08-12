@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@jp.wxgqlfx.top:26518?encryption=none&security=reality&sni=github.com&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&udp=1&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo&sid=61abecf0a82c31f5&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.124.166.13:21443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=djp01.ps5.update.playstation.net&path=%2F&pbk=jxmd60h22_LgUlequekara-UbjKGbvqq1f8CBCLBek8&security=reality&sid=08db2d117d&sni=djp01.ps5.update.playstation.net&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@35.200.86.178:21143?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=www.spotify.com&path=%2F&pbk=VFcjMcy9uLRCq3dy9zqYFOPF73TAx6QO11rleDrfBgM&security=reality&sid=274772e3550ee3eb&sni=www.spotify.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
