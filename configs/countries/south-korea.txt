@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ako.pagate.top&fp=firefox&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
