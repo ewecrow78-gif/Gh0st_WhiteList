@@ -3,6 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 5
 
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.46.6:80?host=shalana.xyz&path=%2Fshalana&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@support.zoom.us:80?host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.45.6:80?host=shalana.xyz&path=%2Fshalana&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://5ad0bed3-68ac-495e-b778-8b2d0e1dc176@52.74.176.20:443?path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://1178e691-88c5-4c7d-b4ea-1cefcdf52553@52.76.177.127:17771?path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
