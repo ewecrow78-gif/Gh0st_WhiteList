@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 71
+# Всего рабочих: 75
 
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?encryption=none&type=ws&path=%2F&host=forfreeuse.rtqa.ru&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -75,4 +75,8 @@ vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.195:443?encryption=none&
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.162:62145?headertype=none&path=%2F&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://7bad2320-38f5-4178-adfb-51f126af12fb@31.56.222.83:2053?fp=chrome&host=&mode=auto&path=%2Fstream%2Fnorman&pbk=6Xk_Me1M8N4zqLZmXJVm4hsKj2KlR9PAEUMqHWNJdX0&security=reality&sid=6720c0d4&sni=timeline.www.cloudflare.com&spx=%2Fca03dcf8d926dcb&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.124:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.126:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.121:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList

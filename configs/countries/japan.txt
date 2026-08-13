@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 5
 
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@64.176.36.17:443?type=ws&headerType=none&security=tls&encryption=none&sni=zero.csmaster.ggff.net&fp=chrome&path=%2F&host=zero.csmaster.ggff.net&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://ND91608427@social-mutt.rooster465.autos:443/?type=tcp&security=tls&sni=social-mutt.rooster465.autos&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://ND91608427@18.181.164.216:443/?type=tcp&security=tls&sni=upright-impala.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://ND91608427@stunning-mite.rooster465.autos:443/?type=tcp&security=tls&sni=stunning-mite.rooster465.autos&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

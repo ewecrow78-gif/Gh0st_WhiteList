@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 167
+# Всего рабочих: 168
 
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de-new.ariyuz.org#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?encryption=none&security=tls&sni=de-new.ariyuz.org&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -145,9 +145,11 @@ vless://a67c69c9-c659-4ddd-b432-5220eabc0087@31.76.101.37:8443?type=tcp&security
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@45.95.233.214:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=frx1.braidx.tech&fp=firefox&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@us.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=49f9a88c8305734f&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@ashley.kosmolet.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ashley.kosmolet.xyz&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&sid=c78d9525a558f9f9&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t18.qifei.app:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&alpn=http%2F1.1&fp=chrome&security=reality&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.61.68:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=united.nosok-top.com&path=%2F&pbk=oYo4UjPmIVNSFTLYR7wuadY2v44sVuckzRAKyzi0UAE&security=reality&sid=a25c781f24d4209f&sni=united.nosok-top.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@united.nosok-top.com:443?flow=xtls-rprx-vision&fp=firefox&pbk=oYo4UjPmIVNSFTLYR7wuadY2v44sVuckzRAKyzi0UAE&security=reality&sid=a25c781f24d4209f&sni=united.nosok-top.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@84.32.61.66:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=none&pbk=oYo4UjPmIVNSFTLYR7wuadY2v44sVuckzRAKyzi0UAE&security=reality&sid=a25c781f24d4209f&sni=united.nosok-top.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&type=#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://d16a7171-625d-4d09-9459-859f1c9b3b0a@test-pl.anonch.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=test-pl.anonch.org&fp=qq&pbk=8PlOizCmzSiWCFGke4Z1m6fR6SuSaDFpADvWrm1Iggs&sid=29f3e290420ffd41&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://66ddcfaf-a9f0-4506-e052-4844d314402a@i3.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&type=ws&host=c12.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -157,7 +159,6 @@ vless://2e812a76-5132-4ffe-9a07-09e091f26215@s1.cloud--vpn.site:443?security=tls
 vless://1f9e413d-18fb-46e7-c6eb-2bc69b341937@r2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@lvksp.kintuso.com:443?security=tls&encryption=none&sni=lvksp.kintuso.com&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://d16a7171-625d-4d09-9459-859f1c9b3b0a@usa.anonch.org:443?flow=xtls-rprx-vision&fp=qq&pbk=elxCn0LN9Mk3FBO1cwSrgbmqQ1BJeph-uqjYn5Aphho&security=reality&sid=f6ada2e832e19938&sni=usa.anonch.org#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@tu1.leviko.levikogjgfdd.ir:5039?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&sid=2e8424a2696cb606#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@yfqvqhaq5920.contigolibre.com:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=&amp;encryption=none&amp;host=bale.ai%2Cweb.splus.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?security=reality&encryption=none&pbk=jyMIhueDirXlz-JiLj1ff5zayv6TjRKUSGfp-gxR6iQ&headerType=none&fp=chrome&spx=%2FZESolO5ZLEBgCJi&type=tcp&sni=yahoo.com&sid=79546ef3cf6f#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
