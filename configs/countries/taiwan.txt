@@ -3,6 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 2
 
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@34.87.98.100:12012?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=www.spotify.com&path=%2F&pbk=UbqTROWvFpdLOFLeYoTStrBKlEi9QzzsmBF0xJ4zqGY&security=reality&sid=47668fe775a586ba&sni=www.spotify.com&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Gh0st_WhiteList
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC%20Gh0st_WhiteList
+vless://b8ca2900-3ed7-4b58-970e-060d0a6cbf99@35.187.156.27:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=HsoG0C19O-NY_EcFpK0ybZv9lFol0MjDJLzjDzWAGXs&sid=d79d3dc3816c329d#%F0%9F%87%B9%F0%9F%87%BC%20Gh0st_WhiteList

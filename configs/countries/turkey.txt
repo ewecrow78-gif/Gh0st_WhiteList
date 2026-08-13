@@ -3,7 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 9
 
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@tur03.skorostnet.space:13868?security=reality&encryption=none&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@62.133.63.202:13868/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&allowInsecure=1&fp=firefox&security=reality&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@77.83.245.52:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=tur01.skorostnet.space#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=grpc&headerType=none&security=none&encryption=none&serviceName=grpc#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@tur01.skorostnet.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tur01.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://e6c94266-956d-46dd-9fd7-02d38179f7d9@185.71.219.23:25036?type=tcp&headerType=none&security=reality&encryption=none&sni=proxy11.h1guro.ovh&fp=chrome&pbk=K-I1mbIdbLvUa4jjFK52yTmxt3A6-sO-YlQtT0nY3iY&sid=814c33d155069275&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@us.rexten.cc:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=us.rexten.cc&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@gtc.hekmatdarai.ir:37211?security=reality&encryption=none&pbk=2dpt8KZvY90iXmpdsCMkvK_00uHIhNbnz0VYrVFcJ3k&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=aa6f080efb8928f9#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
