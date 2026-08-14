@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ako.pagate.top&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?type=tcp&headerType=none&security=reality&encryption=none&sni=amazon.com&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&sid=7ef3a8ab2886#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ND91608427@communal-sunbird.rooster465.autos:443/?type=tcp&security=tls&sni=communal-sunbird.rooster465.autos&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.80.59.17:13779?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&security=reality&sid=af1bdd293097b664&sni=tesla.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20Gh0st_WhiteList
