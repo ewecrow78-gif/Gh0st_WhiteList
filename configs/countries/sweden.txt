@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 16
+# Всего рабочих: 17
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@swe03.skorostnet.space:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=swe03.skorostnet.space&sid=fdda9806fe5d8584#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.99.238:443?encryption=none&security=reality&sni=recaptcha.net.cn&fp=firefox&pbk=UtbgFz4_cQT5v3SkjxgQ4QfOu7SLHkXXeO1pcxxTrT8&type=xhttp&path=%2Fapi%2Fv1%2Fdata&mode=auto#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -20,4 +20,5 @@ vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e1c67f16-a70e-44fe-abc5-67252738817e@62.152.60.56:443?flow=xtls-rprx-vision&fp=firefox&pbk=na5nUX4PTmfcZ3tkSopLj96017evhUILnN825TOeZBw&security=reality&sid=0afc69a960c8e0e3&sni=max.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e1c67f16-a70e-44fe-abc5-67252738817e@185.229.9.44:443?flow=xtls-rprx-vision&fp=firefox&pbk=z3VKP6dhO20t484bp5k1z-Ezf5GkFpIEsitEVbLqfDw&security=reality&sid=75076e902f384f9d&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://ad917a8a-051a-4fcd-9671-6e5144a063cc@93.189.231.144:23681?flow=xtls-rprx-vision&fp=firefox&pbk=lzBnoLqXEbtms3fgTM2jjaBdNL3qfhBW-k7LvVWCQEI&security=reality&sid=b90d21d1eaec4b24&sni=spbswe1.nhiaz.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e1c67f16-a70e-44fe-abc5-67252738817e@213.226.112.67:443?flow=xtls-rprx-vision&fp=firefox&pbk=Kn4zO1_lGTKE2iigU4I3YZvCwwPXoLiu9JhoTjoRDVg&security=reality&sid=d95caa6de7e6b1ff&sni=max.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
