@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 14
+# Всего рабочих: 15
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@138.124.181.51:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@isp01.skorostnet.space:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -19,3 +19,4 @@ vless://317595ff-ba63-4ef9-a54c-749ebf46d18b@gb.tunnelfree.org:443?security=real
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@isp02.skorostnet.space:13868?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ea.com&fp=firefox&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U&sid=c571c801812c&sni=www.nvidia.com#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 24
+# Всего рабочих: 26
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl04.skorostnet.space:13868?security=reality&encryption=none&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wp.pl&sid=e852dc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.199:13868?security=reality&encryption=none&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wp.pl&sid=e852dc#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -26,6 +26,8 @@ vless://317595ff-ba63-4ef9-a54c-749ebf46d18b@bal3.vvvm.ru:443?security=reality&t
 vless://317595ff-ba63-4ef9-a54c-749ebf46d18b@balfot2.tunnelfree.org:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.ign.com&fp=edge&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?type=ws&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@cdn.rafikogli.icu:443?encryption=none&type=xhttp&security=tls&sni=cdn.rafikogli.icu&path=/media/feed/preview/&host=cdn.rafikogli.icu&mode=packet-up&extra={"xmux":{"cMaxLifetimeMs":0,"cMaxReuseTimes":"64-128","maxConcurrency":"48-96","maxConnections":0,"hMaxRequestTimes":"600-1000","hMaxReusableSecs":"1800-3600"},"seqKey":"segment","sessionKey":"sess_id","xPaddingKey":"_t","seqPlacement":"query","sessionIDKey":"sess_id","uplinkDataKey":"X-Playback-Token","xPaddingBytes":"1-32","xPaddingHeader":"X-Media-Token","xPaddingMethod":"tokenish","sessionIDLength":"5-8","uplinkChunkSize":0,"sessionPlacement":"query","uplinkHTTPMethod":"GET","xPaddingObfsMode":true,"xPaddingPlacement":"header","scMaxEachPostBytes":1000000,"sessionIDPlacement":"query","uplinkDataPlacement":"body","serverMaxHeaderBytes":50000}#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@172.67.118.45:2053?type=ws&security=tls&sni=music1000.melobitmusic1.ir&path=/&host=music1000.melobitmusic1.ir#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
