@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 294
+# Всего рабочих: 292
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -68,7 +68,6 @@ vless://c519c16d-e0c7-4533-93e5-23588cd47ccd@511.cdnconn.com:10443?encryption=no
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c519c16d-e0c7-4533-93e5-23588cd47ccd@07.cdnconn.com:23436?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=07.cdnconn.com&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@185.141.227.225:2027?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://1a8aa3c0-7741-49dd-adbc-dcc629f6b938@178.154.208.44:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://daa246bf-ed1e-0001-8959-cf4aa67b913e@46.8.210.148:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&sid=0f4daaf87f9dff&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -145,7 +144,6 @@ vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=non
 vless://a484645e-59df-4980-b649-92b71250ec60@104.171.137.148:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://9d98c6fc-7452-4c4a-93c8-8b46a877e45e@176.108.250.55:443?encryption=none&type=grpc&serviceName=gun&mode=gun&security=reality&sni=mageia.ubuntuhosting.host&fp=edge&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://9b4ba157-f60b-4a5b-b326-4d561eb826d4@194.26.229.209:4100?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-vless://0c4f46c2-afb7-4a80-8f6e-10258d80333e@85.92.111.38:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://4cbdaf4f-ca34-4a00-9a96-49eaa6564b42@31.177.83.201:4100?encryption=none&security=none&type=ws&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://ed1cd50f-ead9-4e01-b5ae-b7d2dfb532fc@201.51.5.253:2200?encryption=none&path=%2Fv1&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://a08968c9-6301-459c-b047-ac7c7be57c40@83.217.192.58:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList

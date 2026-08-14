@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 74
+# Всего рабочих: 72
 
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?encryption=none&type=ws&path=%2F&host=forfreeuse.rtqa.ru&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -77,5 +77,3 @@ vless://641baa2f-6f74-4ecf-b948-032d19ba0142@217.144.185.24:40443?flow=xtls-rprx
 vless://ad917a8a-051a-4fcd-9671-6e5144a063cc@93.189.228.222:52015?flow=xtls-rprx-vision&fp=firefox&pbk=p1OQJhg8dW8OwHE2mEI1CQRQy9brHgVkEKgJ4GtbQWs&security=reality&sid=4ad54e5a02cc777c&sni=spb1b.nhiaz.net#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://ffa85e3d-d589-4406-9272-a18eb58a44f7@nl-3.palm-network.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=Huy_lu-s4o9jG8z2ocFuhr3l0fIXyLzbnEn1cxX74nU&security=reality&sid=05ed0b251011&sni=www.amd.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://ad917a8a-051a-4fcd-9671-6e5144a063cc@45.10.246.132:31457?flow=xtls-rprx-vision&fp=firefox&pbk=UwHBNWfQsnHTzYJ-7NN1iSBPbUp1wpBjZASR9ElTgX4&security=reality&sid=0e82e29943be0ce2&sni=ru2.nhiaz.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
