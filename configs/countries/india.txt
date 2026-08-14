@@ -3,8 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 4
 
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&fp=chrome&sni=www.cloudflare.com&sid=221873918e0bb74d&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sid=ae3ba555edc1ba0a#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
 vless://18fd025a-eeb7-4860-b468-299a80b1b2c6@198.105.113.205:443?type=tcp&headerType=none&security=reality&encryption=none&sni=india-cdn.linus-qanary.lol&fp=firefox&pbk=uFpKFKMzIJcnqfmvL8x7ykGigDW23kPkxpTkvwHJzgo&sid=fab4&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://18fd025a-eeb7-4860-b468-299a80b1b2c6@in.linus-qanary.lol:443?flow=xtls-rprx-vision&fp=firefox&pbk=uFpKFKMzIJcnqfmvL8x7ykGigDW23kPkxpTkvwHJzgo&security=reality&sid=fab4&sni=india-cdn.linus-qanary.lol&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
