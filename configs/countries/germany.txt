@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 73
+# Всего рабочих: 74
 
 vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?security=reality&encryption=none&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&headerType=none&type=tcp&sni=yandex.ru&sid=3b802dad547b0847#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://56cdedf4-3e09-43fd-8108-d48f353c7b33@5.61.36.241:443?mode=auto&security=reality&encryption=none&pbk=9ZzZZoBgBBaccMnatKoPV6vZTlYMw2swxSFbEsg4u3w&fp=firefox&spx=%2Fe77e593d4a928a4&type=xhttp&sni=google.com&sid=64f2#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -75,6 +75,7 @@ vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@138.124.10.166:443?flow=xtls-rprx-v
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=12539ecb8667f60a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@88.216.190.139:443?flow=xtls-rprx-vision&fp=firefox&pbk=NqYnddqVskPX-aTP4Vdip_XDnMphLwVtgc3XwTc2QVg&security=reality&sid=9c2378562188c3cb&sni=ger.nosok-top.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://bda0ede7-ef0a-4fbc-b3b6-1205e55ffb48@2.26.135.194:443?flow=xtls-rprx-vision&fp=firefox&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&security=reality&sid=a1f9c0e21d7b6485&sni=smorodina.mycdn-me.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@ger.nosok-top.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=NqYnddqVskPX-aTP4Vdip_XDnMphLwVtgc3XwTc2QVg&security=reality&sid=9c2378562188c3cb&sni=ger.nosok-top.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://c181ae2d-9acc-4faf-8964-fde38ec25d22@159.194.201.91:6443?flow=xtls-rprx-vision&fp=firefox&pbk=B7oB5JwADdY14RFnGLZztuH59DQQOgd3muYLDN2aKW0&security=reality&sid=ad65f374&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://502ab974-22ed-4621-a1d6-d15b78f677c2@webcam.dearhossein-taktaz.ir:20434?fp=chrome&mode=auto&pbk=4E3Q4Ft9TUClYgNvurpU7xvrsiG6HxXtnlJ1ggUaDmw&security=reality&sid=37979481ec376f8c&sni=pre-prod.samsung.com&spx=%2Fde98cacccd38da7&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
