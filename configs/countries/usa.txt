@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 35
+# Всего рабочих: 32
 
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@45.95.233.214:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=frx1.braidx.tech&fp=firefox&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://9d98c6fc-7452-4c4a-93c8-8b46a877e45e@176.108.250.55:443?encryption=none&fp=firefox&pbk=6IlxkvsqWriRue-mUcRxXZ94rfLgsZqY8pLHRWKZlGw&security=reality&serviceName=gun&sid=3a2c&sni=arch.ubuntuhosting.host&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -14,10 +14,7 @@ vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@155.117.137.171:443?flow=xtls-rprx-
 vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@109.163.239.182:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=299a6ca1f217c457&sni=cdn1-42.yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@109.163.239.37:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=8015c191d21aa452&sni=cdn4-65.yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8491e506-02d9-4ad7-8fce-73aae002cdf3@5.254.121.227:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=2f3e735aedc55aaf&sni=cdn8-90.yahoo.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://b222ebc7-569c-45ca-a0e4-756f171b247b@92.63.99.228:4353?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://086422b2-3347-45f8-b527-d9e1be25dc56@77.110.115.8:25565?type=grpc&security=reality&serviceName=UpdateService&sni=yandex.ru&pbk=pBd5IOD_sCDpIDqgi6EtZ6DAAMGns9n2C3qPH0i3Tno&sid=52&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&type=#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://beaa03e1-b66f-4a38-88a7-705afff3f8aa@a1.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://beaa03e1-b66f-4a38-88a7-705afff3f8aa@s3.cloud--vpn.site:443?security=tls&type=ws&path=%2F&host=c12.com&sni=ssl.fastly.com&fp=firefox&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
