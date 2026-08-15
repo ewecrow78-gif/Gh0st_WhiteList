@@ -10,4 +10,4 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.n
 vless://858867da-0426-44db-9c07-7890d7ea8891@201.51.11.166:443?fp=firefox&pbk=JAVKQKsULXlh2RyNSS7YCWJ7vp039jHsxxSbHq_IYS0&security=reality&sid=be61ba143feca61a&sni=ru04.sipipro.su&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://858867da-0426-44db-9c07-7890d7ea8891@ru04.sipipro.su:443?fp=qq&pbk=JAVKQKsULXlh2RyNSS7YCWJ7vp039jHsxxSbHq_IYS0&security=reality&sid=be61ba143feca61a&sni=ru04.sipipro.su&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://858867da-0426-44db-9c07-7890d7ea8891@ru07.sipi.pro:443?fp=qq&pbk=KBD45_u68X3vjza3qRmKg4YWoQPAKRgyC2SgP5B0mk8&security=reality&sid=c98d7b6fd906fc06&sni=ru07.sipi.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
