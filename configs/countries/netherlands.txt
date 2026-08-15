@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 12
 
 vless://645710cd-317d-420b-bb07-db6620cc65d0@144.31.3.53:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=proud-dynamo.cdn.cachefleet.com&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@nl10.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -14,11 +14,6 @@ vless://febfeec2-9a21-4afc-9edb-0833466672cd@31.58.181.88:8443?type=tcp&headerTy
 vless://cccf28eb-780a-4587-aca9-a95383308bd7@66.33.22.227:28489?security=reality&alpn=h2%2C%20http%2F1.1&encryption=none&pbk=7W5gD-vPKqMPa75MTKlyiciw_gfT4blOUFlyxleW7Ts&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=is1-ssl.mzstatic.com&sid=5a3ff5a13d#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.192:443?encryption=none&security=reality&sni=iris-02.rita-cloud.com&fp=firefox&pbk=yleGRApfmnT3benISto7vAkERo4_RM31GITYIMqL7GI&sid=e20b98054206e6e8&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.195:443?encryption=none&security=reality&sni=iris-04.rita-cloud.com&fp=firefox&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&sid=26c501a781437581&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://32fff625-bdaa-4aad-8b45-14a02b1d5f9d@45.92.1.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&security=reality&sni=www.ray-balance.space&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6cdf70e8-7511-414e-b521-edbeffbe1a40@api.yandex-dev.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6cdf70e8-7511-414e-b521-edbeffbe1a40@189.74.114.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-dev.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://6cdf70e8-7511-414e-b521-edbeffbe1a40@189.74.114.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-dev.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@nl2.panel11.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=2Kh1mMFvchFolXGaTJSjwtUpIiTDuIp9Oy2tDr-hogY&security=reality&sid=be45c0fe845d5128&sni=nl2.panel11.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6413aa86-6eb4-45a8-87ca-24b0227159b7@144.31.127.203:8443?fp=firefox&host=api.vk.ru&mode=auto&path=%2Fapi%2Fv1%2Ffeed&pbk=FMa1j8qQTn98uxWeoHiAWQxP_pPD2r7x3bjKjT83-yM&security=reality&sid=144f524372a89dcd&sni=api.vk.ru&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@v938014.hosted-by-vdsina.com:443?flow=xtls-rprx-vision&fp=firefox&pbk=2guR3_fpRkIfDzdWBWDibb0H2Ypn06vq2vqMF4WfNUk&security=reality&sid=1899e4d82e80cbcf&sni=v938014.hosted-by-vdsina.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.149:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList

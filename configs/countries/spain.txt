@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@138.124.62.87:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&sni=www.ea.com#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://487e88a8-2c9f-000c-9bc4-e08fe3eb6033@ru-dock.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru-dock.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.147.251.25:443?flow=xtls-rprx-vision&fp=firefox&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList
