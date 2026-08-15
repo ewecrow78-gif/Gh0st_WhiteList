@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?packetencoding=xudp&security=none&sni=152.69.195.67&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
