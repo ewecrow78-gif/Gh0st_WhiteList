@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 10
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.235:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yoox.com&fp=firefox&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@de11.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -11,5 +11,7 @@ vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@64.188.112.82:443?encryption=none&f
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&fp=firefox&sni=www.telekom.de&type=tcp&headerType=none&host=www.telekom.de&path=%2F&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=12539ecb8667f60a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://3ce9c383-8ed5-416d-b880-614cc02b9bd2@ge51.slovovpn.com:63535?type=tcp&security=reality&encryption=none&fp=firefox&pbk=D9l1RH1kfFdg7WgL02E6e0Xivy7WBONn5_SJ9G_caRQ&sid=8643d220&sni=github.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://8107d9b3-1acc-4da3-9a04-5fd0ba338b64@ge1.app-sync-data.space:443?flow=xtls-rprx-vision&fp=qq&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&security=reality&sid=a3f8d2c1e5b60794&sni=cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:2087?&security=tls&fp=chrome&sni=d21kxk4wisidbjifybg3.redjilas.ir&type=ws&headerType=none&host=d21kxk4wisidbjifybg3.redjilas.ir&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://7a657573-82bb-64b7-a31c-f69bfbc17e55@104.17.187.8:443?encryption=none&security=tls&sni=dkzu9ie8u52s.xmzgl8esudws.workers.dev&fp=ios&type=ws&host=dkzu9ie8u52s.xmzgl8esudws.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Ff69bfbc17e55%2Floc-0#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
