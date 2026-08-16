@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 12
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.epicgames.com&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://4d064d9b-d4bb-468d-a4e0-948cf6a7541b@149.33.8.216:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -15,4 +15,5 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.201:13868?type=tcp&securi
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.199:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://YOUR-UUID@82.40.62.22:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://24f8209b-6689-4e7a-b067-f886e04dfc43@pl-1.p-esmy.icu:2066?security=reality&encryption=none&pbk=XIBKbglsQ9pI4eo26LoUkmNxnVqlKtxZRO0H91v3jF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=1b2a3f#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://9370aabc-34fe-4c28-814f-93a02b6c8f9a@46.243.142.89:9443?fp=firefox&host=wl-pl-1.nodes.ac&mode=stream-one&path=%2Fx&pbk=5hhzoP441DrGa2l5YlwizPSA5chdY2VjRP7CiEfLLA0&security=reality&sid=eea4ab7bddaeea39&sni=pl-1.nodes.ac&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList

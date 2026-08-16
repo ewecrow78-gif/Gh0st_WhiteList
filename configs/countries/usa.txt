@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 28
+# Всего рабочих: 30
 
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@45.95.233.214:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=frx1.braidx.tech&fp=firefox&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://9d98c6fc-7452-4c4a-93c8-8b46a877e45e@176.108.250.55:443?encryption=none&fp=firefox&pbk=6IlxkvsqWriRue-mUcRxXZ94rfLgsZqY8pLHRWKZlGw&security=reality&serviceName=gun&sid=3a2c&sni=arch.ubuntuhosting.host&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -13,6 +13,7 @@ vless://111841ae-8ee4-4ac7-b750-717d46f17492@ashley.kosmolet.xyz:443?encryption=
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@167.104.223.65:443?fp=firefox&headertype=none&host=www.canonical.com&path=%2F&pbk=R0Iip6sJXLO1OKQ68Jfi01mj3kiN6FtGsY4vOkGV5ho&security=reality&sid=403d24a2&sni=www.canonical.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://ae696020-dc40-4056-80ed-31e95910694d@179.255.153.122:50159?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.cloudflare.com&path=%2F&pbk=_q09H87Xd_05Zw_PjjHe9kL2cM4xIqyspDicdH9QcVA&security=reality&sid=f2b127cca2827ee7&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://8e08f9c8-9fba-487a-97f6-28eea7f47887@213.219.214.33:443?flow=xtls-rprx-vision&fp=chrome&pbk=PL09r78ubjFaOILv5x6HPsCZeTdwhlRb3tuDY5vASwQ&security=reality&sni=yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://WF42809561@nearby-muskrat.rooster465.autos:443?security=tls&type=#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://393e1d88-c7fa-40c3-af7a-b19163b6de5c@usa.downbala.com:443?path=%2Ftimer%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=usa.downbala.com&fp=chrome&type=ws&allowInsecure=0&sni=usa.downbala.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://beaa03e1-b66f-4a38-88a7-705afff3f8aa@a1.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -33,3 +34,4 @@ vless://f8cd4c3c-545e-4185-aa27-9ef3530d6ee9@9g96ulhy68.ly123.edu.kg:11881?mode=
 vless://f8cd4c3c-545e-4185-aa27-9ef3530d6ee9@w62jhbm.ly123.edu.kg:11881?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=cRnblgXeGDyNfQUPVAdq6b_R5mxlgEYbLlEJ7qdW6ko&sid=241aad9bd5cceb96&sni=dlcdnets.asus.com&servername=dlcdnets.asus.com&spx=%2F&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://d5536e94-a523-4c40-85ec-f3a3fc444602@muscat.aroonsid.ir:2000?encryption=none&security=none&type=ws&host=play.google.com&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://09c3a956-075e-43b1-a125-2df71dac7aec@n2.zynovax.ir:1080?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=jDj_1a2AOXOZ_bRkgqvb0tMXjTier75usgndNVdOHTU&sid=2926c493071e7380#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://9b1d61e1-22ff-4327-abf2-0e6cf1b5abd4@most-usa.harknmav.fun:443?flow=xtls-rprx-vision&sni=eh.vk.com&security=reality&pbk=pf1yJnXtDLvBO9HmmB3tKE-eK8mwmhcFezYlzubLzT4&sid=bd3c4c10ca44241a&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
