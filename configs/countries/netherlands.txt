@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 13
 
 vless://645710cd-317d-420b-bb07-db6620cc65d0@144.31.3.53:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=proud-dynamo.cdn.cachefleet.com&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@nl10.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -12,6 +12,8 @@ vless://8dd32d18-f32b-4204-b03b-74d5394a6487@78.17.57.143:443?flow=xtls-rprx-vis
 trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?type=tcp&security=tls&sni=nl-vk.tkbvpcompany.site&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.192:443?encryption=none&security=reality&sni=iris-02.rita-cloud.com&fp=firefox&pbk=yleGRApfmnT3benISto7vAkERo4_RM31GITYIMqL7GI&sid=e20b98054206e6e8&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@153.80.249.195:443?encryption=none&security=reality&sni=iris-04.rita-cloud.com&fp=firefox&pbk=JjG9JXI2B0DmSmlY55YAY6O-mldN84I4-CiqII9_8jI&sid=26c501a781437581&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://6d64c245-3f74-424f-8fa9-d3da25aac3f9@94.183.228.149:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://8ac637bf-554e-4902-94d7-baf01780a83c@94.241.174.157:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mM33xyzf1GPaU2CQXAGYoGkTuYzEZRYT6S-NngyqfHQ&sid=beb4&sni=deepl.com#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=MfOXevYFoqnwIn6dUiPZvWYRfYHyb5lzBy3R1OSsrWg&security=reality&sid=f3e8b2b1&sni=www.cisco.com&spx=%2F&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d94e4126-76ed-4425-96bd-ef7e9fca414e@ru.voronvpn.com:6443?flow=xtls-rprx-vision&fp=chrome&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d94e4126-76ed-4425-96bd-ef7e9fca414e@77.110.102.1:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
