@@ -3,13 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 2
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://d94e4126-76ed-4425-96bd-ef7e9fca414e@ru.voronvpn.com:6443?flow=xtls-rprx-vision&fp=chrome&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@flv.iranfibernet.com:80?host=mobiledevelop1212.global.ssl.fastly.net&path=%2F%3Fed&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@167.82.23.60:80?host=mobiledevelop1212.global.ssl.fastly.net&path=%2F%3Fed&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@mobiledevelop1212.global.ssl.fastly.net:80?host=mobiledevelop1212.global.ssl.fastly.net&path=%2F%3Fed&security=&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@146.75.29.194:80?host=mobiledevelop1212.global.ssl.fastly.net&path=%2F%3Fed&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@140.248.145.194:80?host=mobiledevelop1212.global.ssl.fastly.net&path=%2F%3Fed&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@uk.velajio.com:443?flow=xtls-rprx-vision&fp=qq&pbk=6rrQ09njNw0wrfGg_S48ySsl4v17Q6uTAIMnECMWbyU&security=reality&sid=c1fda2f8f007e108&sni=uk.velajio.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@isp02.skorostnet.space:13868?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&security=reality&sid=e852dc&sni=www.ea.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
