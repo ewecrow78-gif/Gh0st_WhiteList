@@ -6,4 +6,4 @@
 # Всего рабочих: 2
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&security=reality&sni=ag-03.rita-cloud.com&fp=firefox&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@italy.funvideorus.net:443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&sni=deepl.com&fp=firefox&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@italy.funvideorus.net:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=xudp&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
