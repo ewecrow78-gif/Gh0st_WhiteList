@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@ind2.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=ind2.helper-internet.com&spx=/#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://670decfe-68cc-499e-8cb1-22b39c20acbb@ind2.helper-internet.com:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=ind2.helper-internet.com&spx=%2F&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
