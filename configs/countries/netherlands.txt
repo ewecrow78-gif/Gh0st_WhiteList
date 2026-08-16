@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 11
 
 vless://645710cd-317d-420b-bb07-db6620cc65d0@144.31.3.53:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=proud-dynamo.cdn.cachefleet.com&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@nl10.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -16,5 +16,3 @@ vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?flow=xtls-rprx-v
 vless://d94e4126-76ed-4425-96bd-ef7e9fca414e@ru.voronvpn.com:6443?flow=xtls-rprx-vision&fp=chrome&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://d94e4126-76ed-4425-96bd-ef7e9fca414e@77.110.102.1:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@143.47.188.131:62145?security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&type=ws&path=%2Fvless%2F&host=SC-TheNetherlands2.09vpn.com👉🆔freenettir📡🇳🇱®️The#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
