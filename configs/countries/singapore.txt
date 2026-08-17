@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-trojan://FH72359861@13.229.56.205:443?security=tls&sni=exciting-turtle.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp&sni=shalana.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
