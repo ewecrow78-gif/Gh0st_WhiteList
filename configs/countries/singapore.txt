@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?security=tls&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp&sni=shalana.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://df1a0967-5b79-41ec-8d12-915e9056c6e2@1sg001.344211.cc:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.python.org&flow=xtls-rprx-vision&sid=04d59340&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&encryption=none&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
