@@ -1,13 +1,26 @@
 {
-  "total": 1349,
+  "total": 13463,
   "by_country": {
-    "UN": 1292,
-    "RU": 57
+    "UN": 13237,
+    "RU": 128,
+    "PL": 7,
+    "NL": 21,
+    "DE": 9,
+    "US": 29,
+    "SE": 4,
+    "FR": 4,
+    "TR": 3,
+    "IT": 2,
+    "ES": 4,
+    "GB": 2,
+    "UA": 4,
+    "CH": 4,
+    "CN": 5
   },
   "by_protocol": {
-    "vless": 1145,
-    "vmess": 23,
-    "trojan": 39,
-    "ss": 142
+    "vless": 8248,
+    "vmess": 1377,
+    "trojan": 1672,
+    "ss": 2166
   }
 }
