@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 4
 
+vless://4e7fce82-9e90-48ca-b1c3-102fe49f1b66@143.246.182.14:443?alpn=h2,http/1.1&encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConnections":3,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noSSEHeader":false,"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","scStreamUpServerSecs":"20-80"}&fp=firefox&host=uk11.jailever.org&mode=auto&path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&sni=uk11.jailever.org&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?encryption=none&fp=firefox&security=tls&sni=gb.wlrus.cfd&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdn.pinecloud.net&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://d71aecee-ef16-418e-baf5-2b2458122d5a@89.125.124.178:8443?encryption=none&security=tls&sni=gb.wlrus.cfd&fp=chrome&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
