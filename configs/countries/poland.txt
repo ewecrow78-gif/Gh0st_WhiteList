@@ -3,15 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 8
 
 vless://6607d677-f567-4692-af46-52d0e15808a1@lp.cryptoofarm.com:8443/?type=tcp&security=reality&pbk=Ezu-OUgjepmy9XG8khX0Q8xQ_i0fGh6w_H4JO49TG34&fp=firefox&sni=lp.cryptoofarm.com&sid=964fdf71ea78787f&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6607d677-f567-4692-af46-52d0e15808a1@pl.cryptoofarm.com:2053/?type=grpc&encryption=none&serviceName=pl.cryptoofarm.com&authority=grpc-dp-p4n2v9i4md&security=reality&pbk=H85geRdbY6aZ58fPqUA8XLpz9MUPbzM5ERo9_x-lX3Y&fp=firefox&sni=pl.cryptoofarm.com&sid=1de4ce5a&spx=/#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.epicgames.com&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://4d064d9b-d4bb-468d-a4e0-948cf6a7541b@149.33.8.216:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&sid=03a70b17f8036009&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://4f562c6a-8446-4f45-bbde-495a6e6db338@pol.cryptoofarm.com:8443?flow=xtls-rprx-vision&fp=firefox&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&security=reality&sid=7e831024a7c0e7&sni=pol.cryptoofarm.com#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
