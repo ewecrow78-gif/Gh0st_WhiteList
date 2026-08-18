@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 7
 
 vless://6607d677-f567-4692-af46-52d0e15808a1@all.cryptoofarm.com:8443/?type=tcp&security=reality&pbk=wWnjSSnyHo88jQ8Ykw6HVBPQkQajxGCaDwqrJKH88x8&fp=firefox&sni=all.cryptoofarm.com&sid=517833ca12cf8359&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6607d677-f567-4692-af46-52d0e15808a1@all.cryptoofarm.com:2053/?type=grpc&encryption=none&serviceName=all.cryptoofarm.com&authority=grpc-wz-c7v2t9p4ka&security=reality&pbk=xSPHGPy-z5w0R6HQmX_WvJq6ThcBZuKMuIgikYV99DY&fp=chrome&sni=all.cryptoofarm.com&sid=c09ebe8fec6139e5&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -11,5 +11,4 @@ vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node.mxvpn.dev:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=node.mxvpn.dev&path=%2F&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node.mxvpn.dev&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@85.137.170.117:13868?flow=xtls-rprx-vision&fp=firefox&pbk=lEGPqSao8Q-iLD8zcFuLZUM91zinFkgo_rJfH-NMcAA&security=reality&sid=e852dc&sni=www.ikea.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node.mxvpn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node.mxvpn.dev&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
