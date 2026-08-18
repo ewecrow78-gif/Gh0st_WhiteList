@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 32
+# Всего рабочих: 33
 
 vless://6607d677-f567-4692-af46-52d0e15808a1@nel.cryptoofarm.com:7443/?type=tcp&security=reality&pbk=F91J7u9LmZqkftZJHZHUw5lKP0BjenKDWmbtdQCddXM&fp=firefox&sni=nel.cryptoofarm.com&sid=34b4e5c052cc91ff&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://6607d677-f567-4692-af46-52d0e15808a1@lin.cryptoofarm.com:2053/?type=grpc&encryption=none&serviceName=grpc-kx-a7f3m2q9ws&authority=&security=reality&pbk=GT1naTQoeMz5T6iUVqTd3d2w5upuhJ2Qp3RZnyaOTyA&fp=firefox&sni=lin.cryptoofarm.com&sid=5dc17ca646519b&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -37,3 +37,4 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.234:443?flow=xtls-rprx-
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.220:443?flow=xtls-rprx-vision&fp=firefox&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.229:443?flow=xtls-rprx-vision&fp=firefox&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://fd9a3805-5925-48c5-a3b8-2d6cacbba154@94.183.221.165:443?flow=xtls-rprx-vision&fp=firefox&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&security=reality&sid=635a76c25a4b1820&sni=www.amd.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a98f627f-99ff-44fc-89fc-b5aed8db49f9@84.201.170.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A-Osft0F8ZlHRA6D3rjuEebeac_-vGIOZkrTOdEZjiA&sid=f9b6823bf4858816&sni=api-maps.yandex.ru&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
