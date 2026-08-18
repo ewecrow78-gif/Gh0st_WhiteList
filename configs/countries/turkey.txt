@@ -3,10 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 4
 
 vless://6607d677-f567-4692-af46-52d0e15808a1@tr2.odavpn.online:8443/?type=tcp&security=reality&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&fp=chrome&sni=www.sony.com&sid=22c6f049621c44ec&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@tur01.skorostnet.space:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=tur01.skorostnet.space&type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&sni=193.124.46.65&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
