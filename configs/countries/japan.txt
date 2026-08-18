@@ -5,7 +5,7 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 14
 
-vless://3340c44a-042e-4dfd-b82c-33192d56ba98@156.231.113.153:443?flow=xtls-rprx-vision&fp=chrome&pbk=h2GGazCHLBtmIUxiCxGUvsaEF8mGi8xFeCcI14sAJTI&security=reality&sid=4bbe62498d4cc3c9&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@kinojp1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinojp1.kinotorg.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&sni=152.69.195.67&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?headertype=none&path=%2F&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@35.200.86.178:21143?flow=xtls-rprx-vision&fp=firefox&headertype=none&host=www.spotify.com&path=%2F&pbk=VFcjMcy9uLRCq3dy9zqYFOPF73TAx6QO11rleDrfBgM&security=reality&sid=274772e3550ee3eb&sni=www.spotify.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList

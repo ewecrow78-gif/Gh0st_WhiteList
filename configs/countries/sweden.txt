@@ -3,8 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 13
 
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@secdn17.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=secdn17.zak-rkp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@exit-se-4.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-4.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@exit-se-3.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-3.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@exit-se-1.rog-self.co.uk:443?encryption=none&type=ws&security=none&path=/ws/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@exit-se-2.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-2.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@secdn11.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=secdn11.zak-rkp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@secdn-107.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=secdn-107.zak-rkp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@kinose109.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinose109.kinotorg.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList

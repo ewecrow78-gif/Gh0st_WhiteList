@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2153
+# Всего рабочих: 2152
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640?headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -237,11 +237,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206c3M@ss.about.lso:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://f6da8274-44be-4599-a8d8-66929c980677@185.241.208.89:2054?encryption=none&fp=firefox&pbk=OyptJTnaUSyaiYY3_iB-Lrst04EoVetdB1ZMoHDViyI&security=reality&serviceName=grpc&sid=e5fe88d9c232c341&sni=www.ibm.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://96b308b3-6aaa-424b-a52c-4e27617fbddf@62.152.58.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8lw0A9bkJwt3sX_Jgb5RzieKlqojPg-6RV9Wj1ewtg4&security=reality&sid=27e53bbcab7593d7&sni=max.ru&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://fd94a343-cb11-45e6-9882-72352d0a2b8f@185.50.203.1:9892?type=grpc&amp;security=reality&amp;pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&amp;sni=dl.google.com&amp;mode=multi&amp;serviceName=grpc-tunnel&amp;fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.194:13868?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=qFHvK-8mR8GhmykivRP_WIgys1NK_-DqQJAhOJaWVW4&amp;security=reality&amp;sid=e852dc&amp;sni=amd.com&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://fd94a343-cb11-45e6-9882-72352d0a2b8f@185.50.203.1:9892?encryption=none&fp=chrome&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://8b706aff-ca60-4632-9658-aeb5c0f48561@185.91.52.42:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=eda.x5.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://c04bf2df-2b7f-44da-a893-3792d3910fd8@185.232.117.194:13868?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=qFHvK-8mR8GhmykivRP_WIgys1NK_-DqQJAhOJaWVW4&amp;security=reality&amp;sid=e852dc&amp;sni=amd.com&amp;type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://96b308b3-6aaa-424b-a52c-4e27617fbddf@62.152.58.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8lw0A9bkJwt3sX_Jgb5RzieKlqojPg-6RV9Wj1ewtg4&security=reality&sid=27e53bbcab7593d7&sni=max.ru&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://f6da8274-44be-4599-a8d8-66929c980677@185.241.208.89:2054?encryption=none&fp=firefox&pbk=OyptJTnaUSyaiYY3_iB-Lrst04EoVetdB1ZMoHDViyI&security=reality&serviceName=grpc&sid=e5fe88d9c232c341&sni=www.ibm.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://96b308b3-6aaa-424b-a52c-4e27617fbddf@185.229.9.137:443?type=tcp&security=reality&sni=vk.com&pbk=wKK4zrsWJkXdJdmllznFD39qW2cUKDBKwIe3PvWqonU&sid=27e53bbcab7593d7&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://2c368215-ac89-4787-9762-edb2c9947630@185.95.231.156:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=964b2a1a&pbk=ytnOqGbyUQ3efc25iPD8bJGdXgOi6zdBTP55JIa5OU0#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c0MxUmlRT0s1VHM1emdVWUR3Qi9BR0ZicWpweXRJMC9BY3pna2dDQ25ldz0@129.151.77.35:61312#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2030,13 +2030,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.228.154.213:50099#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034686rw.cybervena.com:50099#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NVhuMnFIb1ZkdTZhSmpwNlIyS2pLcmsxMCtxRm5pTmg1T2pLVzkzVGRXaz0@92.5.228.26:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206UHJveHkyMDI0@23.252.104.131:54321#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGh0dm54SWd3Q0Zia0RVbFEzYW96WVdjVjUzcElzQw@germany.zelnora.ir:1080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U2VYN2NMZlcrV1dnRm9jM25QU0J4UHhCUHRFNjNxd09ETXFwVWY3U2xobz0@168.107.81.254:56927#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TGRld25IT2pEN0xieFpsY3BTWDBFTmZhVXhlTk9OWnN6MFU2c0xIUVNKbz06QTR2YzF6dkVQQk1pdDRqYWpDL3pqZWVHTElBZ2F6eVBvckUyb3dLWFpjZz0@91.107.155.114:1943#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2044,6 +2039,7 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%8F%B3%EF%
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2054,6 +2050,9 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.188.143.142:443#%F0%9F%8F%B3%EF%B8%8F%2
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.189.197:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.184.221:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.189.180.103:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NVhuMnFIb1ZkdTZhSmpwNlIyS2pLcmsxMCtxRm5pTmg1T2pLVzkzVGRXaz0@92.5.228.26:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206UHJveHkyMDI0@23.252.104.131:54321#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZFZrMjhtYTF3ZGNOMHZuenZvZ1dDekZqX2RzWjU1OA==@germany.zelnora.ir:1080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206d3Uyd2VpMnlpMQ@93.179.103.129:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WXlwcFlyKzE5U0Z5eTRXQVUyT21TbHErTndLalIrTDBvVjJDQ0o2ck1BTT0@152.70.53.76:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZFZrMjhtYTF3ZGNOMHZuenZvZ1dDekZqX2RzWjU1OA%3D%3D@russia.zelnora.ir:1080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
