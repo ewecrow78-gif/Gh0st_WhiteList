@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 13
+# Всего рабочих: 12
 
 vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@secdn17.zak-rkp.net:443?encryption=none&type=tcp&security=tls&sni=secdn17.zak-rkp.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@exit-se-4.rog-self.co.uk:443?encryption=none&type=tcp&security=reality&sni=exit-se-4.rog-self.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
@@ -17,4 +17,3 @@ vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.26.101.64:443?__rand=02237122&flow=xtls-rprx-vision&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
