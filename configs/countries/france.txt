@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 7
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@130.49.218.48:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XnKwjsz6ec8B10wrZRTF1X120qtsmIo4Q7nEXd00MhE&security=reality&sid=e852dc&sni=vimeo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@fr.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=fr.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=32815466595bd63b&fp=firefox&path=/media/content/v2&host=fr.monkeyisland.space&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"128-256","maxConcurrency":"8-16","hKeepAlivePeriod":15,"hMaxRequestTimes":"1000-2000","hMaxReusableSecs":"1800-3600"},"headers":{"Accept":"*/*","Origin":"https://fr.monkeyisland.space","Referer":"https://fr.monkeyisland.space/","User-Agent":"Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:151.0)+Gecko/20100101+Firefox/151.0","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"},"xPaddingKey":"request_id","xPaddingBytes":"100-300","xPaddingHeader":"X-Request-Id","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":512,"scMaxEachPostBytes":524288,"scMaxConcurrentPosts":2,"scMinPostsIntervalMs":"50-150"}#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -11,3 +11,4 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node13.mxvpn.dev:443?flow=xtls-rprx
 vless://2b217c2e-9913-4a75-9577-9f110788eef0@205.237.104.83:8443?fp=firefox&mode=auto&path=%2Fapi%2Fv2%2Fsync&pbk=uYlJKmVHsSuCk-T9Y4CpqyR2LIP9etRZkRmDEt8-fUs&security=reality&sid=2a75501193cb97c0&sni=www.tradingview.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?burmalda=58f8d566&host=de.vpnbase.net&path=%2Fhttp&security=&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://0321e2a6-82e7-418f-b9ab-aa781838dbe7@b.tahastar.ir:20271?fp=chrome&headertype=&pbk=1Y2e1Zm8ac1gS0puegpZwZwtJbxTV482KIuCTq9Os1I&security=reality&sid=27&sni=it.nvidia.com&spx=%2Ff24c0c9459ad613&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
