@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 24
+# Всего рабочих: 23
 
 vless://6607d677-f567-4692-af46-52d0e15808a1@ger.cryptoofarm.com:8443/?type=tcp&security=reality&pbk=sKxLqehJuTcGpz7cxlcTiYve8ZpdS1L0diGAyyHrkDk&fp=firefox&sni=ger.cryptoofarm.com&sid=93b301786cde&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.235:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yoox.com&fp=firefox&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -27,5 +27,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22222?security=none&typ
 vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?headertype=&security=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.180.32.154:22224?headertype=none&path=%2F&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.79.218.80:22223?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de-193-58.neobo-tooth.ru:2053?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&fp=firefox&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://fa98f221-29e1-4a7e-8797-3bf294aeda35@37.9.4.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FfZptJgxYiyEemH_mO7I8BKHF9Nc5ZGEG_sYC1dWjEw&security=reality&sid=78b8ebdb7007eccc&sni=5post-gate.x5.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
