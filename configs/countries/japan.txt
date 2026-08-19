@@ -5,8 +5,8 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 5
 
-vless://d1bd7407-c493-4a18-9c2e-5007fe1a6e19@kinojp1.kinotorg.net:443?encryption=none&type=tcp&security=tls&sni=kinojp1.kinotorg.net#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://48d6a7ca-4257-4400-b810-eecb16e9e30f@216.23.108.185:28146?flow=xtls-rprx-vision&fp=firefox&pbk=HBeH_uPYOMp9D7Mq1KxBzduX07OZ9C8rT4zSHNjiO3g&security=reality&sid=c1cd56a8&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkVOMGc2UmJuc3llOEVKWno5NE9G@108.61.223.231:443#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://AE62539071@13.158.137.73:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=novel-bat.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
