@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 142
+# Всего рабочих: 143
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -77,6 +77,7 @@ vless://289c713f-038c-42c4-857f-af7726ecbdd9@78.159.245.75:9002?encryption=none&
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@whitesausages.duckdns.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=whitesausages.duckdns.org&fp=firefox&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@moscow-ru.duckdns.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=moscow-ru.duckdns.org&fp=firefox&alpn=http/1.1,h2#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@anora9mice.duckdns.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=anora9mice.duckdns.org&fp=firefox&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://f4540796-ce50-4c2b-a41c-58f18f36ab96@nltw6.lckdwn.ru:8443?security=reality&encryption=none&sni=nltw6.lckdwn.ru&fp=qq&pbk=k2gF2ZrpECMogTk1dY1uQ_BaWuyUVRTrewS-dnRL53s&sid=5ae57d5673&spx=%2Fj4ty4w8is43wyf4#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@195.2.81.39:443?encryption=none&security=reality&sni=ru-agent-06.rita-cloud.com&fp=firefox&pbk=0azLTkBAL9jSMaDio8wlyeDW9rglwOgvZRv_pwaQMC0&sid=55ca6ae3cc8075da&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@111.88.144.51:443?encryption=none&security=reality&sni=y-11.rita-cloud.com&fp=firefox&pbk=KQwnDPI_7rJnJvmjaEg0NCFuNWnSRQ8SBHJB8iFun2A&sid=3fe939c78d2c1c7a&type=xhttp&path=/cdn/2c09ea9e&mode=stream-one#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@miya.kosmolet.me:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -86,8 +87,8 @@ vless://111841ae-8ee4-4ac7-b750-717d46f17492@erika.kosmojoy.ru:8443?encryption=n
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@erika.kosmojoy.ru:9443?encryption=none&type=grpc&security=reality&sni=max.ru&pbk=gkkisMa7TUZyoSc0KxNOV96sImQmt1g4cRCnCHWuIDs&sid=ced491dd&fp=firefox&serviceName=TunService#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://9500cf8b-020a-4a70-906c-e14bb5375875@85.209.135.10:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.sciencedirect.com&fp=qq&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@tn.tmn141246.ru:2200?encryption=none&type=ws&path=%2Fv1&host=rzd.ru&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList

@@ -3,15 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 5
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@194.116.236.9:443?flow=xtls-rprx-vision&fp=firefox&headertype=&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@tr.savesafe.cc:443?flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.10:443?flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@103.83.86.96:443?flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://485e6932-2913-42c9-a605-7ccf03836d55@45.74.178.175:8080?fp=firefox&pbk=-VtnfXlmc08__zvH-U0G5iiiJaJJOCXsBToMqfL2Pzg&security=reality&sid=ff06f965f5&sni=hdprogressive.3dvisionlive.com&spx=%2F972d6d1ae552019&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?flow=xtls-rprx-vision&fp=firefox&packetencoding=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
