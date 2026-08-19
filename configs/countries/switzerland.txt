@@ -3,14 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 3
 
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://6192b7d1-fc9d-4be1-900e-dbd69de95ddf@wl-1.myfreedom.rest:443?flow=xtls-rprx-vision&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&security=reality&sid=fe8d&sni=ads.vk.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.2.133:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@138.124.39.147:443?flow=xtls-rprx-vision&fp=firefox&pbk=p3sQ8oByv8AXIm2jaOdFvAmxTeMGjr9uwCqyFvHpJz0&security=reality&sid=d2cf75c5e1482b4e&sni=cloud.mail.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://136210dc-896a-4695-bdf0-13da799d184c@77.233.220.14:44002?flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e1233ae7e56111a7&sni=pool-a.pools.netcenter-cdn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://136210dc-896a-4695-bdf0-13da799d184c@37.252.23.132:44002?flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e1233ae7e56111a7&sni=pool-a.pools.netcenter-cdn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://136210dc-896a-4695-bdf0-13da799d184c@5.129.251.145:44002?flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e1233ae7e56111a7&sni=pool-a.pools.netcenter-cdn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://136210dc-896a-4695-bdf0-13da799d184c@201.24.127.240:44002?flow=xtls-rprx-vision&fp=firefox&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&security=reality&sid=e1233ae7e56111a7&sni=pool-a.pools.netcenter-cdn.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fi2.techdatacloud.org:443?flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&security=reality&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://f7c19962-ae9e-4431-8ddc-276bcd45280a@wl-1.myfreedom.rest:443?flow=xtls-rprx-vision&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&security=reality&sid=9042&sni=ads.vk.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
