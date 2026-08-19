@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 38
+# Всего рабочих: 41
 
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@valentindyadka.net:8443?encryption=none&type=ws&path=/vless&security=tls&sni=valentindyadka.net&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@polniybak.info:443?encryption=none&type=ws&path=/notvlessklyanus&security=tls&sni=polniybak.info&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -41,5 +41,8 @@ vless://583c01d5-de48-4274-be39-2a6a817d37c4@185.115.33.49:443?flow=xtls-rprx-vi
 vless://901e6dca-1b73-4266-978b-f7dc1266a7f6@153.80.249.125:443?flow=xtls-rprx-vision&fp=firefox&pbk=1_a2G1x-DIEjDogZAiV4WFuOczGWcj-3zPiPxenUZhs&security=reality&sid=23ae46816e87c7b8&sni=google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://901e6dca-1b73-4266-978b-f7dc1266a7f6@nodeddarch.okzk.com:443?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=1_a2G1x-DIEjDogZAiV4WFuOczGWcj-3zPiPxenUZhs&security=reality&sid=23ae46816e87c7b8&sni=google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@64.188.77.159:8390#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.155:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList

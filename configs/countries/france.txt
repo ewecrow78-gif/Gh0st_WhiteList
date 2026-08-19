@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 12
 
 vless://5ca83936-136d-4652-8453-4ba10a86cf60@94.156.180.188.fwqfw783rg2dad.website:443?encryption=none&type=ws&security=tls&sni=94.156.180.188.fwqfw783rg2dad.website&path=/websocket?ed=2560#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@bookercatch.net:8443?encryption=none&type=ws&path=/vless&security=tls&sni=bookercatch.net&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -14,5 +14,6 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node13.mxvpn.dev:443?flow=xtls-rprx
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.110.106.58:443?flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node13.mxvpn.dev#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://0772109c-a680-4896-b005-d86513194f96@node12.mxvpn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node12.mxvpn.dev&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@45.130.125.160:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@138.124.70.248:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&security=reality&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
