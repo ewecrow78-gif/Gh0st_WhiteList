@@ -3,14 +3,16 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 11
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TFl1WFBLbE5GMVYyalkvVVd4RkE4d3JJUnp3UGVDTGtxcWsvNnkxMlRLOD0=@168.138.177.12:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6U2VYN2NMZlcrV1dnRm9jM25QU0J4UHhCUHRFNjNxd09ETXFwVWY3U2xobz0@168.107.81.254:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://AE62539071@13.229.94.200:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://AE62539071@54.169.241.164:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=rested-osprey.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-trojan://AE62539071@47.129.157.81:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=noted-bass.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://7eb234e9-d47e-4dfe-bff3-a0d41a0c4e1d@213.163.201.93:443?flow=xtls-rprx-vision&fp=firefox&pbk=wqExefrasoN-QlFksw8t-iRq2HWvnKyoxYN3IW9kUQk&security=reality&sid=792be6a03c161acb&sni=app.prostocalc.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://AE62539071@47.131.229.80:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=elegant-marten.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://AE62539071@47.128.150.245:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=stirred-buck.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://FH72359861@13.212.77.228:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=probable-weasel.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://AE62539071@47.129.157.81:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=noted-bass.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://FH72359861@13.250.119.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=casual-basilisk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://FH72359861@47.129.7.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=stable-racer.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://AE62539071@47.131.225.150:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&sni=deepl.com&spx=/#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+trojan://AE62539071@54.169.241.164:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=rested-osprey.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 trojan://FH72359861@13.229.56.205:443?security=tls&sni=exciting-turtle.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
