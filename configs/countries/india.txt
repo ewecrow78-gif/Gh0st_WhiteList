@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?security=reality&encryption=none&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&headerType=none&fp=firefox&type=tcp&sni=www.apple.com&sid=ae3ba555edc1ba0a#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?fp=firefox&packetencoding=xudp&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&security=reality&sid=ae3ba555edc1ba0a&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
