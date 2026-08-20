@@ -12,5 +12,5 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.n
 vless://be3960db-f339-479a-be7b-c1a130601141@37.49.224.14:443?flow=xtls-rprx-vision&fp=qq&pbk=O3rHRttI1NLJhPj5tRc8IxrC0-psaGAdF7pIXL2iSyo&security=reality&sid=0c3c59e4f3527369&sni=nimble-heron.cdn.cachefleet.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
