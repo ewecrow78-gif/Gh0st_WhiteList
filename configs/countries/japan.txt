@@ -3,16 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 9
 
-vless://099717b2-e5ad-4652-8a43-a9d5e3bf8188@193.23.216.87:31029?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ya.ru&pbk=eQkDKOzRUk1GHb25DyF84F_1N7WpEI54-SHa2-5duxE&sid=ef1f7e8cc0c62969&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://78eb4455-0d07-1bbc-93e3-7c8654f11d74@31.29.151.39:8444?flow=xtls-rprx-vision&fp=ios&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://PQ05174892@3.112.242.12:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=intimate-hog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://AE62539071@3.112.29.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=clear-killdeer.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://PQ05174892@3.112.242.12:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=intimate-hog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://AE62539071@eager-camel.rooster465.autos:443?security=tls&sni=eager-camel.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://AE62539071@sweeping-parakeet.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://AE62539071@18.183.140.61:443?fp=chrome&security=tls&sni=harmless-imp.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-trojan://AE62539071@18.183.178.158:443?fp=chrome&security=tls&sni=inviting-burro.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 trojan://AE62539071@13.113.89.229:443?security=tls&sni=coherent-newt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+trojan://AE62539071@18.183.178.158:443?fp=chrome&security=tls&sni=inviting-burro.rooster465.autos&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
