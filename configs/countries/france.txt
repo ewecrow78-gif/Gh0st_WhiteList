@@ -3,10 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 6
 
 vless://5ca83936-136d-4652-8453-4ba10a86cf60@94.156.180.188.fwqfw783rg2dad.website:443?encryption=none&type=ws&security=tls&sni=94.156.180.188.fwqfw783rg2dad.website&path=/websocket?ed=2560#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://c0ad5bfd-831c-45d5-ba7b-5053532ce772@bookercatch.net:8443?encryption=none&type=ws&path=/vless&security=tls&sni=bookercatch.net&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@fr.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=fr.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=32815466595bd63b&fp=firefox&path=/media/content/v2&host=fr.monkeyisland.space&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"128-256","maxConcurrency":"8-16","hKeepAlivePeriod":15,"hMaxRequestTimes":"1000-2000","hMaxReusableSecs":"1800-3600"},"headers":{"Accept":"*/*","Origin":"https://fr.monkeyisland.space","Referer":"https://fr.monkeyisland.space/","User-Agent":"Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:151.0)+Gecko/20100101+Firefox/151.0","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"},"xPaddingKey":"request_id","xPaddingBytes":"100-300","xPaddingHeader":"X-Request-Id","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":512,"scMaxEachPostBytes":524288,"scMaxConcurrentPosts":2,"scMinPostsIntervalMs":"50-150"}#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
