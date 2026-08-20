@@ -3,9 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 7
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?flow=xtls-rprx-vision&fp=qq&pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs&security=reality&sid=1aa9f3c9021280c0&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?flow=xtls-rprx-vision&fp=chrome&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&security=reality&sni=gb.cdn.cachefleet.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?flow=xtls-rprx-vision&fp=firefox&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U&security=reality&sid=c571c801812c&sni=www.nvidia.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?flow=xtls-rprx-vision&fp=ios&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&security=reality&sid=1e977d0b52eab755&sni=foodnetwork.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://3e24a03c-c398-43ab-b4c5-c5c953626496@194.55.239.214:10005?flow=xtls-rprx-vision&fp=qq&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K0tHZzFJUENtd291L1Rib3gzNUNENEREZE5Zb0FGTit5d2pTY2gyRjZMRT0@144.24.225.94:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K1I3NG9vUEo0UEhGWkt0dEI5WmgzNUZnOU43U3hSYlJZREZOTjF2R2Fiaz0@129.151.86.44:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
