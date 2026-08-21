@@ -3,6 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 2
 
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sid=ae3ba555edc1ba0a&sni=www.apple.com#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@139.84.221.25:443?flow=xtls-rprx-vision&fp=firefox&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&security=reality&sni=nrt.inrocket.org&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@nrt.inrocket.org:443?flow=xtls-rprx-vision&fp=firefox&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&security=reality&sni=nrt.inrocket.org&spx=%2F#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
