@@ -3,9 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 6
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@uk.monkora.org:443?fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=uk.monkora.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?flow=xtls-rprx-vision&fp=ios&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&security=reality&sid=1e977d0b52eab755&sni=foodnetwork.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://3e24a03c-c398-43ab-b4c5-c5c953626496@194.55.239.214:10005?flow=xtls-rprx-vision&fp=qq&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&security=reality&sid=148cb4094a&sni=cdn.dodostatic.net&spx=%2F&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://9e6b8db1-da80-494f-bad7-7a0451f801a1@5.152.223.193:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://3845c09f-35c8-4852-b876-5ed8cc5ca6cd@95.154.237.47:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://faf655fc-690f-4ea8-8eed-77077f493bc8@109.169.85.140:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&security=reality&sid=1dc6d8a2045a7c9d&sni=slashdot.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&security=reality&sid=6547735997055a35&sni=nodefulcrum.mooo.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://31a6eb4b-542f-4e77-97d8-26bdc37f0523@109.169.84.115:443?flow=xtls-rprx-vision&fp=qq&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&security=reality&sid=ff6975658b6cefce&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
