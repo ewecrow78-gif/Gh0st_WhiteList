@@ -7,4 +7,4 @@
 
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://0554c552-da2c-4b65-9e3f-f42afdd4a484@95.154.221.155:443?flow=xtls-rprx-vision&fp=qq&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&security=reality&sid=42171a632f3b99ed&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
