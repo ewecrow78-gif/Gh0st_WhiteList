@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://757ea408-8207-4850-b23f-f2082243288d@tw4.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=dlcdnets.asus.com&path=%2F&pbk=IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g&security=reality&sid=e6d59aff03e5b0&sni=dlcdnets.asus.com&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20Gh0st_WhiteList
+vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#%F0%9F%87%B9%F0%9F%87%BC%20Gh0st_WhiteList
