@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@cdn3-85.cdn-vkvideo.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn3-85.cdn-vkvideo.com&pbk=QC03TEA8YdxpkQyJ8duwrqaP1dWAIlCjONzicWlWDjs&sid=b0d8f964b7ac8ac0&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@cdn3-85.cdn-vkvideo.com:2053?encryption=none&type=xhttp&security=reality&sni=cdn3-85.cdn-vkvideo.com&pbk=QC03TEA8YdxpkQyJ8duwrqaP1dWAIlCjONzicWlWDjs&sid=966eadda72000d7c&fp=firefox&path=/api/v1/video/chunk&mode=auto#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
+vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.196.193.100:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&sni=storage.yandex.net#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://c0910966-7949-4f6c-a25b-6c1cadfd6bdb@138.124.9.165:443?flow=xtls-rprx-vision&fp=firefox&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&security=reality&sid=b0d8f964b7ac8ac0&sni=cdn7-02.cdn-vkvideo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
