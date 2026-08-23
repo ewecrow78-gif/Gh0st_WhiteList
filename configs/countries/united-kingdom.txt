@@ -3,13 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 9
 
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@cdn9-03.cdn-vkvideo.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn9-03.cdn-vkvideo.com&pbk=2dUnvgWjYo4Xs5T17CfWoImszwB0I6hGHwRxZZEQvQs&sid=b0d8f964b7ac8ac3&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@cdn9-03.cdn-vkvideo.com:2053?encryption=none&type=xhttp&security=reality&sni=cdn9-03.cdn-vkvideo.com&pbk=2dUnvgWjYo4Xs5T17CfWoImszwB0I6hGHwRxZZEQvQs&sid=966eadda72000d72&fp=firefox&path=/api/v1/video/chunk&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://60e6320d-60c6-43f5-9f54-686089edd608@vip.paaradiseshop.ir:2052?host=english.paradiseshop.click&path=%2Fpath&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YkR1M3g3ZHJ3MFRUNEtsNjdIRjl1QmxteXF4VGxPZTgyeUxVbktld21Kdz0=@129.151.95.100:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?&security=tls&fp=chrome&sni=129.121.95.159&type=ws&headerType=none&host=129.121.95.159&path=%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YkR1M3g3ZHJ3MFRUNEtsNjdIRjl1QmxteXF4VGxPZTgyeUxVbktld21Kdz0=@129.151.95.100:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TlJDdGFGMUt6SHVWZVF6MEpmaUVHc2ZQNzJTbEZqWHl0clYvazZXcVEvZz0=@144.24.230.186:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
