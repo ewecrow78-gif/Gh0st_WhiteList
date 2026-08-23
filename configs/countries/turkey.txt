@@ -3,7 +3,14 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 9
 
 vless://1a2a515e-292c-47b9-a13d-7e358250d18e@tr.assets-cdn.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tr.assets-cdn.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.174:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.154:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjZhYTFiYTE0YWYzZjFh@38.60.255.97:11201#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
