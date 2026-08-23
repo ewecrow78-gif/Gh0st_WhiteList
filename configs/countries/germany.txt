@@ -3,11 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 26
+# Всего рабочих: 21
 
-vless://70c04172-324d-4cca-98da-9c3ede247730@185.65.148.254:8444?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=1122334455667788&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://70c04172-324d-4cca-98da-9c3ede247730@89.208.197.23:8448?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=BU1E8xuFuLng836b54xnRP_imzj8iTtlRWdKP9-E9Dk&sid=345678&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://70c04172-324d-4cca-98da-9c3ede247730@151.242.160.100:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=abcd1234&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.235:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yoox.com&fp=firefox&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@de11.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@138.124.10.166:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&sid=a3f8d2c1e5b60794&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -26,8 +25,4 @@ vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.58.41.39:443?fp=qq&host=www.goo
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.48.250.31:443?fp=chrome&host=www.google.com&mode=auto&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@51.77.76.61:8444?&security=tls&fp=firefox&alpn=http%2F1.1&sni=link.meshbeat.online&type=ws&headerType=none&host=link.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2Fff3c56308c%2Ftelemetry#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.co:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QzFVL3QyaVIvK1IyRHFxV2srZTZjRkZFaGFBZEdKZkdCUitHZU5ya29NRT0@144.24.160.250:59924#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.166.71:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
