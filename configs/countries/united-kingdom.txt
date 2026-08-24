@@ -3,13 +3,17 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 12
 
 vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@uk.noooo.win:443?mode=auto&path=/&security=tls&alpn=h3&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=api-6a8bfe8a.noooo.win#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:443?prefix=%17%03%03#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ==@149.102.132.180:443?prefix=%17%03%03#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA@149.102.132.184:80?prefix=%17%03%03#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ@149.102.152.25:80?prefix=%17%03%03#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206WHJwQThoTmpRNjdPRGRhdQ==@149.102.152.25:443?prefix=%17%03%03#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80?prefix=%17%03%03#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?security=tls&encryption=none&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://301d201a-cea0-4626-b593-c75d0699e89c@95.163.232.49:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sni=max.ru&fp=chrome&sid=a9c4f17e3b62d8&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://acf97281-81bf-41eb-b889-c9be5dd84894@109.169.37.126:443?flow=xtls-rprx-vision&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=foodnetwork.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://7e13b8d7-ca30-4441-9b43-65ebf3de6c37@95.154.237.50:443?flow=xtls-rprx-vision&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEZsTg==@194.147.35.56:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
