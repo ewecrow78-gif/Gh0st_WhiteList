@@ -3,15 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 8
 
-vless://1a2a515e-292c-47b9-a13d-7e358250d18e@se.assets-cdn.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.assets-cdn.space&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@idontknow.whit3.net:4443?fp=chrome&mode=auto&path=%2F&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f0822164-2c41-48b1-9fe5-fbfe368d04b8@81.163.22.15:443?fp=firefox&mode=gun&pbk=nc5dunLF2knU5PkMbQlklbp_tZPfOx6xuHu4mkdYPBc&security=reality&sni=max.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@177.3.215.41:4443?fp=firefox&mode=auto&path=%2F&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://5b674d07-5398-48c2-ab13-018a21c44bac@46.243.142.184:4443?fp=firefox&host=se-2.nodes.ac&mode=stream-one&path=%2Fx&pbk=h4ykk3TnjOoph-89y4vL9A_V9nQB1yp1WMN344yhU3I&security=reality&sid=791176388131b7e2&sni=se-2.nodes.ac&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@177.3.215.41:443?flow=xtls-rprx-vision&fp=chrome&pbk=9hX9xn4aKrsXXqWi9nLyuDm2izZ_klzFffTR8192Rxs&security=reality&sid=ca9273f1a19a886e&sni=idontknow.whit3.net&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://c71b8709-0542-5345-a95b-719b6f20c79a@2.27.208.13.blanesik.space:443?security=tls&encryption=none&alpn=http/1.1&fp=firefox&sni=2.27.208.13.blanesik.space&type=ws&host=&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
