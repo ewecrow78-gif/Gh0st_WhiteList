@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1576
+# Всего рабочих: 1580
 
 trojan://296842e2-0e73-4369-9d67-8f4e7e0320f1@13.143.67.198:2087?allowInsecure=1&sni=mail.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://M7v%25w11Se*@34.94.125.227:443/?type=tcp&security=tls&sni=mxlo.wsone.icu#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -181,11 +181,17 @@ trojan://521314@185.225.195.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTele
 trojan://521314@135.84.73.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://521314@198.71.233.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&fp=chrome&allowInsecure=0&type=ws&path=/sg-orcl#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1&fp=android#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=vpn-node.internal&path=%2FxVpnTrojanWsSvc7f3a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://2b1f78c0-6111-44fe-b023-b70ae5929d71@223.107.155.28:41187?security=tls&sni=vpn-node.internal&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=vpn-node.internal&path=%2FxVpnTrojanWsSvc7f3a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@by01.botovod.space:500?type=grpc&security=tls&fp=chrome&sni=by01.botovod.space&mode=gun&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2x-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&insecure=1&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://MiTiVPN@167.82.101.251:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://MiTiVPN@167.82.101.251:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://MiTiVPN@188.42.145.180:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsg%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=383uckk838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=8292hjicc9473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://MiTiVPN@199.232.237.245:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=3x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=android#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-at-pautina.unlimited-access.ru:443?type=tcp&security=tls&sni=tr-at-pautina.unlimited-access.ru&alpn=http%2F1.1&fp=edge#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://MiTiVPN@213.182.199.137:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=28283839-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=399338866-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://a80dd76d-bf0f-47fe-8b66-c89572cf7e38@58.152.46.127:28443?security=tls&sni=vpn-node.internal&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=vpn-node.internal&path=%2FxVpnTrojanWsSvc7f3a#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://mitivpn@45.205.0.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fu-ss%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=82929733-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&allowInsecure=1&sni=383837333-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@198.41.223.96:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.18.152.133:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -333,8 +339,6 @@ trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&type=ws&
 trojan://humanity@104.17.177.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.17.111.8:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://MiTiVPN@188.42.145.180:443?security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&Host=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://MiTiVPN@213.182.199.137:443?security=tls&sni=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&Host=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -889,8 +893,6 @@ trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&insecure=0&all
 trojan://AE62539071@bright-baboon.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://412557adf94c42c8be61b3457ce622d7@star.starnick2027.ir:56996?path=%2F%3Fed%3D1024&security=none&host=api.steampowered.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://1710442808@188.114.98.0:443?type=ws&security=tls&path=%2F&host=subb.nrshop198.workers.dev&sni=subb.nrshop198.workers.dev&fp=chrome&alpn=http%2F1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -911,6 +913,7 @@ trojan://humanity@chat.openai.com:443?security=tls&sni=www.calmlunch.com&type=ws
 trojan://Telegram_healer_config@soskeynets.z6-0hlnubjibwzpa85.workers.dev:443?path=/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://Telegram_healer_config@6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev:443?path=/tr/GaQvfFwT5sWgVxHig8YaXjtiuQPZNI?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://wdpfgquvro9ok774@benzema.ehsanazizi-speed-server.com:2118?type=tcp&amp;security=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://FH72359861@epic-iguana.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1219,6 +1222,7 @@ trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@pl.techdatacloud.org:2053?type=tcp
 trojan://FH72359861@optimal-urchin.rooster465.autos:443?security=tls&sni=optimal-urchin.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=193.124.46.65&alpn=http/1.1#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://RHCyMRXeOBf41ia7WrpJc00EBWZEoJNK@awex1.awexio.ir:2082?security=reality&pbk=YcE0ofDAVLs0QhEk3Yj5vy2hAqLB67tUVKSGe53prjA&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=52b8b53f2b340356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://412557adf94c42c8be61b3457ce622d7@star.starnick2027.ir:56996?path=%2F%3Fed%3D1024&security=none&host=api.steampowered.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://4PZV9xYUGS3OgZR92y9PrQ@150.241.83.159:2053?security=tls&type=tcp&path=&sni=&sni=vac-service.ru&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@se-01.netzrun.at:5222?security=tls&sni=se-01.netzrun.at&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-109-se.netzrun.at:5222?security=tls&sni=dc-109-se.netzrun.at&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
