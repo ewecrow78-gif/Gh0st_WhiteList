@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 10
 
 vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@uk.noooo.win:443?mode=auto&path=/&security=tls&alpn=h3&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=api-6a8bfe8a.noooo.win#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?security=tls&encryption=none&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -14,3 +14,4 @@ vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&se
 vless://2daa9f67-8edc-41a2-a401-4a2497640c53@188.68.220.99:443?flow=xtls-rprx-vision&fp=qq&pbk=D-OHTModvYqWAvNpZUlIEB4he1pQ0HUHB4fUd6LyOic&provider_id=mirror_0124&security=reality&sid=ecc652c213fed5d1&sni=uk.nightproducts.ru&source_name=mirror_0124&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?security=reality&encryption=none&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=c571c801812c#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://1996007c-e7bc-464b-999b-cac28cec6c3e@138.124.125.211:443?encryption=none&type=tcp&security=reality&pbk=RVj8E6YuWeOq9XzIVLQCKM39qa-Cknp-GYvVAA1UPFo&sid=72cceb78&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
