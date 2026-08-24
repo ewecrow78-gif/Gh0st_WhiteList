@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 7
 
 vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@uk.noooo.win:443?mode=auto&path=/&security=tls&alpn=h3&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=api-6a8bfe8a.noooo.win#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?security=tls&encryption=none&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -11,6 +11,4 @@ vless://8e16742a-78d5-4327-9052-f86a9ce50f49@46.250.250.149:2053?security=realit
 vless://f2816a01-3555-4e79-9e26-770f050ea55a@46.250.240.80:2053?security=reality&type=tcp&sni=www.apple.com&fp=firefox&sid=632a146bd581641a&pbk=bRDaP068YgdwwdQgenUvKTNfPjIB_Dy-lJDFC9ZZEXU&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://301d201a-cea0-4626-b593-c75d0699e89c@95.163.232.49:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sni=max.ru&fp=chrome&sid=a9c4f17e3b62d8&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?security=reality&encryption=none&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=c571c801812c#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10929#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

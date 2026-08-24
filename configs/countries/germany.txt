@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 20
+# Всего рабочих: 21
 
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -21,7 +21,8 @@ vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?fp=firefox&path=%2
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.156.140.181:22222?headertype=&security=&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@31.76.119.117:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=de.orpheous.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://e697f834-c87b-44d8-bcd1-6e51faed5693@178.236.254.21:8443?flow=xtls-rprx-vision&fp=firefox&pbk=QMJRGTqZRbpeLpIAdvn6dhftuzrpwbtwmVG2s5IuuU0&security=reality&sid=00a02855ba568c29&sni=de-two.quiet-rogue.site&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?sni=yahoo.com&fp=chrome&type=tcp&flow=xtls-rprx-vision&security=reality&headerType=none&pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de-193-58.neobo-tooth.ru:2053?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&fp=firefox&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10910#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
