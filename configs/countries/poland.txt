@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 19
+# Всего рабочих: 18
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.epicgames.com&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -22,5 +22,4 @@ vless://953e3703-4ddc-49a7-a087-c96049d22340@212.127.91.231:443?flow=xtls-rprx-v
 vless://953e3703-4ddc-49a7-a087-c96049d22340@pl.syserv1.net:443?flow=xtls-rprx-vision&fp=firefox&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&security=reality&sid=99fe1ec015fde70c&sni=storage.yandex.net#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://953e3703-4ddc-49a7-a087-c96049d22340@185.32.6.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&security=reality&sid=99fe1ec015fde70c&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://953e3703-4ddc-49a7-a087-c96049d22340@83.168.91.90:443?flow=xtls-rprx-vision&fp=firefox&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&security=reality&sid=99fe1ec015fde70c&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.249:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
