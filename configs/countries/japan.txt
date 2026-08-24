@@ -3,13 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 6
 
 vless://1a2a515e-292c-47b9-a13d-7e358250d18e@jp.media-cdn.click:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=jp.media-cdn.click&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=firefox&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10924#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10925#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10937#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
