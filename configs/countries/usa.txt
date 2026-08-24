@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 75
+# Всего рабочих: 74
 
 vless://5842b3b8-ce06-442a-aa34-3f786367a2f2@us-01.slnode.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-01.slnode.cc&fp=qq&pbk=Om_Tk7Yw-ACXTmx1t3FSkHHl5OtzX7-vjGmiaxZh4wY&sid=ac6aa88a0c9607b6&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo&sid=ec2c7091fe76336c&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -63,7 +63,6 @@ vless://a5bea439-6176-4b5d-a891-bd31fc3530c9@yfqvqhaq5920.contigolibre.com:5039?
 vless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=&amp;encryption=none&amp;host=bale.ai%2Cweb.splus.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://b559decc-2e48-47c3-827f-a48cdfd7388d@fr.veraxideas.ir:20000?security=reality&encryption=none&pbk=jyMIhueDirXlz-JiLj1ff5zayv6TjRKUSGfp-gxR6iQ&headerType=none&fp=chrome&spx=%2FZESolO5ZLEBgCJi&type=tcp&sni=yahoo.com&sid=79546ef3cf6f#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSclVRODRqQ1BxTFg2ZVNVcFMxeGZCSzlyQk5uS0ZUYg==@vip7.zarins.ir:8088#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://601f1cf3-3d17-404e-901f-8cf5ab8383c4@tun.relluma.ir:3454?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.lggQV2Gwz_dtnqKNlCaRbYIDp39SIknoBFM-abNBQm0&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@sh02.auragg.org:8444?encryption=none&fp=chrome&pbk=uXV7VKWM7wlzSVCp1MxVMQHJJ3GvjJmVCMPqw_vIZUs&security=reality&serviceName=auragrpc&sid=e7c3f9a2b6d4f8e1&sni=cloudflare.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@kz.hagrid-connected.com:443?security=reality&encryption=none&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=kz.hagrid-connected.com&sid=305570274c0c72cc#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:8080?encryption=mlkem768x25519plus.native.0rtt.EGYZjxPf8fcN28E1ZDzU2GPGeXcm4pzN08QUOT6b4TE&security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=Z5YZc99aZT3MxT5g5nfZ8v6xyInpzH7I4EJ0XN8d8Rw&sid=e2197b24d085b11b#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
