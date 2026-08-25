@@ -3,11 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 6
+# Всего рабочих: 7
 
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://c6fdfa4b-742c-4225-986b-b0e3bd3146a4@sw1111.bearbeer.digital:443?flow=xtls-rprx-vision&fp=qq&pbk=SwfpVdTE6Ay33LQpgRl2Q97t7HFrGREkpE7E1A6pCD4&security=reality&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.82.19:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79&sni=america.cendora.ru#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@177.3.215.111:443?flow=xtls-rprx-vision&fp=edge&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&security=reality&sid=2186a755ed67b034&sni=nordic.cendora.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://9a58b8c2-beef-4bcb-b650-1ef44359a44b@atl.swgs.qzz.io:443?fp=firefox&mode=auto&path=%2Fapi%2Fv3%2Fsync%2Fleo-r9k2&pbk=7Qt3RN7ccD7Gk2Gc2qgRvjyfT5V0xoPThrW4QccCrkQ&security=reality&sid=31a504f36dfec30e&sni=www.google.com&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://c71b8709-0542-5345-a95b-719b6f20c79a@2.27.208.13.blanesik.space:443?security=tls&encryption=none&alpn=http/1.1&fp=firefox&sni=2.27.208.13.blanesik.space&type=ws&host=&path=%2Fwebsocket%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
