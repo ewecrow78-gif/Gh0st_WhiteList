@@ -5,4 +5,4 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 1
 
-vless://904183f1-0495-478b-b11f-1fe12e84ad8b@43.161.225.44:443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=4aeab483de4dd53a&pbk=j0mfhbzohqV1W_PaNeYyKEVuaiK1-A9k2AQJQK7ZDzQ#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://92470fd7-84b7-4ac7-99e5-4b856615cf64@hk.alpinainfra.net:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hk.alpinainfra.net&pbk=X5i14ifzTa84Q1k0uD0crCkD2iy2URumgYawhvyCQVU&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
