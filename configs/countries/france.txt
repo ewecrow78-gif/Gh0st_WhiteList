@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 21
+# Всего рабочих: 22
 
 vless://5e1a8b4d-dcb5-4651-a0a3-1b17476b1baa@fr.vmagnum.win:443?security=reality&type=xhttp&headerType=&path=&host=&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&sni=korben.info&fp=firefox&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=9d4922526a83b2dc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZOFRhS1FNbmNnaThubF9kTm5MalFSVUFtVDRoWmdhNw@104.105.202.31:1111?prefix=%17%03%03#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -26,3 +26,4 @@ vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.30:50051?fp=firefox&pbk=
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-02.fuck-rkn.dev:50051?fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-02.fuck-rkn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://4005ddae-29bb-431e-a212-7737316d08ea@94.228.168.18:10444?host=vpnpolar.online&path=%2Fbeeline&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
