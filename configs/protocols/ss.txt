@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2301
+# Всего рабочих: 2282
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640?headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -292,51 +292,27 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDB
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ejVSdEtmcWNqc3VlRWdTRUs1RnpSU1VySXZVemxMZkpnRVdvNUJrWnFJND0@138.2.87.37:56927#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI@129.151.99.94:23345#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206c3M@ss.about.lso:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://722dda81-656c-4512-a811-f8e9bb026687@46.243.142.184:4443?encryption=none&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%2Fx%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%220%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%22256-512%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%22900-1500%22%2C%22hKeepAlivePeriod%22%3A30%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=firefox&host=se-2.nodes.ac&mode=stream-one&path=%2Fx&pbk=h4ykk3TnjOoph-89y4vL9A_V9nQB1yp1WMN344yhU3I&security=reality&sid=791176388131b7e2&sni=se-2.nodes.ac&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b5fb97fa-170b-4771-adf7-57c13b38b5f9@185.229.9.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1ea_kTf2MvXh9PtpzQdjQWb5ls5BjyUtSbn-qiR8ZXk&security=reality&sid=cb0e256070ac91c7&sni=yandex.ru&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://722dda81-656c-4512-a811-f8e9bb026687@62.152.58.117:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://722dda81-656c-4512-a811-f8e9bb026687@46.243.142.89:9443?encryption=none&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%2Fx%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%220%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%22256-512%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%22900-1500%22%2C%22hKeepAlivePeriod%22%3A30%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=firefox&host=wl-pl-1.nodes.ac&mode=stream-one&path=%2Fx&pbk=5hhzoP441DrGa2l5YlwizPSA5chdY2VjRP7CiEfLLA0&security=reality&sid=eea4ab7bddaeea39&sni=pl-1.nodes.ac&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://203c2146-6620-4a5e-836c-7af5c75c9325@185.246.191.135:2053?encryption=none&fp=firefox&pbk=7zv-3bWzr0wwe4vy1Z_35V-cLXjH07cSRuOw8tcX4wk&security=reality&serviceName=grpc&sid=9c&sni=www.intel.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://84e3de56-4917-4a35-a7db-9c3464e25a5a@178.250.242.219:8444?fp=firefox&amp;encryption=none&amp;serviceName=grpc-reality&amp;sid=bd4a2659&amp;sni=max.ru&amp;security=reality&amp;pbk=Ng71fIN6Rqh8dWkwWgoCUN6Qmsl4vkCjNZNLXT3_YHA&amp;type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b5fb97fa-170b-4771-adf7-57c13b38b5f9@91.240.87.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&security=reality&sid=7bb730e3e6616d31&sni=yandex.ru&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b5fb97fa-170b-4771-adf7-57c13b38b5f9@185.229.9.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&security=reality&sid=743541f932fa3959&sni=yandex.ru&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b5fb97fa-170b-4771-adf7-57c13b38b5f9@91.240.86.186:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE&security=reality&sid=c31188450fe50718&sni=www.vk.com&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://5c5619e4-0577-48d4-8d0c-6ad9c5cc0ecf@78.159.110.219:22216?encryption=none&fp=firefox&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&security=reality&sid=0f4412d42129f080&sni=amp-api-edge.apps.apple.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://c7a30b74-560c-4561-8f0b-7d70e85c9b5e@178.248.236.138:18443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=safari&amp;pbk=VUc_2yzS6cjaq_MB8TScaCftgT3oJtP6zpotM5yM_Xg&amp;security=reality&amp;sid=dde21fff&amp;sni=rutube.ru&amp;type=raw&amp;burmalda=5fc17299#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://7e1db70f-4370-4911-8c38-125b21c54e00@81.163.22.15:443?encryption=none&fp=firefox&mode=gun&pbk=nc5dunLF2knU5PkMbQlklbp_tZPfOx6xuHu4mkdYPBc&security=reality&sni=max.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://9e09f1ce-45d4-466d-b077-81b0dae00db2@46.149.66.9:27700?type=grpc&serviceName=zuugrpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://722dda81-656c-4512-a811-f8e9bb026687@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://2f39df59-0ec9-4b92-b6f7-10f746942c70@46.8.208.7:443?security=reality&encryption=none&pbk=HHZwsut0m8Z4tTCbU0QdnbyfQMQfk8XuEbBO0wFObis&fp=firefox&type=grpc&serviceName=UpdateService&sni=cdn.okko.tv&sid=7765b2a4cef1033e#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b5fb97fa-170b-4771-adf7-57c13b38b5f9@185.229.9.236:49005?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dzjhpiDcvFBRzIODtrUVADf24qFE-636IVIdEof0XFQ&security=reality&sid=512acc0133720b9e&sni=max.ru&spx=%2F&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://7e1db70f-4370-4911-8c38-125b21c54e00@5.188.115.194:443?encryption=none&fp=firefox&mode=gun&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&security=reality&sni=360.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://7e1db70f-4370-4911-8c38-125b21c54e00@185.91.53.4:443?encryption=none&fp=firefox&mode=gun&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&security=reality&sni=360.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?encryption=none&amp;fp=firefox&amp;mode=gun&amp;pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&amp;security=reality&amp;serviceName=grpc&amp;sid=bad5722c72a0&amp;sni=iv.kommersant.ru&amp;type=grpc&amp;_t=835d0767#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://5a7655f8-969e-4738-a7f8-12f327dd1b65@195.3.221.228:7443?type=xhttp&security=reality&sni=cdn.staticpool.ru&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&sid=a8389289e18af5f4&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://5e22b692-5bdc-4ebc-9cbe-652764a35240@185.22.234.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2QpsHzsdpPkDXtlAjaLTBX8L9kFImQeH-nLOELhIA3g&security=reality&sid=4a8f9c2b&sni=stream-concept.buzz&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://722dda81-656c-4512-a811-f8e9bb026687@37.143.14.212:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&security=reality&sid=0be28edc1b0278d6&sni=wl-8-1.nodes.ac&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://7e1db70f-4370-4911-8c38-125b21c54e00@31.129.42.216:443?encryption=none&fp=firefox&mode=gun&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&security=reality&sni=360.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://679e67c2-7f71-4b5d-b6c6-aa81e5e4a4ca@185.22.234.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2QpsHzsdpPkDXtlAjaLTBX8L9kFImQeH-nLOELhIA3g&security=reality&sid=4a8f9c2b&sni=stream-concept.buzz&type=raw#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6a1BXalpIb3hNVS9YSHk4bjdRQ09kdkp4OEdRZURyNm01L1NETTZ3UFgyYz0@143.47.186.208:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:6011#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ajljL2V3WlR5YUgrNlRZL3lzellTK1F2NHlsanZuWWFmV0FoUVNyRmZUMD0@141.148.232.116:45819#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OW1WWk16ejFBZHplcm43cHNZajhNN3BOSlAvUlBXRjRuWGw2MzlYRk9wMD0@144.24.231.79:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WmduemwyUzZhZThWSnlnRDZWeUtBVDd0L21YNWFmelB3dkVPSDJFa3J2Zz0@129.151.75.231:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WmduemwyUzZhZThWSnlnRDZWeUtBVDd0L21YNWFmelB3dkVPSDJFa3J2Zz0@129.151.75.231:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEZsTg==@194.147.35.56:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S0ExL09BSGhhd1UydldwekNXemJvaDVTeTdQZjVvSlJhV3BVVWRWR25Wdz0@161.118.225.224:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NnMyTXViSncrWjRPZ1orU3RKMUwyTTdodGdDcDAvdGV0cEtCazFkSHZKMD0@168.107.70.15:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8316#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZ251OXRWQ3ZEWGM@64.90.7.12:47509#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206THZJbVhOR1J3YTVmWlNRdytSYlBLdz09@151.242.125.198:51886#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OW1WWk16ejFBZHplcm43cHNZajhNN3BOSlAvUlBXRjRuWGw2MzlYRk9wMD0@144.24.231.79:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TlBJbVh1MWR2ZE12Z2V1Rng2MGZsZWNDRXhUdGtMVWZRZDdIcVhicUpNcz0@161.118.208.57:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S0ExL09BSGhhd1UydldwekNXemJvaDVTeTdQZjVvSlJhV3BVVWRWR25Wdz0@161.118.225.224:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcWtrSFJwWlRramJUQnJr@45.32.246.180:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NnMyTXViSncrWjRPZ1orU3RKMUwyTTdodGdDcDAvdGV0cEtCazFkSHZKMD0@168.107.70.15:56927#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.128.42:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.121.177:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@16.52.44.93:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -350,7 +326,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.135.252.176:443#%F0%9F%8F%B3%EF%B8%8F%2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.136:65443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -366,6 +341,7 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%F0%9F%8F%B3%EF%B8
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@213.183.59.211:9006#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.135.73.3:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10937#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206YWRiYzFlOGMtMTg0ZS00ZDAyLWIwZTAtZjBjYjcwYjM3N2Rm@mn.qwer-cn.org:10934#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2130,6 +2106,7 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.23.32:8080#%F0%9F%8F%B3%EF%B8
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QzFVL3QyaVIvK1IyRHFxV2srZTZjRkZFaGFBZEdKZkdCUitHZU5ya29NRT0@144.24.160.250:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw@154.53.60.212:80#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@nl10.levikogjgfdd.ir:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NTVubHJYVGtiMDhqUEV3Ym9SUzdHT2xNM0xpQmI0c3FNR0Mwd212S2h3MD0@137.131.228.121:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6czZSWGtuWUxNUzZ2UVBWNmVmUlNvTG9lNDVjOC9QcDErZEI4Q2RmTmxtWT0=@168.75.66.122:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2147,12 +2124,12 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.124.126:443#%F0%9F%8F%B3%EF%B8%8F%2
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.15.59:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.9.70:50099#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZell3Wg==@193.168.199.192:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemN4WQ@45.95.2.25:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA@154.53.63.33:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206YWQwNmJkYjY4OTdjNDNjNWIzYTIwZjBmOGI1NjlhY2Y@iran-kala.xyz:27112?type=tcp,udp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TW9EU3c2NDBFYVpyeFl5aHYxTWJvSVNpdElwVDVyOEdlc0dRNVJtTUM2QT0=@130.61.32.219:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcWtrSFJwWlRramJUQnJr@45.32.246.180:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemN4WQ@45.95.2.25:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NjdXbkEyc2xNYVArU0V0ajdSOGVlYTl1RmxUZzE5eUZUck9RTW16MlFSST0@130.61.85.53:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTBFUzhyMG8yK3ptUEUzb2IzZkVHaEhNU0FOKzNrdlJEWmpXcG5YT0NBWT0=@130.61.224.88:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTJ1dzB6SkN2TWVBcGRWTlEyVyszbVlISHNNazFZVHViZG5FblNSa2oyMD0=@130.61.38.10:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2162,11 +2139,13 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Yk9ZMW1EOTlwQjhsbTFqVyttandmd0p5SDN
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aktOTWFNRWQzbWl2RU90SlpDL1h4dXZ3R1RTOGZERThHVVdzN1Yvd21kUT0@130.61.80.61:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z0JMWTBlTXVEZU5WWURqRkNrQjJONUREeUNmOUdhaXFXZTd6QUdObEhldz0=@89.168.91.118:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VElzVHhoY0d4ZU5JbDlzQ0NQQUY1d25wZm1mdkY0M0doVEJRbnE0SEN4az0=@130.61.102.10:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TW9EU3c2NDBFYVpyeFl5aHYxTWJvSVNpdElwVDVyOEdlc0dRNVJtTUM2QT0=@130.61.32.219:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3FDdHp3MmdiMWd0ZGRJT0xaTGlsQkJJYjFvamhoaHN5MGlabGZYZ1h4RT0@130.61.33.34:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Qlh4OWluYkJNV0oxQzlSRGJBU3poenNnSnk0cnZUUGliT1dxVmhMRmRObz0=@137.131.35.71:50356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6V2RESHgrRFQxVFcwOHM1dk1tSHFhMGRjNTZoVXZnSkt4ODc3dzN4M05wRT0@152.70.50.59:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SjJzS0tWcDYrUUJkamlKSnNrU0ZPWEoxbGpDeGplMDVXdFo5MXlTN3FyYz0=@134.98.150.87:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RXpVK0ZSSC9FWllhZGJoUjB3NGYycmFEa3o0aHVuS0tsUmFIbDdlWTgyRT0=@92.5.229.117:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dmR5b21EcGp2QlkrMHhNclpvU09GeTNpNzZSbHk0NTJ0WEZBeml4UGNMND0=@158.180.14.59:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6V2RESHgrRFQxVFcwOHM1dk1tSHFhMGRjNTZoVXZnSkt4ODc3dzN4M05wRT0@152.70.50.59:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@robon.mashhad1market.ir:1080#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2190,6 +2169,7 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Wi9jMkd4d0x6cko1UW1NN2I2T1Q3dmQ2bUN
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZFp3UFVGeXM5Qkl4dVpGOThleDRoVVlIdlRhKy9hejI5Z2Ezd1VnT2RXcz0=@168.107.76.45:56927#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.15.46:10910#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206OERmdWdIU1EwNGJEdFFpTQ==@212.192.15.111:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206THZJbVhOR1J3YTVmWlNRdytSYlBLdz09@151.242.125.198:51886#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.194.61:9090#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.162:10901#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2246,6 +2226,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.37.163:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YVQ2cnFONGYwNGZMUlpDVDdEdGkxVmhDdlNheEM2Qzg1Q1VzWFBvSnFlbz0@136.248.80.6:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mmd0ZWNyY05YYkxvMXFtRUhJcWVWQm1hQkVhZmpubThYSk11TDJkR1BsUT0@152.67.52.97:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VjZYSmdLZGl0cHNlMlhseDhLQVVyMFlGQ2UwUEdUODIzdHB3Q3hvWld0RT0@147.15.26.72:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WnFUMzJUc1VvMUE0TVU4TjE3a0FQUT09@139.199.185.190:55502#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzI1YTM0NS1jNzJmLTQ2MzctYThmNC0zNGY5ZWZmYjdiYTY=@211.91.158.24:21109#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzI1YTM0NS1jNzJmLTQ2MzctYThmNC0zNGY5ZWZmYjdiYTY=@211.91.158.24:21114#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
