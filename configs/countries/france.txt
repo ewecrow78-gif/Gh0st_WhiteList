@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 22
+# Всего рабочих: 21
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZOFRhS1FNbmNnaThubF9kTm5MalFSVUFtVDRoWmdhNw@104.105.202.31:1111?prefix=%17%03%03#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZOFRhS1FNbmNnaThubF9kTm5MalFSVUFtVDRoWmdhNw@104.105.202.31:1080?prefix=%17%03%03#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
@@ -21,9 +21,8 @@ vless://8ff82100-8aad-4281-bf41-f318519d7182@nl-ams-ovh-01.sfproxy.fuck-rkn.dev:
 vless://8ff82100-8aad-4281-bf41-f318519d7182@nl-ams-ovh-03.fuck-rkn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-03.fuck-rkn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-01.sfproxy.fuck-rkn.dev:50051?fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.33:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-03.fuck-rkn.dev:50051?fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.30:50051?fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-02.fuck-rkn.dev:50051?fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=cd1dd1e4a801f54b&sni=jobinvest.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fr-gra-ovh-02.fuck-rkn.dev:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
 vless://4005ddae-29bb-431e-a212-7737316d08ea@94.228.168.18:10444?host=vpnpolar.online&path=%2Fbeeline&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList

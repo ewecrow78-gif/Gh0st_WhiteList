@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 147
+# Всего рабочих: 148
 
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@204.168.233.186.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://d09178b8-a7db-4e7e-aa4f-42cf2bc6c736@5.255.122.32.alexanderoff.ru:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.supercell.com&fp=chrome&pbk=vVCxJNOVBzE5epseRo504qSOMExzacXH_g7klLs4JCI&sid=f1a2b3c4d5e6#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
@@ -78,6 +78,7 @@ vless://111841ae-8ee4-4ac7-b750-717d46f17492@erika.kosmojoy.ru:8443?encryption=n
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@erika.kosmojoy.ru:9443?encryption=none&type=grpc&security=reality&sni=max.ru&pbk=gkkisMa7TUZyoSc0KxNOV96sImQmt1g4cRCnCHWuIDs&sid=ced491dd&fp=firefox&serviceName=TunService#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:6443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
+vless://3ab2615c-689d-463b-8990-a95013894348@45.91.52.125:443?security=reality&encryption=none&pbk=8bkjYMx4EXdRTHTgQ6wMaeyGl-HfskzixE0Is-kMQXU&fp=chrome&sni=www.cloudflare.com&sid=e3c60a1b71b462fa&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-14.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-14.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=3bfc752d8f882e89&spiderX=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://3756ad5b-bddd-46fd-98b4-327f5745af67@grunlimited-2prome-nfoilter-boland-derazr-nabyued-filmzrukmzd.rpmlz.ir:443?fp=chrome&pbk=0bpQsTZakO8WYnhSCIos2lVrj2iBeKNFcoaGx6XSYSs&security=reality&sid=7b031372b64a8872&sni=www.mimo.xiaomi.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@muller.surup.shop:2053?security=reality&encryption=none&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=c87bfa39a28a95b9#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
