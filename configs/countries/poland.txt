@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 10
 
 vless://75bb93eb-2ad1-4172-a65d-b53121b8f9d7@rad.medic-ml.ru:443?encryption=none&type=xhttp&path=/api/v2/telemetry&mode=auto&security=reality&sni=rad.medic-ml.ru&fp=chrome&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388?prefix=%17%03%03#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -13,3 +13,5 @@ vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.43.71:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY&security=reality&sid=7db44191&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://953e3703-4ddc-49a7-a087-c96049d22340@185.32.6.80:443?flow=xtls-rprx-vision&fp=firefox&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&security=reality&sid=99fe1ec015fde70c&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8064?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=d3aea86e1949&spx=/rSrjne8dfS45oCD&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
