@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 62
+# Всего рабочих: 61
 
 vless://5842b3b8-ce06-442a-aa34-3f786367a2f2@us-01.slnode.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us-01.slnode.cc&fp=qq&pbk=Om_Tk7Yw-ACXTmx1t3FSkHHl5OtzX7-vjGmiaxZh4wY&sid=ac6aa88a0c9607b6&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.66.sslip.io:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=WRK4JiKTQ6ygRHh1tRfUzuSO1-v2fKfsFoy3O9pXOi8&security=reality&sid=00e32d694f37c137&sni=167.104.223.66.sslip.io&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307?prefix=%17%03%03#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg@94.72.127.55:80?prefix=%17%03%03#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206UFN3YXZUSFdEMG5rZmN5Vw==@62.146.171.57:80?prefix=%17%03%03#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
@@ -16,11 +17,9 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?flow=xtls-rprx-
 vless://8787dd0a-095a-414e-804f-a7d16a1ae166@45.95.233.214:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=frx1.braidx.tech&fp=firefox&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@us.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=49f9a88c8305734f&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@ashley.kosmolet.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ashley.kosmolet.xyz&pbk=cA3-aAVa0dZXMKbzXj5nLUyxB1AdgrOVU8UU_mJ67EA&sid=c78d9525a558f9f9&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://179e80d4-2b51-466c-9e1d-9057db06a1c8@107.175.212.224:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k_DwD98K2JBLznKr7TPSVuhNPytKvfiu9eXGp5H3SWQ&sid=ba49af4e41287ce2&sni=free.us4.laodavip.com#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@85.209.157.153:443?flow=xtls-rprx-vision&fp=firefox&pbk=1XpNlsef90L81E3u3vvxwcLQDtPizZ8JKtBV8ijKRVw&security=reality&sid=1854cebd&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@usa.alertyagency.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=IhcYDA8gF5PuTtKLu-kB6zezpqAKQvnjE_XbgNg8nXI&security=reality&sid=157ce3ba&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+vless://efc14823-8fc1-4174-8b33-e245ec58ce92@144.31.76.150:443?flow=xtls-rprx-vision&fp=firefox&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&security=reality&sid=b4c823&sni=www.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6L2doUHd6OWdVUzdadk03N3Rqcml2NHl6dkdUOVVvZjBVMGNzQWxKL1pFaz0=@129.146.166.216:50356#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://7e0032cc-041a-4782-9235-4d980294a6d3@us.moomot.cc.cd:39350?&security=reality&flow=xtls-rprx-vision&pbk=tpAOObIN_rvQ0jv80_IWOnqN4DcLgMWn3nqZV-SeWBo&sid=6de2f7993095&fp=chrome&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://7e93c32b-1235-4c58-8e5b-29caff75731b@jadid.vip3333.ir:443?path=%2F---v2_mod_shop---%2F---v2_mod_shop---%2F---v2_mod_shop---%2F---v2_mod_shop---%2F---v2_mod_shop---%2F---v2_mod_shop---%2F---v2_mod_shop---%2F---v2_mod_shop---%2Fartical%2Fpro&security=tls&encryption=mlkem768x25519plus.native.0rtt.g6ZY3EbISe6Smy403k5SapYYNln3sQk_gLN5kUvNalE&insecure=0&host=jadid.vip3333.ir&fp=chrome&ech=AGP%2BDQBfAAAgACAQZ1P1%2BoTLi19%2Bfbm3VUTsLz0PHF3w8x6aAiDmpfwXdwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABBqYWRpZC52aXAzMzMzLmlyAAA%3D&type=ws&allowInsecure=0&sni=jadid.vip3333.ir#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 vless://c390c8ba-c8cf-46f8-8c55-71966b36be1d@usdr.whooisthebest.ir:22216?security=reality&encryption=none&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0f4412d42129f080#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
