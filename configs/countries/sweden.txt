@@ -3,12 +3,13 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 8
 
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@195.181.166.73:443?flow=xtls-rprx-vision&fp=firefox&pbk=UtAnh-HlChjh3afrhycDmeOSFs7cZBjIJx0qG7NB5Rc&security=reality&sid=b419319c&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@185.231.102.220:443?flow=xtls-rprx-vision&fp=safari&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=swed1.helper-internet.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@swed1.helper-internet.com:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=swed1.helper-internet.com&spx=%2F&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://14337163-3c81-4aa8-b048-bed99a24ec81@172.232.142.156:32855?fp=chrome&headertype=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&security=reality&sid=deb7a9e5a6e1d41a&sni=amp-api-edge.apps.apple.com&telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
