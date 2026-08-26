@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 25
+# Всего рабочих: 23
 
 vless://2ed9ee94-3c28-4c2e-99c4-5efd40f29e99@de.vz-or.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://1e77a4ba-1d92-42c2-941f-aa9d0bee9c2f@2.27.54.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=cBBfcGSDSvutIi7Ft1r2VgQONsQ40gWtaxF3tP25Bmc#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -21,7 +21,6 @@ vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@138.124.10.166:443?flow=xtls-rprx-v
 vless://2f919a1e-f00e-4538-b0a9-cf190721d578@2.26.227.49:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=HyxJ9UmGQlNG7YPMdc_jjvB8GW8JfeKmoi1CA1ZL5wM&sni=ge1.shhflow.xyz&fp=firefox&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=12539ecb8667f60a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=de.wlrus.cfd&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://6deab233-3abc-492a-85c9-503ef4160b47@162.55.242.208:2053?fp=firefox&packetencoding=xudp&pbk=9lz79Eqetl8jIMyXAXQzH_nItAt68C7VYGevOawpETM&security=reality&sid=88c0a94a78c5ef4b&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@77.91.66.223:443?flow=xtls-rprx-vision&fp=firefox&pbk=wDJibB6Rd20xkiSeIKLLo60DsKqB3il6gtXlpYxITj4&security=reality&sid=977aa6df&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3c565fd5-f215-4033-a952-983fdee5590a@64.188.83.181:443?fp=firefox&pbk=RrXSBuYXjLktRhuyXn-dWWdFx3Luxz_y7H-ndJuBwFk&security=reality&sid=2357714d41d42187&sni=cdncdn2.more-cloude.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -29,4 +28,3 @@ vless://22a2eabe-14cb-451d-be08-54bce485a6e0@95.85.252.146:443?flow=xtls-rprx-vi
 vless://2fe19fe7-65f7-4d3c-a01e-eeb4a963264c@89.185.85.154:8443?flow=xtls-rprx-vision&fp=firefox&pbk=4JX3sznUkBsL3T4rl3yEFWj9Cw4Sgw5KYbJVxZ9K9hY&security=reality&sid=6eee735e122d7c9e&sni=www.tradingview.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://3c565fd5-f215-4033-a952-983fdee5590a@94.177.58.93:443?fp=firefox&pbk=3QULH8C1Mp99bVu7RfNXnylN7fgzqR9_Diafsg3z4i8&security=reality&sid=2357714d41d42187&sni=ger4box.vpn007.pro&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@85.192.37.138:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cFFTRS9KTkNiVFR3ZzlDQThtOXVBVzMwYXZrUzZJTFdQVXNYWkI4TDNDMD0=@89.168.121.246:59924#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
