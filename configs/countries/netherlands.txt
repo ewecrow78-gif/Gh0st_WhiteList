@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 32
+# Всего рабочих: 30
 
 vless://4d741a28-82d7-49be-882b-96af5b25d666@31.76.252.17:443?encryption=none&security=reality&sni=cl-78.file-rkat.online&fp=firefox&pbk=tbKg89n1kirBQbHyexrBIH21iHS0JigQnPqits499R4&sid=f7c8ee5aa55993a0&type=xhttp&path=/assets/media/7c2a83&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://4d741a28-82d7-49be-882b-96af5b25d666@153.80.249.73:443?encryption=none&security=reality&sni=www.ya.ru&fp=firefox&pbk=-0yOCAP75LkBtMWOCyZhb_1WaInxEAKMZiSjt6OUWiQ&sid=a1b2c3d4&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
@@ -32,8 +32,6 @@ vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@am1.milkabebar.ir:17780?fp=firefox&
 vless://2fe19fe7-65f7-4d3c-a01e-eeb4a963264c@91.84.124.152:443?flow=xtls-rprx-vision&fp=firefox&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&security=reality&sid=4b82d1f6a5e039c7&sni=www.amd.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.76.14.59:443?flow=xtls-rprx-vision&fp=firefox&pbk=KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o&security=reality&sid=a8a897f350b14b20&sni=stackoverflow.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://62611b77-c747-4e39-9cc2-643805a56ccd@194.93.61.107:443?flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=cdnjs.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 vless://fe38acb3-f0f5-4849-97d6-6e242d37b301@109.120.150.17:7443?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&ech=cloudflare-ech.com+https%3A%2F%2Fdns.alidns.com%2Fdns-query&path=%2F%40Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:8444?alpn=http/1.1&encryption=none&path=/api/v1/devices/d5e8188467/telemetry&security=tls&sni=nl7.unlockvpn.online&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
