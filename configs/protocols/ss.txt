@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2306
+# Всего рабочих: 2305
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD0@193.124.203.144:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.102.202:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -285,31 +285,33 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3FDdHp3MmdiMWd0ZGRJT0xaTGlsQkJJYjF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8316#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QkZReUhXQjIwcXZIMGFzdWl4Y2lkTDF3TFU2WExkbUZ6QU5GM0dqTEZRdz0@147.15.47.5:59319#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206c3M@ss.about.lso:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://31107c01-eb9a-49f1-aeee-1529838ee043@185.247.185.238:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://72cb684a-2227-4bcb-b40a-ad99904b5979@109.120.191.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_KOPwSi3ejhLJoYOFT4bz0qB_0r064ae-XuG5sKAZS4&security=reality&sid=6Da46894f6a521A1&sni=ads.x5.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://22a2eabe-14cb-451d-be08-54bce485a6e0@185.22.235.203:443?security=reality&flow=xtls-rprx-vision&sni=google.com&fp=qq&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://fd558218-675c-45e2-b65f-2622edc7f66f@178.154.214.214:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=firefox&pbk=s8rHJ8TSxWVCl4OnDzygPD1rvGAulfXoXpGHvZV7tlE&sid=e4aa362b5f9d07d7&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://20000024-8788-9182-f000-a35f2e23a020@185.243.218.182:322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wyrebyte.com&fp=qq&pbk=T7JiblULt3JN3iWxcGPD9E912LAneFSPA3J05PD9MjA&sid=2757df499273bcb2#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@158.160.198.116:9443?encryption=none&fp=firefox&pbk=2wVBh3_96eEW1Dqu4kDw-oQBEkZoV1sZ9pwjFQDdhwU&security=reality&serviceName=grpc&sid=f277187b&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@51.250.35.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yiAI7CwcT7kwvDnzYFIeJBrj9fs3_7_7UYtzelu8Fwo&security=reality&sid=26b5f38e&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@188.68.218.157:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AZr2ArjORQvYVsnf9V7UWZ6QwGsfz5eDlczLsAABWQM&security=reality&sid=70989daf&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://fd558218-675c-45e2-b65f-2622edc7f66f@178.154.214.214:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=firefox&pbk=s8rHJ8TSxWVCl4OnDzygPD1rvGAulfXoXpGHvZV7tlE&sid=e4aa362b5f9d07d7&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@92.53.74.129:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=th3X1X-WZfVfW-mctM2XQJiKQDO5iDZFKv9p3BDD7wM&sid=8441cdf7&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://72cb684a-2227-4bcb-b40a-ad99904b5979@109.120.191.142:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_KOPwSi3ejhLJoYOFT4bz0qB_0r064ae-XuG5sKAZS4&security=reality&sid=6Da46894f6a521A1&sni=ads.x5.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@84.201.180.91:9443?encryption=none&fp=firefox&pbk=zT1pXWygvJtVBuoanuZFDKNCvYyz5M-f8YSu68DG0wk&security=reality&serviceName=grpc&sid=095f70dc&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@158.160.198.116:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2wVBh3_96eEW1Dqu4kDw-oQBEkZoV1sZ9pwjFQDdhwU&security=reality&sid=f277187b&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://c0a137ca-08d2-0001-95ed-2131ea6b45d9@185.247.185.238:443?type=tcp&security=reality&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sni=id.x5.ru#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://3c565fd5-f215-4033-a952-983fdee5590a@84.201.180.75:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3JvFbjdolq_5Cx7ezgPRm4yqPYrTSAW7lMF3LupIxEM&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@51.250.35.229:9443?encryption=none&fp=firefox&pbk=yiAI7CwcT7kwvDnzYFIeJBrj9fs3_7_7UYtzelu8Fwo&security=reality&serviceName=grpc&sid=26b5f38e&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@158.160.198.116:9443?encryption=none&fp=firefox&pbk=2wVBh3_96eEW1Dqu4kDw-oQBEkZoV1sZ9pwjFQDdhwU&security=reality&serviceName=grpc&sid=f277187b&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@84.201.180.91:9443?encryption=none&fp=firefox&pbk=zT1pXWygvJtVBuoanuZFDKNCvYyz5M-f8YSu68DG0wk&security=reality&serviceName=grpc&sid=095f70dc&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@84.201.180.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zT1pXWygvJtVBuoanuZFDKNCvYyz5M-f8YSu68DG0wk&security=reality&sid=095f70dc&sni=api-maps.yandex.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@92.53.74.129:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=th3X1X-WZfVfW-mctM2XQJiKQDO5iDZFKv9p3BDD7wM&sid=8441cdf7&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@51.250.35.229:9443?encryption=none&fp=firefox&pbk=yiAI7CwcT7kwvDnzYFIeJBrj9fs3_7_7UYtzelu8Fwo&security=reality&serviceName=grpc&sid=26b5f38e&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://3c565fd5-f215-4033-a952-983fdee5590a@84.201.180.75:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3JvFbjdolq_5Cx7ezgPRm4yqPYrTSAW7lMF3LupIxEM&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://b66ab94e-5cc6-4a42-bee8-f7934735158c@188.68.218.157:9443?encryption=none&fp=firefox&pbk=AZr2ArjORQvYVsnf9V7UWZ6QwGsfz5eDlczLsAABWQM&security=reality&serviceName=grpc&sid=70989daf&sni=api-maps.yandex.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://22a2eabe-14cb-451d-be08-54bce485a6e0@185.22.235.203:443?security=reality&flow=xtls-rprx-vision&sni=google.com&fp=qq&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@194.38.11.86:65443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUy@144.31.243.2:16015#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q@38.180.92.242:32245#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#%F0%9F%87%A8%F0%9F%87%B3%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNi1NU3Ntd3FWNDk3YXRaMmRuZ3F5SmVnZDJrVDZnZg@89.125.33.16:1234#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg==@212.192.15.246:10889?#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@99.79.128.42:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.183.121.177:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2090,7 +2092,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238
 ss://YWVzLTI1Ni1jZmI6MktVYUUyYThOV1R2dUNaMw==@213.183.63.60:9066#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl134.vpnbook.com:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.44:9041#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@91.201.65.122:9070#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2105,6 +2106,7 @@ ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg@94.72.127.55:443#%F0%9F%8F%B3%EF%B8%
 ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ@49.254.204.133:1774#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUcWtrSFJwWlRramJUQnJr@45.32.246.180:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.178.103.18:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.30.74.16:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2125,10 +2127,9 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.158.76:443#%F0%9F%8F%B3%EF%B8%8F%20Gh
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.99.171.23:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg==@194.233.94.119:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@nl10.levikogjgfdd.ir:8080#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.92:10901#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N0Q5LzNZNStNQ2VCRE5wQzZmdFJEbGtBSmRLcFhDYzFtT0U5NFN2Y1hFYz0=@129.146.38.3:50356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6clFCa3hsK3ZXRVhJTTl6RXErSlRVTEN4Q1F1Tm14aGtGR2p3RkVYcytXYz0@130.61.87.93:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGd4Wg@138.124.68.88:1443#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cTFxYXNVaXRPd2wzR3huYWtnZ09pa0xwb1oycU40T2hWT1lzQTgrWFJoWT0=@130.61.35.175:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bTBFUzhyMG8yK3ptUEUzb2IzZkVHaEhNU0FOKzNrdlJEWmpXcG5YT0NBWT0=@130.61.224.88:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Y00vT0w1MDNxT3MvRHJSM1VwT1RhVy9EbTNQQ25uRDJUOS9venU1ajBuaz0=@130.61.40.89:59924#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2145,7 +2146,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UzQvY240NnVDdmN4RllFcUZkZHFIZHdMY0Y
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UjhCT2t1Z2RKaWpmSnBGRTJLV3o2UktNZGo3aFdHajZRbzA1YTBOOVNUcz0=@129.146.6.252:50356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6S21QRmp6YVhXM3QrU1RKcktsQnJYWUZFTDZoZjFkS2lIcjBHUU9PL2dybz0@129.146.74.0:50356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Qlh4OWluYkJNV0oxQzlSRGJBU3poenNnSnk0cnZUUGliT1dxVmhMRmRObz0=@137.131.35.71:50356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N0Q5LzNZNStNQ2VCRE5wQzZmdFJEbGtBSmRLcFhDYzFtT0U5NFN2Y1hFYz0=@129.146.38.3:50356#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NTdmdyt5VE15Ly9GQWplTFNUa0lHUGZicjBUemdGakJ2VUlJSzZpb2RXWT0=@144.21.33.195:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NUtLT0xtVXVPWFJaRHd0cGNMeEd0UXFjVzFFYVkwa2xQV1Y1bHZBUWtZUT0=@92.5.237.218:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dmR5b21EcGp2QlkrMHhNclpvU09GeTNpNzZSbHk0NTJ0WEZBeml4UGNMND0=@158.180.14.59:45819#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -2310,4 +2310,3 @@ ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@94.159.102.107:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687?#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNjZON2VETXFibjV1UFdFdTVWcHkx@195.93.253.240:14130?#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@160.153.137.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ==@195.133.23.200:10889#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
