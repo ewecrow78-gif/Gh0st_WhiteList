@@ -3,11 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 5
 
-vless://75bb93eb-2ad1-4172-a65d-b53121b8f9d7@rad.medic-ml.ru:443?encryption=none&type=xhttp&path=/api/v2/telemetry&mode=auto&security=reality&sni=rad.medic-ml.ru&fp=chrome&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&sid=e1ac2faf5e5f309e#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://4d741a28-82d7-49be-882b-96af5b25d666@31.76.94.29:443?encryption=none&security=reality&sni=pl-02.file-rkat.online&fp=firefox&pbk=A2qy4jLpfTRESEdmLzmUKvfr5p2Rp-DhiZoY7FxwgGI&sid=f5aebe353ff575e6&type=xhttp&path=/assets/d2767f2b&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://4d741a28-82d7-49be-882b-96af5b25d666@31.76.251.222:443?encryption=none&security=reality&sni=www.ya.ru&fp=firefox&pbk=kUjzm1LHNDhxJ9x_DKU7efxoyTZKXCJAbmtdAFDF-3s&sid=a1b2c3d4&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388?prefix=%17%03%03#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.epicgames.com&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
