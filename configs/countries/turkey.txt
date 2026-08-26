@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
 vless://4d741a28-82d7-49be-882b-96af5b25d666@201.50.115.5:443?encryption=none&security=reality&sni=turk-02.file-rkat.online&fp=firefox&pbk=4J-uh84p8Sw4NRO0Ig5UjsOIKQFHYprlba4ECq1nCSg&sid=9cef599fb1a9ad79&type=xhttp&path=/assets/3d630fb4&mode=stream-one#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://b66ab94e-5cc6-4a42-bee8-f7934735158c@152.233.53.7:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&sid=5a3874f1&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://b66ab94e-5cc6-4a42-bee8-f7934735158c@tr.alertyagency.com:9443?encryption=none&type=grpc&security=reality&sni=api-maps.yandex.ru&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&sid=5a3874f1&fp=firefox&serviceName=grpc#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:14443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@93.115.10.237:8443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#%F0%9F%87%B9%F0%9F%87%B7%20Gh0st_WhiteList
