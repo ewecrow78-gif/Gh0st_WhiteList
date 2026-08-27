@@ -3,7 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 1
 
-vless://72cb684a-2227-4bcb-b40a-ad99904b5979@ind.luna-nodes.com:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=hZEu3WjwmUQyTPNDzLN_W5bJ6YOMObZskV7aMRni8hg&security=reality&sid=27a82da42c&sni=converterindia.lunavpn.biz&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
-vless://72cb684a-2227-4bcb-b40a-ad99904b5979@5.253.30.168:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hZEu3WjwmUQyTPNDzLN_W5bJ6YOMObZskV7aMRni8hg&security=reality&sid=27a82da42c&sni=converterindia.lunavpn.biz&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&sni=deepl.com#%F0%9F%87%AE%F0%9F%87%B3%20Gh0st_WhiteList
