@@ -3,10 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 2
 
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?security=tls&encryption=none&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=%2Fapi%2Fconnect#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://44ef4e96-2b9e-49bb-80f5-7583bbfdca19@78.129.150.217:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://08a8b6c8-b668-4b83-97d5-02d4c974d222@109.169.85.139:443?flow=xtls-rprx-vision&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=slashdot.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://c19313e8-7dca-41ce-978d-ca5a0c32b8ba@node15.fastdatastream.com:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&host=www.cisco.com&path=%2F&pbk=hVE3c59d8Fua3kD6lhp3bLvIgrTeqW7ZWsbYW4Mje2A&security=reality&sid=a9&sni=www.cisco.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.19.17:22224?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
