@@ -3,7 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 1
 
-vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@42.200.172.70:36862?flow=xtls-rprx-vision&fp=firefox&pbk=FAQExDhWlkY2S2aug1j1w9wSUduf0EPIELcF2sQ6cAo&security=reality&sid=015b86bf36cc72&sni=www.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@yydshqabgwaqqnhkt.cfooov.xyz:36862?flow=xtls-rprx-vision&fp=chrome&pbk=FAQExDhWlkY2S2aug1j1w9wSUduf0EPIELcF2sQ6cAo&security=reality&sid=015b86bf36cc72&sni=www.apple.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@hk.cdn-global.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hk.cdn-global.pro&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&fp=edge#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
