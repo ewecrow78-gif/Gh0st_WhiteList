@@ -3,9 +3,15 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 10
 
+vless://58f133a9-0b8c-4237-ba40-c69d32a35e27@sw1.crsmaps.com:8443/?type=tcp&security=reality&pbk=SN-6E9yn3YyRAheqFv3ZT2vpPNszPadsrvTdJRqilDo&fp=firefox&sni=sw1.crsmaps.com&sid=519306500cc7&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://58f133a9-0b8c-4237-ba40-c69d32a35e27@s2.loadpng.com:2053/?type=grpc&encryption=none&serviceName=s2.loadpng.com&authority=grace-ff-hu48biub3a&security=reality&pbk=xHx4RVjwOQv5F80DRPPEJx3n2ITY0ZRZUkBph6dZxWc&fp=firefox&sni=s2.loadpng.com&sid=65b1041b801dc9&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://e940b5ce-4a76-44f0-ab54-27172b03e34d@132.243.231.184:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.cloud-s3.xyz&pbk=b9f9fJEJm6RnFdH5wVMKQt4gqWngKi1wBApt-b1Q-h8&sid=7a3f9e2b1c8d4f6a&fp=edge#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://e940b5ce-4a76-44f0-ab54-27172b03e34d@212.193.31.202:8443?encryption=none&type=tcp&security=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://90c2aefa-d2e9-4b74-aac7-9fb4d30c784f@se-in.api.dznn.net:443?flow=xtls-rprx-vision&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=se-in.api.dznn.net#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://90c2aefa-d2e9-4b74-aac7-9fb4d30c784f@185.154.110.44:443?flow=xtls-rprx-vision&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=se-in.api.dznn.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
