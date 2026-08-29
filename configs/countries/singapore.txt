@@ -3,16 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 11
+# Всего рабочих: 1
 
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@103.20.235.244:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sg.cdn-global.pro&pbk=P9y7nYNPsgku4dLPbIspNTldM4U3QG8e2M84FcxuYHs&sid=7a3f9e2b1c8d4f6a&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?flow=xtls-rprx-vision&fp=firefox&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&security=reality&sid=af1c2e33b0c7dad7&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346?flow=xtls-rprx-vision&fp=firefox&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&security=reality&sid=a739eb7afcffa605&sni=www.intel.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://dc513ed7-87d0-4309-947a-30b3f89a51c6@47.128.81.182:20859?flow=xtls-rprx-vision&fp=firefox&pbk=y1neNdTfDZJDNmNAsexkDXyd8plDxbRr7TH5RBiAJA8&security=reality&sid=cc7a57d36b14c736&sni=www.amazon.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://0a6c8184-d202-41b2-acdb-1a95df2f74d3@47.129.144.8:39742?flow=xtls-rprx-vision&fp=firefox&pbk=x3V96vwq7lqcF47qYpDMgnxoAbERJp8Z_fna48bxYnM&security=reality&sid=90652b9b58bee5&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://e0e09114-371e-4d87-b2f0-d7ee58be74a9@3.1.248.148:54489?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=b8P0DSI3bftNNT3I9QN_BDSdJ6RT8_aNXDcwwhelnzk&security=reality&sid=cc7a57d36b14c736&sni=www.tesla.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://2f790dfd-d1fd-4f77-a494-6d75798135b5@52.77.187.151:25066?flow=xtls-rprx-vision&fp=firefox&headertype=&pbk=AU-qWQ9Vs1RXJfY9UawaDULc9LsxuinVJe8hNsyPezQ&security=reality&sid=ac4b9f02123aa50b&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://32d1be4e-5094-4881-984f-f927e9961edb@13.212.253.233:41077?_t=ac1118fb&flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=dd41CxgkW8Nzb4424-YNVaVkody-X9xAY30bUOjEohI&security=reality&seq=you_are_beautiful1811&sid=3f7addb532645b1c&sni=www.tesla.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://4f9874e5-a8a8-4760-ba1b-ce6822b0ff19@13.212.142.27:20220?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=nl2opNfmUuvzNzz24jEII4irqeP8xwXJufLPj4RY4Qw&security=reality&sid=33bc05afd35b2b&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://3b733177-14f5-49d5-91e6-4dce73c038e3@47.131.211.4:33164?flow=xtls-rprx-vision&fp=firefox&pbk=Faf18bd52wn8u9_ZGjBvfW4hkzcMhhfZhc1giF8R4G8&security=reality&sid=83905567c94f6679&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://f88db45e-4178-4545-91b5-5374d676bfbb@18.143.93.179:39254?flow=xtls-rprx-vision&fp=firefox&pbk=c04tnfk5tdZXpUqqlOUUsu4Pf8tzYcNUsQ0OHFcQj1k&security=reality&sid=7f342137c20387&sni=www.amd.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
