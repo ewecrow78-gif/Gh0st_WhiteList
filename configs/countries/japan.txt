@@ -6,4 +6,4 @@
 # Всего рабочих: 2
 
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@jp.cdn-global.pro:443?encryption=none&type=xhttp&security=reality&sni=www.wired.com&pbk=LCMwz3KaZyk05VP0Ra6VGJ2naUoiDRHIpGZkpnLOvh8&sid=7f7f646213354095&fp=edge&path=/api/v1/feed/1e748159&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"400-800","maxConcurrency":"16-32","hKeepAlivePeriod":0,"hMaxRequestTimes":"300-600","hMaxReusableSecs":"1800-3600"},"xPaddingBytes":"100-1000","scMaxEachPostBytes":"524288-1048576","scMinPostsIntervalMs":"30-100"}#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://7e684409-9d30-402a-a084-2f5417fd53f6@52.195.12.44:18442?security=reality&encryption=none&pbk=gX8O1ZEjAMmQwaQAe8nJbeLjb2FuB_xYB6GUpGv6eng&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=36cd768dea0661#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://7e684409-9d30-402a-a084-2f5417fd53f6@52.195.12.44:18442?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=gX8O1ZEjAMmQwaQAe8nJbeLjb2FuB_xYB6GUpGv6eng&security=reality&sid=36cd768dea0661&sni=www.nvidia.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
