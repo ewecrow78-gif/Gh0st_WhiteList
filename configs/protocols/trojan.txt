@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1438
+# Всего рабочих: 1440
 
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&sni=hk.catxstar.com#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-3.gocmydns.com:443?allowInsecure=0&sni=www.zueuqnpjvcllc.co&alpn=h2&type=grpc&serviceName=mm_grpc#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -24,6 +24,7 @@ trojan://HSZnVOXcq4zaXGrtS6ahZQ@est2.connectalternative.org:25446?security=tls&t
 trojan://HSZnVOXcq4zaXGrtS6ahZQ@msk21.connectalternative.org:25448?security=tls&type=tcp&headerType=&path=&host=&sni=msk21.connectalternative.org&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://h_Hr5bv8vsgzBhrH25tP8p0phAqRBPyK@fl.global-cdn.org:443?security=tls&sni=fl.global-cdn.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@pl.techdatacloud.org:2053?type=tcp&security=reality&pbk=uiFSTSOSNKBLju8qnTOyZdM1WyTwOFVr3-RXUYk9nEM&fp=firefox&sni=cloud.mail.ru&sid=23572794d5ffc9fd&spx=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@fr.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://50414e45-4c5f-5a45-5553-c026718fecf4@104.17.229.103:443?security=tls&sni=8azo8vemu0ps.shoameny.workers.dev&host=8azo8vemu0ps.shoameny.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fc026718fecf4&fp=unsafe#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-netherlands.unlimited-access.ru:443?security=tls&sni=tr-netherlands.unlimited-access.ru&alpn=http/1.1&fp=firefox#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -46,7 +47,7 @@ trojan://jSDnxh7u0zE368mt9ZR4KBM77DCYXGM8@turkhy2.metricpipe.space:9443?security
 trojan://jSDnxh7u0zE368mt9ZR4KBM77DCYXGM8@ushy2.metricpipe.space:9443?security=tls&sni=ushy2.metricpipe.space&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList
 trojan://0123456789abcdef0123456789abcdef@example.com:443?security=tls&sni=example.com&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://trojan@trojan.about.lso:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.lso#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://54ae81edc69e476ea3a339e08ab3f5c7@185.81.115.150:9443?security=reality&pbk=em9-5FGPkUZOMBoiMQjClKxdlnoM26Wi4z35-pnn5Qg&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=/&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://LYVhcygjp6DD6RdwJw-F0QcJBAqYx3Kz@37.9.4.138:8443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&fp=firefox&security=tls&sni=webtracker.rushtaxi.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://521314@45.80.110.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://521314@5.10.245.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -188,7 +189,7 @@ trojan://521314@72.167.25.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegr
 trojan://521314@185.225.195.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://521314@135.84.73.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://521314@198.71.233.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10823?security=tls#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
@@ -1443,3 +1444,4 @@ trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nhju.h2e.indevs.in:443?security=tl
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nju.taipei104.indevs.in:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=nju.taipei104.indevs.in&path=%2FmRjWgF9aMWcpQ8L96b#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList
 trojan://d5604db8-1f31-403d-a315-d8bafc70f7d2@nnggf.66x.ccwu.cc:443?security=tls&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=nnggf.66x.ccwu.cc&path=%2FmRjWgF9aMWcpQ8L96b#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
 trojan://27390_t853d9c0b@tky8.ttddd.xyz:443/?type=tcp&security=tls&sni=tky8.cnedu2.com#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
+trojan://47SXGr72f1wpGNkZzLUUExRDHuVQypaW@90.156.218.126:2223?alpn=h2%2Chttp%2F1.1&security=tls&sni=vkc7.secured-by-tenzo.sbs&type=tcp&allowInsecure=1&fp=android#%F0%9F%8F%B3%EF%B8%8F%20Gh0st_WhiteList
