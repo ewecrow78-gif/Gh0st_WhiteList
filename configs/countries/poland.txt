@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 18
+# Всего рабочих: 17
 
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@pl.global-cdn.org:443?encryption=none&type=kcp&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@ru5.cdn-global.pro:443?encryption=none&type=kcp&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -14,7 +14,6 @@ vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-
 vless://39c96b4b-8908-4e9c-9db0-ac9415bd4df8@94.183.241.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=83780413c2ad3eaa&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@2.27.244.94:443?encryption=none&fp=firefox&host=www.google.com&path=/&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://174593a2-b8cb-4ccd-b11f-97dfe580f307@144.31.171.124:40652?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wjBCPpdDXJxQhYabEsKQrBH7umpeZYnMOHMviAus1V8&security=reality&sid=a00661&sni=www.amazon.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@146.59.35.134:8443?encryption=none&fp=firefox&path=/download.php&security=tls&sni=chopin.adaspoloandco.com&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://411949cf-a119-454c-a672-7e50fb407895@13.143.139.45:2443?encryption=none&fp=firefox&pbk=LrWbOkt4smryHmc8EKANvRufPPCW5AnpDfFHj43xD1c&security=reality&sni=www.mymusicprod.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://411949cf-a119-454c-a672-7e50fb407895@13.143.139.45:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WfFzorWuJnnnaPTNwYjvgFJC2VAPd0-isHpjvPmWDUQ&security=reality&sni=www.mymusicprod.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://39c96b4b-8908-4e9c-9db0-ac9415bd4df8@45.198.96.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -22,4 +21,4 @@ vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none
 vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&security=reality&sid=0f4dacffd272e65f&sni=auto.api-yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://1206bad5-dcc9-410e-9595-d9fe9ee54085@62.113.106.165:5012?flow=xtls-rprx-vision&fp=qq&headertype=none&pbk=S-hF71pRzH9xT1zd3spq6RGlXCrpzyWpTmVKHbdTERg&security=reality&sid=a1b2c3d4&sni=pl.aeternavpn.space&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://63b1d3af-d214-418c-9b9d-e4d31434a805@77.83.246.74:443?flow=xtls-rprx-vision&fp=firefox&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&security=reality&sid=6254dd1b09b966b3&sni=pl.monkeyvillage.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList

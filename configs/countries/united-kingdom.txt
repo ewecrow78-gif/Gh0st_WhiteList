@@ -3,15 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 7
 
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@31.76.246.60:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=gb-v.global-cdn.org&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@95.133.240.114:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=eng4.helper-internet.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.220.161:443?fp=firefox&host=api-v2.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=api-v2.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@s3.savesafe.run:443?fp=firefox&host=s3.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=s3.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.220.151:443?fp=firefox&host=auth-3.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=auth-3.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@api-v2.savesafe.run:443?fp=firefox&host=api-v2.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=api-v2.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@auth-3.savesafe.run:443?fp=firefox&host=auth-3.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=auth-3.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.220.141:443?fp=firefox&host=api-v2.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=api-v2.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://5e127068-e5d0-4c3f-86c4-dfb6b34e64a4@2.24.131.46:443?flow=xtls-rprx-vision&fp=chrome&pbk=em5MbaJeZoe--syIy7L8MEoNBwN1mLB2ur_YAY8PuQ0&security=reality&sid=daf012feff3b00d0&sni=www.cloudflare.com&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://a6de5675-5bfe-4fc2-b9b4-4bf4a24f6474@95.154.196.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=wiu5fVlBM7keSI48Oi3dEnQTR1BnJXgHtXo9xBpAnTA&security=reality&sid=16498ac98306ce31&sni=foodnetwork.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@95.133.240.114:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=eng4.helper-internet.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.220.121:443?fp=firefox&host=api-v2.savesafe.run&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=api-v2.savesafe.run&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@public-auth.savesafe.cc:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList

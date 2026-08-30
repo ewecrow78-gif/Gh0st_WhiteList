@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
 vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@103.20.235.244:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=sg.cdn-global.pro&pbk=P9y7nYNPsgku4dLPbIspNTldM4U3QG8e2M84FcxuYHs&sid=7a3f9e2b1c8d4f6a&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&security=reality&sid=ed2cfa4d6d47e0&sni=www.sony.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://cc138c2d-5e03-4efd-a935-fc500e938033@47.129.200.244:41159?security=reality&encryption=none&pbk=dp_CXcMGxttv9CdCq3LI7UkaHbpV9yoPKpgAGH177WY&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=41c5dc0928f602ab#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?flow=xtls-rprx-vision&fp=firefox&packetencoding=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
