@@ -3,6 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 6
 
+vless://7e684409-9d30-402a-a084-2f5417fd53f6@52.195.12.44:18442?security=reality&encryption=none&pbk=gX8O1ZEjAMmQwaQAe8nJbeLjb2FuB_xYB6GUpGv6eng&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=36cd768dea0661#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-jp-1.dost-self.co.uk:443?fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&security=reality&sid=7be1e9c243451b14&sni=exit-jp-1.dost-self.co.uk&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://15836880-212b-4690-b29c-1889a749bf72@43.207.162.145:32913?security=reality&encryption=none&pbk=iJhoNzfiPiua04PL88iAAyZz2u39su4ChSCiGVoekRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a8f0a95931a52732#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://a8eced73-0dbf-4312-90b8-551641a0f4d2@57.181.72.81:24406?security=reality&encryption=none&pbk=CGn1d1G4oSLsdSzF6mKV8EDzB5n4QOzB-Xe_OpKW8G0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a52a5b7c1eec1b29#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://eddee2c9-fdf9-4b55-b8ac-3481a680b060@52.194.245.53:33486?security=reality&encryption=none&pbk=0XefSfdaAV77RBJrVSVBIdRNUHUlaMGmFT5mX_Aw6G8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=1671781f157ac27e#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
