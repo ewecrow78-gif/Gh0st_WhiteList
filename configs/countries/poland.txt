@@ -3,12 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 17
+# Всего рабочих: 13
 
-vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@pl.global-cdn.org:443?encryption=none&type=kcp&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@ru5.cdn-global.pro:443?encryption=none&type=kcp&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@91.108.249.222:443?encryption=none&type=ws&security=none&path=/api-pl#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://148e52d4-c3fc-4527-b7e9-47c4a259cd61@91.108.249.223:443?encryption=none&type=kcp&security=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://be00b81b-6cb4-4d8e-99c6-d4065d35c0f0@free-pl.moscow-neversleep.digital:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.byteark.com&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.42.163.51:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.epicgames.com&fp=firefox&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://39c96b4b-8908-4e9c-9db0-ac9415bd4df8@94.183.241.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&security=reality&sid=83780413c2ad3eaa&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
@@ -18,7 +15,6 @@ vless://411949cf-a119-454c-a672-7e50fb407895@13.143.139.45:2443?encryption=none&
 vless://411949cf-a119-454c-a672-7e50fb407895@13.143.139.45:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WfFzorWuJnnnaPTNwYjvgFJC2VAPd0-isHpjvPmWDUQ&security=reality&sni=www.mymusicprod.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://39c96b4b-8908-4e9c-9db0-ac9415bd4df8@45.198.96.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=764f497dda21c4fc&sni=storage.yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=mold.speedload.online&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&security=reality&sid=0f4dacffd272e65f&sni=auto.api-yandex.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.94.233:443?encryption=none&security=reality&sni=ag-01.rita-cloud.com&fp=firefox&pbk=LRKQu4Z0IWGasPHhvuyXoRmugblIC8e7BomYv2JaPV8&sid=0d73b559d010b6dc&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
-vless://63b1d3af-d214-418c-9b9d-e4d31434a805@77.83.246.74:443?flow=xtls-rprx-vision&fp=firefox&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&security=reality&sid=6254dd1b09b966b3&sni=pl.monkeyvillage.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
+vless://5885b8b9-f2eb-452c-8a20-b4e0588bb4db@46.8.29.207:31010?flow=xtls-rprx-vision&fp=qq&pbk=XQWcPhNNEoRc8g-9m7eArmb28TA_CpTimb1R7Dy_Qzw&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList
