@@ -3,10 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 3
 
-vless://cc138c2d-5e03-4efd-a935-fc500e938033@47.129.200.244:41159?security=reality&encryption=none&pbk=dp_CXcMGxttv9CdCq3LI7UkaHbpV9yoPKpgAGH177WY&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=41c5dc0928f602ab#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://39e19fad-ef39-4532-bd01-3c9454b0865d@52.220.246.115:47085?security=reality&encryption=none&pbk=iziU0KuUM47h4rgtUNwywwzgOlVzC7uPhjuTuSbq4E4&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=8aa7065d8b40&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?fp=firefox&headertype=none&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&security=reality&sid=3fc9b11ceeb2cc6b&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://b5138354-066a-4e9f-93e3-5bc700eaf89f@13.229.44.152:34033?security=reality&encryption=none&pbk=R1mts7yXplVMaA15AC1U0TMnYvqiX3OPbK1_ZBan_XQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=702186e48d5646#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://1ebdb8ff-1217-4a94-b69d-d0f84b25fea9@hokm-a8.igatel.com:8526?security=reality&encryption=none&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=62ad184af31fc8cf#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://c3e2c992-6721-443f-a051-331cb8a29fad@13.229.47.178:20414?security=reality&type=tcp&sni=www.sony.com&fp=firefox&flow=xtls-rprx-vision&sid=ed2cfa4d6d47e0&pbk=H4ZErlTUck4uQYnxtURj9aHLVXQIUHIPMI8dBz7wMVg&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?security=reality&type=tcp&sni=www.apple.com&fp=firefox&sid=3fc9b11ceeb2cc6b&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
