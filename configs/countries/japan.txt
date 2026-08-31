@@ -3,13 +3,9 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 4
 
 vless://f10d83e0-976a-4b02-81a9-1c89044ff728@50.7.159.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-jp2.mystatic-cdn.ru&fp=firefox&pbk=Qeq99BW8Q4M2obG89q0-oJMTAzsrVgwgH237AC1-NH8&sid=0ee10657e84bbd30#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://7e684409-9d30-402a-a084-2f5417fd53f6@52.195.12.44:18442?security=reality&encryption=none&pbk=gX8O1ZEjAMmQwaQAe8nJbeLjb2FuB_xYB6GUpGv6eng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=36cd768dea0661&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
+vless://7e684409-9d30-402a-a084-2f5417fd53f6@52.195.12.44:18442?security=reality&encryption=none&pbk=gX8O1ZEjAMmQwaQAe8nJbeLjb2FuB_xYB6GUpGv6eng&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=36cd768dea0661#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://b52ca44f-835b-4862-baed-e5e91e5865dc@exit-jp-1.dost-self.co.uk:443?fp=qq&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&security=reality&sid=7be1e9c243451b14&sni=exit-jp-1.dost-self.co.uk&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://fa0286aa-e023-4f20-b634-e61e1e8c32aa@43.206.235.72:15476?security=reality&encryption=none&pbk=PxNPEPC__Sfi1XH112Dj3H5kvFJZr3ckhi6oRwr4TmU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=db1331e5c9c3f0#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://620ca966-d78b-4c88-a5c9-acf13c7d252f@3.112.131.211:48086?security=reality&encryption=none&pbk=qq9vUmReS92PojPLpSyUY_c6CydUUtut7ffxc3V0LTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=7083d685446ce576#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://eddee2c9-fdf9-4b55-b8ac-3481a680b060@52.194.245.53:33486?security=reality&encryption=none&pbk=0XefSfdaAV77RBJrVSVBIdRNUHUlaMGmFT5mX_Aw6G8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=1671781f157ac27e#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
-vless://e5a9a8be-886e-4522-b11d-3edde88c9c8c@3.113.9.16:48203?security=reality&encryption=none&pbk=nxC5EiVCdXMnvfRa1LoNUs21ZNS2DdP36gfHayvUXRU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=5b63c338f69077#%F0%9F%87%AF%F0%9F%87%B5%20Gh0st_WhiteList
