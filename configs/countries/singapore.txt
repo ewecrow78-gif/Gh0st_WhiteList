@@ -3,6 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 1
+# Всего рабочих: 3
 
 vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?fp=firefox&headertype=none&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&security=reality&sid=3fc9b11ceeb2cc6b&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.17.3.81:443?&security=tls&fp=chrome&sni=sgdo1.cassanova.biz.id&type=ws&headerType=none&host=sgdo1.cassanova.biz.id&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://54a9c202-cfe9-4bb8-826c-653a52a96c6d@139.59.124.172:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8.sahanwickramasinghe.me#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList

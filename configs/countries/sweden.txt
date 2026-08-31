@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 6
 
-vless://f10d83e0-976a-4b02-81a9-1c89044ff728@185.189.47.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-se.mystatic-cdn.ru&fp=firefox&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&sid=b21f41e79ecbac55#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://5885b8b9-f2eb-452c-8a20-b4e0588bb4db@46.8.29.207:31002?flow=xtls-rprx-vision&fp=qq&pbk=XQWcPhNNEoRc8g-9m7eArmb28TA_CpTimb1R7Dy_Qzw&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.26.101.64:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&security=reality&sid=4a46213c935e2ee4&sni=baltic.cendora.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
