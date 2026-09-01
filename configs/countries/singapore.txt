@@ -3,7 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 1
 
-vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.21.70.21:8080?fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%221%22%5D%2C+%22delays%22%3A+%5B%224%22%5D%2C+%22maxSplit%22%3A+%22355%22%7D%7D%5D%7D&host=sgdo1.cassanova.biz.id&path=%2Fvless&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://a2d84cff-5a0f-4559-b793-355d363a4738@13.212.45.128:12322?security=reality&encryption=none&pbk=AG7GDrwsSNOf3mXfGVRSKBwszQFJ_QDxqQPHlyN-HAw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=5b89483cf98148#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
