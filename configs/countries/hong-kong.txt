@@ -3,7 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 1
 
-vless://1b6de5d8-3285-422c-b6fe-2989918f528b@124.156.182.132:443?&security=reality&flow=xtls-rprx-vision&pbk=CdNLdccy_ALnjDvwZa14eP31CoJ_BLqJAS2OLCNwogg&sid=d19dcb524604e214&fp=chrome&sni=www.apple.com&type=tcp&headerType=&host=www.apple.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
-vless://c0460ba7-a0a3-44f9-9913-a46a43c4601c@inbound.sled019fd6eb-369f.rfsconfig.com:2547?&security=reality&flow=xtls-rprx-vision&pbk=SrGOuIhztjhU6N1kpQ2yKzP1U-wji102Li6yAU9pPXA&sid=5714279a&fp=chrome&sni=k0g3h.biliimg.com&type=tcp&headerType=none&host=k0g3h.biliimg.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
+vless://7013c1c4-9c4e-4b38-a030-893e2d28a10e@203.23.128.142:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=hk.t1n2.com&pbk=vcZOu1J6AEi3lcibFPD31Ppo6N27PNIMYEB43ej43hE&sid=3bc9430fe27466c3&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20Gh0st_WhiteList
