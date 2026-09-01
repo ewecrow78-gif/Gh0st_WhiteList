@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017?security=reality&encryption=none&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=af1c2e33b0c7dad7#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.21.70.21:8080?fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%221%22%5D%2C+%22delays%22%3A+%5B%224%22%5D%2C+%22maxSplit%22%3A+%22355%22%7D%7D%5D%7D&host=sgdo1.cassanova.biz.id&path=%2Fvless&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://a2d84cff-5a0f-4559-b793-355d363a4738@13.212.45.128:12322?security=reality&encryption=none&pbk=AG7GDrwsSNOf3mXfGVRSKBwszQFJ_QDxqQPHlyN-HAw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=5b89483cf98148#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
