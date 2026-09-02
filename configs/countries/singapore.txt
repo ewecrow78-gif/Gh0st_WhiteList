@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
-vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?security=reality&type=tcp&sni=www.apple.com&fp=firefox&sid=3fc9b11ceeb2cc6b&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?flow=xtls-rprx-vision&fp=chrome&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
 vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.17.3.81:443?&security=tls&fp=chrome&sni=sgdo1.cassanova.biz.id&type=ws&headerType=none&host=sgdo1.cassanova.biz.id&path=%2Fvless#%F0%9F%87%B8%F0%9F%87%AC%20Gh0st_WhiteList
