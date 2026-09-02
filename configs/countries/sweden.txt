@@ -3,13 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 8
+# Всего рабочих: 5
 
-vless://33fbc452-b659-4941-ad88-a6127cbab4bf@185.65.148.254:8448?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=1122334455667788&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://33fbc452-b659-4941-ad88-a6127cbab4bf@sw-b.voxicheck.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rutube.ru&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=1122334455667788&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://33fbc452-b659-4941-ad88-a6127cbab4bf@151.240.146.3:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=abcd1234&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://d7430ae7-320c-4658-808b-3006d0627d82@popos.ubuntuhosting.host:443?encryption=none&type=grpc&security=reality&sni=popos.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&fp=edge&serviceName=gun#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://0cfc585b-26f2-4597-9b70-e1bb1095a2f2@89.127.204.17:8443?security=reality&encryption=none&pbk=o8nHj0HmBGPkdRVTSrWd1r2eXPH5YRKDNfKY1FKvRCY&headerType=none&fp=chrome&spx=/mLLEKOBpOSMZdf4&type=tcp&flow=xtls-rprx-vision&sni=yandex.aero&sid=dfc3#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList

@@ -3,10 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 5
+# Всего рабочих: 3
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@fr.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=fr.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=32815466595bd63b&fp=firefox&path=/media/content/v2&host=fr.monkeyisland.space&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"128-256","maxConcurrency":"8-16","hKeepAlivePeriod":15,"hMaxRequestTimes":"1000-2000","hMaxReusableSecs":"1800-3600"},"headers":{"Accept":"*/*","Origin":"https://fr.monkeyisland.space","Referer":"https://fr.monkeyisland.space/","User-Agent":"Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:151.0)+Gecko/20100101+Firefox/151.0","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"},"xPaddingKey":"request_id","xPaddingBytes":"100-300","xPaddingHeader":"X-Request-Id","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":512,"scMaxEachPostBytes":524288,"scMaxConcurrentPosts":2,"scMinPostsIntervalMs":"50-150"}#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.120:443?fp=firefox&host=panel.freesavesafe.com&mode=auto&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-trojan://humanity@45.130.125.75:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.130:443?fp=firefox&host=panel.freesavesafe.com&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.70:443?fp=firefox&host=panel.freesavesafe.com&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
