@@ -3,12 +3,11 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 7
+# Всего рабочих: 6
 
 vless://33fbc452-b659-4941-ad88-a6127cbab4bf@185.65.148.254:8446?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=1122334455667788&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://33fbc452-b659-4941-ad88-a6127cbab4bf@uk-b.voxicheck.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rutube.ru&pbk=fnWa1uefBhD2dofxi7FvvBVRbfi3s36L4q_7ISpiwRk&sid=1122334455667788&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@public-auth.savesafe.cc:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.130:443?flow=xtls-rprx-vision&fp=firefox&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+vless://5bd820f0-69cb-4d6a-b42d-c0dfe2edffcd@5.152.223.192:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
