@@ -3,7 +3,8 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 2
+# Всего рабочих: 3
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@it.monkora.org:443?encryption=none&type=tcp&security=reality&sni=it.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&security=reality&sni=ag-03.rita-cloud.com&fp=firefox&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Gh0st_WhiteList
