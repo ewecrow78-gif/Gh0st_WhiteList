@@ -3,9 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 2
 
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@fr.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=fr.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=32815466595bd63b&fp=firefox&path=/media/content/v2&host=fr.monkeyisland.space&mode=packet-up&extra={"xmux":{"cMaxReuseTimes":"128-256","maxConcurrency":"8-16","hKeepAlivePeriod":15,"hMaxRequestTimes":"1000-2000","hMaxReusableSecs":"1800-3600"},"headers":{"Accept":"*/*","Origin":"https://fr.monkeyisland.space","Referer":"https://fr.monkeyisland.space/","User-Agent":"Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.15;+rv:151.0)+Gecko/20100101+Firefox/151.0","Sec-Fetch-Dest":"empty","Sec-Fetch-Mode":"cors","Sec-Fetch-Site":"same-origin","Accept-Language":"ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"},"xPaddingKey":"request_id","xPaddingBytes":"100-300","xPaddingHeader":"X-Request-Id","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","xPaddingPlacement":"queryInHeader","scMaxBufferedPosts":512,"scMaxEachPostBytes":524288,"scMaxConcurrentPosts":2,"scMinPostsIntervalMs":"50-150"}#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://5b3fa84b-376e-400d-8a97-34e557b0d89c@fr3.green-tg.com:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&security=reality&sid=abd0f00f85f814a1&sni=www.lovelace.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@panel.freesavesafe.com:443?fp=firefox&host=panel.freesavesafe.com&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c58fb&sni=panel.freesavesafe.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
+vless://db7fa5a4-3e1e-4e8b-bce0-f9fd7cb534c1@185.141.227.240:8443?flow=xtls-rprx-vision&fp=edge&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&sid=12c36280ed9cc1fb&sni=optim.tildacdn.pub&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList
