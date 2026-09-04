@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 15
+# Всего рабочих: 14
 
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@82.152.223.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.20:443?encryption=none&fp=firefox&host=api.getsavesafe.space&path=/&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&security=reality&sid=62b6d6e64d461d78&sni=backend.getsavesafe.space&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
@@ -19,4 +19,3 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.70:443?encryption=none&f
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.100:443?encryption=none&fp=firefox&host=api.getsavesafe.space&path=/&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&security=reality&sid=62b6d6e64d461d78&sni=backend.getsavesafe.space&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.90:443?encryption=none&fp=firefox&host=api.getsavesafe.space&path=/&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&security=reality&sid=62b6d6e64d461d78&sni=backend.getsavesafe.space&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://ec9b8fae-9a70-4106-9e6e-0c3ba725b4d9@2.24.131.46:443?security=reality&encryption=none&pbk=em5MbaJeZoe--syIy7L8MEoNBwN1mLB2ur_YAY8PuQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=daf012feff3b00d0#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
