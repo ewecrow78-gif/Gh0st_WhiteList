@@ -3,8 +3,6 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 3
+# Всего рабочих: 1
 
-vless://89bb80a2-dfc9-4f23-8026-40d58dd53026@canada-1.pandaonline.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=canada-1.pandaonline.org&pbk=E2WrtLdPasFBE6W9eMFwAK2cWV-QHmpFtBvjvI4Bmng&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&encryption=none&sni=google.com&fp=chrome&alpn=http%2F1.1&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&spx=%2F&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Gh0st_WhiteList
