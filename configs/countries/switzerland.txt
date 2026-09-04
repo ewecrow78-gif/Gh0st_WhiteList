@@ -5,5 +5,5 @@
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 2
 
+vless://89bb80a2-dfc9-4f23-8026-40d58dd53026@che1.pandaonline.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=che1.pandaonline.org&pbk=UAVPQ0oBg_Rg1_U3jZTliTJv85NQIc2Lhbb0TZxmd1I&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@yui.kosmojoy.ru:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.tesla.com&pbk=1UOLkCRWAxBF8CTt8AYd0MiOnZxopeDdT2c5YRXeWlk&sid=ce2491dd&fp=firefox-Fi#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
-vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@dump.whit3.net:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=PIidHZ5GTRywDVjazexbmaRDlnqY277LTZKUPzjM0Xg&security=reality&sid=ce70facae52ed769&sni=dump.whit3.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList
