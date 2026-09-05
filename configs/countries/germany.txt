@@ -3,7 +3,7 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 10
+# Всего рабочих: 9
 
 vless://d7430ae7-320c-4658-808b-3006d0627d82@5.182.5.25:443?encryption=none&type=grpc&security=reality&sni=nixos.ubuntuhosting.host&pbk=cfP-aGpMV6o0n3Iwee_K8viWBvvr_qbOUTE-KkFnplg&sid=0c641149a3f0c5&fp=edge&serviceName=gun#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://d7430ae7-320c-4658-808b-3006d0627d82@mageia.ubuntuhosting.host:443?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&fp=chrome&serviceName=gun#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
@@ -14,4 +14,3 @@ vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@138.124.10.166:443?flow=xtls-rprx-v
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=12539ecb8667f60a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=deproxy2.lckdwn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList
