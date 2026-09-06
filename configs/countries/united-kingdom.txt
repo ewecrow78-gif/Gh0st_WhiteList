@@ -3,9 +3,10 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 4
+# Всего рабочих: 5
 
+vless://19b701b6-4800-4a79-b87a-330cd7ea9e84@cart.cleanfoodshop.org:443?encryption=none&type=ws&security=tls&sni=cart.cleanfoodshop.org&path=/media/ws/#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?encryption=none&security=reality&sni=ag-02.rita-cloud.com&fp=firefox&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&sid=51ef5a427b3615ee&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3RyVU1WYlNSU2k0TWx6QVRyK0ZqdnFGQ2N6WldGeEczaFo3K0lXVzF5MD0@134.65.57.72:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
-vless://7ec31525-7ac3-4597-8f39-a2d4edc46342@78.129.150.216:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6d3RyVU1WYlNSU2k0TWx6QVRyK0ZqdnFGQ2N6WldGeEczaFo3K0lXVzF5MD0@134.65.57.72:61312#%F0%9F%87%AC%F0%9F%87%A7%20Gh0st_WhiteList
