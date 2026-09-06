@@ -3,14 +3,12 @@
 # support-url: https://t.me
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
-# Всего рабочих: 9
+# Всего рабочих: 7
 
 vless://d7430ae7-320c-4658-808b-3006d0627d82@popos.ubuntuhosting.host:443?encryption=none&type=grpc&security=reality&sni=popos.ubuntuhosting.host&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&sid=3fa234ea9feaa048&fp=edge&serviceName=gun#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://f692629b-3557-488a-9c9b-60775331e423@sw2.fi1-cosmostechnology.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fi1-cosmostechnology.ru&fp=qq&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://487e88a8-2c9f-4aa6-9bc4-e08fe3eb6033@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
 vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:11443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.nvidia.com&pbk=aK614q2laQmTDPJaome93s2OsemvIeQvxSP3re5JAS8&sid=6e249ff1da&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://a09d1a47-b536-0002-b00b-9fa7dbfdcb4a@192.142.23.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=qr-gen.cc&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://f0dc4d4f-c956-0002-bc3a-021424b8e879@192.142.23.99:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jwtdecoder.xyz&sid=1c3e8241a8743df9#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://46102c9e-441e-49b6-9ab6-9de2b585b202@193.181.29.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TK_buEqf86vPwxx15k8BYC2Ln7nkywSQYdLCqDk2KFI&sid=bc29bbdf41ce2bea&sni=www.amd.com#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@se-1.kihsuyhf8jkiugsxb.cfd:443?security=reality&encryption=none&pbk=dKKMHvMwORpp8lPjpLby7vGYnf0UwdDfBShPzYWuzGE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se-1.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@185.189.47.109:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-se.mystatic-cdn.ru&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&sid=b21f41e79ecbac55&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%2210-20%22%2C%22length%22%3A%2250-100%22%2C%22packets%22%3A%221-3%22%2C%22maxSplit%22%3A%22100-200%22%7D%7D%5D%2C%22udp%22%3Anull%7D&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
+vless://6a838858-643a-4986-8b55-5dc4b32ea1a1@87.242.127.240:443?fp=firefox&mode=gun&pbk=mK6jUHK0Iv4jpVqpvs4oadjh2Pifkz4QwrOdhWHJ9U0&security=reality&sni=360.yandex.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList
